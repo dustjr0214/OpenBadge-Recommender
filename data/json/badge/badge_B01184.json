@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01184",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'Deep Learning']",
+    "competency": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02888']"
+}

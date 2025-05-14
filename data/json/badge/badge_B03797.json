@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03797",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'SQL']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06370']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04064",
+    "name": "Kristen Steele",
+    "email": "mariacalderon@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07890', 'B03548', 'B02686']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Robinson, Watson and Burns for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08517', 'B03488', 'B08027', 'B06275', 'B04432']"
+}

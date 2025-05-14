@@ -1,0 +1,14 @@
+{
+    "user_id": "U07325",
+    "name": "Kathryn Li",
+    "email": "harrisondavid@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00852', 'B05944', 'B02058', 'B06183']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Williams, King and Brooks for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00753', 'B00287', 'B04809', 'B01324', 'B02701']"
+}

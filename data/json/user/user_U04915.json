@@ -1,0 +1,14 @@
+{
+    "user_id": "U04915",
+    "name": "John Mason",
+    "email": "walterblake@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09357', 'B05553', 'B04379']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Cruz-Montes for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00830', 'B03354', 'B02992', 'B02505']"
+}

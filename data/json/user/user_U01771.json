@@ -1,0 +1,14 @@
+{
+    "user_id": "U01771",
+    "name": "Susan Warren",
+    "email": "robert15@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01139', 'B03172', 'B04433']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Smith, Cruz and Hill for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03675', 'B09278', 'B01645']"
+}

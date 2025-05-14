@@ -1,0 +1,14 @@
+{
+    "user_id": "U09689",
+    "name": "David Delgado",
+    "email": "gary84@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01506', 'B04368']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Smith-Sanford for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04195', 'B03237', 'B05467', 'B02634']"
+}

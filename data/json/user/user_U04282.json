@@ -1,0 +1,14 @@
+{
+    "user_id": "U04282",
+    "name": "Jaime Hale",
+    "email": "davidrodriguez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03954', 'B03114', 'B00105']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Martin and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01661', 'B07300', 'B03867', 'B06620']"
+}

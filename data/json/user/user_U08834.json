@@ -1,0 +1,14 @@
+{
+    "user_id": "U08834",
+    "name": "Zachary Vargas",
+    "email": "joseph03@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03557', 'B05053', 'B06554', 'B04744', 'B05987']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Wolfe, Dennis and Moran for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02896', 'B03982', 'B06733', 'B07190', 'B02716']"
+}

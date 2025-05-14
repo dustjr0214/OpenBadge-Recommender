@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09968",
+    "name": "Big Data Analyst",
+    "issuer": "Coursera",
+    "description": "Big Data Analyst badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'Data Analysis', 'SQL']",
+    "competency": "['Leadership', 'Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04343']"
+}

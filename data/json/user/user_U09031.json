@@ -1,0 +1,14 @@
+{
+    "user_id": "U09031",
+    "name": "Chad Briggs",
+    "email": "ryanzavala@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02588', 'B04582', 'B00008', 'B07292']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Griffin, Thomas and Kaiser for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04554', 'B08631', 'B08588', 'B01350', 'B03861']"
+}

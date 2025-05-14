@@ -1,0 +1,14 @@
+{
+    "user_id": "U01283",
+    "name": "Eric Mcgrath",
+    "email": "shanepatton@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04870', 'B09720', 'B03474', 'B03262']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at English-Cobb for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

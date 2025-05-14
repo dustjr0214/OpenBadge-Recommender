@@ -1,0 +1,14 @@
+{
+    "user_id": "U02783",
+    "name": "Michael Flores",
+    "email": "efrazier@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04718']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Turner-Marks for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09020']"
+}

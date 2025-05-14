@@ -1,0 +1,14 @@
+{
+    "user_id": "U03057",
+    "name": "Natalie Cross",
+    "email": "bcooke@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06013', 'B02167']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Robbins Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07092', 'B03571']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09624",
+    "name": "Kenneth Hall",
+    "email": "bdawson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05695', 'B04427']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Johnson-Crawford for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01343', 'B07828']"
+}

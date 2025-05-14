@@ -1,0 +1,59 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.3.json"
+  ],
+  "id": "http://example.com/badges/24430b71-a7b1-4ecc-8236-16462e2d9a65",
+  "type": [
+    "VerifiableCredential",
+    "OpenBadgeCredential"
+  ],
+  "name": "핵심 Express 교육",
+  "description": "Express 분야의 중급 과정을 성공적으로 이수하고 실무 능력을 갖춘 증명입니다.",
+  "issuer": {
+    "id": "https://tech-company.com/issuers/123",
+    "type": [
+      "Profile"
+    ],
+    "name": "테크컴퍼니",
+    "url": "https://tech-company.com",
+    "email": "badges@tech-company.com",
+    "description": "테크컴퍼니는 최신 기술 분야의 교육과 인증을 제공합니다."
+  },
+  "validFrom": "2025-09-05T00:00:00Z",
+  "validUntil": "2026-02-05T00:00:00Z",
+  "credentialSubject": {
+    "type": [
+      "AchievementSubject"
+    ],
+    "achievement": {
+      "id": "http://example.com/achievements/690f21a8-5ace-4d95-850d-94d145676f17",
+      "type": [
+        "Achievement"
+      ],
+      "name": "핵심 Express 교육",
+      "description": "Express 분야의 중급 과정을 성공적으로 이수하고 실무 능력을 갖춘 증명입니다.",
+      "criteria": {
+        "narrative": "Express에 대한 심화 지식과 실무 경험을 갖추고 중간 규모의 프로젝트를 독립적으로 수행할 수 있는 능력을 입증해야 합니다. 종합 프로젝트와 필기 시험을 모두 통과해야 합니다."
+      },
+      "achievementType": "Certificate",
+      "image": {
+        "id": "https://example.com/badge-images/08294c93-91ea-4aa0-9ca6-58d49e4302d5.png",
+        "type": "Image"
+      },
+      "fieldOfStudy": "웹 개발",
+      "tag": [
+        "웹 개발",
+        "Express",
+        "중급",
+        "자기주도학습"
+      ]
+    }
+  },
+  "credentialSchema": [
+    {
+      "id": "https://purl.imsglobal.org/spec/ob/v3p0/schema/json/ob_v3p0_achievementcredential_schema.json",
+      "type": "1EdTechJsonSchemaValidator2019"
+    }
+  ]
+}

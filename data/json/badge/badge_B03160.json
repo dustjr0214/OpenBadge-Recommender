@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03160",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'DevOps', 'SQL']",
+    "competency": "['Cybersecurity', 'Deep Learning', 'Creativity']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B09904']"
+}

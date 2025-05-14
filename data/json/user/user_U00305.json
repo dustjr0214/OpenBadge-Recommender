@@ -1,0 +1,14 @@
+{
+    "user_id": "U00305",
+    "name": "Brandon Burnett",
+    "email": "hdyer@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08358', 'B09654']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Clayton, Ramos and Williams for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05632', 'B01791', 'B06701', 'B05503']"
+}

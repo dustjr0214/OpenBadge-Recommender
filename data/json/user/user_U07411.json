@@ -1,0 +1,14 @@
+{
+    "user_id": "U07411",
+    "name": "Christine Shields",
+    "email": "reginaprice@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01555']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Fowler, Davidson and Mejia for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01986', 'B02025', 'B00052']"
+}

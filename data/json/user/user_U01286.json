@@ -1,0 +1,14 @@
+{
+    "user_id": "U01286",
+    "name": "David Miller",
+    "email": "guzmanlance@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hebert Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03469', 'B07764', 'B04299']"
+}

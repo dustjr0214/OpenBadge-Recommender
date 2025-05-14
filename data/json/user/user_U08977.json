@@ -1,0 +1,14 @@
+{
+    "user_id": "U08977",
+    "name": "James Phillips",
+    "email": "browningjames@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08036', 'B08001', 'B04763', 'B04815']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Clark, Smith and Cook for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07928', 'B05294', 'B02691', 'B04148']"
+}

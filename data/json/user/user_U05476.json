@@ -1,0 +1,14 @@
+{
+    "user_id": "U05476",
+    "name": "Linda Romero",
+    "email": "fbarrett@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Garcia, Sandoval and Jones for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01433']"
+}

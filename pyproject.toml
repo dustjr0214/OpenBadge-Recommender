@@ -1,0 +1,24 @@
+[project]
+name = "openbadge-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "faiss-cpu>=1.11.0",
+    "fastapi>=0.115.12",
+    "jq>=1.8.0",
+    "langchain>=0.3.25",
+    "langchain-anthropic>=0.3.13",
+    "langchain-community>=0.3.23",
+    "langchain-huggingface>=0.2.0",
+    "langchain-pinecone>=0.2.6",
+    "pandas>=2.2.3",
+    "pinecone>=6.0.2",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.26.0",
+    "qdrant-client>=1.14.2",
+    "sentence-transformers>=4.1.0",
+    "uvicorn>=0.34.2",
+]

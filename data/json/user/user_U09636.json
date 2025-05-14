@@ -1,0 +1,14 @@
+{
+    "user_id": "U09636",
+    "name": "Jose Parsons",
+    "email": "yevans@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09901', 'B01973']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Oneill-Nielsen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02636', 'B08452']"
+}

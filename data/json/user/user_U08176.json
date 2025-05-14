@@ -1,0 +1,14 @@
+{
+    "user_id": "U08176",
+    "name": "Danielle Perry",
+    "email": "crobinson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01539', 'B07984', 'B08633', 'B02301', 'B04192']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Perez, Hunter and Lin for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

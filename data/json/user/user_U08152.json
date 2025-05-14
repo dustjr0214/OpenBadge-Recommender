@@ -1,0 +1,14 @@
+{
+    "user_id": "U08152",
+    "name": "Patricia Palmer",
+    "email": "cooktaylor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05482', 'B04737']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Lopez, Wiggins and Stephens for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02511', 'B00683', 'B06306']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09021",
+    "name": "Cloud Computing Guru",
+    "issuer": "IBM",
+    "description": "Cloud Computing Guru badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Teamwork', 'Machine Learning', 'DevOps']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01897']"
+}

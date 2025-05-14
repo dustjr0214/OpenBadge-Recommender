@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08503",
+    "name": "DevOps Engineer",
+    "issuer": "Coursera",
+    "description": "DevOps Engineer badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B08359', 'B05292']"
+}

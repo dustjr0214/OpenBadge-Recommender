@@ -1,0 +1,14 @@
+{
+    "user_id": "U00255",
+    "name": "Christina Norman",
+    "email": "jamesperez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05942', 'B08318', 'B06504']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Smith, Thomas and Wilkerson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02970', 'B04090', 'B00339', 'B03176']"
+}

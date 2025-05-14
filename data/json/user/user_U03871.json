@@ -1,0 +1,14 @@
+{
+    "user_id": "U03871",
+    "name": "Amanda Patton",
+    "email": "cynthiascott@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09282']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Gibson-Salas for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02205']"
+}

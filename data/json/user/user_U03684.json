@@ -1,0 +1,14 @@
+{
+    "user_id": "U03684",
+    "name": "Kayla White",
+    "email": "jenniferferrell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05347', 'B03600', 'B08131', 'B06538', 'B01027']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Dickson-Santiago for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04630']"
+}

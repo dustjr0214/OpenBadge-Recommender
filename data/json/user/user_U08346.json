@@ -1,0 +1,14 @@
+{
+    "user_id": "U08346",
+    "name": "Julie Coleman",
+    "email": "bholt@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00563', 'B09939', 'B05506', 'B01440', 'B01772']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Alexander PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09445', 'B04668', 'B01051', 'B03370']"
+}

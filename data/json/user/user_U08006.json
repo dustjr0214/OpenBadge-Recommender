@@ -1,0 +1,14 @@
+{
+    "user_id": "U08006",
+    "name": "William Hernandez",
+    "email": "agraham@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01111']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Roberts-Hale for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05418', 'B03761', 'B06288', 'B01277']"
+}

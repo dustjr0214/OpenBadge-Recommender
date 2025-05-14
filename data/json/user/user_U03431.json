@@ -1,0 +1,14 @@
+{
+    "user_id": "U03431",
+    "name": "Benjamin Myers",
+    "email": "drakeshawn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07088']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Adams LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09234', 'B01831', 'B09429', 'B08043']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09680",
+    "name": "Lee Jackson",
+    "email": "colecarlos@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04126', 'B04215', 'B00414']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Green Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00663', 'B03843', 'B06615', 'B06374']"
+}

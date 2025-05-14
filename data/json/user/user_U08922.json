@@ -1,0 +1,14 @@
+{
+    "user_id": "U08922",
+    "name": "Daniel Hines",
+    "email": "kelly95@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07602', 'B03148']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Malone-Sims for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02886', 'B02582', 'B07560', 'B06314']"
+}

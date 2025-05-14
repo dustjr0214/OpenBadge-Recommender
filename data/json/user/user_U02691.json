@@ -1,0 +1,14 @@
+{
+    "user_id": "U02691",
+    "name": "Brian Bell",
+    "email": "kelsey50@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04087', 'B03967', 'B07516', 'B00087', 'B02490']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Fernandez-Hunt for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

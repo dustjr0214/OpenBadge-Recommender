@@ -1,0 +1,14 @@
+{
+    "user_id": "U06611",
+    "name": "Phillip Hill",
+    "email": "graykelly@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Adams PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05326', 'B02059']"
+}

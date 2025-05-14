@@ -1,0 +1,14 @@
+{
+    "user_id": "U01806",
+    "name": "Jason Smith",
+    "email": "john87@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08313']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Edwards LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09168', 'B01877', 'B00350', 'B07067', 'B00819']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01599",
+    "name": "Kenneth Green",
+    "email": "jessica57@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01549', 'B03797', 'B01389', 'B08063']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Smith, Davis and Ellis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04400', 'B01436', 'B08763', 'B07246']"
+}

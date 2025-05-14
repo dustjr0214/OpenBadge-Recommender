@@ -1,0 +1,14 @@
+{
+    "user_id": "U03187",
+    "name": "Kristen Edwards",
+    "email": "jonesdonald@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01648', 'B04244', 'B00543', 'B03721']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Miller-Black for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07248', 'B08693', 'B01321']"
+}

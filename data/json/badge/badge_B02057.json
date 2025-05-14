@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02057",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B07722', 'B05290']"
+}

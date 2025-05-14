@@ -1,0 +1,14 @@
+{
+    "user_id": "U00901",
+    "name": "Robert Ochoa",
+    "email": "yalvarado@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09997', 'B07193']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Rivas LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05645",
+    "name": "Keith Brown",
+    "email": "acook@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08931', 'B04087', 'B00674']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Pena, Taylor and Baker for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03147', 'B02108']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06962",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'UI/UX']",
+    "competency": "['Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04621', 'B08520']"
+}

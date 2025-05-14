@@ -1,0 +1,14 @@
+{
+    "user_id": "U03743",
+    "name": "Katherine Drake",
+    "email": "madeline29@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01559', 'B00401', 'B04055', 'B09723', 'B01940']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Weber, Harrison and Dunn for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01599']"
+}

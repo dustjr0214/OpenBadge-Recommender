@@ -1,0 +1,14 @@
+{
+    "user_id": "U00644",
+    "name": "Joshua Watts",
+    "email": "misty31@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04869']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Jennings, Williams and Mcdonald for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01006', 'B00422', 'B09893', 'B02606', 'B01976']"
+}

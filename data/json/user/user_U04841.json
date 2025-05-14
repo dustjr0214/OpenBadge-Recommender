@@ -1,0 +1,14 @@
+{
+    "user_id": "U04841",
+    "name": "John Martinez",
+    "email": "angelawarren@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09819']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Lucas-Ruiz for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

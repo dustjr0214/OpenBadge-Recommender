@@ -1,0 +1,14 @@
+{
+    "user_id": "U04377",
+    "name": "Robert Moore",
+    "email": "hjones@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03635', 'B05057', 'B07916', 'B00373', 'B01658']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Harris, Powell and Gonzalez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02780', 'B01041', 'B07990']"
+}

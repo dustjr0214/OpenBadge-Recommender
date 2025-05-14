@@ -1,0 +1,14 @@
+{
+    "user_id": "U08209",
+    "name": "Daniel Vance",
+    "email": "csantiago@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01901', 'B02218', 'B01105', 'B04099', 'B08497']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Chang-Bauer for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04380', 'B04237', 'B02955', 'B07210']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00322",
+    "name": "Catherine Jones",
+    "email": "phylliswatkins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03133', 'B09653', 'B01600', 'B00310']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Adams PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03644', 'B04800', 'B09581']"
+}

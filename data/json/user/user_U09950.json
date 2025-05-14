@@ -1,0 +1,14 @@
+{
+    "user_id": "U09950",
+    "name": "Ann Cole",
+    "email": "lindseyshea@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06400', 'B04571', 'B03679']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Morgan Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

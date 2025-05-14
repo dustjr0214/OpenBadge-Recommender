@@ -1,0 +1,14 @@
+{
+    "user_id": "U05233",
+    "name": "Julie Davis",
+    "email": "bobbytaylor@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08169', 'B07480', 'B04030', 'B07072']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Donaldson and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09449', 'B00243', 'B04198']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07424",
+    "name": "Jack Klein",
+    "email": "grahamalyssa@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04639', 'B08245']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Brown Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

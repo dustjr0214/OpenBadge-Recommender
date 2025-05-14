@@ -1,0 +1,14 @@
+{
+    "user_id": "U02463",
+    "name": "Ryan Hancock",
+    "email": "erictrujillo@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07131', 'B01387']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Stone Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

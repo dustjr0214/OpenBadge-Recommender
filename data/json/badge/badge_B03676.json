@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03676",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01850']"
+}

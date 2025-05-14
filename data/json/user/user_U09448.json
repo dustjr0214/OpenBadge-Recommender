@@ -1,0 +1,14 @@
+{
+    "user_id": "U09448",
+    "name": "Joe Thomas",
+    "email": "michael73@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Williams-Price for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

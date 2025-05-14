@@ -1,0 +1,14 @@
+{
+    "user_id": "U03247",
+    "name": "John Calderon",
+    "email": "harrisalisha@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00433', 'B06651', 'B04805', 'B04870', 'B03780']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Webb-Ruiz for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00012', 'B09164', 'B05149']"
+}

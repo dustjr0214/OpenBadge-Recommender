@@ -1,0 +1,14 @@
+{
+    "user_id": "U07703",
+    "name": "Hannah Rose",
+    "email": "walter89@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09277', 'B05379', 'B08646', 'B01742']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Hernandez, Davis and Romero for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02204', 'B05734', 'B09409', 'B08192']"
+}
