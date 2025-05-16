@@ -4,9 +4,11 @@ from dotenv import load_dotenv
 from langchain_anthropic import ChatAnthropic
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
-from langchain.schema.output_parser import StrOutputParser
+from langchain_core.output_parsers import JsonOutputParser
 from src.rag.retriever_openbg import DataRetriever
+from src.model.badge import BadgeRecommendation
 import json
+from datetime import datetime
 
 load_dotenv(verbose=True)
 
@@ -34,6 +36,9 @@ class BadgeRecommender:
             anthropic_api_key=self.anthropic_api_key
         )
         
+        # JSON 출력 파서 초기화
+        self.output_parser = JsonOutputParser()
+        
         # 프롬프트 템플릿 설정
         self.prompt = ChatPromptTemplate.from_messages([
             ("system", """당신은 오픈배지 추천 전문가입니다. 
@@ -44,12 +49,24 @@ class BadgeRecommender:
             2. 검색된 배지 정보
             3. 사용자의 현재 역량 수준
             
-            각 배지에 대해 다음 사항을 설명해주세요:
-            - 배지가 사용자에게 적합한 이유
-            - 배지를 획득하기 위해 필요한 준비사항
-            - 배지 획득 후 기대할 수 있는 이점
+            각 배지에 대해 다음 형식의 JSON을 반환해주세요:
+            {{
+                "recommendations": [
+                    {{
+                        "badge_id": "배지 ID",
+                        "name": "배지 이름",
+                        "issuer": "발급자",
+                        "skills": ["필요한 기술 목록"],
+                        "competency": "필요한 역량 수준",
+                        "similarity_score": 유사도 점수,
+                        "recommendation_reason": "추천 이유",
+                        "preparation_steps": "획득을 위한 준비사항",
+                        "expected_benefits": "획득 후 기대효과"
+                    }}
+                ]
+            }}
             
-            답변은 친절하고 구체적으로 작성해주세요."""),
+            답변은 반드시 위 형식의 JSON만 반환해주세요."""),
             ("human", """
             사용자 정보:
             {user_info}
@@ -66,7 +83,7 @@ class BadgeRecommender:
             {"user_info": RunnablePassthrough(), "badge_info": self._get_badge_info}
             | self.prompt
             | self.llm
-            | StrOutputParser()
+            | self.output_parser
         )
     
     def _parse_list_string(self, list_str: str) -> List[str]:
@@ -180,7 +197,7 @@ class BadgeRecommender:
             "acquired_badges": user['metadata']['acquired_badges']
         }
     
-    def recommend_badges(self, user_id: str) -> str:
+    def recommend_badges(self, user_id: str) -> Dict[str, List[Dict[str, Any]]]:
         """
         사용자에게 배지 추천
         
@@ -188,13 +205,13 @@ class BadgeRecommender:
             user_id: 사용자 ID
             
         Returns:
-            추천 결과 문자열
+            추천 결과를 담은 딕셔너리
         """
         # 사용자 정보 가져오기
         user_info = self._get_user_info(user_id)
         
         if not user_info:
-            return "사용자 정보를 찾을 수 없습니다."
+            return {"recommendations": []}
         
         # 사용자 정보 포맷팅
         formatted_user_info = f"""
@@ -206,10 +223,13 @@ class BadgeRecommender:
         획득한 배지: {user_info['acquired_badges']}
         """
         
-        # RAG 체인 실행
-        recommendation = self.chain.invoke(formatted_user_info)
-        
-        return recommendation
+        try:
+            # RAG 체인 실행
+            recommendation = self.chain.invoke(formatted_user_info)
+            return recommendation
+        except Exception as e:
+            print(f"추천 생성 중 오류 발생: {str(e)}")
+            return {"recommendations": []}
 
 def main():
     # 추천 시스템 초기화
@@ -224,7 +244,16 @@ def main():
     print(user_info)
 
     print("\n=== 배지 추천 결과 ===")
-    print(recommendation)
+    print(json.dumps(recommendation, indent=2, ensure_ascii=False))
+    
+    # 결과를 JSON 파일로 저장
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = f"other/test/json/recommendation_{user_id}_{timestamp}.json"
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(recommendation, f, indent=2, ensure_ascii=False)
+    
+    print(f"\n추천 결과가 {output_file}에 저장되었습니다.")
 
 if __name__ == "__main__":
     main() 

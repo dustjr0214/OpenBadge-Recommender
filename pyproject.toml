@@ -8,6 +8,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "faiss-cpu>=1.11.0",
     "fastapi>=0.115.12",
+    "firebase-admin>=6.8.0",
     "jq>=1.8.0",
     "langchain>=0.3.25",
     "langchain-anthropic>=0.3.13",

@@ -166,6 +166,10 @@ class DataEmbedder:
         print(f"{data_type} 데이터 임베딩 생성 및 저장 완료: {len(texts)}개")
 
 def main():
+    """
+    /data 의 json 배지/유저 파일 임베딩
+    
+    """
     # 환경 변수에서 API 키 가져오기
     pinecone_api_key = os.environ.get("PINECONE_API_KEY")
     if not pinecone_api_key:

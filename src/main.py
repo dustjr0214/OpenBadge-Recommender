@@ -1,26 +1,32 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.core.config import settings
-from app.api.v1.router import api_router
+from src.web.route.recommendation import router as recommendation_router
+
 
 app = FastAPI(
-    title="OpenBadge Recommendation System",
-    description="LLM과 LangChain을 활용한 오픈배지 추천 시스템",
+    title="OpenBadge Recommendation API",
+    description="오픈배지 추천 시스템 API",
     version="1.0.0"
 )
 
 # CORS 설정
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # 실제 운영 환경에서는 특정 도메인만 허용하도록 수정
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# API 라우터 등록
-app.include_router(api_router, prefix="/api/v1")
+app.include_router(recommendation_router)
 
 @app.get("/")
 async def root():
-    return {"message": "OpenBadge Recommendation System API"} 
+    """
+    API 루트 엔드포인트
+    """
+    return {
+        "message": "OpenBadge Recommendation API",
+        "version": "1.0.0",
+        "docs_url": "/docs"
+    } 
