@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10112",
+    "name": "Vocal Performance Specialist",
+    "issuer": "Korea Vocal Association",
+    "description": "Professional vocal performance and technique",
+    "criteria": "Complete vocal performance recital",
+    "alignment": "Vocal Performance Standards",
+    "employmentOutcome": "Professional vocalist positions",
+    "skillsValidated": "['Vocal Technique', 'Performance Skills', 'Stage Presence']",
+    "competency": "['Vocal Performance']",
+    "learningOpportunity": "Vocal Performance Program",
+    "related_badges": "['B10101']"
+}

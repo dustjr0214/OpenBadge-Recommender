@@ -1,0 +1,14 @@
+{
+    "user_id": "U10118",
+    "name": "강예진",
+    "email": "kang.yejin@example.org",
+    "goal": "Neuropsychologist",
+    "skills": "['Neuropsychological Assessment', 'Brain Injury Rehabilitation']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10183']",
+    "learning_history": "Clinical neuropsychologist",
+    "employment_history": "Brain injury rehabilitation specialist",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10171', 'B10185']"
+}

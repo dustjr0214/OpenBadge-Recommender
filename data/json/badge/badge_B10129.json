@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10129",
+    "name": "Tax Preparation Specialist",
+    "issuer": "Korea Tax Association",
+    "description": "Tax preparation and compliance",
+    "criteria": "Complete tax preparation certification",
+    "alignment": "Tax Standards",
+    "employmentOutcome": "Tax preparer positions",
+    "skillsValidated": "['Tax Preparation', 'Tax Law', 'Compliance']",
+    "competency": "['Tax Preparation']",
+    "learningOpportunity": "Tax Preparation Course",
+    "related_badges": "['B10130']"
+}

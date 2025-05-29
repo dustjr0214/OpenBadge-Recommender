@@ -1,0 +1,14 @@
+{
+    "user_id": "U10133",
+    "name": "윤재현",
+    "email": "yoon.jaehyun@example.net",
+    "goal": "Insurance Agent",
+    "skills": "['Insurance Products', 'Risk Assessment']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10128', 'B10122']",
+    "learning_history": "Licensed insurance professional",
+    "employment_history": "Multi-line insurance agency owner for 7 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10127', 'B10124']"
+}

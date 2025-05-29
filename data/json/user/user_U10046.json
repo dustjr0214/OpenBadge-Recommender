@@ -1,0 +1,14 @@
+{
+    "user_id": "U10046",
+    "name": "정민아",
+    "email": "jung.mina@example.org",
+    "goal": "Child Psychologist",
+    "skills": "['Child Psychology', 'Developmental Assessment']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10175']",
+    "learning_history": "Child psychology internship graduate",
+    "employment_history": "School counselor for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10176', 'B10082']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10194",
+    "name": "Product Owner Professional",
+    "issuer": "Korea Product Management Association",
+    "description": "Product ownership and backlog management",
+    "criteria": "Complete product owner certification",
+    "alignment": "Product Management Standards",
+    "employmentOutcome": "Product owner positions",
+    "skillsValidated": "['Product Management', 'Backlog Management', 'Stakeholder Communication']",
+    "competency": "['Product Ownership']",
+    "learningOpportunity": "Product Owner Certification",
+    "related_badges": "['B10193']"
+}

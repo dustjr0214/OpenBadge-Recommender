@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10005",
+    "name": "Pediatric Emergency Care",
+    "issuer": "Korean Pediatric Society",
+    "description": "Emergency care for children and infants",
+    "criteria": "Complete pediatric emergency training",
+    "alignment": "Pediatric Emergency Care Standards",
+    "employmentOutcome": "Pediatric emergency roles",
+    "skillsValidated": "['Pediatric CPR', 'Child Assessment', 'Pediatric Trauma']",
+    "competency": "['Pediatric Emergency Care']",
+    "learningOpportunity": "Pediatric Emergency Training",
+    "related_badges": "['B10002'"
+}

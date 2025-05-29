@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10109",
+    "name": "Music Therapy Professional",
+    "issuer": "Korea Music Therapy Association",
+    "description": "Therapeutic music intervention",
+    "criteria": "Complete music therapy certification",
+    "alignment": "Music Therapy Standards",
+    "employmentOutcome": "Music therapist positions",
+    "skillsValidated": "['Music Therapy', 'Therapeutic Intervention', 'Patient Care']",
+    "competency": "['Music Therapy']",
+    "learningOpportunity": "Music Therapy Certification",
+    "related_badges": "['B10101']"
+}

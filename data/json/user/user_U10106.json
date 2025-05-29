@@ -1,0 +1,14 @@
+{
+    "user_id": "U10106",
+    "name": "임수연",
+    "email": "lim.suyeon@example.org",
+    "goal": "Arts Educator",
+    "skills": "['Arts Integration', 'Creative Teaching']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10097']",
+    "learning_history": "Arts integration teacher",
+    "employment_history": "Creative education consultant for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10081', 'B10180']"
+}

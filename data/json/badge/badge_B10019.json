@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10019",
+    "name": "Aviation Emergency Response",
+    "issuer": "Korea Aviation Safety Authority",
+    "description": "Aviation emergency response and safety",
+    "criteria": "Complete aviation emergency course",
+    "alignment": "Aviation Safety Standards",
+    "employmentOutcome": "Airport emergency response roles",
+    "skillsValidated": "['Aircraft Rescue', 'Fire Suppression', 'Aviation Safety']",
+    "competency": "['Aviation Emergency Response']",
+    "learningOpportunity": "Aviation Emergency Training",
+    "related_badges": "['B10001'"
+}

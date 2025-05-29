@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10121",
+    "name": "Investment Banking Analyst",
+    "issuer": "Korea Financial Investment Association",
+    "description": "Investment banking and financial analysis",
+    "criteria": "Complete investment banking certification",
+    "alignment": "Financial Industry Standards",
+    "employmentOutcome": "Investment banker positions",
+    "skillsValidated": "['Financial Analysis', 'Investment Banking', 'Market Research']",
+    "competency": "['Investment Banking']",
+    "learningOpportunity": "Investment Banking Program",
+    "related_badges": "['B10122']"
+}

@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.web.route.recommendation import router as recommendation_router
-from src.web.route.rag_sync import router as rag_sync_router
 import uvicorn
 
 app = FastAPI(
@@ -20,7 +19,7 @@ app.add_middleware(
 )
 
 app.include_router(recommendation_router)
-app.include_router(rag_sync_router)
+
 
 @app.get("/")
 async def root():

@@ -1,0 +1,14 @@
+{
+    "user_id": "U10004",
+    "name": "최유진",
+    "email": "choi.yujin@example.com",
+    "goal": "Career Change to Design",
+    "skills": "['Graphic Design', 'Visual Communication']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed online graphic design course",
+    "employment_history": "Worked in marketing for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10024', 'B10026', 'B10023']"
+}

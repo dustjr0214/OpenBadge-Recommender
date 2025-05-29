@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10199",
+    "name": "Program Management Professional",
+    "issuer": "Korea Program Management Institute",
+    "description": "Multi-project program management",
+    "criteria": "Complete program management certification",
+    "alignment": "Program Management Standards",
+    "employmentOutcome": "Program manager positions",
+    "skillsValidated": "['Program Management', 'Portfolio Management', 'Strategic Planning']",
+    "competency": "['Program Management']",
+    "learningOpportunity": "Program Management Course",
+    "related_badges": "['B10191']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10170",
+    "name": "Alternative Brewing Methods Expert",
+    "issuer": "Korea Alternative Brewing Association",
+    "description": "Manual brewing methods and techniques",
+    "criteria": "Complete alternative brewing certification",
+    "alignment": "Alternative Brewing Standards",
+    "employmentOutcome": "Brewing specialist roles",
+    "skillsValidated": "['Pour Over', 'French Press', 'Aeropress']",
+    "competency": "['Alternative Brewing']",
+    "learningOpportunity": "Alternative Brewing Methods Course",
+    "related_badges": "['B10161'"
+}

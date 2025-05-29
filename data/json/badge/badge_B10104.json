@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10104",
+    "name": "Music Technology Specialist",
+    "issuer": "Korea Music Technology Institute",
+    "description": "Digital music creation and technology",
+    "criteria": "Create electronic music portfolio",
+    "alignment": "Music Technology Standards",
+    "employmentOutcome": "Music technologist roles",
+    "skillsValidated": "['Digital Audio Workstations', 'Electronic Music', 'Music Software']",
+    "competency": "['Music Technology']",
+    "learningOpportunity": "Music Technology Program",
+    "related_badges": "['B10103']"
+}

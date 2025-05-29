@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10032",
+    "name": "Information Design Specialist",
+    "issuer": "Information Design Institute",
+    "description": "Information visualization and communication",
+    "criteria": "Create information design system",
+    "alignment": "Information Design Standards",
+    "employmentOutcome": "Information designer roles",
+    "skillsValidated": "['Data Visualization', 'Infographic Design', 'Information Architecture']",
+    "competency": "['Information Design']",
+    "learningOpportunity": "Information Design Course",
+    "related_badges": "['B10024']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10035",
+    "name": "Design System Architect",
+    "issuer": "Design System Alliance",
+    "description": "Design system creation and maintenance",
+    "criteria": "Build comprehensive design system",
+    "alignment": "Design System Standards",
+    "employmentOutcome": "Design system designer roles",
+    "skillsValidated": "['Design Systems', 'Component Design', 'Design Tokens']",
+    "competency": "['Design Systems']",
+    "learningOpportunity": "Design System Architecture Course",
+    "related_badges": "['B10021'"
+}

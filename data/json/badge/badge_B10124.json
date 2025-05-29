@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10124",
+    "name": "Financial Planning Advisor",
+    "issuer": "Korea Financial Planning Association",
+    "description": "Personal financial planning and advisory",
+    "criteria": "Complete financial planning certification",
+    "alignment": "Financial Planning Standards",
+    "employmentOutcome": "Financial advisor positions",
+    "skillsValidated": "['Financial Planning', 'Investment Advice', 'Retirement Planning']",
+    "competency": "['Financial Planning']",
+    "learningOpportunity": "Financial Planning Certification",
+    "related_badges": "['B10125']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10119",
+    "name": "Recording Studio Manager",
+    "issuer": "Korea Recording Studio Association",
+    "description": "Recording studio operations and management",
+    "criteria": "Manage professional recording studio",
+    "alignment": "Studio Management Standards",
+    "employmentOutcome": "Studio manager positions",
+    "skillsValidated": "['Studio Management', 'Equipment Operations', 'Client Relations']",
+    "competency": "['Studio Management']",
+    "learningOpportunity": "Recording Studio Management Course",
+    "related_badges": "['B10103']"
+}

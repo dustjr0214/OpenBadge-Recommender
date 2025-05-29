@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10128",
+    "name": "Insurance Professional",
+    "issuer": "Korea Insurance Association",
+    "description": "Insurance products and risk assessment",
+    "criteria": "Complete insurance license certification",
+    "alignment": "Insurance Standards",
+    "employmentOutcome": "Insurance agent positions",
+    "skillsValidated": "['Insurance Products', 'Risk Assessment', 'Client Consultation']",
+    "competency": "['Insurance']",
+    "learningOpportunity": "Insurance Professional Certification",
+    "related_badges": "['B10122']"
+}

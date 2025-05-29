@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10045",
+    "name": "Literary Translation Artist",
+    "issuer": "Korea Literary Translators Association",
+    "description": "Literary and creative text translation",
+    "criteria": "Publish translated literary work",
+    "alignment": "Literary Translation Standards",
+    "employmentOutcome": "Literary translator positions",
+    "skillsValidated": "['Literary Translation', 'Creative Writing', 'Cultural Interpretation']",
+    "competency": "['Literary Translation']",
+    "learningOpportunity": "Literary Translation Workshop",
+    "related_badges": "['B10041']"
+}

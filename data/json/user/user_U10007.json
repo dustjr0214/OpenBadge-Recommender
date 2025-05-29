@@ -1,0 +1,14 @@
+{
+    "user_id": "U10007",
+    "name": "윤소희",
+    "email": "yoon.sohee@example.org",
+    "goal": "Start Photography Career",
+    "skills": "['Camera Operation', 'Photo Editing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Currently taking photography classes",
+    "employment_history": "Working as marketing assistant",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10062', 'B10069', 'B10076']"
+}

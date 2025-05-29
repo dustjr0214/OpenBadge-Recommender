@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10099",
+    "name": "Education Assessment Expert",
+    "issuer": "Korea Educational Assessment Institute",
+    "description": "Student assessment and evaluation methods",
+    "criteria": "Complete assessment certification",
+    "alignment": "Educational Assessment Standards",
+    "employmentOutcome": "Assessment specialist positions",
+    "skillsValidated": "['Educational Assessment', 'Test Development', 'Data Analysis']",
+    "competency": "['Educational Assessment']",
+    "learningOpportunity": "Assessment Specialist Program",
+    "related_badges": "['B10082'"
+}

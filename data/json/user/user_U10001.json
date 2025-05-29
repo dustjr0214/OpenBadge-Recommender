@@ -1,0 +1,14 @@
+{
+    "user_id": "U10001",
+    "name": "김민준",
+    "email": "kim.minjun@email.com",
+    "goal": "Become an Emergency Medical Technician",
+    "skills": "['CPR', 'First Aid', 'Emergency Response']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10002']",
+    "learning_history": "Completed Basic Life Support course at Korean Red Cross",
+    "employment_history": "Volunteer at Seoul Hospital for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10001', 'B10003']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10173",
+    "name": "Cognitive Behavioral Therapy Expert",
+    "issuer": "Korea CBT Institute",
+    "description": "Cognitive behavioral therapy techniques",
+    "criteria": "Complete CBT certification",
+    "alignment": "CBT Standards",
+    "employmentOutcome": "CBT therapist positions",
+    "skillsValidated": "['Cognitive Behavioral Therapy', 'Behavioral Modification', 'Cognitive Restructuring']",
+    "competency": "['CBT']",
+    "learningOpportunity": "CBT Specialist Program",
+    "related_badges": "['B10171'"
+}

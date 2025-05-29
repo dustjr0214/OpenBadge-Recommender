@@ -1,0 +1,14 @@
+{
+    "user_id": "U10049",
+    "name": "윤호준",
+    "email": "yoon.hojun@example.net",
+    "goal": "Emergency Dispatcher",
+    "skills": "['Emergency Communication', 'Medical Assessment']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "911 dispatcher training program",
+    "employment_history": "Currently working as call center operator",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10016', 'B10001']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10169",
+    "name": "Coffee Sommelier",
+    "issuer": "Korea Coffee Sommelier Association",
+    "description": "Coffee tasting and pairing expertise",
+    "criteria": "Complete coffee sommelier certification",
+    "alignment": "Coffee Sommelier Standards",
+    "employmentOutcome": "Coffee sommelier positions",
+    "skillsValidated": "['Coffee Tasting', 'Flavor Pairing', 'Sensory Analysis']",
+    "competency": "['Coffee Sommelier']",
+    "learningOpportunity": "Coffee Sommelier Program",
+    "related_badges": "['B10163']"
+}

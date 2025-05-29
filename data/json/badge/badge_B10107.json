@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10107",
+    "name": "Music Education Instructor",
+    "issuer": "Korea Music Education Association",
+    "description": "Music teaching and pedagogy",
+    "criteria": "Complete music education certification",
+    "alignment": "Music Education Standards",
+    "employmentOutcome": "Music teacher positions",
+    "skillsValidated": "['Music Teaching', 'Music Pedagogy', 'Student Assessment']",
+    "competency": "['Music Education']",
+    "learningOpportunity": "Music Education Certification",
+    "related_badges": "['B10101'"
+}

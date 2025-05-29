@@ -1,0 +1,14 @@
+{
+    "user_id": "U10136",
+    "name": "조민지",
+    "email": "cho.minji@example.org",
+    "goal": "Pension Manager",
+    "skills": "['Pension Management', 'Fund Administration']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10135']",
+    "learning_history": "Pension fund administrator",
+    "employment_history": "Retirement benefits specialist for 6 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10132', 'B10124']"
+}

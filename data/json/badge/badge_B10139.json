@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10139",
+    "name": "Quantitative Finance Analyst",
+    "issuer": "Korea Quantitative Finance Institute",
+    "description": "Mathematical finance and modeling",
+    "criteria": "Complete quantitative finance project",
+    "alignment": "Quantitative Finance Standards",
+    "employmentOutcome": "Quantitative analyst positions",
+    "skillsValidated": "['Quantitative Analysis', 'Financial Modeling', 'Algorithmic Trading']",
+    "competency": "['Quantitative Finance']",
+    "learningOpportunity": "Quantitative Finance Program",
+    "related_badges": "['B10121'"
+}

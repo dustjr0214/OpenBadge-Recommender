@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10111",
+    "name": "Music Business Professional",
+    "issuer": "Korea Music Industry Association",
+    "description": "Music industry business and marketing",
+    "criteria": "Complete music business certification",
+    "alignment": "Music Business Standards",
+    "employmentOutcome": "Music industry roles",
+    "skillsValidated": "['Music Marketing', 'Artist Development', 'Music Business']",
+    "competency": "['Music Business']",
+    "learningOpportunity": "Music Business Certification",
+    "related_badges": "['B10106']"
+}

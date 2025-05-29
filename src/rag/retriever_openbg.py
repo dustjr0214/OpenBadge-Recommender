@@ -134,7 +134,7 @@ class DataRetriever:
                                   user_id: str, 
                                   top_k: int = 5) -> List[Dict[str, Any]]:
         """
-        특정 사용자에게 추천할 배지 검색
+        특정 사용자에게 추천할 배지 검색 (개선된 버전)
         
         Args:
             user_id: 사용자 ID
@@ -143,33 +143,63 @@ class DataRetriever:
         Returns:
             추천 배지 리스트
         """
-        # 사용자 정보 조회
-        user_results = self.index.query(
-            id=user_id,
+        print(f"🔍 사용자 {user_id} 추천 시작")
+        
+        # ✅ 기존에 잘 작동하는 search_users 활용
+        user_results = self.search_users(
+            query=user_id,
             top_k=1,
-            namespace="user",
-            include_metadata=True
+            exact_id=True
         )
         
-        if not user_results.matches:
+        if not user_results:
+            print(f"❌ 사용자 {user_id}를 찾을 수 없습니다")
             return []
         
-        user_data = user_results.matches[0]
+        user_data = user_results[0]  # search_users는 이미 포맷된 결과 반환
         
-        # 사용자의 기술과 목표를 기반으로 배지 검색
+        print(f"✅ 사용자 데이터 발견:")
+        print(f"  - 메타데이터: {user_data['metadata']}")
+        
+        # 쿼리 구성
+        goal = user_data['metadata'].get('goal', '')
+        skills = user_data['metadata'].get('skills', '')
+        competency = user_data['metadata'].get('competency_level', '')
+        
         query = f"""
-        목표: {user_data.metadata.get('goal', '')}
-        기술: {user_data.metadata.get('skills', '')}
-        역량 수준: {user_data.metadata.get('competency_level', '')}
+        목표: {goal}
+        기술: {skills}
+        역량 수준: {competency}
         """
         
-        # 이미 획득한 배지 제외
-        acquired_badges = user_data.metadata.get('acquired_badges', [])
-        filter_criteria = {
-            "id": {"$nin": acquired_badges}
-        }
+        print(f"🔎 구성된 쿼리: {query.strip()}")
         
-        return self.search_badges(query, top_k, filter_criteria)
+        # 이미 획득한 배지 제외 처리
+        acquired_badges = user_data['metadata'].get('acquired_badges', [])
+        if isinstance(acquired_badges, str):
+            import ast
+            try:
+                acquired_badges = ast.literal_eval(acquired_badges)
+            except:
+                acquired_badges = []
+        
+        print(f"🏆 이미 획득한 배지: {acquired_badges}")
+        
+        # 필터 조건
+        filter_criteria = None
+        if acquired_badges:
+            filter_criteria = {
+                "id": {"$nin": acquired_badges}
+            }
+        
+        # 배지 검색
+        results = self.search_badges(query, top_k, filter_criteria)
+        
+        print(f"🎯 검색 결과:")
+        for i, result in enumerate(results):
+            print(f"  {i+1}. {result['id']} - {result['metadata'].get('name', 'N/A')} (점수: {result['score']:.4f})")
+        
+        return results
 
 def main():
     # 환경 변수에서 API 키 가져오기
@@ -182,7 +212,7 @@ def main():
     
     # 예시: 배지 검색
     badge_results = retriever.search_badges(
-        query="머신러닝과 데이터 분석에 관심이 있는 초보자를 위한 배지",
+        query="음악에 관심이 있는 초보자를 위한 배지",
         top_k=3
     )
     print("\n=== 배지 검색 결과 ===")
@@ -194,7 +224,7 @@ def main():
     
     # 예시: 사용자 검색
     user_results = retriever.search_users(
-        query="머신러닝과 데이터 분석에 관심이 있는 사용자",
+        query="커피에 관심이 있는 사용자",
         top_k=3
     )
     print("\n=== 사용자 검색 결과 ===")
@@ -205,15 +235,24 @@ def main():
         print(f"점수: {result['score']:.4f}")
         print("---")
     
-    # 예시: 특정 사용자에게 추천할 배지
-    user_id = "U01199"  # 예시 사용자 ID
-    recommended_badges = retriever.get_similar_badges_for_user(user_id, top_k=3)
-    print(f"\n=== 사용자 {user_id}에게 추천할 배지 ===")
-    for badge in recommended_badges:
-        print(f"배지 ID: {badge['id']}")
-        print(f"이름: {badge['metadata']['name']}")
-        print(f"점수: {badge['score']:.4f}")
-        print("---")
+    # 예시: 특정 사용자에게 추천할 배지 (수정된 버전)
+    test_users = ["U10199", "U10043", "U10019"]  # 테스트할 사용자들
+    
+    for user_id in test_users:
+        print(f"\n{'='*60}")
+        print(f"🔍 사용자 {user_id} 추천 테스트")
+        print(f"{'='*60}")
+        
+        recommended_badges = retriever.get_similar_badges_for_user(user_id, top_k=3)
+        
+        print(f"\n🎯 최종 추천 결과:")
+        if recommended_badges:
+            for i, badge in enumerate(recommended_badges):
+                print(f"  {i+1}. {badge['id']} - {badge['metadata']['name']} (점수: {badge['score']:.4f})")
+        else:
+            print("  추천할 배지가 없습니다.")
+        
+        print("\n" + "-"*40)
 
 if __name__ == "__main__":
     main() 

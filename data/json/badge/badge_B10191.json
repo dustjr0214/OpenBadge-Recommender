@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10191",
+    "name": "Project Management Professional",
+    "issuer": "Korea Project Management Institute",
+    "description": "Comprehensive project management methodology",
+    "criteria": "Pass PMP certification exam",
+    "alignment": "PMI Standards",
+    "employmentOutcome": "Project manager positions",
+    "skillsValidated": "['Project Planning', 'Risk Management', 'Team Leadership']",
+    "competency": "['Project Management']",
+    "learningOpportunity": "PMP Certification Program",
+    "related_badges": "['B10192']"
+}

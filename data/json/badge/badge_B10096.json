@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10096",
+    "name": "Science Education Specialist",
+    "issuer": "Korea Science Education Association",
+    "description": "Science teaching and laboratory instruction",
+    "criteria": "Complete science education certification",
+    "alignment": "Science Education Standards",
+    "employmentOutcome": "Science teacher positions",
+    "skillsValidated": "['Science Teaching', 'Laboratory Instruction', 'Scientific Inquiry']",
+    "competency": "['Science Education']",
+    "learningOpportunity": "Science Education Program",
+    "related_badges": "['B10081'"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10136",
+    "name": "Microfinance Specialist",
+    "issuer": "Korea Microfinance Institute",
+    "description": "Microfinance and community banking",
+    "criteria": "Complete microfinance certification",
+    "alignment": "Microfinance Standards",
+    "employmentOutcome": "Microfinance officer positions",
+    "skillsValidated": "['Microfinance', 'Community Banking', 'Financial Inclusion']",
+    "competency": "['Microfinance']",
+    "learningOpportunity": "Microfinance Development Program",
+    "related_badges": "['B10126']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U10028",
+    "name": "송다은",
+    "email": "song.daeun@example.net",
+    "goal": "Web Design Specialist",
+    "skills": "['HTML/CSS', 'Responsive Design']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10025', 'B10021']",
+    "learning_history": "Full-stack developer bootcamp graduate",
+    "employment_history": "Front-end developer for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10035', 'B10039']"
+}

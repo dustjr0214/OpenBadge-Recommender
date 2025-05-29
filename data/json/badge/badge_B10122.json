@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10122",
+    "name": "Financial Risk Management",
+    "issuer": "Korea Risk Management Institute",
+    "description": "Financial risk assessment and management",
+    "criteria": "Complete risk management certification",
+    "alignment": "Risk Management Standards",
+    "employmentOutcome": "Risk manager positions",
+    "skillsValidated": "['Risk Assessment', 'Financial Modeling', 'Portfolio Management']",
+    "competency": "['Risk Management']",
+    "learningOpportunity": "Risk Management Certification",
+    "related_badges": "['B10123']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10011",
+    "name": "Occupational Safety Expert",
+    "issuer": "Korea Occupational Safety Institute",
+    "description": "Workplace safety and injury prevention",
+    "criteria": "Complete occupational safety certification",
+    "alignment": "OSHA Standards",
+    "employmentOutcome": "Safety officer and consultant roles",
+    "skillsValidated": "['Risk Assessment', 'Safety Training', 'Incident Investigation']",
+    "competency": "['Occupational Safety']",
+    "learningOpportunity": "Workplace Safety Certification",
+    "related_badges": "[]"
+}

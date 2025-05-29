@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10130",
+    "name": "Accounting Professional",
+    "issuer": "Korea Accounting Institute",
+    "description": "Financial accounting and bookkeeping",
+    "criteria": "Complete accounting certification",
+    "alignment": "Accounting Standards",
+    "employmentOutcome": "Accountant positions",
+    "skillsValidated": "['Financial Accounting', 'Bookkeeping', 'Financial Reporting']",
+    "competency": "['Accounting']",
+    "learningOpportunity": "Accounting Certification Program",
+    "related_badges": "['B10129']"
+}

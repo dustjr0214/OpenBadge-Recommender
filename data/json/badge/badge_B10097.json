@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10097",
+    "name": "Arts Education Professional",
+    "issuer": "Korea Arts Education Institute",
+    "description": "Arts integration and creative education",
+    "criteria": "Complete arts education certification",
+    "alignment": "Arts Education Standards",
+    "employmentOutcome": "Arts educator positions",
+    "skillsValidated": "['Arts Integration', 'Creative Teaching', 'Artistic Expression']",
+    "competency": "['Arts Education']",
+    "learningOpportunity": "Arts Education Certification",
+    "related_badges": "['B10081']"
+}

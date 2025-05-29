@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10098",
+    "name": "Physical Education Specialist",
+    "issuer": "Korea Physical Education Association",
+    "description": "Physical education and sports instruction",
+    "criteria": "Complete physical education certification",
+    "alignment": "Physical Education Standards",
+    "employmentOutcome": "PE teacher positions",
+    "skillsValidated": "['Physical Education', 'Sports Instruction', 'Health and Fitness']",
+    "competency": "['Physical Education']",
+    "learningOpportunity": "Physical Education Certification",
+    "related_badges": "['B10081']"
+}

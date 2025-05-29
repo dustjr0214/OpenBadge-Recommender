@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10012",
+    "name": "Emergency Vehicle Operator",
+    "issuer": "Korea Emergency Services",
+    "description": "Emergency vehicle operation and safety",
+    "criteria": "Complete emergency driving course",
+    "alignment": "Emergency Vehicle Standards",
+    "employmentOutcome": "Emergency service driver roles",
+    "skillsValidated": "['Emergency Driving', 'Vehicle Maintenance', 'Navigation Systems']",
+    "competency": "['Emergency Vehicle Operation']",
+    "learningOpportunity": "Emergency Driver Training",
+    "related_badges": "['B10001']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10165",
+    "name": "Coffee Shop Manager",
+    "issuer": "Korea Coffee Business Association",
+    "description": "Coffee shop operations and management",
+    "criteria": "Complete coffee business certification",
+    "alignment": "Coffee Business Standards",
+    "employmentOutcome": "Coffee shop manager positions",
+    "skillsValidated": "['Coffee Shop Management', 'Business Operations', 'Staff Training']",
+    "competency": "['Coffee Business']",
+    "learningOpportunity": "Coffee Shop Management Course",
+    "related_badges": "['B10161']"
+}

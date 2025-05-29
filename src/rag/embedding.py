@@ -38,9 +38,10 @@ class DataEmbedder:
         # Pinecone 초기화
         self.pc = Pinecone(api_key=pinecone_api_key)
         self._initialize_index()
-        
-        # 삭제된 벡터 백업을 위한 딕셔너리 (메모리 기반)
+
+          # 삭제된 벡터 백업을 위한 딕셔너리 (메모리 기반)
         self._deleted_vectors_backup = {}
+        
         
     def _initialize_index(self):
         """Pinecone 인덱스 초기화"""
@@ -479,9 +480,11 @@ class DataEmbedder:
             }
         }
     
-    def upsert_all(self, data_dir: str, data_type: str):
+
+    
+    def upsert_manually_all(self, data_dir: str, data_type: str):
         """
-        데이터 파일들을 처리하고 Pinecone에 저장 (기존 process_data에서 이름 변경)
+        데이터 수동 임베딩을 위해 특정 디렉토리의 모든 json 파일을 임베딩 후 저장
         
         Args:
             data_dir: 데이터 JSON 파일이 있는 디렉토리 경로
@@ -518,6 +521,7 @@ class DataEmbedder:
                 vectors=[(id, vector, metadata)],
                 namespace=data_type
             )
+            print(f"{data_type} 데이터 임베딩 생성 및 저장 완료: {id}")
         
         print(f"{data_type} 데이터 임베딩 생성 및 저장 완료: {len(texts)}개")
 
@@ -538,10 +542,10 @@ def main():
     embedder = DataEmbedder(pinecone_api_key=pinecone_api_key)
     
     # 배지 데이터 처리
-    embedder.upsert_all(os.path.join(data_dir, "badge"), "badge")
+    embedder.upsert_manually_all(os.path.join(data_dir, "badge"), "badge")
     
     # 사용자 데이터 처리
-    embedder.upsert_all(os.path.join(data_dir, "user"), "user")
+    embedder.upsert_manually_all(os.path.join(data_dir, "user"), "user")
 
 if __name__ == "__main__":
     main()

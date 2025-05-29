@@ -1,0 +1,14 @@
+{
+    "user_id": "U10172",
+    "name": "정수아",
+    "email": "jung.sua@example.org",
+    "goal": "Manual Brewing Specialist",
+    "skills": "['Pour Over', 'Alternative Brewing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10170']",
+    "learning_history": "Specialty brewing methods expert",
+    "employment_history": "Coffee education academy instructor for 2 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10161', 'B10163']"
+}

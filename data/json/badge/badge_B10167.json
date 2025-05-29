@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10167",
+    "name": "Coffee Equipment Technician",
+    "issuer": "Korea Coffee Equipment Association",
+    "description": "Coffee machine maintenance and repair",
+    "criteria": "Complete equipment technician certification",
+    "alignment": "Coffee Equipment Standards",
+    "employmentOutcome": "Coffee technician positions",
+    "skillsValidated": "['Equipment Maintenance', 'Machine Repair', 'Technical Support']",
+    "competency": "['Coffee Equipment']",
+    "learningOpportunity": "Coffee Equipment Technician Course",
+    "related_badges": "['B10161']"
+}

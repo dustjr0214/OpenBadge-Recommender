@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10033",
+    "name": "Design Management Leader",
+    "issuer": "Korea Design Management Institute",
+    "description": "Design team leadership and project management",
+    "criteria": "Lead cross-functional design projects",
+    "alignment": "Design Management Standards",
+    "employmentOutcome": "Design manager and creative director roles",
+    "skillsValidated": "['Design Leadership', 'Project Management', 'Team Management']",
+    "competency": "['Design Management']",
+    "learningOpportunity": "Design Leadership Program",
+    "related_badges": "['B10021'"
+}

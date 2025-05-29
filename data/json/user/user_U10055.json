@@ -1,0 +1,14 @@
+{
+    "user_id": "U10055",
+    "name": "오다빈",
+    "email": "oh.dabin@example.net",
+    "goal": "Sports Photographer",
+    "skills": "['Sports Photography', 'Action Photography']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10078', 'B10062']",
+    "learning_history": "Professional sports photographer for 5 years",
+    "employment_history": "Covering Olympic events",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10070', 'B10077']"
+}

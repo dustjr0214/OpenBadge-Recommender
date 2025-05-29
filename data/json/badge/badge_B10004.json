@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10004",
+    "name": "Trauma Care Specialist",
+    "issuer": "Seoul National University Hospital",
+    "description": "Specialized trauma care and management",
+    "criteria": "Complete trauma care residency program",
+    "alignment": "International Trauma Standards",
+    "employmentOutcome": "Trauma center positions",
+    "skillsValidated": "['Trauma Assessment', 'Critical Care', 'Emergency Surgery']",
+    "competency": "['Trauma Management']",
+    "learningOpportunity": "Trauma Care Specialization",
+    "related_badges": "['B10001'"
+}

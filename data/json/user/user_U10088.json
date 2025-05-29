@@ -1,0 +1,14 @@
+{
+    "user_id": "U10088",
+    "name": "정아현",
+    "email": "jung.ahyun@example.org",
+    "goal": "Rice Cake Artisan",
+    "skills": "['Rice Cake Making', 'Korean Sweets']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10149']",
+    "learning_history": "Traditional rice cake maker",
+    "employment_history": "Family rice cake business for 4 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10141', 'B10151']"
+}

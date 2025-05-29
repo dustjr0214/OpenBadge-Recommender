@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10064",
+    "name": "Commercial Photography Professional",
+    "issuer": "Korea Commercial Photography Guild",
+    "description": "Commercial and advertising photography",
+    "criteria": "Create commercial photography portfolio",
+    "alignment": "Commercial Photography Standards",
+    "employmentOutcome": "Commercial photographer positions",
+    "skillsValidated": "['Product Photography', 'Advertising Photography', 'Brand Imaging']",
+    "competency": "['Commercial Photography']",
+    "learningOpportunity": "Commercial Photography Program",
+    "related_badges": "['B10062']"
+}

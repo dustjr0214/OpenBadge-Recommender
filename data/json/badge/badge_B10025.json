@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10025",
+    "name": "Web Design Specialist",
+    "issuer": "Korea Web Design Association",
+    "description": "Modern web design and development",
+    "criteria": "Build responsive website portfolio",
+    "alignment": "Web Design Standards",
+    "employmentOutcome": "Web designer and developer roles",
+    "skillsValidated": "['HTML/CSS', 'Responsive Design', 'Web Accessibility']",
+    "competency": "['Web Design']",
+    "learningOpportunity": "Web Design Certification Program",
+    "related_badges": "['B10021'"
+}

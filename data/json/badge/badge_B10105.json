@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10105",
+    "name": "Jazz Performance Artist",
+    "issuer": "Korea Jazz Association",
+    "description": "Jazz performance and improvisation",
+    "criteria": "Complete jazz performance showcase",
+    "alignment": "Jazz Performance Standards",
+    "employmentOutcome": "Jazz musician positions",
+    "skillsValidated": "['Jazz Performance', 'Improvisation', 'Jazz Theory']",
+    "competency": "['Jazz Music']",
+    "learningOpportunity": "Jazz Performance Workshop",
+    "related_badges": "['B10101'"
+}

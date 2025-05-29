@@ -1,0 +1,14 @@
+{
+    "user_id": "U10034",
+    "name": "강민정",
+    "email": "kang.minjeong@example.org",
+    "goal": "Early Childhood Education",
+    "skills": "['Early Childhood Development', 'Child Care']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10089']",
+    "learning_history": "Preschool teacher for 3 years",
+    "employment_history": "Currently pursuing early childhood specialization",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10081', 'B10175']"
+}

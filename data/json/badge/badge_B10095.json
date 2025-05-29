@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10095",
+    "name": "Mathematics Education Expert",
+    "issuer": "Korea Mathematics Education Society",
+    "description": "Mathematics teaching and pedagogy",
+    "criteria": "Complete mathematics education certification",
+    "alignment": "Mathematics Education Standards",
+    "employmentOutcome": "Math teacher positions",
+    "skillsValidated": "['Mathematics Teaching', 'Mathematical Reasoning', 'Problem-Based Learning']",
+    "competency": "['Mathematics Education']",
+    "learningOpportunity": "Mathematics Education Certification",
+    "related_badges": "['B10081'"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10091",
+    "name": "Curriculum Development Specialist",
+    "issuer": "Korea Curriculum Development Center",
+    "description": "Educational curriculum design and assessment",
+    "criteria": "Develop national curriculum standards",
+    "alignment": "Curriculum Standards",
+    "employmentOutcome": "Curriculum developer roles",
+    "skillsValidated": "['Curriculum Development', 'Educational Assessment', 'Standards Alignment']",
+    "competency": "['Curriculum Development']",
+    "learningOpportunity": "Curriculum Development Program",
+    "related_badges": "['B10081'"
+}

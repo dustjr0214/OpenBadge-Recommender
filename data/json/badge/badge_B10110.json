@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10110",
+    "name": "Concert Production Manager",
+    "issuer": "Korea Concert Production Association",
+    "description": "Live music event production and management",
+    "criteria": "Manage successful concert production",
+    "alignment": "Concert Production Standards",
+    "employmentOutcome": "Concert producer positions",
+    "skillsValidated": "['Event Production', 'Artist Management', 'Venue Operations']",
+    "competency": "['Concert Production']",
+    "learningOpportunity": "Concert Production Management Course",
+    "related_badges": "['B10101']"
+}

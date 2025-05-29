@@ -1,0 +1,14 @@
+{
+    "user_id": "U10127",
+    "name": "김동민",
+    "email": "kim.dongmin@example.net",
+    "goal": "Studio Lighting Pro",
+    "skills": "['Studio Lighting', 'Light Modification']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10072', 'B10061']",
+    "learning_history": "Professional lighting specialist",
+    "employment_history": "Commercial photography studio owner",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10062', 'B10064']"
+}

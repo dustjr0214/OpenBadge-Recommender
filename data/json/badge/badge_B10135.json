@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10135",
+    "name": "Pension Fund Manager",
+    "issuer": "Korea Pension Association",
+    "description": "Pension fund management and administration",
+    "criteria": "Complete pension fund certification",
+    "alignment": "Pension Management Standards",
+    "employmentOutcome": "Pension manager positions",
+    "skillsValidated": "['Pension Management', 'Fund Administration', 'Retirement Benefits']",
+    "competency": "['Pension Management']",
+    "learningOpportunity": "Pension Fund Management Program",
+    "related_badges": "['B10132']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U10070",
+    "name": "송다인",
+    "email": "song.dain@example.org",
+    "goal": "Art Therapist",
+    "skills": "['Art Therapy', 'Creative Expression']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10180']",
+    "learning_history": "Art therapy certification graduate",
+    "employment_history": "Working with trauma survivors",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10171', 'B10181']"
+}

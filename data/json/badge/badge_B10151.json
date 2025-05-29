@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10151",
+    "name": "Pastry Chef Professional",
+    "issuer": "International Culinary Institute Korea",
+    "description": "Professional pastry and dessert creation",
+    "criteria": "Complete pastry chef certification",
+    "alignment": "Pastry Standards",
+    "employmentOutcome": "Pastry chef positions",
+    "skillsValidated": "['Pastry Making', 'Dessert Creation', 'Cake Decorating']",
+    "competency": "['Pastry']",
+    "learningOpportunity": "Professional Pastry Program",
+    "related_badges": "['B10152']"
+}

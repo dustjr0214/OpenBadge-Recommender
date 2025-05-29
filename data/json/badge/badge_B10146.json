@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10146",
+    "name": "Korean Barbecue Master",
+    "issuer": "Korea BBQ Association",
+    "description": "Korean barbecue and grilling techniques",
+    "criteria": "Complete Korean BBQ certification",
+    "alignment": "Korean BBQ Standards",
+    "employmentOutcome": "Korean BBQ restaurant positions",
+    "skillsValidated": "['Korean BBQ', 'Grilling Techniques', 'Meat Preparation']",
+    "competency": "['Korean BBQ']",
+    "learningOpportunity": "Korean BBQ Mastery Program",
+    "related_badges": "['B10141']"
+}

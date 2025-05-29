@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10131",
+    "name": "Financial Technology Specialist",
+    "issuer": "Korea FinTech Association",
+    "description": "Financial technology and digital banking",
+    "criteria": "Develop fintech application",
+    "alignment": "FinTech Standards",
+    "employmentOutcome": "FinTech developer positions",
+    "skillsValidated": "['Financial Technology', 'Digital Banking', 'Payment Systems']",
+    "competency": "['FinTech']",
+    "learningOpportunity": "FinTech Development Program",
+    "related_badges": "['B10126']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10126",
+    "name": "Banking Operations Specialist",
+    "issuer": "Korea Banking Institute",
+    "description": "Commercial banking operations and services",
+    "criteria": "Complete banking operations certification",
+    "alignment": "Banking Standards",
+    "employmentOutcome": "Banking specialist positions",
+    "skillsValidated": "['Banking Operations', 'Customer Service', 'Loan Processing']",
+    "competency": "['Banking Operations']",
+    "learningOpportunity": "Banking Operations Certification",
+    "related_badges": "['B10127']"
+}

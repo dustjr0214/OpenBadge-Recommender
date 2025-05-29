@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10003",
+    "name": "Advanced First Aid Practitioner",
+    "issuer": "Korea Emergency Medical Association",
+    "description": "Advanced first aid and emergency care skills",
+    "criteria": "Complete 80-hour advanced first aid course",
+    "alignment": "Korean Emergency Medical Standards",
+    "employmentOutcome": "Emergency care provider roles",
+    "skillsValidated": "['Advanced First Aid', 'Emergency Assessment', 'Wound Care']",
+    "competency": "['Advanced Emergency Care']",
+    "learningOpportunity": "Advanced Emergency Care Program",
+    "related_badges": "['B10001'"
+}

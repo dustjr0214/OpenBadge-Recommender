@@ -1,0 +1,14 @@
+{
+    "user_id": "U10064",
+    "name": "임건우",
+    "email": "lim.gunwoo@example.org",
+    "goal": "Fermentation Specialist",
+    "skills": "['Food Fermentation', 'Traditional Preservation']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10143']",
+    "learning_history": "Fermentation research scientist",
+    "employment_history": "Food technology company researcher",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10141', 'B10142']"
+}

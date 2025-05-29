@@ -1,0 +1,14 @@
+{
+    "user_id": "U10097",
+    "name": "오세은",
+    "email": "oh.seeun@example.net",
+    "goal": "Pediatric Emergency Nurse",
+    "skills": "['Pediatric CPR', 'Child Assessment']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10005', 'B10002']",
+    "learning_history": "Pediatric emergency room nurse for 6 years",
+    "employment_history": "Children's hospital specialist",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10175', 'B10176']"
+}

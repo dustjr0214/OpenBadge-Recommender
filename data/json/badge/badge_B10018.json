@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10018",
+    "name": "Public Health Emergency",
+    "issuer": "Korea Centers for Disease Control",
+    "description": "Public health emergency response",
+    "criteria": "Complete public health emergency course",
+    "alignment": "Public Health Emergency Standards",
+    "employmentOutcome": "Public health emergency roles",
+    "skillsValidated": "['Epidemiology', 'Disease Control', 'Public Health Policy']",
+    "competency": "['Public Health Emergency']",
+    "learningOpportunity": "Public Health Emergency Training",
+    "related_badges": "[]"
+}

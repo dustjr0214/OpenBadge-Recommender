@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10140",
+    "name": "Financial Education Instructor",
+    "issuer": "Korea Financial Literacy Institute",
+    "description": "Financial education and literacy training",
+    "criteria": "Complete financial education certification",
+    "alignment": "Financial Education Standards",
+    "employmentOutcome": "Financial educator positions",
+    "skillsValidated": "['Financial Education', 'Financial Literacy', 'Public Education']",
+    "competency": "['Financial Education']",
+    "learningOpportunity": "Financial Education Certification",
+    "related_badges": "['B10124']"
+}

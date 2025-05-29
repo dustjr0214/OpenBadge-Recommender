@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10171",
+    "name": "Clinical Psychology Professional",
+    "issuer": "Korea Psychological Association",
+    "description": "Clinical psychology assessment and therapy",
+    "criteria": "Complete clinical psychology license",
+    "alignment": "Clinical Psychology Standards",
+    "employmentOutcome": "Clinical psychologist positions",
+    "skillsValidated": "['Psychological Assessment', 'Therapy Techniques', 'Mental Health Diagnosis']",
+    "competency": "['Clinical Psychology']",
+    "learningOpportunity": "Clinical Psychology Program",
+    "related_badges": "['B10172']"
+}

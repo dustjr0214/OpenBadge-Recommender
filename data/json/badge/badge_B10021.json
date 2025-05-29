@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10021",
+    "name": "UI/UX Design Fundamentals",
+    "issuer": "Google Design Academy",
+    "description": "Basic user interface and experience design principles",
+    "criteria": "Complete UI/UX design course and portfolio project",
+    "alignment": "Industry Design Standards",
+    "employmentOutcome": "Junior UI/UX designer positions",
+    "skillsValidated": "['User Research', 'Wireframing', 'Prototyping']",
+    "competency": "['User Experience Design']",
+    "learningOpportunity": "UI/UX Design Bootcamp",
+    "related_badges": "['B10022']"
+}

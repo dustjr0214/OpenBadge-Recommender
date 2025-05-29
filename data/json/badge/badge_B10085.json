@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10085",
+    "name": "Adult Learning Facilitator",
+    "issuer": "Korea Adult Education Association",
+    "description": "Adult education and professional development",
+    "criteria": "Complete adult learning certification",
+    "alignment": "Adult Education Standards",
+    "employmentOutcome": "Corporate trainer positions",
+    "skillsValidated": "['Adult Learning', 'Professional Development', 'Training Design']",
+    "competency": "['Adult Education']",
+    "learningOpportunity": "Adult Learning Facilitation Course",
+    "related_badges": "['B10086']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10100",
+    "name": "Teacher Professional Development",
+    "issuer": "Korea Teacher Development Institute",
+    "description": "Continuing education for educators",
+    "criteria": "Complete professional development program",
+    "alignment": "Teacher Development Standards",
+    "employmentOutcome": "Lead teacher positions",
+    "skillsValidated": "['Professional Development', 'Teacher Leadership', 'Continuous Learning']",
+    "competency": "['Teacher Development']",
+    "learningOpportunity": "Teacher Leadership Program",
+    "related_badges": "['B10081'"
+}

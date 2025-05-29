@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10093",
+    "name": "School Counseling Professional",
+    "issuer": "Korea School Counselors Association",
+    "description": "Student counseling and guidance services",
+    "criteria": "Complete school counseling certification",
+    "alignment": "School Counseling Standards",
+    "employmentOutcome": "School counselor positions",
+    "skillsValidated": "['Student Counseling', 'Crisis Intervention', 'Academic Guidance']",
+    "competency": "['School Counseling']",
+    "learningOpportunity": "School Counseling Certification",
+    "related_badges": "['B10082']"
+}

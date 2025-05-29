@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10015",
+    "name": "Community Emergency Preparedness",
+    "issuer": "Korea Community Safety Network",
+    "description": "Community disaster preparedness education",
+    "criteria": "Complete community preparedness course",
+    "alignment": "Community Preparedness Standards",
+    "employmentOutcome": "Community safety coordinator roles",
+    "skillsValidated": "['Public Education', 'Emergency Planning', 'Community Outreach']",
+    "competency": "['Community Preparedness']",
+    "learningOpportunity": "Community Preparedness Program",
+    "related_badges": "['B10006']"
+}

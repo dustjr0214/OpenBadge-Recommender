@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10071",
+    "name": "Fine Art Photography Artist",
+    "issuer": "Korea Fine Art Photography Society",
+    "description": "Artistic and conceptual photography",
+    "criteria": "Create fine art photography exhibition",
+    "alignment": "Fine Art Photography Standards",
+    "employmentOutcome": "Fine art photographer positions",
+    "skillsValidated": "['Fine Art Photography', 'Conceptual Photography', 'Gallery Exhibition']",
+    "competency": "['Fine Art Photography']",
+    "learningOpportunity": "Fine Art Photography Program",
+    "related_badges": "['B10062']"
+}

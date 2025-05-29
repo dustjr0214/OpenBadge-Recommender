@@ -1,0 +1,14 @@
+{
+    "user_id": "U10031",
+    "name": "박민규",
+    "email": "park.mingyu@example.com",
+    "goal": "Commercial Photographer",
+    "skills": "['Product Photography', 'Commercial Photography']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10064', 'B10062']",
+    "learning_history": "Freelance commercial photographer for 5 years",
+    "employment_history": "Photography studio owner",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10075', 'B10074']"
+}

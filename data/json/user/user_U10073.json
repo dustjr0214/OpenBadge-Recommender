@@ -1,0 +1,14 @@
+{
+    "user_id": "U10073",
+    "name": "박준하",
+    "email": "park.junha@example.net",
+    "goal": "Water Safety Instructor",
+    "skills": "['Water Rescue', 'Swimming Instruction']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10009', 'B10020']",
+    "learning_history": "Certified lifeguard and swim instructor",
+    "employment_history": "Beach safety coordinator for 8 years",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10001', 'B10007']"
+}

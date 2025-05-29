@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10192",
+    "name": "Agile Project Management",
+    "issuer": "Korea Agile Association",
+    "description": "Agile methodology and scrum management",
+    "criteria": "Complete agile certification",
+    "alignment": "Agile Standards",
+    "employmentOutcome": "Scrum master positions",
+    "skillsValidated": "['Agile Methodology', 'Scrum Framework', 'Sprint Planning']",
+    "competency": "['Agile Management']",
+    "learningOpportunity": "Agile Project Management Course",
+    "related_badges": "['B10193']"
+}

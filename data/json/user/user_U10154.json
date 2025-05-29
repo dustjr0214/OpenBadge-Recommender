@@ -1,0 +1,14 @@
+{
+    "user_id": "U10154",
+    "name": "송다혜",
+    "email": "song.dahye@example.org",
+    "goal": "Marine Safety Officer",
+    "skills": "['Marine Rescue', 'Water Safety']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10020']",
+    "learning_history": "Coast guard marine safety specialist",
+    "employment_history": "Harbor patrol officer for 5 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10009', 'B10001']"
+}

@@ -33,6 +33,7 @@ class BadgeRecommender:
         self.llm = ChatAnthropic(
             model="claude-3-7-sonnet-20250219",
             temperature=0.7,
+            max_tokens=2048,
             anthropic_api_key=self.anthropic_api_key
         )
         
@@ -74,43 +75,21 @@ class BadgeRecommender:
             추천 배지 정보:
             {badge_info}
             
-            위 정보를 바탕으로 이 사용자에게 가장 적합한 배지를 추천해주세요.
+            중요: 위 정보를 바탕으로 이 사용자에게 가장 적합한 배지를 **정확히 {count_recommendation}개** 추천해주세요.
+            반드시 {count_recommendation}개의 배지를 JSON 배열에 포함해야 합니다.
+            만약 적절한 배지가 {count_recommendation}개보다 작다면 그 수만큼만 추천해주세요.
             """)
         ])
         
         # RAG 체인 구성
         self.chain = (
-            {"user_info": RunnablePassthrough(), "badge_info": self._get_badge_info}
+            {"user_info": RunnablePassthrough(), "badge_info": lambda x: self._get_badge_recommendation(x["user_id"]), "count_recommendation": lambda x: x["count_recommendation"]}
             | self.prompt
             | self.llm
             | self.output_parser
         )
     
-    def _parse_list_string(self, list_str: str) -> List[str]:
-        """
-        문자열로 된 리스트를 실제 리스트로 변환
-        
-        Args:
-            list_str: 문자열로 된 리스트
-            
-        Returns:
-            실제 리스트
-        """
-        try:
-            # 문자열이 이미 리스트 형태인 경우
-            if isinstance(list_str, list):
-                return list_str
-            
-            # 문자열에서 따옴표 제거 및 공백 제거
-            cleaned_str = list_str.strip().replace("'", '"')
-            
-            # JSON 파싱
-            return json.loads(cleaned_str)
-        except (json.JSONDecodeError, ValueError):
-            # 변환 실패 시 빈 리스트 반환
-            return []
-    
-    def _get_badge_info(self, user_id: str) -> str:
+    def _get_badge_recommendation(self, user_id: str, top_k: int = 15) -> str:
         """
         사용자 ID를 기반으로 추천 배지 정보를 가져옴
         
@@ -120,34 +99,14 @@ class BadgeRecommender:
         Returns:
             추천 배지 정보 문자열
         """
-        # 사용자 정보 가져오기
-        user_info = self._get_user_info(user_id)
-        
-        # 사용자의 기술과 목표를 기반으로 배지 검색
-        query = f"""
-        목표: {user_info.get('goal', '')}
-        기술: {user_info.get('skills', '')}
-        역량 수준: {user_info.get('competency_level', '')}
-        """
-        
-        # 이미 획득한 배지 제외 (문자열 리스트를 실제 리스트로 변환)
-        acquired_badges = self._parse_list_string(user_info.get('acquired_badges', '[]'))
-        
-        # 필터 조건 설정
-        filter_criteria = None
-        if acquired_badges:
-            filter_criteria = {
-                "id": {"$nin": acquired_badges}
-            }
-        
-        # 배지 검색
-        recommended_badges = self.retriever.search_badges(
-            query=query,
-            top_k=3,
-            filter_criteria=filter_criteria
+        # ✅ 개선된 retriever 메소드 사용 - 책임 분리
+        # retriever에서 사용자 조회, 쿼리 구성, 필터링까지 모두 처리
+        recommended_badges = self.retriever.get_similar_badges_for_user(
+            user_id=user_id,
+            top_k=top_k
         )
         
-        # 배지 정보 포맷팅
+        # 배지 정보 포맷팅만 담당
         badge_info = []
         for badge in recommended_badges:
             badge_info.append(f"""
@@ -197,7 +156,7 @@ class BadgeRecommender:
             "acquired_badges": user['metadata']['acquired_badges']
         }
     
-    def recommend_badges(self, user_id: str) -> Dict[str, List[Dict[str, Any]]]:
+    def recommend_badges(self, user_id: str, count_recommendation: int = 3) -> Dict[str, List[Dict[str, Any]]]:
         """
         사용자에게 배지 추천
         
@@ -225,7 +184,12 @@ class BadgeRecommender:
         
         try:
             # RAG 체인 실행
-            recommendation = self.chain.invoke(formatted_user_info)
+            chain_input = {
+                "user_id": user_id,
+                "user_info": formatted_user_info,
+                "count_recommendation": count_recommendation
+            }
+            recommendation = self.chain.invoke(chain_input)
             return recommendation
         except Exception as e:
             print(f"추천 생성 중 오류 발생: {str(e)}")
@@ -235,25 +199,49 @@ def main():
     # 추천 시스템 초기화
     recommender = BadgeRecommender()
     
-    # 예시: 특정 사용자에게 배지 추천
-    user_id = "U00113"  # 예시 사용자 ID
-    recommendation = recommender.recommend_badges(user_id)
-    user_info = recommender._get_user_info(user_id)
+    # 예시: 여러 사용자에게 배지 추천 (개선된 결과 확인)
+    test_users = ["U07703", "U10003", "U10051"]  # 실제 존재하는 사용자들
     
-    print("\n=== 사용자 정보 조회 결과 ===")
-    print(user_info)
-
-    print("\n=== 배지 추천 결과 ===")
-    print(json.dumps(recommendation, indent=2, ensure_ascii=False))
-    
-    # 결과를 JSON 파일로 저장
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = f"other/test/json/recommendation_{user_id}_{timestamp}.json"
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(recommendation, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n추천 결과가 {output_file}에 저장되었습니다.")
+    for user_id in test_users:
+        print(f"\n{'='*60}")
+        print(f"🎯 사용자 {user_id} 배지 추천 테스트")
+        print(f"{'='*60}")
+        
+        # 사용자 정보 조회
+        user_info = recommender._get_user_info(user_id)
+        print(f"\n📋 사용자 정보:")
+        print(f"  - 이름: {user_info.get('name', 'N/A')}")
+        print(f"  - 목표: {user_info.get('goal', 'N/A')}")
+        print(f"  - 기술: {user_info.get('skills', 'N/A')}")
+        print(f"  - 역량 수준: {user_info.get('competency_level', 'N/A')}")
+        print(f"  - 획득한 배지: {user_info.get('acquired_badges', 'N/A')}")
+        
+        # 배지 추천
+        recommendation = recommender.recommend_badges(user_id, count_recommendation=4)
+        
+        print(f"\n🎯 추천 결과:")
+        if recommendation.get('recommendations'):
+            for i, rec in enumerate(recommendation['recommendations']):
+                print(f"  {i+1}. {rec.get('name', 'N/A')} (ID: {rec.get('badge_id', 'N/A')})")
+                print(f"     발급자: {rec.get('issuer', 'N/A')}")
+                print(f"     유사도: {rec.get('similarity_score', 'N/A')}")
+                print(f"     추천 이유: {rec.get('recommendation_reason', 'N/A')[:100]}...")
+                print()
+        else:
+            print("  추천할 배지가 없습니다.")
+        
+        # 결과를 JSON 파일로 저장
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_file = f"other/test/json/recommendation_{user_id}_{timestamp}.json"
+        
+        # 디렉토리가 없으면 생성
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(recommendation, f, indent=2, ensure_ascii=False)
+        
+        print(f"📁 추천 결과가 {output_file}에 저장되었습니다.")
+        print("-" * 60)
 
 if __name__ == "__main__":
     main() 

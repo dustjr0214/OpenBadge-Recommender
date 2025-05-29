@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10006",
+    "name": "Disaster Response Coordinator",
+    "issuer": "Korea Disaster Management Institute",
+    "description": "Disaster response and coordination skills",
+    "criteria": "Lead disaster response simulation exercises",
+    "alignment": "National Disaster Response Standards",
+    "employmentOutcome": "Disaster management positions",
+    "skillsValidated": "['Disaster Planning', 'Crisis Management', 'Team Coordination']",
+    "competency": "['Disaster Management']",
+    "learningOpportunity": "Disaster Response Leadership Program",
+    "related_badges": "['B10001']"
+}

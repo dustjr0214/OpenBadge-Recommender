@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10010",
+    "name": "Fire Safety Specialist",
+    "issuer": "Korea Fire Safety Association",
+    "description": "Fire prevention and emergency evacuation",
+    "criteria": "Complete fire safety management course",
+    "alignment": "Fire Safety Standards",
+    "employmentOutcome": "Fire safety officer positions",
+    "skillsValidated": "['Fire Prevention', 'Evacuation Planning', 'Safety Inspection']",
+    "competency": "['Fire Safety']",
+    "learningOpportunity": "Fire Safety Management Course",
+    "related_badges": "['B10006']"
+}

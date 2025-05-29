@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10002",
+    "name": "CPR Certified Professional",
+    "issuer": "American Heart Association Korea",
+    "description": "Basic life support and CPR certification",
+    "criteria": "Pass CPR skills test and written examination",
+    "alignment": "AHA CPR Guidelines",
+    "employmentOutcome": "Healthcare assistant positions",
+    "skillsValidated": "['CPR', 'Basic Life Support', 'Emergency Care']",
+    "competency": "['Life Support']",
+    "learningOpportunity": "CPR Certification Course",
+    "related_badges": "['B10001']"
+}
