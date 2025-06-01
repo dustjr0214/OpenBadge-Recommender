@@ -12,3 +12,4 @@ wheels/
 .env
 PRD.md
 other/
+tests/
