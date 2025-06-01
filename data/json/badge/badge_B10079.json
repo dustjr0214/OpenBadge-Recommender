@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10079",
+    "name": "Photography Workshop Instructor",
+    "issuer": "Korea Photography Education Association",
+    "description": "Photography teaching and instruction",
+    "criteria": "Conduct successful photography workshop",
+    "alignment": "Photography Education Standards",
+    "employmentOutcome": "Photography instructor positions",
+    "skillsValidated": "['Photography Teaching', 'Workshop Facilitation', 'Student Mentoring']",
+    "competency": "['Photography Education']",
+    "learningOpportunity": "Photography Instructor Training",
+    "related_badges": "['B10062']"
+}

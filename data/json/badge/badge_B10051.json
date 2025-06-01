@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10051",
+    "name": "Computer-Assisted Translation Specialist",
+    "issuer": "Korea CAT Tools Association",
+    "description": "CAT tools and translation technology",
+    "criteria": "Master professional CAT tools usage",
+    "alignment": "CAT Tools Standards",
+    "employmentOutcome": "Technology-enhanced translator roles",
+    "skillsValidated": "['CAT Tools', 'Translation Memory', 'Terminology Management']",
+    "competency": "['Translation Technology']",
+    "learningOpportunity": "CAT Tools Mastery Program",
+    "related_badges": "['B10041'"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U10079",
+    "name": "신호영",
+    "email": "shin.hoyoung@example.net",
+    "goal": "Travel Photographer",
+    "skills": "['Travel Photography', 'Cultural Documentation']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10077', 'B10062']",
+    "learning_history": "Professional travel photographer",
+    "employment_history": "Documentary photography for 7 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10066', 'B10065']"
+}

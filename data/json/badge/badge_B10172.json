@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10172",
+    "name": "Counseling Psychology Specialist",
+    "issuer": "Korea Counseling Association",
+    "description": "Individual and group counseling services",
+    "criteria": "Complete counseling certification",
+    "alignment": "Counseling Standards",
+    "employmentOutcome": "Professional counselor positions",
+    "skillsValidated": "['Individual Counseling', 'Group Therapy', 'Crisis Intervention']",
+    "competency": "['Counseling Psychology']",
+    "learningOpportunity": "Counseling Psychology Certification",
+    "related_badges": "['B10173']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10115",
+    "name": "World Music Specialist",
+    "issuer": "International World Music Institute Korea",
+    "description": "Traditional and world music performance",
+    "criteria": "Master world music instrument",
+    "alignment": "World Music Standards",
+    "employmentOutcome": "World music performer roles",
+    "skillsValidated": "['World Music', 'Traditional Instruments', 'Cultural Music']",
+    "competency": "['World Music']",
+    "learningOpportunity": "World Music Performance Program",
+    "related_badges": "['B10101']"
+}

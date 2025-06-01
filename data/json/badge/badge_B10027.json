@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10027",
+    "name": "Product Design Innovation",
+    "issuer": "Korea Innovation Design Center",
+    "description": "Product design and innovation methodology",
+    "criteria": "Design and prototype innovative product",
+    "alignment": "Product Design Standards",
+    "employmentOutcome": "Product designer and design consultant roles",
+    "skillsValidated": "['Design Thinking', 'Product Development', 'User-Centered Design']",
+    "competency": "['Product Design']",
+    "learningOpportunity": "Innovation Design Program",
+    "related_badges": "['B10021']"
+}

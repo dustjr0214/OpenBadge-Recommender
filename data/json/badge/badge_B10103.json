@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10103",
+    "name": "Audio Production Professional",
+    "issuer": "Korea Audio Engineering Association",
+    "description": "Music recording and audio production",
+    "criteria": "Complete professional recording project",
+    "alignment": "Audio Production Standards",
+    "employmentOutcome": "Audio engineer positions",
+    "skillsValidated": "['Audio Recording', 'Mixing and Mastering', 'Studio Operations']",
+    "competency": "['Audio Production']",
+    "learningOpportunity": "Audio Production Certification",
+    "related_badges": "['B10104']"
+}

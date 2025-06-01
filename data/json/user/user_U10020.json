@@ -1,0 +1,14 @@
+{
+    "user_id": "U10020",
+    "name": "강현수",
+    "email": "kang.hyunsoo@email.co.kr",
+    "goal": "Specialize in Coffee Roasting",
+    "skills": "['Coffee Roasting', 'Quality Control']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10162']",
+    "learning_history": "Apprenticed at local roastery",
+    "employment_history": "Coffee shop manager for 2 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10163', 'B10167']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10102",
+    "name": "Music Theory and Composition",
+    "issuer": "Korea Music Theory Society",
+    "description": "Music theory analysis and composition",
+    "criteria": "Complete original composition portfolio",
+    "alignment": "Music Theory Standards",
+    "employmentOutcome": "Composer and music theorist roles",
+    "skillsValidated": "['Music Theory', 'Composition', 'Harmonic Analysis']",
+    "competency": "['Music Composition']",
+    "learningOpportunity": "Music Theory and Composition Course",
+    "related_badges": "['B10103']"
+}

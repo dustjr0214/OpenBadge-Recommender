@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10117",
+    "name": "Electronic Music Artist",
+    "issuer": "Korea Electronic Music Association",
+    "description": "Electronic music creation and performance",
+    "criteria": "Perform at electronic music festival",
+    "alignment": "Electronic Music Standards",
+    "employmentOutcome": "Electronic music artist roles",
+    "skillsValidated": "['Electronic Music Production', 'DJ Performance', 'Synthesizer Programming']",
+    "competency": "['Electronic Music']",
+    "learningOpportunity": "Electronic Music Production Workshop",
+    "related_badges": "['B10104'"
+}

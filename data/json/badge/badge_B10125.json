@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10125",
+    "name": "Securities Trading Professional",
+    "issuer": "Korea Securities Association",
+    "description": "Securities trading and market analysis",
+    "criteria": "Pass securities trading license exam",
+    "alignment": "Securities Trading Standards",
+    "employmentOutcome": "Securities trader positions",
+    "skillsValidated": "['Securities Trading', 'Market Analysis', 'Trading Systems']",
+    "competency": "['Securities Trading']",
+    "learningOpportunity": "Securities Trading License Program",
+    "related_badges": "['B10121']"
+}

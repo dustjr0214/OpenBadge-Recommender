@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10088",
+    "name": "Language Teaching Specialist",
+    "issuer": "Korea Language Education Institute",
+    "description": "Second language teaching methodology",
+    "criteria": "Complete language teaching certification",
+    "alignment": "Language Teaching Standards",
+    "employmentOutcome": "Language instructor positions",
+    "skillsValidated": "['Language Teaching', 'Second Language Acquisition', 'Cultural Communication']",
+    "competency": "['Language Education']",
+    "learningOpportunity": "Language Teaching Certification",
+    "related_badges": "['B10081']"
+}

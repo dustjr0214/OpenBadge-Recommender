@@ -1,0 +1,14 @@
+{
+    "user_id": "U10121",
+    "name": "신재혁",
+    "email": "shin.jaehyuk@example.net",
+    "goal": "Mental Health First Aid",
+    "skills": "['Crisis Intervention', 'Suicide Prevention']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Mental health first aid course enrolled",
+    "employment_history": "Community volunteer coordinator",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10008', 'B10172', 'B10189']"
+}

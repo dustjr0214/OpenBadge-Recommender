@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10090",
+    "name": "Educational Leadership Professional",
+    "issuer": "Korea Educational Leadership Institute",
+    "description": "School administration and educational leadership",
+    "criteria": "Complete educational leadership program",
+    "alignment": "Educational Leadership Standards",
+    "employmentOutcome": "School administrator positions",
+    "skillsValidated": "['Educational Leadership', 'School Administration', 'Policy Development']",
+    "competency": "['Educational Leadership']",
+    "learningOpportunity": "Educational Leadership Certification",
+    "related_badges": "['B10081']"
+}

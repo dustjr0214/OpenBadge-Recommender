@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10195",
+    "name": "IT Project Management Specialist",
+    "issuer": "Korea IT Project Management Society",
+    "description": "Information technology project management",
+    "criteria": "Complete IT project management certification",
+    "alignment": "IT Project Standards",
+    "employmentOutcome": "IT project manager roles",
+    "skillsValidated": "['IT Project Management', 'Software Development Lifecycle', 'Technology Implementation']",
+    "competency": "['IT Project Management']",
+    "learningOpportunity": "IT Project Management Program",
+    "related_badges": "['B10191'"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10050",
+    "name": "Translation Quality Assessor",
+    "issuer": "International Translation Quality Institute",
+    "description": "Translation quality evaluation and assessment",
+    "criteria": "Conduct translation quality assessment",
+    "alignment": "Translation Quality Standards",
+    "employmentOutcome": "Quality assessor positions",
+    "skillsValidated": "['Quality Assessment', 'Translation Evaluation', 'Error Analysis']",
+    "competency": "['Translation Quality']",
+    "learningOpportunity": "Translation QA Certification",
+    "related_badges": "['B10041']"
+}

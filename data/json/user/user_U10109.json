@@ -1,0 +1,14 @@
+{
+    "user_id": "U10109",
+    "name": "배현지",
+    "email": "bae.hyunji@example.net",
+    "goal": "Securities Trader",
+    "skills": "['Securities Trading', 'Market Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10125', 'B10121']",
+    "learning_history": "Professional securities trader for 6 years",
+    "employment_history": "Investment bank trading desk manager",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10139', 'B10122']"
+}

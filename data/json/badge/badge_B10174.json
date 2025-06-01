@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10174",
+    "name": "Family Therapy Specialist",
+    "issuer": "Korea Family Therapy Association",
+    "description": "Family and couples therapy",
+    "criteria": "Complete family therapy certification",
+    "alignment": "Family Therapy Standards",
+    "employmentOutcome": "Family therapist positions",
+    "skillsValidated": "['Family Therapy', 'Couples Counseling', 'Systems Therapy']",
+    "competency": "['Family Therapy']",
+    "learningOpportunity": "Family Therapy Certification",
+    "related_badges": "['B10172']"
+}

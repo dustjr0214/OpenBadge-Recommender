@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10123",
+    "name": "Corporate Finance Specialist",
+    "issuer": "Korea Corporate Finance Association",
+    "description": "Corporate financial planning and analysis",
+    "criteria": "Complete corporate finance project",
+    "alignment": "Corporate Finance Standards",
+    "employmentOutcome": "Finance manager positions",
+    "skillsValidated": "['Financial Planning', 'Budget Analysis', 'Capital Structure']",
+    "competency": "['Corporate Finance']",
+    "learningOpportunity": "Corporate Finance Program",
+    "related_badges": "['B10121'"
+}

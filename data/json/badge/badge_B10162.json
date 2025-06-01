@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10162",
+    "name": "Coffee Roasting Specialist",
+    "issuer": "Korea Coffee Roasters Guild",
+    "description": "Coffee bean roasting and quality control",
+    "criteria": "Complete coffee roasting certification",
+    "alignment": "Coffee Roasting Standards",
+    "employmentOutcome": "Coffee roaster positions",
+    "skillsValidated": "['Coffee Roasting', 'Bean Selection', 'Quality Control']",
+    "competency": "['Coffee Roasting']",
+    "learningOpportunity": "Coffee Roasting Mastery Program",
+    "related_badges": "['B10163']"
+}

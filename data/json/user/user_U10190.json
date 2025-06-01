@@ -1,0 +1,14 @@
+{
+    "user_id": "U10190",
+    "name": "임시우",
+    "email": "lim.siwoo@example.org",
+    "goal": "School Administrator",
+    "skills": "['School Administration', 'Policy Development']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10090']",
+    "learning_history": "Assistant principal",
+    "employment_history": "Educational leadership program graduate",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10081', 'B10100']"
+}

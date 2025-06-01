@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10113",
+    "name": "Orchestral Conductor",
+    "issuer": "Korea Symphony Orchestra Association",
+    "description": "Orchestra conducting and leadership",
+    "criteria": "Conduct professional orchestra performance",
+    "alignment": "Conducting Standards",
+    "employmentOutcome": "Orchestra conductor positions",
+    "skillsValidated": "['Conducting Technique', 'Score Reading', 'Orchestra Leadership']",
+    "competency": "['Orchestra Conducting']",
+    "learningOpportunity": "Conducting Masterclass",
+    "related_badges": "['B10101'"
+}

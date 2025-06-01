@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10147",
+    "name": "Korean Soup and Stew Specialist",
+    "issuer": "Korea Soup Masters Guild",
+    "description": "Traditional Korean soups and stews",
+    "criteria": "Complete soup and stew certification",
+    "alignment": "Korean Soup Standards",
+    "employmentOutcome": "Soup specialist chef roles",
+    "skillsValidated": "['Korean Soups', 'Stew Preparation', 'Broth Making']",
+    "competency": "['Korean Soup']",
+    "learningOpportunity": "Korean Soup Mastery Course",
+    "related_badges": "['B10141']"
+}

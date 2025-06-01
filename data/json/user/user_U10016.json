@@ -1,0 +1,14 @@
+{
+    "user_id": "U10016",
+    "name": "이준호",
+    "email": "lee.junho@example.org",
+    "goal": "Master Korean Fermentation",
+    "skills": "['Food Fermentation', 'Kimchi Making']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10141', 'B10143']",
+    "learning_history": "Studied under Korean fermentation master",
+    "employment_history": "Chef at traditional Korean restaurant for 7 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10142', 'B10144']"
+}

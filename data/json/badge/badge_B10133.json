@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10133",
+    "name": "Compliance Officer",
+    "issuer": "Korea Financial Compliance Institute",
+    "description": "Financial compliance and regulatory oversight",
+    "criteria": "Complete compliance certification",
+    "alignment": "Compliance Standards",
+    "employmentOutcome": "Compliance officer positions",
+    "skillsValidated": "['Regulatory Compliance', 'Financial Regulations', 'Audit Procedures']",
+    "competency": "['Financial Compliance']",
+    "learningOpportunity": "Financial Compliance Program",
+    "related_badges": "['B10130']"
+}

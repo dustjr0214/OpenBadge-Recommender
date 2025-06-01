@@ -1,0 +1,14 @@
+{
+    "user_id": "U10193",
+    "name": "배지민",
+    "email": "bae.jimin@example.net",
+    "goal": "Banking Specialist",
+    "skills": "['Banking Operations', 'Customer Service']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10126', 'B10127']",
+    "learning_history": "Commercial banking operations manager",
+    "employment_history": "Branch banking specialist for 8 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10123', 'B10133']"
+}

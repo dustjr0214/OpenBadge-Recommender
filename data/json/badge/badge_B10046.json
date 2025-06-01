@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10046",
+    "name": "Conference Interpreter",
+    "issuer": "Korea Conference Interpreting Association",
+    "description": "Simultaneous and consecutive interpreting",
+    "criteria": "Pass interpreting skills assessment",
+    "alignment": "International Interpreting Standards",
+    "employmentOutcome": "Conference interpreter roles",
+    "skillsValidated": "['Simultaneous Interpreting', 'Consecutive Interpreting', 'Public Speaking']",
+    "competency": "['Interpreting']",
+    "learningOpportunity": "Conference Interpreting Certification",
+    "related_badges": "['B10041']"
+}

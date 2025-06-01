@@ -1,0 +1,14 @@
+{
+    "user_id": "U10010",
+    "name": "조민석",
+    "email": "cho.minseok@example.net",
+    "goal": "Specialize in Special Education",
+    "skills": "['Special Education', 'Inclusive Teaching']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10083']",
+    "learning_history": "Currently enrolled in Special Education program",
+    "employment_history": "Volunteer at special needs school",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10082', 'B10089']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10101",
+    "name": "Classical Music Performance",
+    "issuer": "Korea National Classical Music Institute",
+    "description": "Classical music performance and interpretation",
+    "criteria": "Complete classical performance recital",
+    "alignment": "Classical Music Standards",
+    "employmentOutcome": "Professional musician positions",
+    "skillsValidated": "['Classical Performance', 'Music Theory', 'Instrumental Technique']",
+    "competency": "['Classical Music']",
+    "learningOpportunity": "Classical Music Performance Program",
+    "related_badges": "['B10102']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10001",
+    "name": "Emergency Response Specialist",
+    "issuer": "Korean Red Cross",
+    "description": "Comprehensive emergency response and first aid certification",
+    "criteria": "Complete 40-hour emergency response training and pass final exam",
+    "alignment": "International Emergency Response Standards",
+    "employmentOutcome": "Emergency Medical Technician roles",
+    "skillsValidated": "['CPR', 'AED Operation', 'Trauma Care']",
+    "competency": "['Emergency Response']",
+    "learningOpportunity": "Emergency Medical Training Program",
+    "related_badges": "['B10002']"
+}

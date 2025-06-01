@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10043",
+    "name": "Legal Translation Professional",
+    "issuer": "Korea Legal Translation Association",
+    "description": "Legal document translation and interpretation",
+    "criteria": "Pass legal translation certification",
+    "alignment": "Legal Translation Standards",
+    "employmentOutcome": "Legal translator positions",
+    "skillsValidated": "['Legal Terminology', 'Contract Translation', 'Court Interpretation']",
+    "competency": "['Legal Translation']",
+    "learningOpportunity": "Legal Translation Certification Program",
+    "related_badges": "['B10041']"
+}

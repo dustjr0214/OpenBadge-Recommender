@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10008",
+    "name": "Mental Health First Aid",
+    "issuer": "Korea Mental Health Association",
+    "description": "Mental health crisis intervention skills",
+    "criteria": "Complete mental health first aid certification",
+    "alignment": "Mental Health First Aid Standards",
+    "employmentOutcome": "Mental health support roles",
+    "skillsValidated": "['Crisis Intervention', 'Mental Health Assessment', 'Suicide Prevention']",
+    "competency": "['Mental Health Support']",
+    "learningOpportunity": "Mental Health First Aid Training",
+    "related_badges": "[]"
+}

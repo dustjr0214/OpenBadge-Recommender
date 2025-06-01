@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10106",
+    "name": "Popular Music Producer",
+    "issuer": "Korea Popular Music Association",
+    "description": "Popular music production and arrangement",
+    "criteria": "Produce commercial music release",
+    "alignment": "Popular Music Standards",
+    "employmentOutcome": "Music producer roles",
+    "skillsValidated": "['Music Production', 'Song Arrangement', 'Commercial Music']",
+    "competency": "['Music Production']",
+    "learningOpportunity": "Popular Music Production Course",
+    "related_badges": "['B10103'"
+}

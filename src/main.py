@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.web.route.recommendation import router as recommendation_router
-
+import uvicorn
 
 app = FastAPI(
     title="OpenBadge Recommendation API",
@@ -20,6 +20,7 @@ app.add_middleware(
 
 app.include_router(recommendation_router)
 
+
 @app.get("/")
 async def root():
     """
@@ -30,3 +31,5 @@ async def root():
         "version": "1.0.0",
         "docs_url": "/docs"
     } 
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)

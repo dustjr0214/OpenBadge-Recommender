@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10076",
+    "name": "Photography Business Manager",
+    "issuer": "Korea Photography Business Institute",
+    "description": "Photography business and marketing",
+    "criteria": "Establish successful photography business",
+    "alignment": "Photography Business Standards",
+    "employmentOutcome": "Photography business owner roles",
+    "skillsValidated": "['Photography Business', 'Client Management', 'Marketing Strategy']",
+    "competency": "['Photography Business']",
+    "learningOpportunity": "Photography Business Course",
+    "related_badges": "['B10062']"
+}

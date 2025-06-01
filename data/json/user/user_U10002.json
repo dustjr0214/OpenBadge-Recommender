@@ -1,0 +1,14 @@
+{
+    "user_id": "U10002",
+    "name": "이서연",
+    "email": "lee.seoyeon@gmail.com",
+    "goal": "Advance in Healthcare Career",
+    "skills": "['Emergency Care', 'Patient Care']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Currently enrolled in Emergency Medical Training Program",
+    "employment_history": "Working as hospital aide for 1 year",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10001', 'B10002', 'B10005']"
+}

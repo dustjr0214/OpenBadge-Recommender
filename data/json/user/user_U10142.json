@@ -1,0 +1,14 @@
+{
+    "user_id": "U10142",
+    "name": "이준영",
+    "email": "lee.junyoung@example.org",
+    "goal": "Coffee Sommelier",
+    "skills": "['Coffee Tasting', 'Sensory Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10169']",
+    "learning_history": "Professional coffee cupper",
+    "employment_history": "Specialty coffee quality control for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10163', 'B10162']"
+}

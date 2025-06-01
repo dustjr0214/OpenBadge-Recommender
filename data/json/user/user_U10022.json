@@ -1,0 +1,14 @@
+{
+    "user_id": "U10022",
+    "name": "임성훈",
+    "email": "lim.sunghoon@example.com",
+    "goal": "Specialize in Child Psychology",
+    "skills": "['Child Psychology', 'Play Therapy']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10175']",
+    "learning_history": "Currently pursuing child psychology specialization",
+    "employment_history": "Working as elementary counselor",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10176', 'B10082']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10092",
+    "name": "Educational Technology Integrator",
+    "issuer": "Korea EdTech Association",
+    "description": "Technology integration in education",
+    "criteria": "Implement successful edtech solution",
+    "alignment": "Educational Technology Standards",
+    "employmentOutcome": "EdTech specialist positions",
+    "skillsValidated": "['Educational Technology', 'Digital Learning Tools', 'Technology Integration']",
+    "competency": "['Educational Technology']",
+    "learningOpportunity": "EdTech Integration Certification",
+    "related_badges": "['B10087']"
+}

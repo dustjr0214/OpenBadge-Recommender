@@ -1,0 +1,14 @@
+{
+    "user_id": "U10040",
+    "name": "한지윤",
+    "email": "han.jiyoon@example.org",
+    "goal": "Royal Cuisine Chef",
+    "skills": "['Royal Court Cuisine', 'Historical Cooking']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10144']",
+    "learning_history": "Royal cuisine course graduate",
+    "employment_history": "Specialty restaurant sous chef",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10141', 'B10142']"
+}

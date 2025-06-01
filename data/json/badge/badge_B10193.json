@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10193",
+    "name": "Scrum Master Certified",
+    "issuer": "International Scrum Alliance Korea",
+    "description": "Scrum framework and team facilitation",
+    "criteria": "Pass Scrum Master certification",
+    "alignment": "Scrum Standards",
+    "employmentOutcome": "Scrum master roles",
+    "skillsValidated": "['Scrum Mastery', 'Team Facilitation', 'Agile Coaching']",
+    "competency": "['Scrum Management']",
+    "learningOpportunity": "Certified Scrum Master Program",
+    "related_badges": "['B10192'"
+}

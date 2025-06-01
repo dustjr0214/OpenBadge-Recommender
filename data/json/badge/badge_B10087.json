@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10087",
+    "name": "Online Education Developer",
+    "issuer": "Korea E-Learning Association",
+    "description": "Online learning platform and content development",
+    "criteria": "Develop successful online course",
+    "alignment": "E-Learning Standards",
+    "employmentOutcome": "Online educator positions",
+    "skillsValidated": "['Online Teaching', 'Digital Content Creation', 'Learning Management Systems']",
+    "competency": "['Online Education']",
+    "learningOpportunity": "Online Education Development Program",
+    "related_badges": "['B10086']"
+}

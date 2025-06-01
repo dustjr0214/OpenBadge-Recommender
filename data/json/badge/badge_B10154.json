@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10154",
+    "name": "Chocolate Making Specialist",
+    "issuer": "Korea Chocolate Institute",
+    "description": "Chocolate production and confectionery",
+    "criteria": "Complete chocolate making certification",
+    "alignment": "Chocolate Standards",
+    "employmentOutcome": "Chocolatier positions",
+    "skillsValidated": "['Chocolate Making', 'Confectionery', 'Tempering Techniques']",
+    "competency": "['Chocolate Making']",
+    "learningOpportunity": "Chocolatier Certification",
+    "related_badges": "['B10151']"
+}

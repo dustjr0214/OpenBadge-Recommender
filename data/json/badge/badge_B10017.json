@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10017",
+    "name": "Industrial Emergency Response",
+    "issuer": "Korea Industrial Safety Council",
+    "description": "Industrial accident response and management",
+    "criteria": "Complete industrial emergency response course",
+    "alignment": "Industrial Safety Standards",
+    "employmentOutcome": "Industrial safety manager roles",
+    "skillsValidated": "['Industrial Safety', 'Emergency Protocols', 'Team Leadership']",
+    "competency": "['Industrial Emergency Response']",
+    "learningOpportunity": "Industrial Emergency Management",
+    "related_badges": "['B10001'"
+}

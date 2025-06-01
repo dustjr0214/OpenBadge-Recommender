@@ -1,0 +1,14 @@
+{
+    "user_id": "U10100",
+    "name": "이현준",
+    "email": "lee.hyunjun@example.org",
+    "goal": "Color Consultant",
+    "skills": "['Color Theory', 'Color Psychology']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10038']",
+    "learning_history": "Professional color consultant",
+    "employment_history": "Interior design color specialist for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10024', 'B10031']"
+}

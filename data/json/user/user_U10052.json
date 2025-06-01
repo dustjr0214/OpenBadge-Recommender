@@ -1,0 +1,14 @@
+{
+    "user_id": "U10052",
+    "name": "조현정",
+    "email": "cho.hyunjeong@example.org",
+    "goal": "Service Designer",
+    "skills": "['Service Design', 'Customer Journey Mapping']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10028', 'B10027']",
+    "learning_history": "Service design consultant for 5 years",
+    "employment_history": "Leading CX transformation projects",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10033', 'B10037']"
+}

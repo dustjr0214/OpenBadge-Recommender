@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10158",
+    "name": "Cookie and Biscuit Artisan",
+    "issuer": "Korea Cookie Baking Association",
+    "description": "Cookie and biscuit production",
+    "criteria": "Complete cookie artisan certification",
+    "alignment": "Cookie Standards",
+    "employmentOutcome": "Cookie specialist positions",
+    "skillsValidated": "['Cookie Baking', 'Biscuit Making', 'Decorative Cookies']",
+    "competency": "['Cookie Making']",
+    "learningOpportunity": "Cookie Artisan Course",
+    "related_badges": "['B10152']"
+}

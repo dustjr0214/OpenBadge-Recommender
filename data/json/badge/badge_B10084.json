@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10084",
+    "name": "STEM Education Innovator",
+    "issuer": "Korea STEM Education Institute",
+    "description": "Science and technology education methodology",
+    "criteria": "Develop innovative STEM curriculum",
+    "alignment": "STEM Education Standards",
+    "employmentOutcome": "STEM educator positions",
+    "skillsValidated": "['STEM Teaching', 'Science Education', 'Technology Integration']",
+    "competency": "['STEM Education']",
+    "learningOpportunity": "STEM Education Innovation Program",
+    "related_badges": "['B10081']"
+}

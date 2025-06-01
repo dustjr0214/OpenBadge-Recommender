@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10081",
+    "name": "Elementary Education Specialist",
+    "issuer": "Korea National Teachers Association",
+    "description": "Elementary school teaching and curriculum",
+    "criteria": "Complete elementary education certification",
+    "alignment": "National Education Standards",
+    "employmentOutcome": "Elementary teacher positions",
+    "skillsValidated": "['Child Development', 'Curriculum Planning', 'Classroom Management']",
+    "competency": "['Elementary Education']",
+    "learningOpportunity": "Elementary Teaching Certification",
+    "related_badges": "['B10082']"
+}

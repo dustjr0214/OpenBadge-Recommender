@@ -1,0 +1,14 @@
+{
+    "user_id": "U10103",
+    "name": "최지안",
+    "email": "choi.jian@example.net",
+    "goal": "Aerial Photographer",
+    "skills": "['Drone Operation', 'Aerial Photography']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10068', 'B10062']",
+    "learning_history": "Licensed drone pilot and photographer",
+    "employment_history": "Aerial survey company owner for 5 years",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10074', 'B10077']"
+}

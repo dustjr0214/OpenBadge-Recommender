@@ -1,0 +1,14 @@
+{
+    "user_id": "U10074",
+    "name": "정수민",
+    "email": "jung.sumin@email.com",
+    "goal": "Fire Safety Expert",
+    "skills": "['Fire Prevention', 'Safety Inspection']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10010']",
+    "learning_history": "Fire safety inspector for 5 years",
+    "employment_history": "Industrial safety consultant",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10011', 'B10017']"
+}

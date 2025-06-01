@@ -1,0 +1,14 @@
+{
+    "user_id": "U10115",
+    "name": "박시은",
+    "email": "park.sieun@example.net",
+    "goal": "Coffee Equipment Tech",
+    "skills": "['Equipment Maintenance', 'Machine Repair']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10167', 'B10161']",
+    "learning_history": "Coffee machine technician for 7 years",
+    "employment_history": "Equipment service company owner",
+    "education_level": "High school",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10168', 'B10165']"
+}

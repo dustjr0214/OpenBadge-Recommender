@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10013",
+    "name": "Hazmat Response Technician",
+    "issuer": "Korea Chemical Safety Institute",
+    "description": "Hazardous materials response and cleanup",
+    "criteria": "Complete hazmat technician certification",
+    "alignment": "Hazmat Response Standards",
+    "employmentOutcome": "Hazmat team member positions",
+    "skillsValidated": "['Chemical Safety', 'Contamination Control', 'Personal Protective Equipment']",
+    "competency": "['Hazmat Response']",
+    "learningOpportunity": "Hazmat Technician Course",
+    "related_badges": "['B10001'"
+}

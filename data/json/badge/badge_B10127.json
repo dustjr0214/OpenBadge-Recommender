@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10127",
+    "name": "Credit Analysis Expert",
+    "issuer": "Korea Credit Association",
+    "description": "Credit assessment and loan underwriting",
+    "criteria": "Complete credit analysis certification",
+    "alignment": "Credit Analysis Standards",
+    "employmentOutcome": "Credit analyst positions",
+    "skillsValidated": "['Credit Analysis', 'Loan Underwriting', 'Financial Assessment']",
+    "competency": "['Credit Analysis']",
+    "learningOpportunity": "Credit Analysis Program",
+    "related_badges": "['B10122'"
+}

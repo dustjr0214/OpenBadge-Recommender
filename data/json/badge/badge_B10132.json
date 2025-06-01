@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10132",
+    "name": "Wealth Management Advisor",
+    "issuer": "Korea Wealth Management Association",
+    "description": "High net worth client advisory services",
+    "criteria": "Complete wealth management certification",
+    "alignment": "Wealth Management Standards",
+    "employmentOutcome": "Wealth advisor positions",
+    "skillsValidated": "['Wealth Management', 'Portfolio Advisory', 'Estate Planning']",
+    "competency": "['Wealth Management']",
+    "learningOpportunity": "Wealth Management Certification",
+    "related_badges": "['B10124'"
+}

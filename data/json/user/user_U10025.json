@@ -1,0 +1,14 @@
+{
+    "user_id": "U10025",
+    "name": "배지훈",
+    "email": "bae.jihoon@example.org",
+    "goal": "Emergency Response Specialist",
+    "skills": "['Emergency Response', 'Disaster Management']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10001']",
+    "learning_history": "Volunteer firefighter for 4 years",
+    "employment_history": "Working as safety officer",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10006', 'B10014', 'B10017']"
+}

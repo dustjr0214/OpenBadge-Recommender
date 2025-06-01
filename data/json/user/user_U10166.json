@@ -1,0 +1,14 @@
+{
+    "user_id": "U10166",
+    "name": "한지율",
+    "email": "han.jiyul@example.org",
+    "goal": "Credit Analyst",
+    "skills": "['Credit Analysis', 'Loan Underwriting']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10127']",
+    "learning_history": "Bank credit analyst",
+    "employment_history": "Commercial lending specialist for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10126', 'B10122']"
+}

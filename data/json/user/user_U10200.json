@@ -1,0 +1,14 @@
+{
+    "user_id": "U10200",
+    "name": "정민석",
+    "email": "jung.minseok@email.com",
+    "goal": "Brewing Methods Expert",
+    "skills": "['Pour Over', 'French Press']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10170']",
+    "learning_history": "Manual brewing specialist and trainer",
+    "employment_history": "Alternative brewing methods instructor for 3 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10161', 'B10166']"
+}

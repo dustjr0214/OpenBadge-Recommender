@@ -1,0 +1,14 @@
+{
+    "user_id": "U10037",
+    "name": "신동욱",
+    "email": "shin.dongwook@example.net",
+    "goal": "Investment Analyst",
+    "skills": "['Financial Analysis', 'Market Research']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10121', 'B10122']",
+    "learning_history": "CFA charterholder with 7 years experience",
+    "employment_history": "Senior analyst at investment firm",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10139', 'B10137']"
+}

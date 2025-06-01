@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10196",
+    "name": "Construction Project Manager",
+    "issuer": "Korea Construction Management Association",
+    "description": "Construction project planning and execution",
+    "criteria": "Complete construction PM certification",
+    "alignment": "Construction Management Standards",
+    "employmentOutcome": "Construction project manager positions",
+    "skillsValidated": "['Construction Management', 'Building Project Planning', 'Contract Management']",
+    "competency": "['Construction Project Management']",
+    "learningOpportunity": "Construction PM Certification",
+    "related_badges": "['B10191']"
+}

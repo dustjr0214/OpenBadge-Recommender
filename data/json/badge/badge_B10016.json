@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10016",
+    "name": "Medical Emergency Dispatcher",
+    "issuer": "Korea Emergency Medical Services",
+    "description": "Emergency medical dispatch coordination",
+    "criteria": "Complete EMD certification program",
+    "alignment": "Emergency Dispatch Standards",
+    "employmentOutcome": "911 dispatcher positions",
+    "skillsValidated": "['Emergency Communication', 'Medical Assessment', 'Resource Coordination']",
+    "competency": "['Emergency Dispatch']",
+    "learningOpportunity": "Emergency Medical Dispatch Training",
+    "related_badges": "['B10001']"
+}

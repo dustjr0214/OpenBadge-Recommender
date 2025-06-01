@@ -1,0 +1,14 @@
+{
+    "user_id": "U10085",
+    "name": "김수환",
+    "email": "kim.suhwan@example.net",
+    "goal": "Quantitative Analyst",
+    "skills": "['Quantitative Analysis', 'Financial Modeling']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10139', 'B10121']",
+    "learning_history": "Quantitative researcher at hedge fund",
+    "employment_history": "Mathematical finance specialist for 6 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B10125', 'B10122']"
+}

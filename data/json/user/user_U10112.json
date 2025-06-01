@@ -1,0 +1,14 @@
+{
+    "user_id": "U10112",
+    "name": "송민성",
+    "email": "song.minsung@example.org",
+    "goal": "Tea Culture Expert",
+    "skills": "['Korean Tea Culture', 'Tea Ceremony']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10150']",
+    "learning_history": "Korean tea ceremony instructor",
+    "employment_history": "Traditional culture center teacher for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10141', 'B10142']"
+}

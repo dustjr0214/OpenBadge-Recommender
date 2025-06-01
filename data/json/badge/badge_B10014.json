@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10014",
+    "name": "Search and Rescue Specialist",
+    "issuer": "Korea Search and Rescue Association",
+    "description": "Search and rescue operations",
+    "criteria": "Complete SAR certification program",
+    "alignment": "International SAR Standards",
+    "employmentOutcome": "Search and rescue team positions",
+    "skillsValidated": "['Search Techniques', 'Rescue Operations', 'Navigation']",
+    "competency": "['Search and Rescue']",
+    "learningOpportunity": "SAR Operations Training",
+    "related_badges": "['B10001'"
+}

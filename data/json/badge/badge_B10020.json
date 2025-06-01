@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10020",
+    "name": "Marine Safety Specialist",
+    "issuer": "Korea Coast Guard",
+    "description": "Marine emergency response and water safety",
+    "criteria": "Complete marine safety certification",
+    "alignment": "International Maritime Safety Standards",
+    "employmentOutcome": "Coast guard and marine safety roles",
+    "skillsValidated": "['Marine Rescue', 'Boat Operation', 'Water Safety']",
+    "competency": "['Marine Safety']",
+    "learningOpportunity": "Marine Safety Training Program",
+    "related_badges": "['B10009']"
+}

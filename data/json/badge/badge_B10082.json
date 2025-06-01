@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10082",
+    "name": "Educational Psychology Expert",
+    "issuer": "Korea Educational Psychology Institute",
+    "description": "Student psychology and learning assessment",
+    "criteria": "Complete educational psychology certification",
+    "alignment": "Educational Psychology Standards",
+    "employmentOutcome": "School counselor positions",
+    "skillsValidated": "['Learning Assessment', 'Student Psychology', 'Behavioral Analysis']",
+    "competency": "['Educational Psychology']",
+    "learningOpportunity": "Educational Psychology Program",
+    "related_badges": "['B10083']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10055",
+    "name": "Educational Content Translator",
+    "issuer": "Korea Educational Translation Association",
+    "description": "Educational material and curriculum translation",
+    "criteria": "Translate educational content series",
+    "alignment": "Educational Translation Standards",
+    "employmentOutcome": "Educational translator roles",
+    "skillsValidated": "['Educational Content', 'Curriculum Translation', 'Learning Materials']",
+    "competency": "['Educational Translation']",
+    "learningOpportunity": "Educational Translation Program",
+    "related_badges": "['B10041']"
+}

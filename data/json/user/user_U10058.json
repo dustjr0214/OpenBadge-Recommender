@@ -1,0 +1,14 @@
+{
+    "user_id": "U10058",
+    "name": "이성호",
+    "email": "lee.sungho@example.org",
+    "goal": "Educational Leader",
+    "skills": "['Educational Leadership', 'School Administration']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10090']",
+    "learning_history": "Assistant principal for 2 years",
+    "employment_history": "Pursuing educational leadership degree",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10081', 'B10091']"
+}

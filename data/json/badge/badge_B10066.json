@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10066",
+    "name": "Street Photography Artist",
+    "issuer": "International Street Photography Collective",
+    "description": "Street photography and documentary skills",
+    "criteria": "Create street photography exhibition",
+    "alignment": "Street Photography Standards",
+    "employmentOutcome": "Documentary photographer positions",
+    "skillsValidated": "['Street Photography', 'Documentary Photography', 'Urban Photography']",
+    "competency": "['Street Photography']",
+    "learningOpportunity": "Street Photography Workshop",
+    "related_badges": "['B10062']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10161",
+    "name": "Barista Professional",
+    "issuer": "Korea Coffee Association",
+    "description": "Professional coffee brewing and service",
+    "criteria": "Complete barista certification",
+    "alignment": "Coffee Industry Standards",
+    "employmentOutcome": "Professional barista positions",
+    "skillsValidated": "['Espresso Making', 'Coffee Brewing', 'Customer Service']",
+    "competency": "['Barista Skills']",
+    "learningOpportunity": "Professional Barista Certification",
+    "related_badges": "['B10162']"
+}

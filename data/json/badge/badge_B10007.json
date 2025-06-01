@@ -1,0 +1,13 @@
+{
+    "badge_id": "B10007",
+    "name": "Wilderness First Aid",
+    "issuer": "Korea Mountain Rescue Association",
+    "description": "First aid in remote and wilderness settings",
+    "criteria": "Complete wilderness survival and first aid course",
+    "alignment": "Wilderness Medicine Standards",
+    "employmentOutcome": "Outdoor education and rescue roles",
+    "skillsValidated": "['Wilderness Survival', 'Remote First Aid', 'Environmental Safety']",
+    "competency": "['Wilderness Medicine']",
+    "learningOpportunity": "Wilderness Medicine Course",
+    "related_badges": "['B10002'"
+}

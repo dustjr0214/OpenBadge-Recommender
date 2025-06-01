@@ -1,0 +1,14 @@
+{
+    "user_id": "U10178",
+    "name": "조동현",
+    "email": "cho.donghyun@example.org",
+    "goal": "Search and Rescue",
+    "skills": "['Search Techniques', 'Rescue Operations']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B10014']",
+    "learning_history": "Mountain rescue team member",
+    "employment_history": "SAR volunteer coordinator for 5 years",
+    "education_level": "High school",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B10001', 'B10007']"
+}
