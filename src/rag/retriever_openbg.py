@@ -3,6 +3,7 @@ from typing import List, Dict, Any, Optional
 from langchain_pinecone import PineconeEmbeddings
 from pinecone import Pinecone
 from dotenv import load_dotenv
+import pprint
 
 load_dotenv(verbose=True)
 
@@ -145,7 +146,6 @@ class DataRetriever:
         """
         print(f"🔍 사용자 {user_id} 추천 시작")
         
-        # ✅ 기존에 잘 작동하는 search_users 활용
         user_results = self.search_users(
             query=user_id,
             top_k=1,
@@ -236,7 +236,7 @@ def main():
         print("---")
     
     # 예시: 특정 사용자에게 추천할 배지 (수정된 버전)
-    test_users = ["U10199", "U10043", "U10019"]  # 테스트할 사용자들
+    test_users = ["U10199"]  # 테스트할 사용자들
     
     for user_id in test_users:
         print(f"\n{'='*60}")
@@ -247,6 +247,7 @@ def main():
         
         print(f"\n🎯 최종 추천 결과:")
         if recommended_badges:
+            pprint.pprint(recommended_badges)
             for i, badge in enumerate(recommended_badges):
                 print(f"  {i+1}. {badge['id']} - {badge['metadata']['name']} (점수: {badge['score']:.4f})")
         else:

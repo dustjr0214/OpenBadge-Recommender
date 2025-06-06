@@ -5,8 +5,8 @@ from langchain_anthropic import ChatAnthropic
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
 from langchain_core.output_parsers import JsonOutputParser
-from src.rag.retriever_openbg import DataRetriever
-from src.model.badge import BadgeRecommendation
+from .retriever_openbg import DataRetriever
+from ..model.badge import BadgeRecommendation
 import json
 from datetime import datetime
 
@@ -31,7 +31,7 @@ class BadgeRecommender:
         
         # Claude 모델 초기화
         self.llm = ChatAnthropic(
-            model="claude-3-7-sonnet-20250219",
+            model="claude-sonnet-4-20250514",
             temperature=0.7,
             max_tokens=2048,
             anthropic_api_key=self.anthropic_api_key
@@ -195,12 +195,83 @@ class BadgeRecommender:
             print(f"추천 생성 중 오류 발생: {str(e)}")
             return {"recommendations": []}
 
+    def get_similar_badges(self, user_id: str, top_k: int = 15) -> List[Dict[str, Any]]:
+        """
+        사용자 ID를 기반으로 유사한 배지 목록을 구조화된 형태로 반환
+        
+        Args:
+            user_id: 사용자 ID
+            top_k: 반환할 배지 수
+            
+        Returns:
+            List[Dict[str, Any]]: 유사한 배지 목록
+        """
+        # retriever에서 유사한 배지 검색
+        similar_badges = self.retriever.get_similar_badges_for_user(
+            user_id=user_id,
+            top_k=top_k
+        )
+        
+        # 웹에서 사용하기 쉬운 형태로 구조화
+        structured_badges = []
+        for badge in similar_badges:
+            structured_badge = {
+                "badge_id": badge['id'],
+                "name": badge['metadata']['name'],
+                "issuer": badge['metadata']['issuer'],
+                "skills": badge['metadata']['skills'],
+                "competency": badge['metadata']['competency'],
+                "similarity_score": round(badge['score'], 4),
+                "description": badge['metadata'].get('description', ''),
+                "url": badge['metadata'].get('url', ''),
+                "criteria": badge['metadata'].get('criteria', ''),
+                "type": badge['metadata'].get('type', '')
+            }
+            structured_badges.append(structured_badge)
+            
+        return structured_badges
+        
+    def get_comprehensive_recommendations(self, user_id: str, 
+                                        ai_recommendations_count: int = 3,
+                                        similar_badges_count: int = 12) -> Dict[str, Any]:
+        """
+        AI 추천과 유사 배지를 모두 포함한 포괄적인 추천 결과 반환
+        
+        Args:
+            user_id: 사용자 ID
+            ai_recommendations_count: AI 추천 배지 수
+            similar_badges_count: 유사 배지 수
+            
+        Returns:
+            Dict[str, Any]: AI 추천과 유사 배지를 포함한 종합 결과
+        """
+        # 사용자 정보 확인
+        
+        # AI 추천 배지 (고품질, 소수)
+        ai_recommendations = self.recommend_badges(
+            user_id=user_id, 
+            count_recommendation=ai_recommendations_count
+        )
+        
+        # 유사 배지 (많은 수, retriever 기반)
+        similar_badges = self.get_similar_badges(
+            user_id=user_id, 
+            top_k=similar_badges_count
+        )
+        
+        return {
+            "badge_recommendations": ai_recommendations.get("recommendations", []),
+            "badge_related": similar_badges,
+            "total_ai_count": len(ai_recommendations.get("recommendations", [])),
+            "total_similar_count": len(similar_badges)
+        }
+
 def main():
     # 추천 시스템 초기화
     recommender = BadgeRecommender()
     
     # 예시: 여러 사용자에게 배지 추천 (개선된 결과 확인)
-    test_users = ["U07703", "U10003", "U10051"]  # 실제 존재하는 사용자들
+    test_users = ["U07703"]  # 실제 존재하는 사용자들
     
     for user_id in test_users:
         print(f"\n{'='*60}")
