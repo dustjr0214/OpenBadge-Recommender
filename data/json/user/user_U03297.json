@@ -1,0 +1,14 @@
+{
+    "user_id": "U03297",
+    "name": "Nicole Evans",
+    "email": "btucker@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05534', 'B03909', 'B02120', 'B02281', 'B02528']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Pruitt Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08822', 'B06118', 'B00795']"
+}

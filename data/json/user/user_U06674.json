@@ -1,0 +1,14 @@
+{
+    "user_id": "U06674",
+    "name": "Jessica Hudson",
+    "email": "curtisjohnny@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09123', 'B06059']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Shepard PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05240', 'B03286', 'B05392', 'B06191', 'B02970']"
+}

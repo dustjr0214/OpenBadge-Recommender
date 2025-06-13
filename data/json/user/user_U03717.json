@@ -1,0 +1,14 @@
+{
+    "user_id": "U03717",
+    "name": "Joshua Crane",
+    "email": "cardenasstacy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04523', 'B01285', 'B07009']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wiggins-Blackwell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07000', 'B04410', 'B06853', 'B00952']"
+}

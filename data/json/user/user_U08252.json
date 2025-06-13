@@ -1,0 +1,14 @@
+{
+    "user_id": "U08252",
+    "name": "Jenna Mata",
+    "email": "georgemaria@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05021', 'B01667']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Anderson, Grant and Harrison for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08336', 'B06552']"
+}

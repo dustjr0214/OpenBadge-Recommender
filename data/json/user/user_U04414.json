@@ -1,0 +1,14 @@
+{
+    "user_id": "U04414",
+    "name": "Veronica Moore",
+    "email": "pricecynthia@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01462']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Hernandez, Miller and Anderson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02447', 'B01445', 'B03187', 'B05283']"
+}

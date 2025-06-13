@@ -1,0 +1,14 @@
+{
+    "user_id": "U05372",
+    "name": "Andrew Campbell",
+    "email": "russellbentley@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08187', 'B00432', 'B04986', 'B07312']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Hill-Melendez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08353",
+    "name": "Frederick Collins",
+    "email": "ericscott@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08224', 'B07341', 'B06013']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Roberts-Rogers for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

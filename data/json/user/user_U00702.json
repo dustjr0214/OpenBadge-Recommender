@@ -1,0 +1,14 @@
+{
+    "user_id": "U00702",
+    "name": "Denise Gomez",
+    "email": "dixonkenneth@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02348', 'B06058']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Webb Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04360']"
+}

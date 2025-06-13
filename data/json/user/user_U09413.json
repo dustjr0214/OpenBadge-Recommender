@@ -1,0 +1,14 @@
+{
+    "user_id": "U09413",
+    "name": "Mary Davis",
+    "email": "kallen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07676']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Marshall, Melendez and Garcia for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05444', 'B01869', 'B08486', 'B09607', 'B06548']"
+}

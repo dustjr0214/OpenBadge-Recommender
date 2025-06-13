@@ -1,0 +1,14 @@
+{
+    "user_id": "U04929",
+    "name": "Alexander Brown",
+    "email": "bgregory@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02520', 'B05324', 'B08700', 'B00883', 'B03240']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Gilbert Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

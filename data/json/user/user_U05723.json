@@ -1,0 +1,14 @@
+{
+    "user_id": "U05723",
+    "name": "John Cabrera",
+    "email": "meltonadam@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08014', 'B06195', 'B05866', 'B07848', 'B06186']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Hernandez, Prince and Curtis for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04909', 'B05301']"
+}

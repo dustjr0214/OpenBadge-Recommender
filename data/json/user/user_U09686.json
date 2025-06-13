@@ -1,0 +1,14 @@
+{
+    "user_id": "U09686",
+    "name": "Aaron Kemp",
+    "email": "ericmatthews@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03508', 'B05003', 'B00341', 'B00073']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Hatfield PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07311']"
+}

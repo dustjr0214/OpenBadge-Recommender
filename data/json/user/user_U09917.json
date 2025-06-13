@@ -1,0 +1,14 @@
+{
+    "user_id": "U09917",
+    "name": "Mitchell Lee",
+    "email": "huntmegan@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03481']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Cobb, Martin and Powell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07035",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09314",
+    "name": "Adrian Nichols",
+    "email": "shawnwilliams@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02721', 'B02100', 'B07403', 'B03592']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hall and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09997']"
+}

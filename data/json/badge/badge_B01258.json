@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01258",
+    "name": "Cybersecurity Professional",
+    "issuer": "edX",
+    "description": "Cybersecurity Professional badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01799', 'B02758']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00651",
+    "name": "Caitlin Lopez",
+    "email": "jesse61@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02998', 'B02068', 'B02883']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Gardner-Carter for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09917', 'B04691']"
+}

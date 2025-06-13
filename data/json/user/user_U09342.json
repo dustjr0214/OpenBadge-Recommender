@@ -1,0 +1,14 @@
+{
+    "user_id": "U09342",
+    "name": "Darren Winters",
+    "email": "samanthaevans@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00039', 'B01086']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Andrews-Franco for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07287', 'B04549', 'B01727', 'B04366']"
+}

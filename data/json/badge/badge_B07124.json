@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07124",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'Data Analysis']",
+    "competency": "['SQL', 'Cloud Computing']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

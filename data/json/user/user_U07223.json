@@ -1,0 +1,14 @@
+{
+    "user_id": "U07223",
+    "name": "Jessica Valdez",
+    "email": "sharon67@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07319', 'B07263']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gregory-Wolf for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09347']"
+}

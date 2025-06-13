@@ -1,0 +1,14 @@
+{
+    "user_id": "U02500",
+    "name": "Karen Turner",
+    "email": "jody30@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02143']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Le, Richardson and Wallace for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02474']"
+}

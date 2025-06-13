@@ -1,0 +1,14 @@
+{
+    "user_id": "U08800",
+    "name": "Valerie Diaz",
+    "email": "melanie65@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04802', 'B00160', 'B03971', 'B09487', 'B05114']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Olson LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08576', 'B07123', 'B02605', 'B04950']"
+}

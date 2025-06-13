@@ -1,0 +1,14 @@
+{
+    "user_id": "U01682",
+    "name": "Tammy Wood",
+    "email": "don70@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08657']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Moyer, Barnes and Walker for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

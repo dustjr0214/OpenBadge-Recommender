@@ -1,0 +1,14 @@
+{
+    "user_id": "U09365",
+    "name": "Kimberly Shaw",
+    "email": "rtaylor@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05863', 'B07284']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Page-Moore for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01576']"
+}

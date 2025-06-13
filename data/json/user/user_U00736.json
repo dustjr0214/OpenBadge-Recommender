@@ -1,0 +1,14 @@
+{
+    "user_id": "U00736",
+    "name": "Holly Adams",
+    "email": "michael98@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06145', 'B05183', 'B01191', 'B02311', 'B09789']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Howard, Parker and Hinton for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01489']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02770",
+    "name": "Katherine Erickson",
+    "email": "david28@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06132', 'B00327']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Medina, Young and Reynolds for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05160']"
+}

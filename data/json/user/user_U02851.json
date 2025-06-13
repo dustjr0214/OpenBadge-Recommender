@@ -1,0 +1,14 @@
+{
+    "user_id": "U02851",
+    "name": "David Richard",
+    "email": "omorris@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07901', 'B03584', 'B08505', 'B03903', 'B07320']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Reyes, Hill and Allen for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00919', 'B05338']"
+}

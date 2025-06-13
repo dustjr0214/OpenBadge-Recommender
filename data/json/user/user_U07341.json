@@ -1,0 +1,14 @@
+{
+    "user_id": "U07341",
+    "name": "Gerald Lawrence",
+    "email": "perezkelly@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01237', 'B08910', 'B00559', 'B03818']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Martin Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04971']"
+}

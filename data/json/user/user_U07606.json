@@ -1,0 +1,14 @@
+{
+    "user_id": "U07606",
+    "name": "Tonya Cox",
+    "email": "deborahking@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02556', 'B04811', 'B00507', 'B04931', 'B09972']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Potter-Bush for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09189', 'B00744', 'B07470', 'B01617', 'B05523']"
+}

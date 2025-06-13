@@ -1,0 +1,14 @@
+{
+    "user_id": "U07823",
+    "name": "Melissa Jackson",
+    "email": "ayerscaleb@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06475', 'B04608']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Case-Rodriguez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06384', 'B08668']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01603",
+    "name": "William Barnes",
+    "email": "katherine47@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03174']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Hays-Freeman for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05403', 'B03412', 'B07618']"
+}

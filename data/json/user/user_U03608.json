@@ -1,0 +1,14 @@
+{
+    "user_id": "U03608",
+    "name": "Brandon Chan",
+    "email": "qluna@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07639', 'B03219']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Baxter Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09072', 'B04075', 'B09335', 'B09251', 'B09737']"
+}

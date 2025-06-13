@@ -1,0 +1,14 @@
+{
+    "user_id": "U01434",
+    "name": "Victoria Thompson",
+    "email": "vpowell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00294', 'B01254', 'B06347', 'B07036']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Castaneda, Lawson and Greene for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05144",
+    "name": "Nicole Flores",
+    "email": "kimberlyreeves@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06309', 'B06476', 'B07675', 'B09352']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Kidd-Allen for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02714', 'B08040', 'B02050']"
+}

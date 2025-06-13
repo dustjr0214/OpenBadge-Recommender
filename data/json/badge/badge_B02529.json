@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02529",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Creativity', 'DevOps', 'Cloud Computing']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B03002', 'B03224']"
+}

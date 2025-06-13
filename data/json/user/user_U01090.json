@@ -1,0 +1,14 @@
+{
+    "user_id": "U01090",
+    "name": "Stephanie Howell",
+    "email": "colehannah@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Frederick-Carpenter for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01545', 'B09156']"
+}

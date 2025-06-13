@@ -1,0 +1,14 @@
+{
+    "user_id": "U09069",
+    "name": "Regina Perez",
+    "email": "ericgarner@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07305', 'B03949', 'B06351', 'B00806', 'B05136']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Smith-Flores for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08646', 'B06810', 'B05359', 'B04824']"
+}

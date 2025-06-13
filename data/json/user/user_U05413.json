@@ -1,0 +1,14 @@
+{
+    "user_id": "U05413",
+    "name": "Mallory Barker",
+    "email": "escobarwilliam@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05001', 'B06793']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Riggs PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08682', 'B00220', 'B00722', 'B00241']"
+}

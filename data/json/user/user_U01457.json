@@ -1,0 +1,14 @@
+{
+    "user_id": "U01457",
+    "name": "Matthew Powell",
+    "email": "vaughnkimberly@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Pena Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05335', 'B03021', 'B03828', 'B05117']"
+}

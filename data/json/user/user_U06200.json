@@ -1,0 +1,14 @@
+{
+    "user_id": "U06200",
+    "name": "Kelly King",
+    "email": "kellysanders@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06670', 'B07777', 'B08193']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Blackburn-Wilkinson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

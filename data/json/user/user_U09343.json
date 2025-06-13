@@ -1,0 +1,14 @@
+{
+    "user_id": "U09343",
+    "name": "Mr. Blake Johnson",
+    "email": "sabrinaatkinson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01971']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Floyd and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00719', 'B03730', 'B07861', 'B02336', 'B07135']"
+}

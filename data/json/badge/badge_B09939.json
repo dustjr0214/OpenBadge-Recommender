@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09939",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09503', 'B01065']"
+}

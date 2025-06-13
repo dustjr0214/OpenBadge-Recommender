@@ -1,0 +1,14 @@
+{
+    "user_id": "U08181",
+    "name": "Deborah Reese",
+    "email": "jodinelson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08048', 'B01534', 'B00785', 'B07431', 'B02931']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Williams-Warner for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00287']"
+}

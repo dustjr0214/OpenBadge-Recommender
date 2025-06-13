@@ -1,0 +1,14 @@
+{
+    "user_id": "U02036",
+    "name": "Amy Shannon",
+    "email": "michaelbond@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08928']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Cardenas, Armstrong and Brown for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07893",
+    "name": "Dawn Hill",
+    "email": "ibradford@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01792', 'B03160', 'B01376']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Burton, Bryant and Vasquez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

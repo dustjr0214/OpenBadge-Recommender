@@ -1,0 +1,14 @@
+{
+    "user_id": "U07581",
+    "name": "Carol Stanton",
+    "email": "collinsyvonne@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04820']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Watkins PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02712', 'B09487']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05014",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency": "['Data Analysis', 'Deep Learning', 'Analytical Skills']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

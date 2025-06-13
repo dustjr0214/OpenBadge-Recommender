@@ -1,0 +1,14 @@
+{
+    "user_id": "U00992",
+    "name": "Luis Morales",
+    "email": "deborah49@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02339', 'B09186', 'B07855', 'B08331']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Jones-Hudson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09305', 'B02226', 'B00232', 'B02381']"
+}

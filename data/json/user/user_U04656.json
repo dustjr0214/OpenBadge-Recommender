@@ -1,0 +1,14 @@
+{
+    "user_id": "U04656",
+    "name": "Patrick Garner",
+    "email": "brycerollins@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02323', 'B03393']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Drake Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01689', 'B09628', 'B00625', 'B07100', 'B06862']"
+}

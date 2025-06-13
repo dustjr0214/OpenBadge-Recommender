@@ -1,0 +1,14 @@
+{
+    "user_id": "U00922",
+    "name": "Leah Williams",
+    "email": "hannahcruz@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01065']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Mclaughlin, Wilson and Wright for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02802', 'B02644', 'B07927', 'B05519']"
+}

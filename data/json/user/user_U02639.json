@@ -1,0 +1,14 @@
+{
+    "user_id": "U02639",
+    "name": "Robert Dominguez",
+    "email": "david02@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01680', 'B00433']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Sanchez-Dougherty for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05881']"
+}

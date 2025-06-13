@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02216",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'UI/UX', 'DevOps']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

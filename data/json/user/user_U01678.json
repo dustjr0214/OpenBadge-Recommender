@@ -1,0 +1,14 @@
+{
+    "user_id": "U01678",
+    "name": "Melissa Carter",
+    "email": "sandra19@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03585', 'B02801', 'B04099']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Pugh LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04107', 'B03010', 'B06185', 'B00909', 'B00530']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01038",
+    "name": "Ryan Moore",
+    "email": "xkelly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01989', 'B01448', 'B05077', 'B06787', 'B09922']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Terry, Torres and Morris for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04807', 'B04446', 'B05414', 'B03630', 'B09225']"
+}

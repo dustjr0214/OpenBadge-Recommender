@@ -1,0 +1,14 @@
+{
+    "user_id": "U07891",
+    "name": "Ms. Amy Stanley",
+    "email": "mlopez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Scott-Pacheco for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03923', 'B09922', 'B05551', 'B04930', 'B00952']"
+}

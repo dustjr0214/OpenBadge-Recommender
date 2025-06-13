@@ -1,0 +1,14 @@
+{
+    "user_id": "U06573",
+    "name": "Judith Jones",
+    "email": "wadecourtney@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03697', 'B08115']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Esparza and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01326']"
+}

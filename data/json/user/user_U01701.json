@@ -1,0 +1,14 @@
+{
+    "user_id": "U01701",
+    "name": "Margaret Garcia",
+    "email": "jwilliams@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02552', 'B05209', 'B03665']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Acevedo, Tyler and Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01720', 'B05676']"
+}

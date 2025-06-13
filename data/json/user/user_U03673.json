@@ -1,0 +1,14 @@
+{
+    "user_id": "U03673",
+    "name": "Stephanie Knox",
+    "email": "mrose@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05376', 'B08476', 'B06800', 'B08054', 'B02896']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Wilson-Bartlett for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05075', 'B07452']"
+}

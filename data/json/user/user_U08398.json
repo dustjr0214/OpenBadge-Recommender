@@ -1,0 +1,14 @@
+{
+    "user_id": "U08398",
+    "name": "Amanda Andrews",
+    "email": "johnjones@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01136', 'B03024', 'B01151', 'B03967']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Woodward LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03963', 'B00965']"
+}

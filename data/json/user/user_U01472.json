@@ -1,0 +1,14 @@
+{
+    "user_id": "U01472",
+    "name": "James Rangel",
+    "email": "adamselizabeth@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Archer, Anderson and Richards for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02572', 'B04875', 'B08868', 'B05061', 'B00114']"
+}

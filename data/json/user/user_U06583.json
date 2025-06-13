@@ -1,0 +1,14 @@
+{
+    "user_id": "U06583",
+    "name": "Michelle Carroll",
+    "email": "melissabaker@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Saunders Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03661', 'B08395']"
+}

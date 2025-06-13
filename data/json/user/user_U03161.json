@@ -1,0 +1,14 @@
+{
+    "user_id": "U03161",
+    "name": "Robert West",
+    "email": "whoward@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05251']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Kidd-Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09042",
+    "name": "Tony Coleman",
+    "email": "melissasmith@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06495', 'B01171', 'B08764']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Brown PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08555', 'B09571', 'B09008', 'B03837']"
+}

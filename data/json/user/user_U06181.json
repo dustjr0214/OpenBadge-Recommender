@@ -1,0 +1,14 @@
+{
+    "user_id": "U06181",
+    "name": "Kim Mendoza",
+    "email": "bradshawabigail@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05028', 'B03480', 'B00965', 'B02515', 'B01558']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Watson, Cole and Simpson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04309', 'B00051', 'B01924', 'B07820']"
+}

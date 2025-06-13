@@ -1,0 +1,14 @@
+{
+    "user_id": "U08448",
+    "name": "Brent Turner",
+    "email": "michael90@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08188', 'B05286', 'B00719', 'B07443']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cortez-Patterson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00069', 'B07193', 'B01051', 'B09895', 'B08412']"
+}

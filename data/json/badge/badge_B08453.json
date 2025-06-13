@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08453",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency": "['Leadership', 'Machine Learning', 'Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B09327']"
+}

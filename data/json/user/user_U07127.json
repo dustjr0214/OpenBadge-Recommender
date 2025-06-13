@@ -1,0 +1,14 @@
+{
+    "user_id": "U07127",
+    "name": "Michael Spencer",
+    "email": "mgregory@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06948']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Turner, Castro and Weeks for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02769', 'B05273']"
+}

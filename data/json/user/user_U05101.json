@@ -1,0 +1,14 @@
+{
+    "user_id": "U05101",
+    "name": "David Cole",
+    "email": "yrodriguez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Rivers Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03616', 'B01002', 'B02421']"
+}

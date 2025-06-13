@@ -1,0 +1,14 @@
+{
+    "user_id": "U00860",
+    "name": "Stanley Allen",
+    "email": "wellsrobert@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08936', 'B04311', 'B01756']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ferguson, Pierce and Doyle for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00552', 'B06316', 'B00790', 'B09386']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08681",
+    "name": "Julia Landry",
+    "email": "wmurray@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08224', 'B09562', 'B07863', 'B07418', 'B04915']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Hall, Perez and Jarvis for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00367', 'B02758', 'B01580']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01259",
+    "name": "Gabrielle Davis",
+    "email": "chelsea26@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09264', 'B08069', 'B08521', 'B02203']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Mcdowell-Abbott for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02887",
+    "name": "Robert Hansen",
+    "email": "urobinson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07300', 'B08814', 'B05497', 'B02560']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Clark, Brooks and Wood for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03057', 'B02011', 'B00071']"
+}

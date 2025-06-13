@@ -1,0 +1,14 @@
+{
+    "user_id": "U06511",
+    "name": "Diana Green",
+    "email": "alice03@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09568']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Reed-Marks for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01480', 'B09640']"
+}

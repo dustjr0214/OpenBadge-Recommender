@@ -1,0 +1,14 @@
+{
+    "user_id": "U07081",
+    "name": "David Wood",
+    "email": "agrant@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01716', 'B03266', 'B03718', 'B01632']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Grimes and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06016', 'B02383', 'B01894', 'B08891', 'B07528']"
+}

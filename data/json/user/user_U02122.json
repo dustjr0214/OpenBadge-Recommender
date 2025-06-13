@@ -1,0 +1,14 @@
+{
+    "user_id": "U02122",
+    "name": "Robin Williams DDS",
+    "email": "charles26@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06664', 'B03563', 'B05314', 'B04485', 'B09475']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Reed, Jackson and Maldonado for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01912']"
+}

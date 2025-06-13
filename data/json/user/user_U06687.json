@@ -1,0 +1,14 @@
+{
+    "user_id": "U06687",
+    "name": "Lisa Willis",
+    "email": "williamcox@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00990', 'B00447', 'B03462']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Cuevas, Mckee and Glenn for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08180', 'B04094', 'B04528', 'B06772']"
+}

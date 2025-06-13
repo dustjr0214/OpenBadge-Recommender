@@ -1,0 +1,14 @@
+{
+    "user_id": "U04838",
+    "name": "Michael Gordon",
+    "email": "zhopkins@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00117', 'B05772', 'B02269', 'B03138', 'B05404']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Frye-Wade for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

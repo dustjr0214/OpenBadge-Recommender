@@ -1,0 +1,14 @@
+{
+    "user_id": "U05877",
+    "name": "Jasmine Hansen",
+    "email": "calebdickerson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05101', 'B05200', 'B09431']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Chapman, Henderson and Simon for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

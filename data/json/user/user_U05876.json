@@ -1,0 +1,14 @@
+{
+    "user_id": "U05876",
+    "name": "Eric Nelson",
+    "email": "christopher09@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Cummings, Clements and Robles for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07153', 'B04375', 'B04295', 'B09351', 'B07576']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02211",
+    "name": "Lori Wolfe",
+    "email": "vorr@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Peters, Bush and Scott for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09085', 'B06432']"
+}

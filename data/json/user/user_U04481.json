@@ -1,0 +1,14 @@
+{
+    "user_id": "U04481",
+    "name": "Richard Vazquez",
+    "email": "ocarroll@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06187', 'B02270']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cain, Anderson and Thomas for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00243', 'B06128', 'B08557', 'B08597']"
+}

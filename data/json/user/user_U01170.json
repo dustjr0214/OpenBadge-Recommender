@@ -1,0 +1,14 @@
+{
+    "user_id": "U01170",
+    "name": "Kristy Jordan",
+    "email": "bparks@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08670', 'B09179', 'B04242']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Taylor LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05579', 'B08388', 'B00869', 'B01268', 'B00092']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08102",
+    "name": "Jeffrey Schneider",
+    "email": "danielle17@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Lewis, Turner and Lawrence for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08818', 'B09603']"
+}

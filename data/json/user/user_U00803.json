@@ -1,0 +1,14 @@
+{
+    "user_id": "U00803",
+    "name": "Jamie Sanchez",
+    "email": "pachecobethany@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Barry LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05118', 'B00119']"
+}

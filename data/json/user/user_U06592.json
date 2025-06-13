@@ -1,0 +1,14 @@
+{
+    "user_id": "U06592",
+    "name": "Terri Craig",
+    "email": "bsmith@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02571', 'B07623', 'B08107']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Jordan-Reed for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07283']"
+}

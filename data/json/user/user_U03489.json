@@ -1,0 +1,14 @@
+{
+    "user_id": "U03489",
+    "name": "Nicholas Orr",
+    "email": "heather86@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04463', 'B00512', 'B04151', 'B04083']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Dunn LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08960', 'B02364', 'B01664', 'B06517', 'B02068']"
+}

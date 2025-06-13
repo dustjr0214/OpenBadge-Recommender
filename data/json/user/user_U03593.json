@@ -1,0 +1,14 @@
+{
+    "user_id": "U03593",
+    "name": "Amy Barnes",
+    "email": "melendezashley@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01206', 'B00286', 'B06733', 'B07505', 'B01435']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Brown-Nolan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06895', 'B02468', 'B04311', 'B04198']"
+}

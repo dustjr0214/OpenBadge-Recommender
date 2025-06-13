@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09725",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Deep Learning']",
+    "competency": "['Analytical Skills']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B09713', 'B09858']"
+}

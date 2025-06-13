@@ -1,0 +1,14 @@
+{
+    "user_id": "U09707",
+    "name": "Autumn Simon",
+    "email": "dennis26@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03455']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Riggs-Garcia for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09130', 'B08253', 'B05011', 'B08846', 'B01532']"
+}

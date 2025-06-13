@@ -1,0 +1,14 @@
+{
+    "user_id": "U08741",
+    "name": "Vanessa Olson",
+    "email": "garydominguez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07124', 'B03703', 'B01237', 'B02853']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Bowers, Anderson and Coleman for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07656', 'B01323', 'B09810']"
+}

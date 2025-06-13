@@ -1,0 +1,14 @@
+{
+    "user_id": "U02739",
+    "name": "Erin Rios",
+    "email": "patrickduncan@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02682']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Mcdonald-Stewart for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03491', 'B05286', 'B00654', 'B09562']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03970",
+    "name": "Kevin Rocha",
+    "email": "jenkinssarah@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03765', 'B02661', 'B01045', 'B09350']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Jenkins-Lang for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02149', 'B02800', 'B06172']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02194",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python']",
+    "competency": "['Leadership', 'UI/UX', 'Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01948', 'B05085']"
+}

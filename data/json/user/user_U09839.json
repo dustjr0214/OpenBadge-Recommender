@@ -1,0 +1,14 @@
+{
+    "user_id": "U09839",
+    "name": "Gabrielle Williams",
+    "email": "veronicawood@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01022', 'B06056', 'B07121', 'B06016']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Walker-Pearson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00489', 'B02382', 'B08220']"
+}

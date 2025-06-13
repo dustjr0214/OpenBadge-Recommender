@@ -1,0 +1,14 @@
+{
+    "user_id": "U05322",
+    "name": "Katherine Aguilar",
+    "email": "stevenbenson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Espinoza, Freeman and Jones for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07642', 'B03322', 'B09119', 'B06066']"
+}

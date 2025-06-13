@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06109",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'SQL', 'DevOps']",
+    "competency": "['Cloud Computing', 'Machine Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B07959']"
+}

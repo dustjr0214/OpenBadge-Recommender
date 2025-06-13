@@ -1,0 +1,14 @@
+{
+    "user_id": "U00535",
+    "name": "Jennifer David",
+    "email": "lisa48@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02372', 'B09169']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Vaughn PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02666']"
+}

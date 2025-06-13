@@ -1,0 +1,14 @@
+{
+    "user_id": "U04254",
+    "name": "Candace Gonzales",
+    "email": "kbryan@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07268', 'B05412', 'B01746', 'B09876', 'B09784']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Rice-Lawson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

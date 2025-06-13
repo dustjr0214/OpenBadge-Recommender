@@ -1,0 +1,14 @@
+{
+    "user_id": "U01624",
+    "name": "Randy Rodriguez",
+    "email": "dansilva@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01311', 'B00827', 'B04694']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Stewart Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02045', 'B03378', 'B04119']"
+}

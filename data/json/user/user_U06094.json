@@ -1,0 +1,14 @@
+{
+    "user_id": "U06094",
+    "name": "Jack Stout",
+    "email": "ecampbell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Johnson, Brown and Jones for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03697', 'B07971', 'B07238', 'B02545', 'B04668']"
+}

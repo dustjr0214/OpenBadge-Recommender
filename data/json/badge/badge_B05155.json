@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05155",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'Cloud Computing', 'Machine Learning']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05756']"
+}

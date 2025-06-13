@@ -1,0 +1,14 @@
+{
+    "user_id": "U01533",
+    "name": "Charles Ball",
+    "email": "gibbsanita@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Thomas, Jenkins and Brown for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

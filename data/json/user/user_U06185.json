@@ -1,0 +1,14 @@
+{
+    "user_id": "U06185",
+    "name": "Christopher Rogers",
+    "email": "maria73@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09658', 'B01119', 'B00927', 'B01873', 'B06047']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Smith, Nguyen and Parker for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09231', 'B07461', 'B08024', 'B06486']"
+}

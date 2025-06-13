@@ -1,0 +1,14 @@
+{
+    "user_id": "U03506",
+    "name": "Kathryn Stewart DVM",
+    "email": "williamswendy@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02409', 'B06849', 'B05981', 'B01139', 'B02424']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Mitchell, Williams and Garrett for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09870', 'B04432', 'B07547', 'B05635', 'B01714']"
+}

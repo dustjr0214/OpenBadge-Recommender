@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07711",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'DevOps', 'UI/UX']",
+    "competency": "['DevOps', 'Analytical Skills', 'UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

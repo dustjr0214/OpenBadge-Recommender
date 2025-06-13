@@ -1,0 +1,14 @@
+{
+    "user_id": "U00823",
+    "name": "Heidi Jackson",
+    "email": "klopez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Bartlett, Williams and Peterson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05963', 'B08183', 'B02161', 'B04500', 'B02150']"
+}

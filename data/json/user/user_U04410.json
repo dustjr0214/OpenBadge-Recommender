@@ -1,0 +1,14 @@
+{
+    "user_id": "U04410",
+    "name": "Micheal Novak",
+    "email": "wesleyarmstrong@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09969', 'B01238', 'B02987']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Brooks, Armstrong and Woods for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02285']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01474",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05193', 'B00948']"
+}

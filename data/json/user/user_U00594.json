@@ -1,0 +1,14 @@
+{
+    "user_id": "U00594",
+    "name": "Renee Smith",
+    "email": "cookjustin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hayes, Perez and Hines for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08389', 'B05302', 'B02891']"
+}

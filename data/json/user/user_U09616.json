@@ -1,0 +1,14 @@
+{
+    "user_id": "U09616",
+    "name": "Timothy Nixon",
+    "email": "brownrichard@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08616']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Phillips LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06782', 'B02563']"
+}

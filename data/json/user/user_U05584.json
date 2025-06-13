@@ -1,0 +1,14 @@
+{
+    "user_id": "U05584",
+    "name": "James Smith",
+    "email": "jennifer63@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04068']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Jackson PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00279', 'B03987', 'B03281']"
+}

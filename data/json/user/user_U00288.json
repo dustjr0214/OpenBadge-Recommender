@@ -1,0 +1,14 @@
+{
+    "user_id": "U00288",
+    "name": "Charles Schaefer",
+    "email": "creid@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06919', 'B05895', 'B01669', 'B00026', 'B00465']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Dunn, Ward and Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

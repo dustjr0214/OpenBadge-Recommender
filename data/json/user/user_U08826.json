@@ -1,0 +1,14 @@
+{
+    "user_id": "U08826",
+    "name": "Kristina Cook",
+    "email": "armstrongadam@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06488', 'B08435', 'B01206', 'B06891']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Brown-Cooper for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04578', 'B07692', 'B06772', 'B01274']"
+}

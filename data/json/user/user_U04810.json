@@ -1,0 +1,14 @@
+{
+    "user_id": "U04810",
+    "name": "Jake Johnson",
+    "email": "jamescole@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06201', 'B03621', 'B09736', 'B00871']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Smith, Lara and Wilson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02076', 'B06168', 'B04645', 'B04346']"
+}

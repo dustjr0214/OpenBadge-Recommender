@@ -1,0 +1,14 @@
+{
+    "user_id": "U01787",
+    "name": "Michelle Livingston",
+    "email": "snielsen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08393', 'B06242', 'B06428', 'B07532', 'B09683']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Myers, Butler and Smith for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06584', 'B02429', 'B08687']"
+}

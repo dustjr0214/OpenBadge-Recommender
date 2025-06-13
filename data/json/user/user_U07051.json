@@ -1,0 +1,14 @@
+{
+    "user_id": "U07051",
+    "name": "Daniel Sawyer",
+    "email": "christy41@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07512', 'B04711', 'B00130', 'B03023', 'B02433']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Mack, Torres and Walsh for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

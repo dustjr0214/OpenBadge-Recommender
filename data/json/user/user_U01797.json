@@ -1,0 +1,14 @@
+{
+    "user_id": "U01797",
+    "name": "Daniel Flowers",
+    "email": "singletonanne@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06720', 'B01556', 'B06736']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Smith, Allen and Clark for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01569', 'B00672']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04465",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B04514']"
+}

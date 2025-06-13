@@ -1,0 +1,14 @@
+{
+    "user_id": "U06411",
+    "name": "Brenda Mccoy",
+    "email": "christinamorris@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04242', 'B07288']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Esparza-Watson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09887', 'B09424', 'B01739']"
+}

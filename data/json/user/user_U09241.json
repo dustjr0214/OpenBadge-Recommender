@@ -1,0 +1,14 @@
+{
+    "user_id": "U09241",
+    "name": "Susan Burton",
+    "email": "wilsonjohn@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08174', 'B09939', 'B03986']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson, King and Cohen for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03752', 'B08643']"
+}

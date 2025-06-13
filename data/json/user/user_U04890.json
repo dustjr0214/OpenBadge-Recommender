@@ -1,0 +1,14 @@
+{
+    "user_id": "U04890",
+    "name": "Dawn Weaver",
+    "email": "aaron10@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07865', 'B04415', 'B08079', 'B08899', 'B08598']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Barnett Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06268']"
+}

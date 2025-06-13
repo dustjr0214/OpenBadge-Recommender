@@ -1,0 +1,14 @@
+{
+    "user_id": "U06259",
+    "name": "Billy Cantu",
+    "email": "crosbyrobert@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01187']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Jones, Kim and Wagner for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

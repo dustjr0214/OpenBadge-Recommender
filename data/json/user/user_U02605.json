@@ -1,0 +1,14 @@
+{
+    "user_id": "U02605",
+    "name": "Diane Frank",
+    "email": "danielsims@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02318', 'B07582']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Delacruz-Gonzalez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

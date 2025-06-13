@@ -1,0 +1,14 @@
+{
+    "user_id": "U07653",
+    "name": "Christina Lang",
+    "email": "dcarpenter@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06028']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Patton Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

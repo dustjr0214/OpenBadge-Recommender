@@ -1,0 +1,14 @@
+{
+    "user_id": "U08899",
+    "name": "Alison Cardenas",
+    "email": "morganbrandon@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08594', 'B01655', 'B05139']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gonzalez-Mitchell for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07077', 'B05619', 'B08517', 'B02852']"
+}

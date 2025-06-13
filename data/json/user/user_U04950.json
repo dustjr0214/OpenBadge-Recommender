@@ -1,0 +1,14 @@
+{
+    "user_id": "U04950",
+    "name": "David Brennan",
+    "email": "xzamora@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07996', 'B01866']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Adams, Juarez and Jackson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

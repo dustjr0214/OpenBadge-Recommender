@@ -1,0 +1,14 @@
+{
+    "user_id": "U01295",
+    "name": "Kelly Phillips",
+    "email": "andrea20@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08711', 'B08111']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Park PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03988', 'B05548', 'B06935', 'B08722']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02947",
+    "name": "Jonathan Kramer",
+    "email": "williamsolivia@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08672', 'B05773', 'B07074']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Adams, Turner and Martinez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09009', 'B09313', 'B01801']"
+}

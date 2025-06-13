@@ -1,0 +1,14 @@
+{
+    "user_id": "U01578",
+    "name": "Lisa Boyd",
+    "email": "kelly97@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01871', 'B08306', 'B05216']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Reyes, Russell and Martinez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00891",
+    "name": "Laura Todd",
+    "email": "david14@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04587', 'B09224', 'B06281', 'B03140']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Woods-Lucero for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07951', 'B09966']"
+}

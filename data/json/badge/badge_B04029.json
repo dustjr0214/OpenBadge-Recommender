@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04029",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

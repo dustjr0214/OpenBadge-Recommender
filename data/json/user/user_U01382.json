@@ -1,0 +1,14 @@
+{
+    "user_id": "U01382",
+    "name": "Cathy Smith",
+    "email": "zchristensen@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02902', 'B09969', 'B07885', 'B05631']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Anderson Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

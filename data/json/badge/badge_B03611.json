@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03611",
+    "name": "Big Data Analyst",
+    "issuer": "Udacity",
+    "description": "Big Data Analyst badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Data Analysis', 'DevOps', 'Teamwork']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01802']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01205",
+    "name": "Brian Chan",
+    "email": "stanleymontes@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Murray-White for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09966', 'B04455', 'B06642']"
+}

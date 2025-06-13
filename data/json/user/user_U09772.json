@@ -1,0 +1,14 @@
+{
+    "user_id": "U09772",
+    "name": "James Hanson",
+    "email": "andrewcole@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Caldwell Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02532', 'B03153', 'B00988']"
+}

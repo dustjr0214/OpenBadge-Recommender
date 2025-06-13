@@ -1,0 +1,14 @@
+{
+    "user_id": "U06910",
+    "name": "Jessica Parker",
+    "email": "mark40@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01591', 'B05609', 'B04948']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Orr LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03079', 'B07926']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05321",
+    "name": "Curtis Daniels",
+    "email": "owenscheryl@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06240', 'B01166', 'B02340']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Chavez, Rodriguez and Johnson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02572', 'B01361']"
+}

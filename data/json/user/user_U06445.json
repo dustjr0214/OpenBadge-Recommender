@@ -1,0 +1,14 @@
+{
+    "user_id": "U06445",
+    "name": "Richard Gonzalez",
+    "email": "nramsey@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07884', 'B06933', 'B01065', 'B04377', 'B07504']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rivera Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02196', 'B05565', 'B07589']"
+}

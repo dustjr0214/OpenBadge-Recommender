@@ -1,0 +1,14 @@
+{
+    "user_id": "U09960",
+    "name": "Justin Howard",
+    "email": "unielsen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05174', 'B07429']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Lee-Randall for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09118', 'B01258']"
+}

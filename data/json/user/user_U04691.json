@@ -1,0 +1,14 @@
+{
+    "user_id": "U04691",
+    "name": "Patricia Decker",
+    "email": "pfitzgerald@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02065', 'B05053', 'B04346', 'B05745']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Hayes-Hughes for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08561', 'B00180']"
+}

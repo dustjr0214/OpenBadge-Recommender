@@ -1,0 +1,14 @@
+{
+    "user_id": "U01716",
+    "name": "Tina Walton",
+    "email": "holmeschad@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06238', 'B06029']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Flores PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07738', 'B06312', 'B05844', 'B09246', 'B04609']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06993",
+    "name": "Shannon Collins",
+    "email": "ugarcia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01045', 'B06681', 'B05619']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Wiley PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04183']"
+}

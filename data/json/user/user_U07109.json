@@ -1,0 +1,14 @@
+{
+    "user_id": "U07109",
+    "name": "Andrew Manning",
+    "email": "jhogan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03783', 'B05969', 'B01150', 'B00527', 'B02031']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Freeman, Martin and Lopez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

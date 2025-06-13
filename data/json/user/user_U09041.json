@@ -1,0 +1,14 @@
+{
+    "user_id": "U09041",
+    "name": "Amanda Reynolds MD",
+    "email": "walshlindsey@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03336', 'B02118']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Maxwell, Cox and Walker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01168', 'B04754']"
+}

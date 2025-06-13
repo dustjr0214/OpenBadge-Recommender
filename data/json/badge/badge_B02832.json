@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02832",
+    "name": "Machine Learning Pro",
+    "issuer": "Coursera",
+    "description": "Machine Learning Pro badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency": "['Python', 'Creativity', 'Analytical Skills']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01689']"
+}

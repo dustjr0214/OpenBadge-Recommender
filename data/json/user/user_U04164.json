@@ -1,0 +1,14 @@
+{
+    "user_id": "U04164",
+    "name": "Robert Hansen",
+    "email": "qgolden@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05151']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Edwards-Allen for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00228', 'B06496', 'B02423']"
+}

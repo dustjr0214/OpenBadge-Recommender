@@ -1,0 +1,14 @@
+{
+    "user_id": "U02995",
+    "name": "Charles Richards",
+    "email": "melissa03@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03475', 'B00631', 'B03943']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Garcia Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07191', 'B07505']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03854",
+    "name": "James Mathews",
+    "email": "rjames@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07393', 'B09032']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Hunt, Harrington and Thompson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08541', 'B03077']"
+}

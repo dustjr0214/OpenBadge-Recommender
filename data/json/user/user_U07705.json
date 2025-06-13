@@ -1,0 +1,14 @@
+{
+    "user_id": "U07705",
+    "name": "Jeffrey Smith",
+    "email": "ashlee29@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08036', 'B06740', 'B07643', 'B08016']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Munoz PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00132', 'B04235', 'B01247', 'B03946']"
+}

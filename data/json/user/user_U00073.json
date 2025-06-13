@@ -1,0 +1,14 @@
+{
+    "user_id": "U00073",
+    "name": "George Heath",
+    "email": "khanrobert@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Williams Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01363', 'B00482', 'B09182', 'B06081', 'B07033']"
+}

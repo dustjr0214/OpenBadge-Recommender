@@ -1,0 +1,14 @@
+{
+    "user_id": "U00704",
+    "name": "Jennifer Campbell",
+    "email": "camposbrian@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04237', 'B04507', 'B08054', 'B09888']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Dalton Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02611', 'B05050']"
+}

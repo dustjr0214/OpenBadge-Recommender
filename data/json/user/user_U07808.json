@@ -1,0 +1,14 @@
+{
+    "user_id": "U07808",
+    "name": "Susan Ramirez",
+    "email": "mike62@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02753', 'B02470', 'B01824']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Perez-Clark for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08335', 'B00755']"
+}

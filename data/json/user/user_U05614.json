@@ -1,0 +1,14 @@
+{
+    "user_id": "U05614",
+    "name": "Jodi Gonzales",
+    "email": "diane88@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04685', 'B09785', 'B03031']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Evans-Cook for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00945', 'B06086', 'B04299', 'B09182', 'B05091']"
+}

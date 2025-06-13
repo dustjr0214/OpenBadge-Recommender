@@ -1,0 +1,14 @@
+{
+    "user_id": "U05520",
+    "name": "Roy Harvey",
+    "email": "jjackson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Jenkins-Lam for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07421', 'B05250', 'B04780']"
+}

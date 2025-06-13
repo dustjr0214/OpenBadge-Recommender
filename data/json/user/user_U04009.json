@@ -1,0 +1,14 @@
+{
+    "user_id": "U04009",
+    "name": "Deanna Collins",
+    "email": "nthomas@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05940', 'B00505', 'B08028', 'B03864']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Ruiz Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04310']"
+}

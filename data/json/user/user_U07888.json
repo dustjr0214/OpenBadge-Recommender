@@ -1,0 +1,14 @@
+{
+    "user_id": "U07888",
+    "name": "Jessica Velazquez",
+    "email": "jessica69@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01076', 'B09886', 'B09942', 'B09724']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Galloway-Lewis for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01374', 'B06419', 'B03182', 'B00171']"
+}

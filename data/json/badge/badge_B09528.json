@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09528",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Deep Learning', 'Leadership', 'Cloud Computing']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B02975']"
+}

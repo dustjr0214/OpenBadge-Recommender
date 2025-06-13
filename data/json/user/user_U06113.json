@@ -1,0 +1,14 @@
+{
+    "user_id": "U06113",
+    "name": "Brittany Lopez",
+    "email": "carpentershelley@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04873', 'B06855', 'B01753', 'B00757', 'B00072']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Miller, Miller and Lopez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08978', 'B09389', 'B09699', 'B04867', 'B05088']"
+}

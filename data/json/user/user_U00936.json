@@ -1,0 +1,14 @@
+{
+    "user_id": "U00936",
+    "name": "Matthew Baker",
+    "email": "ccarlson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09028', 'B01542', 'B01017']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Blake-Richardson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08831']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03116",
+    "name": "Jenna Phillips",
+    "email": "millerlaura@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06935', 'B04071', 'B00406', 'B04674', 'B06569']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Curtis LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

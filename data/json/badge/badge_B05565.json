@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05565",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'Deep Learning']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01595', 'B04636']"
+}

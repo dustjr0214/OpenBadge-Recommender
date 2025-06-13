@@ -1,0 +1,14 @@
+{
+    "user_id": "U03817",
+    "name": "Marcus James",
+    "email": "justin06@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05260', 'B06655', 'B05001', 'B07058']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Powell Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03047', 'B00502', 'B04886', 'B09570']"
+}

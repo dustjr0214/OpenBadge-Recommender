@@ -1,0 +1,14 @@
+{
+    "user_id": "U02593",
+    "name": "Danielle Jackson",
+    "email": "richardsondennis@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01473', 'B05459', 'B00604', 'B08865', 'B02834']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Jones PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04722', 'B04535', 'B01231']"
+}

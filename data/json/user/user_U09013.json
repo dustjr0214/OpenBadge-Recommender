@@ -1,0 +1,14 @@
+{
+    "user_id": "U09013",
+    "name": "Dawn Nash",
+    "email": "alisonwilson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06714', 'B06285', 'B01526']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Gonzalez, Daugherty and Sampson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05482', 'B07817', 'B06286']"
+}

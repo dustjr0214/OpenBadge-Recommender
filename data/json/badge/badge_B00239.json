@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00239",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06633']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04195",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

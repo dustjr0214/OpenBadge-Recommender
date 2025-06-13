@@ -1,0 +1,14 @@
+{
+    "user_id": "U04606",
+    "name": "Seth Christensen",
+    "email": "baileycynthia@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09969', 'B03611', 'B08290']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Chen-Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02508', 'B02402', 'B02499', 'B08693', 'B06101']"
+}

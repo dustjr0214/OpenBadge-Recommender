@@ -1,0 +1,14 @@
+{
+    "user_id": "U00935",
+    "name": "Brianna Everett",
+    "email": "amber17@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04989', 'B02446', 'B09000', 'B06640']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Barnes PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00091', 'B05446', 'B02361', 'B00920', 'B02951']"
+}

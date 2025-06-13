@@ -1,0 +1,14 @@
+{
+    "user_id": "U09931",
+    "name": "Christina Jackson",
+    "email": "littlejohnathan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00284', 'B06744', 'B06701', 'B05879']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Brown-Huffman for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06813']"
+}

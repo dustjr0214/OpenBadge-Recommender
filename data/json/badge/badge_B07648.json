@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07648",
+    "name": "Cloud Computing Guru",
+    "issuer": "Udacity",
+    "description": "Cloud Computing Guru badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'UI/UX', 'Cloud Computing']",
+    "competency": "['Cybersecurity', 'SQL', 'UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B03339', 'B07839']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08117",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps']",
+    "competency": "['SQL', 'Deep Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B01768']"
+}

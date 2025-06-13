@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06935",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency": "['DevOps', 'Machine Learning', 'Cybersecurity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01464",
+    "name": "Kimberly Davis",
+    "email": "clarkekimberly@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01752']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Moran, Sutton and Black for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03407', 'B04462', 'B05277']"
+}

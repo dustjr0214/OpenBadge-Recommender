@@ -1,0 +1,14 @@
+{
+    "user_id": "U04953",
+    "name": "Kathy Hernandez",
+    "email": "joshua30@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04114', 'B03233', 'B02106', 'B05859', 'B01271']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Adams, Gonzales and Mckinney for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07144', 'B05797']"
+}

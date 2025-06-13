@@ -1,0 +1,14 @@
+{
+    "user_id": "U05251",
+    "name": "Nathan Watson",
+    "email": "fsingh@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00689', 'B07032', 'B07382', 'B06792']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Simpson-Gutierrez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02246', 'B00879', 'B06156', 'B04684']"
+}

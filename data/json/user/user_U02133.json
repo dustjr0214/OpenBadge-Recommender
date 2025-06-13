@@ -1,0 +1,14 @@
+{
+    "user_id": "U02133",
+    "name": "Erin Greene",
+    "email": "cturner@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00046', 'B05909', 'B06770']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Buckley PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06172', 'B09496', 'B00206', 'B09613']"
+}

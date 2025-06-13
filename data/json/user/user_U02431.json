@@ -1,0 +1,14 @@
+{
+    "user_id": "U02431",
+    "name": "Taylor Haley",
+    "email": "nalvarez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01574', 'B07776', 'B01426', 'B05933']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Martinez Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04233', 'B07274', 'B02660']"
+}

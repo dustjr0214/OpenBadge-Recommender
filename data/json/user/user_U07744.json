@@ -1,0 +1,14 @@
+{
+    "user_id": "U07744",
+    "name": "Brett Williams",
+    "email": "josephday@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09171', 'B08492', 'B04333', 'B08923']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Larsen Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05743', 'B03094', 'B06841', 'B00728']"
+}

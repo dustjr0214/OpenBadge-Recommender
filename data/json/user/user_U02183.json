@@ -1,0 +1,14 @@
+{
+    "user_id": "U02183",
+    "name": "Ann White",
+    "email": "ohahn@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02840', 'B08980', 'B02935']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Gray, Nelson and Wolfe for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06721']"
+}

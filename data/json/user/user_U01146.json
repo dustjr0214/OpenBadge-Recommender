@@ -1,0 +1,14 @@
+{
+    "user_id": "U01146",
+    "name": "Brian Eaton",
+    "email": "xferguson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04081', 'B09064', 'B02040', 'B05308']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Gonzales Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06368', 'B00493', 'B03241']"
+}

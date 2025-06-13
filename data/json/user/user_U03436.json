@@ -1,0 +1,14 @@
+{
+    "user_id": "U03436",
+    "name": "Michael Green",
+    "email": "daniel47@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05935', 'B07960', 'B04203', 'B00930']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Compton LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05414']"
+}

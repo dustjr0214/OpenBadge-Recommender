@@ -1,0 +1,14 @@
+{
+    "user_id": "U02346",
+    "name": "Bonnie Turner",
+    "email": "joseph99@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07213']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Jones LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03755']"
+}

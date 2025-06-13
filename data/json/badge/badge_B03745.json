@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03745",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'Cloud Computing']",
+    "competency": "['Leadership', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B01317', 'B09355']"
+}

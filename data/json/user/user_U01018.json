@@ -1,0 +1,14 @@
+{
+    "user_id": "U01018",
+    "name": "Jeffrey Reilly",
+    "email": "stuartkatherine@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07973', 'B09807']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Richard, Ruiz and Woodward for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04295', 'B03983', 'B05996', 'B06035', 'B02714']"
+}

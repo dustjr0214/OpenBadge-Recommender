@@ -1,0 +1,14 @@
+{
+    "user_id": "U07256",
+    "name": "Tiffany Burgess",
+    "email": "cgarcia@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00383', 'B06921', 'B05575', 'B02991']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Hunter Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08231",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'Python', 'SQL']",
+    "competency": "['Analytical Skills', 'Problem Solving', 'UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00389']"
+}

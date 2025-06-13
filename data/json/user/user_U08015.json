@@ -1,0 +1,14 @@
+{
+    "user_id": "U08015",
+    "name": "Heather Hanna",
+    "email": "christiandouglas@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07133', 'B04626', 'B07840', 'B00593', 'B05024']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Henderson-Turner for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02587', 'B08863', 'B06434', 'B08385']"
+}

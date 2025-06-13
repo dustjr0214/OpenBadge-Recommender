@@ -1,0 +1,14 @@
+{
+    "user_id": "U04038",
+    "name": "Brady Jefferson",
+    "email": "christophersanford@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07991', 'B05527', 'B05742', 'B00244', 'B09517']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Vaughn-Munoz for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09632', 'B09419', 'B09493', 'B01991']"
+}

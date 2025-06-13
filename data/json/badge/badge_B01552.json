@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01552",
+    "name": "Data Science Expert",
+    "issuer": "Coursera",
+    "description": "Data Science Expert badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency": "['Creativity', 'Cybersecurity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

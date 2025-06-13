@@ -1,0 +1,14 @@
+{
+    "user_id": "U08700",
+    "name": "James Thompson",
+    "email": "jhill@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08096', 'B07710', 'B09732', 'B08998', 'B04015']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Kline, Jordan and Anderson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09026', 'B02227', 'B03421', 'B03345', 'B03156']"
+}

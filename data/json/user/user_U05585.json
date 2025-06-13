@@ -1,0 +1,14 @@
+{
+    "user_id": "U05585",
+    "name": "Erin Coleman",
+    "email": "jennifer41@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07244', 'B01227']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Barrett-Morales for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09066', 'B06735']"
+}

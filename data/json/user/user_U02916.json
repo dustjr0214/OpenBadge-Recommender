@@ -1,0 +1,14 @@
+{
+    "user_id": "U02916",
+    "name": "Donald Brown",
+    "email": "ihernandez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03460', 'B02387', 'B05512', 'B08089', 'B05814']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Bean, Hancock and Reed for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03031', 'B08660', 'B01801']"
+}

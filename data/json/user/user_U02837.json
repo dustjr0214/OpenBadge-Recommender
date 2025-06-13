@@ -1,0 +1,14 @@
+{
+    "user_id": "U02837",
+    "name": "Hunter Gay PhD",
+    "email": "colemartinez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01492', 'B02611', 'B08780']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Morgan Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09755', 'B08491', 'B05864']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03859",
+    "name": "Haley Stone",
+    "email": "kirsten82@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07617', 'B04800', 'B09223', 'B00500', 'B09773']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Reese-Gonzalez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01781', 'B04992', 'B00152', 'B06325', 'B07402']"
+}

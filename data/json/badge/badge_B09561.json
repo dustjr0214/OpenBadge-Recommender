@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09561",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03516', 'B04721']"
+}

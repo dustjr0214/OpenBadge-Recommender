@@ -1,0 +1,14 @@
+{
+    "user_id": "U07930",
+    "name": "Kimberly Torres",
+    "email": "bennettgloria@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04276']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Jones Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02695']"
+}

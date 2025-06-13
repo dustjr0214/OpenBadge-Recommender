@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05133",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Deep Learning']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B06958', 'B03727']"
+}

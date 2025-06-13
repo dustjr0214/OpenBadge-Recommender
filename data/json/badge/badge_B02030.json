@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02030",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'Python']",
+    "competency": "['DevOps', 'Creativity', 'Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07908', 'B03469']"
+}

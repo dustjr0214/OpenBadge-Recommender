@@ -1,0 +1,14 @@
+{
+    "user_id": "U01726",
+    "name": "Michael Dixon",
+    "email": "kayleecarter@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03477', 'B05351']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Brock Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05732', 'B02478', 'B07647', 'B04054', 'B01484']"
+}

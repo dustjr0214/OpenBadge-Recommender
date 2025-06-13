@@ -1,0 +1,14 @@
+{
+    "user_id": "U02791",
+    "name": "Mitchell Holland",
+    "email": "klowe@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07814', 'B06332', 'B08772', 'B07710']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Barnes, Rollins and Graves for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04385', 'B06157', 'B09008', 'B01619', 'B01722']"
+}

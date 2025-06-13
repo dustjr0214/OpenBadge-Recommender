@@ -1,0 +1,14 @@
+{
+    "user_id": "U08150",
+    "name": "John Rose",
+    "email": "adawson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08028', 'B01852', 'B05327', 'B04441']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Myers PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06780', 'B06856', 'B09667']"
+}

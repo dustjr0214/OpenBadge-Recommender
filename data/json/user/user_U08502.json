@@ -1,0 +1,14 @@
+{
+    "user_id": "U08502",
+    "name": "Paige Salazar",
+    "email": "susanolsen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01185', 'B04272']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Perkins, Ford and Murphy for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01271', 'B07629']"
+}

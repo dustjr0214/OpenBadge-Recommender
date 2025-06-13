@@ -1,0 +1,14 @@
+{
+    "user_id": "U05552",
+    "name": "Stacy Ellis",
+    "email": "austinbarnes@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05772', 'B06475', 'B06579']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Leblanc-Mccarthy for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01583', 'B02160']"
+}

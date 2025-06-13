@@ -1,0 +1,14 @@
+{
+    "user_id": "U05962",
+    "name": "Alicia Russell",
+    "email": "michaelvalenzuela@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06163', 'B07418']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Mejia PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06885', 'B01850', 'B00479']"
+}

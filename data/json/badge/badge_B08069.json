@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08069",
+    "name": "Big Data Analyst",
+    "issuer": "Coursera",
+    "description": "Big Data Analyst badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Python', 'Data Analysis']",
+    "competency": "['Data Analysis', 'DevOps', 'Teamwork']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09203', 'B07502']"
+}

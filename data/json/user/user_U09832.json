@@ -1,0 +1,14 @@
+{
+    "user_id": "U09832",
+    "name": "Heather Medina",
+    "email": "pdorsey@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09727', 'B01861', 'B00501', 'B08603', 'B09773']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Mcknight-Johnson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04347', 'B09017', 'B01882', 'B06128', 'B04278']"
+}

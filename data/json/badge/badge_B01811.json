@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01811",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis', 'Cybersecurity', 'Deep Learning']",
+    "competency": "['Problem Solving', 'Teamwork', 'Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04582', 'B02791']"
+}

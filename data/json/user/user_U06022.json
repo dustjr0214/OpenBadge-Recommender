@@ -1,0 +1,14 @@
+{
+    "user_id": "U06022",
+    "name": "William Green",
+    "email": "durankimberly@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05869']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Woods, Smith and Mcfarland for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09870', 'B05081', 'B08710', 'B00022', 'B02327']"
+}

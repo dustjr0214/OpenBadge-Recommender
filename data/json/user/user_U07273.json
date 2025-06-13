@@ -1,0 +1,14 @@
+{
+    "user_id": "U07273",
+    "name": "Jesse Robinson",
+    "email": "jeffreymccall@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Barnett Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04492']"
+}

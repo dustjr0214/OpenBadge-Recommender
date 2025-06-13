@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02870",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'DevOps']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06997', 'B07924']"
+}

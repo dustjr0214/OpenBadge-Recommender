@@ -1,0 +1,14 @@
+{
+    "user_id": "U00372",
+    "name": "Brandon Ford",
+    "email": "lshelton@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06360', 'B03727', 'B02565']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Ward Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

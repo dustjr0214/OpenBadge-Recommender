@@ -1,0 +1,14 @@
+{
+    "user_id": "U07764",
+    "name": "Dana Wong",
+    "email": "david28@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Smith-Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04726', 'B02938', 'B05436']"
+}

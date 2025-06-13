@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07797",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Teamwork', 'SQL', 'Data Analysis']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08530', 'B07490']"
+}

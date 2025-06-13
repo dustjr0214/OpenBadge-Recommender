@@ -1,0 +1,14 @@
+{
+    "user_id": "U07573",
+    "name": "Justin Reeves",
+    "email": "thompsonsteven@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09337']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Mullen-Daniels for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02945', 'B09077', 'B03562']"
+}

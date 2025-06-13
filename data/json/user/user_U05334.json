@@ -1,0 +1,14 @@
+{
+    "user_id": "U05334",
+    "name": "Jason Williams",
+    "email": "brownnicholas@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03278', 'B08332', 'B00453', 'B01148']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Blair, Miller and Moody for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01153', 'B02942', 'B04459', 'B00078', 'B01633']"
+}

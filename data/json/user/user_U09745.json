@@ -1,0 +1,14 @@
+{
+    "user_id": "U09745",
+    "name": "David Waters",
+    "email": "brian51@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09847', 'B07977', 'B07253']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Fields-Scott for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00294', 'B02311', 'B09744', 'B08310', 'B03380']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03853",
+    "name": "Jerry Murray",
+    "email": "gregory65@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00401', 'B02021', 'B00308', 'B03754']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Bell, Doyle and Simon for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03069']"
+}

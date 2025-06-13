@@ -1,0 +1,14 @@
+{
+    "user_id": "U07070",
+    "name": "Michele Murphy",
+    "email": "michelledalton@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Fitzgerald, Garcia and Mercer for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02725', 'B04466', 'B02074', 'B00860', 'B06370']"
+}

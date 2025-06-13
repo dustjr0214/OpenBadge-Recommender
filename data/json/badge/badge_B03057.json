@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03057",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Cloud Computing']",
+    "competency": "['UI/UX', 'Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B09060', 'B00808']"
+}

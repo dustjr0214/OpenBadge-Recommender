@@ -1,0 +1,14 @@
+{
+    "user_id": "U09541",
+    "name": "Jacob Gray",
+    "email": "bradyedward@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07354', 'B04971', 'B01664']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Martinez-Hays for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04307']"
+}

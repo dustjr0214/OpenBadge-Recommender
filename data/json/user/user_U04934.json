@@ -1,0 +1,14 @@
+{
+    "user_id": "U04934",
+    "name": "Alan Evans",
+    "email": "tammymanning@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00992', 'B00130']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Carlson, Young and Miller for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09609', 'B02053', 'B02419']"
+}

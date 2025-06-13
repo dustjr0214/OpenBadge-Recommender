@@ -1,0 +1,14 @@
+{
+    "user_id": "U09970",
+    "name": "Tanya Middleton",
+    "email": "ymurphy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00793', 'B00755', 'B02713', 'B08193']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Davis-Gaines for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04834', 'B00068', 'B01469', 'B08532']"
+}

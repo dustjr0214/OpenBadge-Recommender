@@ -1,0 +1,14 @@
+{
+    "user_id": "U05549",
+    "name": "Jacqueline Briggs",
+    "email": "emily53@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06489']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gray, Figueroa and Mckenzie for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06402', 'B04874', 'B08903', 'B03931', 'B02804']"
+}

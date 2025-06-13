@@ -1,0 +1,14 @@
+{
+    "user_id": "U07587",
+    "name": "Jessica Martinez",
+    "email": "lindarandall@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00046']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Robbins, Smith and Reed for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01135', 'B02865', 'B03951', 'B06082']"
+}

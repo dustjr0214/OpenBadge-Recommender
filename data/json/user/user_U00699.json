@@ -1,0 +1,14 @@
+{
+    "user_id": "U00699",
+    "name": "Justin Bartlett",
+    "email": "johngarcia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05154', 'B02103', 'B05505']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Bryant, Wolf and Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04631', 'B03067', 'B02479', 'B06275']"
+}

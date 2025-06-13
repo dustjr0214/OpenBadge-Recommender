@@ -1,0 +1,14 @@
+{
+    "user_id": "U06667",
+    "name": "Brian Phillips",
+    "email": "john92@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00979', 'B09818', 'B02435']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Cain-Williams for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

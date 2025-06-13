@@ -1,0 +1,14 @@
+{
+    "user_id": "U03995",
+    "name": "Brenda Lara",
+    "email": "kylemurphy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05017', 'B09601']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Knox-Edwards for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07622', 'B03659', 'B09544', 'B01802']"
+}

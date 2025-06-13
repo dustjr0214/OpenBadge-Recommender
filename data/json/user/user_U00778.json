@@ -1,0 +1,14 @@
+{
+    "user_id": "U00778",
+    "name": "Ronald Thomas",
+    "email": "melindazhang@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01766']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Thomas PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07862', 'B08417', 'B01860', 'B00367']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00834",
+    "name": "John Cordova",
+    "email": "moorenatalie@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00028', 'B04642', 'B07200', 'B07704']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Dean, Mitchell and Miller for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02325', 'B07620']"
+}

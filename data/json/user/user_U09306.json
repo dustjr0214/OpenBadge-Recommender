@@ -1,0 +1,14 @@
+{
+    "user_id": "U09306",
+    "name": "Lisa Bean",
+    "email": "imartinez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02362', 'B03800', 'B00685']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Beard LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02818', 'B01412', 'B01243', 'B04748', 'B04730']"
+}

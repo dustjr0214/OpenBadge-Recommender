@@ -1,0 +1,14 @@
+{
+    "user_id": "U00249",
+    "name": "Christopher James",
+    "email": "martinshane@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02044', 'B03229']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Fitzpatrick, Crawford and Stanley for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06830', 'B00508']"
+}

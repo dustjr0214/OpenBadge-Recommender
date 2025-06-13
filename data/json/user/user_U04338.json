@@ -1,0 +1,14 @@
+{
+    "user_id": "U04338",
+    "name": "Adam Mclaughlin",
+    "email": "brian42@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06061']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Watkins Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02167']"
+}

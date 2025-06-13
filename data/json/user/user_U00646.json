@@ -1,0 +1,14 @@
+{
+    "user_id": "U00646",
+    "name": "Benjamin Barry",
+    "email": "taraparker@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05952', 'B01081', 'B09688', 'B03850', 'B01835']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Hall-Morrow for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07161', 'B04103', 'B04287', 'B04958', 'B05385']"
+}

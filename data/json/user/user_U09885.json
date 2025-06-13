@@ -1,0 +1,14 @@
+{
+    "user_id": "U09885",
+    "name": "Charles Wright",
+    "email": "yblair@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01747', 'B03822', 'B04151', 'B06583']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Moore LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02156', 'B01374', 'B06643']"
+}

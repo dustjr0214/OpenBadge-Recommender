@@ -1,0 +1,14 @@
+{
+    "user_id": "U07272",
+    "name": "Christopher Barry",
+    "email": "amanda96@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04123', 'B04181', 'B07556']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Mills, Pierce and Smith for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08357', 'B08831']"
+}

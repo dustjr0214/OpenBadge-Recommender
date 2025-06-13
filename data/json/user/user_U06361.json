@@ -1,0 +1,14 @@
+{
+    "user_id": "U06361",
+    "name": "Michael Hawkins",
+    "email": "nolancindy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08584', 'B09045', 'B03004', 'B01567']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Jacobson, Alexander and Barrett for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02181', 'B00826', 'B02353']"
+}

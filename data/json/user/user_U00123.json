@@ -1,0 +1,14 @@
+{
+    "user_id": "U00123",
+    "name": "Cody Case",
+    "email": "daniel29@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05387', 'B06921', 'B04400']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Williams-Roth for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08361', 'B00473']"
+}

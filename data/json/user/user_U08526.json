@@ -1,0 +1,14 @@
+{
+    "user_id": "U08526",
+    "name": "Anthony Santana",
+    "email": "damonbrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06468', 'B07113', 'B03167', 'B08461', 'B01363']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Jones PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08703']"
+}

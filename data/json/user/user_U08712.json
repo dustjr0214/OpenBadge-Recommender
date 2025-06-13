@@ -1,0 +1,14 @@
+{
+    "user_id": "U08712",
+    "name": "Yolanda Garcia",
+    "email": "cassandrabrooks@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03867', 'B07313', 'B09078', 'B07278']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Keith-Mccarty for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07201', 'B08556']"
+}

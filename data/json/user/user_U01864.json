@@ -1,0 +1,14 @@
+{
+    "user_id": "U01864",
+    "name": "Jeremy Harris",
+    "email": "breannareid@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09538', 'B02604']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lewis Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04978', 'B06964', 'B06872']"
+}

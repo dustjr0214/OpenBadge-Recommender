@@ -1,0 +1,14 @@
+{
+    "user_id": "U08348",
+    "name": "Lindsey Davis",
+    "email": "barnesbrandi@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Phillips, Oconnor and Wilson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06045', 'B00995', 'B05856', 'B01628', 'B00396']"
+}

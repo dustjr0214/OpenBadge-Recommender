@@ -1,0 +1,14 @@
+{
+    "user_id": "U08658",
+    "name": "Edwin Sweeney",
+    "email": "clarkamanda@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00639', 'B05000', 'B06367']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Zuniga, Wright and Clark for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04250', 'B01913', 'B00370']"
+}

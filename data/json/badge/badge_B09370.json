@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09370",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04953",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'UI/UX', 'Deep Learning']",
+    "competency": "['Problem Solving', 'Deep Learning', 'Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

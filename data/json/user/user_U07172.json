@@ -1,0 +1,14 @@
+{
+    "user_id": "U07172",
+    "name": "Jacob Davidson",
+    "email": "scotthardy@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01515', 'B05440', 'B09232']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Thompson, Morales and Mcdaniel for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03570', 'B06924', 'B05296']"
+}

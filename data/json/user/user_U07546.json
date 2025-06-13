@@ -1,0 +1,14 @@
+{
+    "user_id": "U07546",
+    "name": "Mr. Robert Welch",
+    "email": "reedandrew@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01651', 'B04421', 'B07124']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Walls, Cox and Hudson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06884']"
+}

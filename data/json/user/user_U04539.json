@@ -1,0 +1,14 @@
+{
+    "user_id": "U04539",
+    "name": "Christina Johnson",
+    "email": "lori89@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03974', 'B01656', 'B09807', 'B02905', 'B08277']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Cooke, Curtis and Mckee for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04052', 'B07806']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02428",
+    "name": "Andrea Dennis",
+    "email": "pricesuzanne@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07864', 'B07574', 'B07013', 'B07275', 'B06740']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hernandez LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07486', 'B05014']"
+}

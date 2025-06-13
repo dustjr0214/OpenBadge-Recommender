@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01985",
+    "name": "Cloud Computing Guru",
+    "issuer": "IBM",
+    "description": "Cloud Computing Guru badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency": "['DevOps', 'Data Analysis']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02663', 'B08852']"
+}

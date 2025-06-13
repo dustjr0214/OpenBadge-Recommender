@@ -1,0 +1,14 @@
+{
+    "user_id": "U08638",
+    "name": "Kathy Schmidt",
+    "email": "james35@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05790']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Morris-Parker for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00453', 'B07205', 'B00674']"
+}

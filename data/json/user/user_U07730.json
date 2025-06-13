@@ -1,0 +1,14 @@
+{
+    "user_id": "U07730",
+    "name": "Samantha Frank",
+    "email": "dorothymiranda@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09373']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Cochran and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06903', 'B04897']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06687",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'SQL']",
+    "competency": "['Teamwork', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04417', 'B00328']"
+}

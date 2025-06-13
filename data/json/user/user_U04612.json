@@ -1,0 +1,14 @@
+{
+    "user_id": "U04612",
+    "name": "Cameron Mcgrath",
+    "email": "isaiahcowan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01277', 'B06987']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Bean LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00948', 'B00212']"
+}

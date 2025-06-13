@@ -1,0 +1,14 @@
+{
+    "user_id": "U00682",
+    "name": "Patrick Hull",
+    "email": "lopezsean@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02283']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Bass-Barker for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

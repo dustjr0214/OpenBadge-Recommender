@@ -1,0 +1,14 @@
+{
+    "user_id": "U01085",
+    "name": "Alicia Sanchez",
+    "email": "zbarnett@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08372', 'B01089', 'B00034', 'B01553', 'B08956']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Collier-Harrison for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02929', 'B06612', 'B07572']"
+}

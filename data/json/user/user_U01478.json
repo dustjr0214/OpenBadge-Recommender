@@ -1,0 +1,14 @@
+{
+    "user_id": "U01478",
+    "name": "Alexander Nguyen",
+    "email": "zmolina@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04699', 'B02100']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Donovan-Valdez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08997', 'B04888']"
+}

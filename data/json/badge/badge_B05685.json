@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05685",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Python']",
+    "competency": "['Leadership', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

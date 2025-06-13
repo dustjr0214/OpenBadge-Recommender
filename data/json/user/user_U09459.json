@@ -1,0 +1,14 @@
+{
+    "user_id": "U09459",
+    "name": "Cody Jones",
+    "email": "joel62@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Franklin, Rogers and Marquez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06199', 'B09477']"
+}

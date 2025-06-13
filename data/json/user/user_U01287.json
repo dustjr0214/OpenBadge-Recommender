@@ -1,0 +1,14 @@
+{
+    "user_id": "U01287",
+    "name": "Jeremy Page",
+    "email": "taylorgonzalez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09443', 'B09123', 'B07170']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Fernandez, Frye and Rivers for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06632', 'B06483']"
+}

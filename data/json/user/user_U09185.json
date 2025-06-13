@@ -1,0 +1,14 @@
+{
+    "user_id": "U09185",
+    "name": "Julie Harris",
+    "email": "chamberskatherine@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04811']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Taylor-Ellis for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01565', 'B08488']"
+}

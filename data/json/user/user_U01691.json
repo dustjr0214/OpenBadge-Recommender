@@ -1,0 +1,14 @@
+{
+    "user_id": "U01691",
+    "name": "Mr. James Hill",
+    "email": "gabriel70@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03699', 'B04203']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Odom-Stewart for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05726', 'B06083', 'B04271', 'B03772']"
+}

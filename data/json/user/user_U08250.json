@@ -1,0 +1,14 @@
+{
+    "user_id": "U08250",
+    "name": "Dustin Conway",
+    "email": "howekatie@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Howard-Wagner for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01310']"
+}

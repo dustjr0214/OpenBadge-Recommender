@@ -1,0 +1,14 @@
+{
+    "user_id": "U00714",
+    "name": "Robin Morales",
+    "email": "john85@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09007', 'B08532', 'B02871', 'B07672']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Wright-Campbell for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02548', 'B01909']"
+}

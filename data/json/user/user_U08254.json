@@ -1,0 +1,14 @@
+{
+    "user_id": "U08254",
+    "name": "Jennifer Parker",
+    "email": "james43@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02769', 'B06529', 'B07570', 'B09959', 'B06320']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Johnson, Wright and Parsons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03835', 'B02514', 'B04483', 'B05153', 'B04591']"
+}

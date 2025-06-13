@@ -1,0 +1,14 @@
+{
+    "user_id": "U06280",
+    "name": "Blake Moreno",
+    "email": "vturner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05098', 'B00535', 'B00086', 'B07189', 'B09627']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Smith and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00266']"
+}

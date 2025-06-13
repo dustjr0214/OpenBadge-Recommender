@@ -1,0 +1,14 @@
+{
+    "user_id": "U03197",
+    "name": "Jessica Castro",
+    "email": "jillianhudson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06881', 'B07692']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Whitney-Lee for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04342', 'B00754', 'B03149', 'B06953', 'B00797']"
+}

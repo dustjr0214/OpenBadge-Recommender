@@ -1,0 +1,14 @@
+{
+    "user_id": "U01048",
+    "name": "Beth Cruz",
+    "email": "dustinrogers@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09798', 'B07905', 'B01646', 'B04761']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Johnson, Brown and Stewart for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

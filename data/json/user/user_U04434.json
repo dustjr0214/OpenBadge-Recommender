@@ -1,0 +1,14 @@
+{
+    "user_id": "U04434",
+    "name": "John Richardson",
+    "email": "vancekatelyn@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Brown, Williams and Peterson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01739', 'B06240', 'B00329', 'B05636', 'B00617']"
+}

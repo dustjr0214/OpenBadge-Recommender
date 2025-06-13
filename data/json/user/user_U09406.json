@@ -1,0 +1,14 @@
+{
+    "user_id": "U09406",
+    "name": "Connor Gallegos",
+    "email": "bishopjon@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09296', 'B04467', 'B00332', 'B02644']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Rasmussen Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03833', 'B09247', 'B05599', 'B05359']"
+}

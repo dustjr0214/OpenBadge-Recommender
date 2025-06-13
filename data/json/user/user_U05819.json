@@ -1,0 +1,14 @@
+{
+    "user_id": "U05819",
+    "name": "Christopher Brown",
+    "email": "sanchezhoward@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05850', 'B07591', 'B01451', 'B08161']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hunter-Woods for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09952', 'B09314', 'B00107', 'B03837']"
+}

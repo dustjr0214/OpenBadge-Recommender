@@ -1,0 +1,14 @@
+{
+    "user_id": "U08402",
+    "name": "Kevin Nelson",
+    "email": "michael14@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02776', 'B00376', 'B07021']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Frazier-Hudson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05065', 'B04063']"
+}

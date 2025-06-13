@@ -1,0 +1,14 @@
+{
+    "user_id": "U09220",
+    "name": "Erin Davis",
+    "email": "mccoylisa@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04068', 'B07295', 'B07879']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Nelson Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02273', 'B01067']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00246",
+    "name": "Joshua Fisher",
+    "email": "floresdonald@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Rose PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

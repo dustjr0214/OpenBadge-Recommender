@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02587",
+    "name": "Cloud Computing Guru",
+    "issuer": "Udacity",
+    "description": "Cloud Computing Guru badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'Cloud Computing', 'Machine Learning']",
+    "competency": "['DevOps', 'Teamwork', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

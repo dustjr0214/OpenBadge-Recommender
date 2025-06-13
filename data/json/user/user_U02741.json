@@ -1,0 +1,14 @@
+{
+    "user_id": "U02741",
+    "name": "Sarah Hicks",
+    "email": "allencaleb@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Cline-Erickson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06996', 'B06448', 'B04441', 'B06214']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06603",
+    "name": "Karen Perry",
+    "email": "gloverdonald@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00500', 'B02984', 'B08253']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Sexton, Ross and Carroll for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03730', 'B05358', 'B04827']"
+}

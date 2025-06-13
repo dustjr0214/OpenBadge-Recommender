@@ -1,0 +1,14 @@
+{
+    "user_id": "U06231",
+    "name": "Mary Brock",
+    "email": "alexmacias@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03821', 'B02569']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Padilla, Santiago and Nelson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08834",
+    "name": "Machine Learning Pro",
+    "issuer": "Coursera",
+    "description": "Machine Learning Pro badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Deep Learning', 'Cloud Computing']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B05415']"
+}

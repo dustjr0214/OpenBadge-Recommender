@@ -1,0 +1,14 @@
+{
+    "user_id": "U02136",
+    "name": "Jessica Nelson",
+    "email": "marissa41@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03548', 'B01238', 'B00669', 'B00459']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Grant Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04859', 'B03038', 'B07175', 'B07949', 'B07031']"
+}

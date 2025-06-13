@@ -1,0 +1,14 @@
+{
+    "user_id": "U08219",
+    "name": "Nancy Villanueva",
+    "email": "wrivera@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03908', 'B03571']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Johnson-Moore for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00805', 'B00014', 'B06194']"
+}

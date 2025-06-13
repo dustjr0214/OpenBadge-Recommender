@@ -1,0 +1,14 @@
+{
+    "user_id": "U01367",
+    "name": "Caitlin Scott",
+    "email": "bruceburns@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07559', 'B09162', 'B04409']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Turner-Grant for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08236', 'B09883', 'B01660']"
+}

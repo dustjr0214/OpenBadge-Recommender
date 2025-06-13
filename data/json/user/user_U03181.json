@@ -1,0 +1,14 @@
+{
+    "user_id": "U03181",
+    "name": "Darren Jones",
+    "email": "matthew42@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03147', 'B07033', 'B06554', 'B07918', 'B06215']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Bradley Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

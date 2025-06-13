@@ -1,0 +1,14 @@
+{
+    "user_id": "U05221",
+    "name": "Victoria Nelson",
+    "email": "vmartin@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08763', 'B09308']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Walsh, Parker and Edwards for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02732']"
+}

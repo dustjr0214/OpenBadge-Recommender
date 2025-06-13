@@ -1,0 +1,14 @@
+{
+    "user_id": "U09327",
+    "name": "Carrie Gamble",
+    "email": "benjamin47@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01887', 'B04667', 'B09283', 'B05602']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Barton Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08370', 'B04472']"
+}

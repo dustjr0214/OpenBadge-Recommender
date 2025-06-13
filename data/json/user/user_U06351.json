@@ -1,0 +1,14 @@
+{
+    "user_id": "U06351",
+    "name": "Jordan Parker",
+    "email": "parrishjennifer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01425', 'B05954']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Garcia LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04701', 'B03070', 'B07812', 'B05675']"
+}

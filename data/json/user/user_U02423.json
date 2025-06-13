@@ -1,0 +1,14 @@
+{
+    "user_id": "U02423",
+    "name": "Dana Mclaughlin",
+    "email": "derekperez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06831']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Kelley-Carr for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05214', 'B02847', 'B05742', 'B04320', 'B05992']"
+}

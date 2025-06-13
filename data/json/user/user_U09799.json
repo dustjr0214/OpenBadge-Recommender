@@ -1,0 +1,14 @@
+{
+    "user_id": "U09799",
+    "name": "Kenneth Willis",
+    "email": "buchananchristopher@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07354', 'B03336']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at York LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07547']"
+}

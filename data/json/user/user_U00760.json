@@ -1,0 +1,14 @@
+{
+    "user_id": "U00760",
+    "name": "Matthew Duncan",
+    "email": "lnorman@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05581', 'B01999']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Petersen-Thompson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06145', 'B07076']"
+}

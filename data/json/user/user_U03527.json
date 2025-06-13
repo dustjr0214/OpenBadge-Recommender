@@ -1,0 +1,14 @@
+{
+    "user_id": "U03527",
+    "name": "Joseph Brandt",
+    "email": "fletcherjohn@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04866']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Ortega, Hunter and Patton for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09900', 'B04067', 'B02458', 'B05452']"
+}

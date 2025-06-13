@@ -1,0 +1,14 @@
+{
+    "user_id": "U00260",
+    "name": "Hannah Ruiz",
+    "email": "kimberly36@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04522']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Allen LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05015', 'B07347', 'B06606']"
+}

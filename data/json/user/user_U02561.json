@@ -1,0 +1,14 @@
+{
+    "user_id": "U02561",
+    "name": "Cristian Hawkins",
+    "email": "hernandezheather@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04985']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Marks-Casey for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03911', 'B03398', 'B01110', 'B00600', 'B01695']"
+}

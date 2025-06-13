@@ -1,0 +1,14 @@
+{
+    "user_id": "U01229",
+    "name": "Darren Harvey",
+    "email": "davismary@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05912', 'B03115', 'B05490']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Russell-Reyes for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09931', 'B01436', 'B04786', 'B07058']"
+}

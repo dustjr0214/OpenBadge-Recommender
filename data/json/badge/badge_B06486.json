@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06486",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['SQL', 'Problem Solving', 'Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B00936']"
+}

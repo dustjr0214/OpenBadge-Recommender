@@ -1,0 +1,14 @@
+{
+    "user_id": "U05771",
+    "name": "Jose Brown",
+    "email": "wadecharles@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09665', 'B06333', 'B07562']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Soto, Ramos and Rowe for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07617",
+    "name": "Jacob Howard",
+    "email": "douglas31@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05167']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Roberts, Hardy and Parker for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00130', 'B09481', 'B08467', 'B08763', 'B05478']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04530",
+    "name": "Lori Petersen",
+    "email": "mwood@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05108', 'B07285', 'B06475', 'B04968', 'B05343']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Benson and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

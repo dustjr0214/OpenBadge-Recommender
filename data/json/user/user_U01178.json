@@ -1,0 +1,14 @@
+{
+    "user_id": "U01178",
+    "name": "Travis Carr",
+    "email": "epetersen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03277']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hines-Hicks for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04527', 'B04805']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06869",
+    "name": "Jennifer Taylor",
+    "email": "justincameron@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01810', 'B04665', 'B07671', 'B08019']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Howard, Davis and Sharp for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05220', 'B06190', 'B07793', 'B01637', 'B06454']"
+}

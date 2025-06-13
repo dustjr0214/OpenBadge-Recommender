@@ -1,0 +1,14 @@
+{
+    "user_id": "U09474",
+    "name": "Stephanie Page",
+    "email": "tvalenzuela@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06152']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Tucker PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08698', 'B06748', 'B05436']"
+}

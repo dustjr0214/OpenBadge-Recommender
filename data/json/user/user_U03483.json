@@ -1,0 +1,14 @@
+{
+    "user_id": "U03483",
+    "name": "Jeremy Stewart",
+    "email": "jennifer22@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09811', 'B06060', 'B07123', 'B05836', 'B02447']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Wilson-Roy for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04592', 'B02908', 'B02411']"
+}

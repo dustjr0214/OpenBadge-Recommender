@@ -1,0 +1,14 @@
+{
+    "user_id": "U01285",
+    "name": "Jennifer Goodwin",
+    "email": "jmichael@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03717', 'B02102', 'B03565', 'B04351']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Suarez-Gonzales for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07230', 'B07101', 'B06135', 'B01490']"
+}

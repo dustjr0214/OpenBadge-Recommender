@@ -1,0 +1,14 @@
+{
+    "user_id": "U09262",
+    "name": "Jonathan Warren",
+    "email": "anna19@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00434', 'B05668', 'B09605', 'B09723', 'B01498']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Stuart, Fisher and Martin for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05993', 'B05657', 'B01640', 'B02774', 'B06520']"
+}

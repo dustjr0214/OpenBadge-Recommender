@@ -1,0 +1,14 @@
+{
+    "user_id": "U03925",
+    "name": "Jill Zavala",
+    "email": "christinejohnson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01929', 'B07089']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Hooper-Lucas for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

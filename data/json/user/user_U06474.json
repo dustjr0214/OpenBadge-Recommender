@@ -1,0 +1,14 @@
+{
+    "user_id": "U06474",
+    "name": "Christopher Browning",
+    "email": "kevin25@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08665', 'B09034', 'B06643', 'B09240', 'B07507']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Dodson, Little and Preston for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00595', 'B00248']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02379",
+    "name": "Ashley Hall",
+    "email": "cindy19@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06176', 'B08865']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Hernandez, Baker and Anthony for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05204', 'B06554', 'B06016']"
+}

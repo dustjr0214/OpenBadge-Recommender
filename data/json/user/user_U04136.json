@@ -1,0 +1,14 @@
+{
+    "user_id": "U04136",
+    "name": "Virginia Moore",
+    "email": "anthony08@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09419', 'B00222', 'B09955']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hunter Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02165', 'B01278', 'B04738', 'B00982', 'B06775']"
+}

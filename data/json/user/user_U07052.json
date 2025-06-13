@@ -1,0 +1,14 @@
+{
+    "user_id": "U07052",
+    "name": "Kristina Nichols",
+    "email": "sotochristian@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01053', 'B04668', 'B00439']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hernandez-Clark for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05585']"
+}

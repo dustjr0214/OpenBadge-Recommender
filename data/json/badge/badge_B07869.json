@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07869",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B02807', 'B03658']"
+}

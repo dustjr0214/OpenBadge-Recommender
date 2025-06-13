@@ -1,0 +1,14 @@
+{
+    "user_id": "U05848",
+    "name": "Nicole Carr",
+    "email": "pallen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00418', 'B03199', 'B02910']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Crosby Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03315']"
+}

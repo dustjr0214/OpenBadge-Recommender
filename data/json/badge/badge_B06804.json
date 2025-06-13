@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06804",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

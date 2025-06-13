@@ -1,0 +1,14 @@
+{
+    "user_id": "U07396",
+    "name": "Jesse Allen",
+    "email": "delacruzmelissa@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08812', 'B02753']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Harris, Smith and Medina for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00570', 'B06616']"
+}

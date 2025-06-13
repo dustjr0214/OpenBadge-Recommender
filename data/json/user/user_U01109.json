@@ -1,0 +1,14 @@
+{
+    "user_id": "U01109",
+    "name": "Charles Spencer",
+    "email": "ihopkins@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08911', 'B05204', 'B03770']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Romero LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

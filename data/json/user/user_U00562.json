@@ -1,0 +1,14 @@
+{
+    "user_id": "U00562",
+    "name": "Dylan French",
+    "email": "proctorlisa@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06210', 'B09768']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Clements, Martin and Turner for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06502', 'B03197']"
+}

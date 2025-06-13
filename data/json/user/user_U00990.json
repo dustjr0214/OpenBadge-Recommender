@@ -1,0 +1,14 @@
+{
+    "user_id": "U00990",
+    "name": "Nicholas Blair",
+    "email": "snyderjacob@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01871']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Gallagher Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08787', 'B06994', 'B05387', 'B02946']"
+}

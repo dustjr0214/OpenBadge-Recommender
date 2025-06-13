@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04621",
+    "name": "Machine Learning Pro",
+    "issuer": "Udacity",
+    "description": "Machine Learning Pro badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL', 'Machine Learning']",
+    "competency": "['Python', 'Data Analysis', 'Machine Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B02938']"
+}

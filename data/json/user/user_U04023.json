@@ -1,0 +1,14 @@
+{
+    "user_id": "U04023",
+    "name": "John King",
+    "email": "dakotarivera@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Harris Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

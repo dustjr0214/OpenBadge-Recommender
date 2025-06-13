@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07466",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'SQL']",
+    "competency": "['Python', 'Analytical Skills']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

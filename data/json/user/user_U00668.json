@@ -1,0 +1,14 @@
+{
+    "user_id": "U00668",
+    "name": "Charles Pugh",
+    "email": "kellylong@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04981', 'B02454', 'B06202', 'B02479', 'B04778']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Williams Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05834', 'B07553']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02366",
+    "name": "Jamie Morgan",
+    "email": "ylogan@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00102', 'B06454', 'B04879', 'B05495', 'B04753']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Bennett-Rosales for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08418', 'B08441', 'B03111', 'B08970']"
+}

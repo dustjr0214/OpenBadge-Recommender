@@ -1,0 +1,14 @@
+{
+    "user_id": "U09230",
+    "name": "Emily Gomez",
+    "email": "mcgeechristopher@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Mcclure and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06035', 'B01521', 'B06988', 'B03521', 'B00157']"
+}

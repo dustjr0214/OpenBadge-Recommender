@@ -1,0 +1,14 @@
+{
+    "user_id": "U03131",
+    "name": "Patricia Porter",
+    "email": "elizabeth19@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Lang and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02938', 'B03721']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02504",
+    "name": "Sandra Brown",
+    "email": "jeremiah40@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08589']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Williams-Sanchez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

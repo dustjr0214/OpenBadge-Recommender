@@ -1,0 +1,14 @@
+{
+    "user_id": "U02373",
+    "name": "Barbara Mcintyre",
+    "email": "wpoole@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02226', 'B03225', 'B03460', 'B08185']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Harrison-Romero for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04689', 'B01152']"
+}

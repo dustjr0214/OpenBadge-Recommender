@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00422",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis']",
+    "competency": "['Leadership', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B06318']"
+}

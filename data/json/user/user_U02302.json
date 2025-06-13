@@ -1,0 +1,14 @@
+{
+    "user_id": "U02302",
+    "name": "Jessica Wilcox",
+    "email": "pgordon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Lee, Smith and Garcia for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04474', 'B07710']"
+}

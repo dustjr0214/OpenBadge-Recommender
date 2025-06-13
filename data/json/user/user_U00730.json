@@ -1,0 +1,14 @@
+{
+    "user_id": "U00730",
+    "name": "Edward Cruz",
+    "email": "sampsonsuzanne@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03697', 'B02046']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Krause-Johnson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06306', 'B09822', 'B09657', 'B04158']"
+}

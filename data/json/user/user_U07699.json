@@ -1,0 +1,14 @@
+{
+    "user_id": "U07699",
+    "name": "Jill Murray",
+    "email": "kevin38@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Lucas-Gilmore for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04962', 'B03738', 'B00875']"
+}

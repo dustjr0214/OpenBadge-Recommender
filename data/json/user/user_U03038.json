@@ -1,0 +1,14 @@
+{
+    "user_id": "U03038",
+    "name": "Ann Smith",
+    "email": "zjones@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Terry, Bryant and Rodriguez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00454', 'B02328']"
+}

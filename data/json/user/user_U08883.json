@@ -1,0 +1,14 @@
+{
+    "user_id": "U08883",
+    "name": "Donna Hodges",
+    "email": "stephaniemoore@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02590']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Wolf-Mccall for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07926', 'B05987', 'B02981']"
+}

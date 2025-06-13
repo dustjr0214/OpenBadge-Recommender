@@ -1,0 +1,14 @@
+{
+    "user_id": "U08664",
+    "name": "Cody Coleman",
+    "email": "klawson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04454', 'B06891']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Acosta Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04124', 'B01603', 'B03113', 'B06975', 'B09051']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07771",
+    "name": "Casey Simon",
+    "email": "lisa71@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08781', 'B01825', 'B04423', 'B09419', 'B01500']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Blackwell, Carlson and Turner for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05836', 'B05387']"
+}

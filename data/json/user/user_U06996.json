@@ -1,0 +1,14 @@
+{
+    "user_id": "U06996",
+    "name": "Steven Williamson",
+    "email": "bettyclark@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07246']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Rubio-Guerra for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07752', 'B02150']"
+}

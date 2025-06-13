@@ -1,0 +1,14 @@
+{
+    "user_id": "U04400",
+    "name": "April Carlson",
+    "email": "amacdonald@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09214', 'B02099', 'B00310', 'B07073', 'B01390']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Alvarado-Graves for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03168', 'B09807', 'B08682']"
+}

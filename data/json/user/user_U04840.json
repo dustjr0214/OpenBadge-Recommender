@@ -1,0 +1,14 @@
+{
+    "user_id": "U04840",
+    "name": "Glenn Gilbert",
+    "email": "tamara93@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07366', 'B00405', 'B03736', 'B05012', 'B08615']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mason-Martin for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06837', 'B03746', 'B04274', 'B00114']"
+}

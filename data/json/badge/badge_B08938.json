@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08938",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency": "['Teamwork', 'Leadership', 'Analytical Skills']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

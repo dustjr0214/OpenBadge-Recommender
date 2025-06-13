@@ -1,0 +1,14 @@
+{
+    "user_id": "U02143",
+    "name": "Adam Friedman DVM",
+    "email": "natalie38@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Moore-Gomez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06425', 'B05050', 'B01962', 'B01204']"
+}

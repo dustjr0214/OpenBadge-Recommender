@@ -1,0 +1,14 @@
+{
+    "user_id": "U03937",
+    "name": "Wayne Smith",
+    "email": "bperez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09453', 'B09023', 'B08265']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Levy Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07961', 'B06386', 'B07481']"
+}

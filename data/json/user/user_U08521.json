@@ -1,0 +1,14 @@
+{
+    "user_id": "U08521",
+    "name": "Joshua Ramirez",
+    "email": "monique05@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07212', 'B04089', 'B05336', 'B00502']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Ryan, Lopez and Huynh for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05237', 'B00320', 'B04735']"
+}

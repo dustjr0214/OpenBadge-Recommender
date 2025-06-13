@@ -1,0 +1,14 @@
+{
+    "user_id": "U04255",
+    "name": "Katherine Moore",
+    "email": "deanna08@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03839', 'B00329']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at James, Carroll and Khan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06307', 'B07335']"
+}

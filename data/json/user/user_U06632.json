@@ -1,0 +1,14 @@
+{
+    "user_id": "U06632",
+    "name": "Richard Jacobs",
+    "email": "margaretjames@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Arnold and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08945', 'B04028']"
+}

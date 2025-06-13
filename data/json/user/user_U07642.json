@@ -1,0 +1,14 @@
+{
+    "user_id": "U07642",
+    "name": "Daniel Davis",
+    "email": "robinsonrobert@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06038']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Perry PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

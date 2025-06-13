@@ -1,0 +1,14 @@
+{
+    "user_id": "U05479",
+    "name": "Chase Woodward",
+    "email": "maxwellsmith@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02649']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Walters, Schroeder and Jones for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00034', 'B09508', 'B08414', 'B09300']"
+}

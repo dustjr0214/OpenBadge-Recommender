@@ -1,0 +1,14 @@
+{
+    "user_id": "U05529",
+    "name": "Dana Morgan",
+    "email": "harrymercado@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08890', 'B06907', 'B07015', 'B02265', 'B00047']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Lane-Terrell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02526', 'B02924', 'B03391', 'B09285', 'B04127']"
+}

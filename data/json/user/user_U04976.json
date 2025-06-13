@@ -1,0 +1,14 @@
+{
+    "user_id": "U04976",
+    "name": "Jennifer Zimmerman",
+    "email": "vlong@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01441', 'B02649', 'B08386']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Valdez, Hansen and Nash for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03739', 'B08658', 'B04429', 'B06721']"
+}

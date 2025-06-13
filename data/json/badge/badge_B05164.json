@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05164",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python']",
+    "competency": "['DevOps', 'Cybersecurity']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B02133']"
+}

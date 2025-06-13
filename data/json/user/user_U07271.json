@@ -1,0 +1,14 @@
+{
+    "user_id": "U07271",
+    "name": "Caitlin Clarke",
+    "email": "pjones@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Armstrong, Gutierrez and Miranda for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

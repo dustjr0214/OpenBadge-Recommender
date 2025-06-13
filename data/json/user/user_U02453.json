@@ -1,0 +1,14 @@
+{
+    "user_id": "U02453",
+    "name": "Dawn Larsen",
+    "email": "jeremiah99@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09688', 'B05362', 'B09186', 'B04550']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Williams-Murray for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06620', 'B04514', 'B05031']"
+}

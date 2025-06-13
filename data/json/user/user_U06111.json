@@ -1,0 +1,14 @@
+{
+    "user_id": "U06111",
+    "name": "Karen Krueger",
+    "email": "sabrinaalexander@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09262', 'B02001']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Brown, Allen and Bailey for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01845', 'B05806']"
+}

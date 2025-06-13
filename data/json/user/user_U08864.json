@@ -1,0 +1,14 @@
+{
+    "user_id": "U08864",
+    "name": "Joseph Reynolds",
+    "email": "mcastro@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02801', 'B02728', 'B06767', 'B07103']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Farmer, Mcdonald and Villanueva for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05420']"
+}

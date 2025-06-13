@@ -1,0 +1,14 @@
+{
+    "user_id": "U02509",
+    "name": "Elizabeth Medina",
+    "email": "jasonwilliams@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07644', 'B00728', 'B04083', 'B01634', 'B03330']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at French, Quinn and Alexander for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08182']"
+}

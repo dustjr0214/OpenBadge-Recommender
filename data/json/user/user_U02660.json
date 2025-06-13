@@ -1,0 +1,14 @@
+{
+    "user_id": "U02660",
+    "name": "Brian Robertson",
+    "email": "matthewbrown@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01291', 'B00808']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Gonzalez-Moore for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

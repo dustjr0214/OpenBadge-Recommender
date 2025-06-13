@@ -1,0 +1,14 @@
+{
+    "user_id": "U03262",
+    "name": "Robert Lyons",
+    "email": "lopezwilliam@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00967', 'B06862', 'B07913', 'B05497']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Jones-Martinez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

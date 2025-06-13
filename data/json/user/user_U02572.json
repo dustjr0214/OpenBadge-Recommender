@@ -1,0 +1,14 @@
+{
+    "user_id": "U02572",
+    "name": "Corey Wheeler",
+    "email": "qmiller@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05631', 'B05243', 'B09004']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Friedman Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00702', 'B07996', 'B06465', 'B08352']"
+}

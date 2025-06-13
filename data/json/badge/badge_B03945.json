@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03945",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01247', 'B03464']"
+}

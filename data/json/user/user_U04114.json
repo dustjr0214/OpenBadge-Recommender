@@ -1,0 +1,14 @@
+{
+    "user_id": "U04114",
+    "name": "Jacqueline Dunn",
+    "email": "markbarnes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08461', 'B08012']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Morrison-Barron for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00494', 'B01739']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06519",
+    "name": "Linda Mcintosh",
+    "email": "tjordan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05212']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Giles Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06653', 'B04217', 'B09631', 'B03157', 'B01826']"
+}

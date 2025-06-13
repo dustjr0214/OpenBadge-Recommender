@@ -1,0 +1,14 @@
+{
+    "user_id": "U00133",
+    "name": "James Johnson",
+    "email": "rjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03669', 'B05102', 'B09356']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Sims, Smith and Castro for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

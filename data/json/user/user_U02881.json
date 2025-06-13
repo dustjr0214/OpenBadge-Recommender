@@ -1,0 +1,14 @@
+{
+    "user_id": "U02881",
+    "name": "Ryan Thomas",
+    "email": "john49@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09585']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Terry Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03908']"
+}

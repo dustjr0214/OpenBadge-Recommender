@@ -1,0 +1,14 @@
+{
+    "user_id": "U03112",
+    "name": "Elizabeth Curry",
+    "email": "fsmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04212', 'B09788', 'B09148', 'B03501', 'B08763']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Gregory, Harris and Allison for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00193', 'B00499', 'B02772', 'B01125']"
+}

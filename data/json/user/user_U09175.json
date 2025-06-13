@@ -1,0 +1,14 @@
+{
+    "user_id": "U09175",
+    "name": "Andrea Dunn",
+    "email": "rodgerslauren@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08964', 'B01659']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Brady, Rodriguez and Turner for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07661",
+    "name": "Sabrina Carlson",
+    "email": "kduran@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04968', 'B07570', 'B05908', 'B01667', 'B01676']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Kim PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04203', 'B08666', 'B02560', 'B09646', 'B00156']"
+}

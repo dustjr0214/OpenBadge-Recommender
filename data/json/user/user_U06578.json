@@ -1,0 +1,14 @@
+{
+    "user_id": "U06578",
+    "name": "Dr. Samantha White",
+    "email": "diane71@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08246', 'B05288', 'B06373']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Raymond-Mckinney for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03872']"
+}

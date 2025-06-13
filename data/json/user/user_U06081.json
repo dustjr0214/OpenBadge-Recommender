@@ -1,0 +1,14 @@
+{
+    "user_id": "U06081",
+    "name": "April Barajas",
+    "email": "shari29@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09063', 'B09794', 'B05672']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Blackwell Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07837', 'B01671', 'B03696', 'B06060']"
+}

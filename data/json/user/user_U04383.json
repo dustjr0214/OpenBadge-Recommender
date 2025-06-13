@@ -1,0 +1,14 @@
+{
+    "user_id": "U04383",
+    "name": "Marc Garcia",
+    "email": "robertblackwell@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00902']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Caldwell-Baker for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07886']"
+}

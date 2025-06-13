@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07817",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'SQL', 'Cloud Computing']",
+    "competency": "['Leadership', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07542']"
+}

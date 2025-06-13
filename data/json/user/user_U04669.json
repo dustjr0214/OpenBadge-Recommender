@@ -1,0 +1,14 @@
+{
+    "user_id": "U04669",
+    "name": "Toni Gilbert",
+    "email": "laurakelly@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07802', 'B01603']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Bell-Hayes for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03330', 'B00344', 'B08751', 'B03318']"
+}

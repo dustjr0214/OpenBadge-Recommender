@@ -1,0 +1,14 @@
+{
+    "user_id": "U03772",
+    "name": "Beverly Obrien",
+    "email": "seanvazquez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08821', 'B03317']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Harrington, Stephens and Jones for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

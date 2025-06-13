@@ -1,0 +1,14 @@
+{
+    "user_id": "U09407",
+    "name": "Andrew Jones",
+    "email": "kbrown@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03306', 'B07441', 'B03024', 'B07955', 'B08896']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Taylor Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07885']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06785",
+    "name": "Allison Hinton",
+    "email": "colemanchristina@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01060']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Miller LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02696', 'B02674', 'B07002', 'B02183', 'B02280']"
+}

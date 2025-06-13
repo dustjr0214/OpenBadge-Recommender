@@ -1,0 +1,14 @@
+{
+    "user_id": "U01586",
+    "name": "Samuel Ramirez",
+    "email": "daniellereed@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Gomez and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01568', 'B04558', 'B06749', 'B09434']"
+}

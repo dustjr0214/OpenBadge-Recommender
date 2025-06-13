@@ -1,0 +1,14 @@
+{
+    "user_id": "U03267",
+    "name": "Brian Vasquez",
+    "email": "qreynolds@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01575', 'B05476', 'B09498']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Holland, Wilkerson and Anderson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09236', 'B01022', 'B03754', 'B04181', 'B03463']"
+}

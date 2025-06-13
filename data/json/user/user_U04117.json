@@ -1,0 +1,14 @@
+{
+    "user_id": "U04117",
+    "name": "Mr. John Price",
+    "email": "caldwellmark@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04989', 'B04814']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Moore, Callahan and Hamilton for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05443', 'B05797', 'B00388']"
+}

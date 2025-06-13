@@ -1,0 +1,14 @@
+{
+    "user_id": "U07409",
+    "name": "James Brown",
+    "email": "gregory26@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04116', 'B08684']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Hartman, Harris and Chavez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06089",
+    "name": "Allen Conner",
+    "email": "nsimmons@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02088', 'B00285', 'B04750']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Smith Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01953', 'B08666']"
+}

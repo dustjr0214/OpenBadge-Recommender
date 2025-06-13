@@ -1,0 +1,14 @@
+{
+    "user_id": "U06876",
+    "name": "Linda Jackson",
+    "email": "christina32@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01170', 'B00906', 'B02270']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Pittman-Rodriguez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05109', 'B06708', 'B00538', 'B09524']"
+}

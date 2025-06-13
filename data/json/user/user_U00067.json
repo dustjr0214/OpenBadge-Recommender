@@ -1,0 +1,14 @@
+{
+    "user_id": "U00067",
+    "name": "Michael Haynes",
+    "email": "christopher33@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07103', 'B09504', 'B09535']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Saunders and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04860']"
+}

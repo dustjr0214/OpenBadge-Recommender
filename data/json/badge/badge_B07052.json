@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07052",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Python', 'Analytical Skills']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B05240', 'B02586']"
+}

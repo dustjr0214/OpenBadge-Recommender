@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00184",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Analytical Skills', 'Data Analysis', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00283', 'B00668']"
+}

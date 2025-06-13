@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06154",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python']",
+    "competency": "['Cloud Computing']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

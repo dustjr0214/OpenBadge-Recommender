@@ -1,0 +1,14 @@
+{
+    "user_id": "U01741",
+    "name": "James Black",
+    "email": "troywilliams@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04419']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Henry, Mcdowell and Walker for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

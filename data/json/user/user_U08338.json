@@ -1,0 +1,14 @@
+{
+    "user_id": "U08338",
+    "name": "Mark Bailey",
+    "email": "kimjordan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06184', 'B05017', 'B07527', 'B02371', 'B04143']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Henry Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

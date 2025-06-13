@@ -1,0 +1,14 @@
+{
+    "user_id": "U08120",
+    "name": "Heidi Garcia",
+    "email": "vickiemeyer@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07706', 'B08718', 'B08835', 'B04696', 'B01209']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Stein Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09717', 'B02784', 'B02002', 'B06479', 'B03430']"
+}

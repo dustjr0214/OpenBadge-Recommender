@@ -1,0 +1,14 @@
+{
+    "user_id": "U04092",
+    "name": "Cynthia Adkins",
+    "email": "mark70@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09584', 'B01595']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Oliver-Reed for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02754', 'B02794', 'B00058', 'B06007', 'B04068']"
+}

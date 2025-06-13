@@ -1,0 +1,14 @@
+{
+    "user_id": "U09674",
+    "name": "Todd Haynes",
+    "email": "schultzchristopher@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04371', 'B00653', 'B09980', 'B09786']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Morales Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06222']"
+}

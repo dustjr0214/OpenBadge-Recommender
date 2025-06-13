@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07363",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency": "['SQL', 'Machine Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B08581']"
+}

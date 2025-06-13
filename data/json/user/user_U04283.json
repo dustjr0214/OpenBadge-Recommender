@@ -1,0 +1,14 @@
+{
+    "user_id": "U04283",
+    "name": "Arthur Alexander",
+    "email": "zoehancock@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00887']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Kennedy, Duncan and Gray for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08419', 'B01590', 'B06304', 'B05006', 'B05380']"
+}

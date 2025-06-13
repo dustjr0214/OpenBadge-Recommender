@@ -1,0 +1,14 @@
+{
+    "user_id": "U09196",
+    "name": "Donald Nichols",
+    "email": "kennedyjames@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03147', 'B08868']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Combs-Jacobson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

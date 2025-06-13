@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02014",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Cybersecurity']",
+    "competency": "['Cloud Computing']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B08163', 'B05185']"
+}

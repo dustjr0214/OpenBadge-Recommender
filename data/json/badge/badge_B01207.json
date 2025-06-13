@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01207",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Cloud Computing']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02110', 'B02821']"
+}

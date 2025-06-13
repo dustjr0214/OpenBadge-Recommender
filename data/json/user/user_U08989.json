@@ -1,0 +1,14 @@
+{
+    "user_id": "U08989",
+    "name": "Elizabeth Wright",
+    "email": "christopher54@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04519', 'B08363', 'B04978', 'B06775', 'B08816']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Barry PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02036', 'B02470', 'B00993', 'B04014', 'B05068']"
+}

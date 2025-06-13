@@ -1,0 +1,14 @@
+{
+    "user_id": "U00907",
+    "name": "David Logan",
+    "email": "catherine27@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02003', 'B00788', 'B09589', 'B07695', 'B00764']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Walsh-Chan for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08690', 'B04965', 'B00774', 'B02026', 'B07045']"
+}

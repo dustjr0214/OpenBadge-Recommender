@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04975",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'SQL']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01463']"
+}

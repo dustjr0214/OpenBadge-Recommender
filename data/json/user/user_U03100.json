@@ -1,0 +1,14 @@
+{
+    "user_id": "U03100",
+    "name": "Casey Hall",
+    "email": "hammondkimberly@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05368', 'B03792']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Reynolds-Brown for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06119', 'B01623', 'B09363', 'B00291', 'B09920']"
+}

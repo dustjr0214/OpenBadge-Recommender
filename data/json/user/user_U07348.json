@@ -1,0 +1,14 @@
+{
+    "user_id": "U07348",
+    "name": "Brandon Reyes",
+    "email": "clopez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09585']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Ellis Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09551']"
+}

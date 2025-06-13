@@ -1,0 +1,14 @@
+{
+    "user_id": "U04888",
+    "name": "Mr. Benjamin Smith",
+    "email": "jjoyce@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09726', 'B01849', 'B05334', 'B08931', 'B05556']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at French LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02863']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06148",
+    "name": "Timothy Griffith",
+    "email": "bullockmario@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03668', 'B00613']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Roberts and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09564', 'B05678', 'B09383']"
+}

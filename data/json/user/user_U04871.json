@@ -1,0 +1,14 @@
+{
+    "user_id": "U04871",
+    "name": "Vanessa Wade",
+    "email": "wscott@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04523', 'B05326']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Cowan Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08590', 'B01916', 'B08812', 'B03124', 'B01906']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03009",
+    "name": "Joan Moore",
+    "email": "williammcdonald@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Taylor, Ortiz and Lopez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08711']"
+}

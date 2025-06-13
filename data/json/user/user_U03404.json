@@ -1,0 +1,14 @@
+{
+    "user_id": "U03404",
+    "name": "Lori Ware",
+    "email": "gmccoy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07352', 'B04602', 'B03535', 'B01733', 'B09169']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lopez, Adkins and Espinoza for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01300']"
+}

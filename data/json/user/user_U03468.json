@@ -1,0 +1,14 @@
+{
+    "user_id": "U03468",
+    "name": "James Bradshaw",
+    "email": "sarahrussell@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06763', 'B02118']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Tran LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

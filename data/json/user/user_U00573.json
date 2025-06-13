@@ -1,0 +1,14 @@
+{
+    "user_id": "U00573",
+    "name": "Frances Nguyen",
+    "email": "udavies@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05010', 'B04207', 'B02638', 'B00069', 'B01447']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Brandt-Hughes for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06390']"
+}

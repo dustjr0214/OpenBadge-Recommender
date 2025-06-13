@@ -1,0 +1,14 @@
+{
+    "user_id": "U09419",
+    "name": "Matthew Daniel",
+    "email": "yburns@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07264', 'B01513', 'B03092', 'B09426', 'B09669']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Bryant and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02828', 'B09329', 'B06337']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06824",
+    "name": "Henry Johnson",
+    "email": "elizabeth09@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04916', 'B05705', 'B06112']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Fernandez, Thomas and Hubbard for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

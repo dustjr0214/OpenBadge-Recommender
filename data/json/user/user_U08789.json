@@ -1,0 +1,14 @@
+{
+    "user_id": "U08789",
+    "name": "Michael Edwards",
+    "email": "qcarter@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04788', 'B02692', 'B08443']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Webb, Mcgee and Hart for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06794', 'B04807', 'B09728', 'B02014', 'B07389']"
+}

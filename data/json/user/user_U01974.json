@@ -1,0 +1,14 @@
+{
+    "user_id": "U01974",
+    "name": "Marvin Vasquez",
+    "email": "trivera@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00414', 'B07806']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Pope-Rhodes for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

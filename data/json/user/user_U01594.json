@@ -1,0 +1,14 @@
+{
+    "user_id": "U01594",
+    "name": "John Cruz",
+    "email": "dawn72@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00189']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Garcia, Thompson and Scott for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05245', 'B02168', 'B08682', 'B00931']"
+}

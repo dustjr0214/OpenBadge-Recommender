@@ -1,0 +1,14 @@
+{
+    "user_id": "U07751",
+    "name": "Amber Meza",
+    "email": "evansjennifer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Collins-Shepard for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05862', 'B00516', 'B06636', 'B07155', 'B09479']"
+}

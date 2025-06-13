@@ -1,0 +1,14 @@
+{
+    "user_id": "U05169",
+    "name": "Brittney Clark",
+    "email": "dixonjohn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00962', 'B02693', 'B08795', 'B04460']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Russell Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05713', 'B06956', 'B05513', 'B03410']"
+}

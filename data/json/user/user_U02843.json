@@ -1,0 +1,14 @@
+{
+    "user_id": "U02843",
+    "name": "Jeffrey Arnold",
+    "email": "fergusonpamela@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07301', 'B02536', 'B02267', 'B07924', 'B05032']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Carney-Day for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07093', 'B09047', 'B05183', 'B00476', 'B02587']"
+}

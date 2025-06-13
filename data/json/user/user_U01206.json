@@ -1,0 +1,14 @@
+{
+    "user_id": "U01206",
+    "name": "Peter Lawrence",
+    "email": "autumnhampton@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01495', 'B04004', 'B00854', 'B04220', 'B09405']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Jacobs PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

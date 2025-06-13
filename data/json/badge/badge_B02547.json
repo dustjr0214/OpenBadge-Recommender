@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02547",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'Cybersecurity']",
+    "competency": "['SQL', 'Data Analysis']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B05381', 'B04384']"
+}

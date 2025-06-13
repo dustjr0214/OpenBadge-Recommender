@@ -1,0 +1,14 @@
+{
+    "user_id": "U04380",
+    "name": "Mark Roman",
+    "email": "gary98@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02795', 'B09519', 'B01231']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Gomez-Garcia for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05150', 'B06893']"
+}

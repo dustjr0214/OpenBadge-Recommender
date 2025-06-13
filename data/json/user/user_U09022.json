@@ -1,0 +1,14 @@
+{
+    "user_id": "U09022",
+    "name": "Brian Deleon",
+    "email": "john90@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05185', 'B08353', 'B08595', 'B03105', 'B00890']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wright and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03737', 'B00764', 'B04201', 'B05646']"
+}

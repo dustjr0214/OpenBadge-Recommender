@@ -1,0 +1,14 @@
+{
+    "user_id": "U05174",
+    "name": "Mark Garcia",
+    "email": "kevinhall@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05863', 'B04174', 'B09302', 'B03035']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Duncan, Crawford and Morales for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05270', 'B08583', 'B00245', 'B02207', 'B07993']"
+}

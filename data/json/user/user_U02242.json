@@ -1,0 +1,14 @@
+{
+    "user_id": "U02242",
+    "name": "Jennifer Kelly",
+    "email": "tammie56@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02868', 'B09174']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Mcintosh, Nguyen and Saunders for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09359', 'B07682']"
+}

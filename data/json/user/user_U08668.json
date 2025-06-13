@@ -1,0 +1,14 @@
+{
+    "user_id": "U08668",
+    "name": "Dana Baker",
+    "email": "tammyward@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07778']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rogers PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01298', 'B05510', 'B09792', 'B00596', 'B02238']"
+}

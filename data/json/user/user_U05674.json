@@ -1,0 +1,14 @@
+{
+    "user_id": "U05674",
+    "name": "Mark Lewis",
+    "email": "adam33@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02613']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Russo, Blackburn and Gomez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03281', 'B02512']"
+}

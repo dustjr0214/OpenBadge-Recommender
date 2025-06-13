@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00949",
+    "name": "Cloud Computing Guru",
+    "issuer": "IBM",
+    "description": "Cloud Computing Guru badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency": "['Analytical Skills', 'Leadership', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08361', 'B05873']"
+}

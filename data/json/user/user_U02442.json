@@ -1,0 +1,14 @@
+{
+    "user_id": "U02442",
+    "name": "Richard Williams",
+    "email": "brewerbilly@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06950', 'B00594', 'B06015', 'B06016']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Murphy, Bray and Mitchell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06252', 'B02733', 'B06357', 'B02817', 'B09450']"
+}

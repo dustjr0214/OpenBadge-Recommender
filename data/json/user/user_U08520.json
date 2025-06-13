@@ -1,0 +1,14 @@
+{
+    "user_id": "U08520",
+    "name": "Katherine Rocha",
+    "email": "michael83@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09159', 'B09031', 'B01766', 'B07314', 'B00682']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Kline PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03679', 'B09572', 'B01573', 'B00441']"
+}

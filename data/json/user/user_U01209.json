@@ -1,0 +1,14 @@
+{
+    "user_id": "U01209",
+    "name": "Shannon Brown",
+    "email": "joyce27@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04393', 'B00739', 'B06883', 'B01598', 'B01041']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Waters, Moore and Gibson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08089']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08333",
+    "name": "Mary Young",
+    "email": "rwall@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00676']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Donovan and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08629', 'B01393', 'B09823', 'B07869', 'B07705']"
+}

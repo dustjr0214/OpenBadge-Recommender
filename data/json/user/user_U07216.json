@@ -1,0 +1,14 @@
+{
+    "user_id": "U07216",
+    "name": "Kristin Horne",
+    "email": "jonathanhamilton@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03031', 'B03320', 'B00490', 'B01488']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at White-Thomas for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08110', 'B03958']"
+}

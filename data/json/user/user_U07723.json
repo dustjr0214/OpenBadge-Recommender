@@ -1,0 +1,14 @@
+{
+    "user_id": "U07723",
+    "name": "Justin Jacobs",
+    "email": "craig81@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04631', 'B02199', 'B01599']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Smith Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07777', 'B06211', 'B07640', 'B09261', 'B02922']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08973",
+    "name": "Jessica Oneill",
+    "email": "klawrence@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07547', 'B05088', 'B01006', 'B01011', 'B03965']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Payne, Ramirez and Mendoza for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01696', 'B06760', 'B06124', 'B08973', 'B02893']"
+}

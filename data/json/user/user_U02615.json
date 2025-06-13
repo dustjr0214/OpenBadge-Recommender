@@ -1,0 +1,14 @@
+{
+    "user_id": "U02615",
+    "name": "Thomas Howe",
+    "email": "rsmith@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Fletcher, Matthews and Sanchez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05159', 'B04067', 'B08141', 'B02467']"
+}

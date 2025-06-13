@@ -1,0 +1,14 @@
+{
+    "user_id": "U01440",
+    "name": "Sandra Reed",
+    "email": "markrice@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08921', 'B03522', 'B03199', 'B00077']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Sanders and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04936', 'B01849', 'B08563', 'B08309']"
+}

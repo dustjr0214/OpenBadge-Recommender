@@ -1,0 +1,14 @@
+{
+    "user_id": "U01078",
+    "name": "Dennis Allen",
+    "email": "lucascarter@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07939', 'B04648', 'B00502']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Hicks-Robinson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02334', 'B05411', 'B07181']"
+}

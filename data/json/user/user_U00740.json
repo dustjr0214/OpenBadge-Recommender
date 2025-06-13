@@ -1,0 +1,14 @@
+{
+    "user_id": "U00740",
+    "name": "Amy Yoder",
+    "email": "rodrigueztheresa@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03262', 'B03613', 'B05106']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Cruz, Mitchell and Webb for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02303', 'B06679', 'B02639', 'B04914']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07369",
+    "name": "Mark Atkins",
+    "email": "johnsonanthony@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05130']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Rose-Tran for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03315', 'B02657', 'B06415', 'B09493', 'B03779']"
+}

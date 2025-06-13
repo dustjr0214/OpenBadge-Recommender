@@ -1,0 +1,14 @@
+{
+    "user_id": "U02834",
+    "name": "Eric Frost",
+    "email": "johnnywright@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07402', 'B02504', 'B05538', 'B01154']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Warren, Miles and Jenkins for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05739', 'B00263', 'B09420', 'B05120']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05189",
+    "name": "Ernest Robertson",
+    "email": "steven78@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03114', 'B05199']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Williams-Howell for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05479', 'B05153', 'B09507', 'B02150']"
+}

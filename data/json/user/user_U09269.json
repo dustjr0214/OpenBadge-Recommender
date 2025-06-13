@@ -1,0 +1,14 @@
+{
+    "user_id": "U09269",
+    "name": "Jonathan Moore",
+    "email": "wilsonkelly@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05434', 'B05057', 'B06578', 'B09245', 'B07086']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Pace Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

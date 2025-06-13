@@ -1,0 +1,14 @@
+{
+    "user_id": "U01692",
+    "name": "Juan Guzman",
+    "email": "fjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00482', 'B03433']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Powell, Fleming and Roberts for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05286', 'B04064', 'B02050', 'B01411']"
+}

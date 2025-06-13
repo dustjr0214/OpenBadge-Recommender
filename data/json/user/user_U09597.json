@@ -1,0 +1,14 @@
+{
+    "user_id": "U09597",
+    "name": "Eric Grant",
+    "email": "cristianaustin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05462', 'B05790', 'B02972']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Kennedy-Jackson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08663', 'B05929', 'B07383']"
+}

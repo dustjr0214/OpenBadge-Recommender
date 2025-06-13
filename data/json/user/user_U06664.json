@@ -1,0 +1,14 @@
+{
+    "user_id": "U06664",
+    "name": "Brian Powell",
+    "email": "brian76@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06172', 'B03868', 'B06775', 'B08395']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Mcguire Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05251', 'B04779', 'B06690', 'B01553', 'B07973']"
+}

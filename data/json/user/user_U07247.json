@@ -1,0 +1,14 @@
+{
+    "user_id": "U07247",
+    "name": "Alyssa Green",
+    "email": "guzmanchristopher@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06767', 'B03058', 'B03647', 'B09242']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Williams LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

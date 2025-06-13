@@ -1,0 +1,14 @@
+{
+    "user_id": "U08005",
+    "name": "Samantha Gray",
+    "email": "samantha72@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00771', 'B07730', 'B08701', 'B08753']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Keller Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06174', 'B03566', 'B01196']"
+}

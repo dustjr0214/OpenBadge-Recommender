@@ -1,0 +1,14 @@
+{
+    "user_id": "U05984",
+    "name": "Jeremy Davis",
+    "email": "christine76@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08229', 'B03207']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Wilcox, Wilson and Johnson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03049', 'B06352', 'B07445']"
+}

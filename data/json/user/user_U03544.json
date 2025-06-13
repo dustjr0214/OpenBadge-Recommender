@@ -1,0 +1,14 @@
+{
+    "user_id": "U03544",
+    "name": "Jessica Singh",
+    "email": "mossjessica@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04506', 'B04867', 'B02015', 'B09992']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Andrade Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00154']"
+}

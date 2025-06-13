@@ -1,0 +1,14 @@
+{
+    "user_id": "U09520",
+    "name": "Theresa Solis",
+    "email": "angiemartin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00115', 'B02597', 'B09504', 'B04181']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mooney, Williamson and Goodwin for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04122', 'B02275', 'B00764', 'B05904', 'B07806']"
+}

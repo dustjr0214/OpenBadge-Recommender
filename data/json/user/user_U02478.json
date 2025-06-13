@@ -1,0 +1,14 @@
+{
+    "user_id": "U02478",
+    "name": "Brandon Murphy",
+    "email": "garynovak@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05843', 'B04994', 'B00539', 'B07571', 'B06967']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Knight Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

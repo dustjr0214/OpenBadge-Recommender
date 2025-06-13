@@ -1,0 +1,14 @@
+{
+    "user_id": "U00824",
+    "name": "Jill Roth",
+    "email": "justinyu@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08720', 'B00249', 'B01487']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Patterson-Salazar for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02725', 'B08705', 'B04941', 'B01187', 'B04693']"
+}

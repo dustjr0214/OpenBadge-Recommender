@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05062",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['Machine Learning', 'Python', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09432']"
+}

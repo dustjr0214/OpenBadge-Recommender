@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01230",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning', 'Python']",
+    "competency": "['Creativity', 'SQL', 'Teamwork']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01919', 'B04010']"
+}

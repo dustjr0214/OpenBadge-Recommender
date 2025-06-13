@@ -1,0 +1,14 @@
+{
+    "user_id": "U04935",
+    "name": "Elizabeth Mora",
+    "email": "pmorales@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02132', 'B02008', 'B05189']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Mcgee Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06365']"
+}

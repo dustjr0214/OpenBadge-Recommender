@@ -1,0 +1,14 @@
+{
+    "user_id": "U04734",
+    "name": "Amber Hernandez",
+    "email": "stevengutierrez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03968', 'B04246', 'B00612', 'B08772']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Campbell, Davis and Gonzalez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04411', 'B04399', 'B00060', 'B08333', 'B08775']"
+}

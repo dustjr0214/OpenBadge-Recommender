@@ -1,0 +1,14 @@
+{
+    "user_id": "U01175",
+    "name": "Paula Patrick",
+    "email": "gmccullough@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07797', 'B02364', 'B04535']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Ferguson, Brown and Luna for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07727', 'B09700', 'B02763']"
+}

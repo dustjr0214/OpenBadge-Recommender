@@ -1,0 +1,14 @@
+{
+    "user_id": "U03129",
+    "name": "Carla Bennett",
+    "email": "eatonspencer@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00356', 'B06979', 'B07432', 'B09912']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Johnson Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09461",
+    "name": "Brittany Floyd",
+    "email": "michael74@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00441']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Arnold, Hopkins and Wang for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04080', 'B01140']"
+}

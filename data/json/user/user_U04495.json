@@ -1,0 +1,14 @@
+{
+    "user_id": "U04495",
+    "name": "Tracey Smith",
+    "email": "kimberlycampbell@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01433', 'B03041', 'B07448']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wong-Galvan for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

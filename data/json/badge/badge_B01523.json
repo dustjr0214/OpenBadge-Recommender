@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01523",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

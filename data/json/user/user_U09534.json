@@ -1,0 +1,14 @@
+{
+    "user_id": "U09534",
+    "name": "Christina Stephens",
+    "email": "douglasking@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04391', 'B04643']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Wilcox, Henderson and Morrow for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07989', 'B05119', 'B02628', 'B07678', 'B07645']"
+}

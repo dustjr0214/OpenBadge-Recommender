@@ -1,0 +1,14 @@
+{
+    "user_id": "U01413",
+    "name": "Mary Hicks",
+    "email": "patriciawhite@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05631', 'B00986', 'B02233', 'B08521', 'B00700']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brown-Johnson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07394', 'B05028']"
+}

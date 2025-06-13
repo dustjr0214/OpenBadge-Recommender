@@ -1,0 +1,14 @@
+{
+    "user_id": "U09872",
+    "name": "Tiffany Vance",
+    "email": "uli@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07127', 'B07262', 'B06171', 'B05541', 'B02521']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Mcdonald PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

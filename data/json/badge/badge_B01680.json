@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01680",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing', 'UI/UX']",
+    "competency": "['SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00614', 'B07361']"
+}

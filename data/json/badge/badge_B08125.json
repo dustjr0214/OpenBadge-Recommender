@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08125",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Cybersecurity']",
+    "competency": "['Cloud Computing', 'Analytical Skills', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

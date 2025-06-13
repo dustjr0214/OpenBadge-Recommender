@@ -1,0 +1,14 @@
+{
+    "user_id": "U07018",
+    "name": "Joe Soto",
+    "email": "michael05@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09422', 'B04588', 'B04667', 'B08807', 'B09402']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Graves, Alvarez and Mcintyre for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09551', 'B07701', 'B02354']"
+}

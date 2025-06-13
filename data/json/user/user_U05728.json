@@ -1,0 +1,14 @@
+{
+    "user_id": "U05728",
+    "name": "Victor Washington",
+    "email": "khodges@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08868', 'B06864', 'B04424', 'B08486']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Simmons, Mcdaniel and York for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01986', 'B02253', 'B07603', 'B03737']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03394",
+    "name": "Johnny Gonzalez",
+    "email": "lawrencetony@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Peterson, Hickman and Oliver for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07789', 'B09036', 'B07390']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07804",
+    "name": "Dr. Brandi Morrison",
+    "email": "christine16@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06281', 'B00903']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Griffith, Jackson and Miles for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07749', 'B05371', 'B03048']"
+}

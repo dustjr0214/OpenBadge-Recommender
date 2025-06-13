@@ -1,0 +1,14 @@
+{
+    "user_id": "U05583",
+    "name": "Monica Miller",
+    "email": "daniellewaller@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09724']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Bridges LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00108', 'B06795', 'B06949', 'B03543', 'B09980']"
+}

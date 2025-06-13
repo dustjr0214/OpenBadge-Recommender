@@ -1,0 +1,14 @@
+{
+    "user_id": "U03719",
+    "name": "Eric Stewart",
+    "email": "hartjanet@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09977', 'B09746']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Howard-Turner for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

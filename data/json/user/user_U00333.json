@@ -1,0 +1,14 @@
+{
+    "user_id": "U00333",
+    "name": "Gregory Lopez",
+    "email": "staceyhernandez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06577', 'B03430', 'B07903']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Gilbert, Macias and Daniels for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09251', 'B03782', 'B09015', 'B00859']"
+}

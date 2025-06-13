@@ -1,0 +1,14 @@
+{
+    "user_id": "U06335",
+    "name": "Diana Reyes",
+    "email": "jameshorton@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08817', 'B01507', 'B08791', 'B06389', 'B09086']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Reynolds-Franklin for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

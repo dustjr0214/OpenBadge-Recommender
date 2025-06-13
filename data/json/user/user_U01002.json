@@ -1,0 +1,14 @@
+{
+    "user_id": "U01002",
+    "name": "Jessica Cole",
+    "email": "danielleholt@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03168', 'B06793', 'B05986', 'B07662']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Jones, Shea and Simpson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

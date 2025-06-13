@@ -1,0 +1,14 @@
+{
+    "user_id": "U05960",
+    "name": "Miguel Howell",
+    "email": "emoses@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04176', 'B01772', 'B00457', 'B03906']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Holmes PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04781', 'B08602', 'B04492']"
+}

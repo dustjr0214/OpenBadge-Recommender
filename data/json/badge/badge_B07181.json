@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07181",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Python', 'Data Analysis']",
+    "competency": "['Machine Learning', 'Teamwork', 'Cloud Computing']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07896', 'B01805']"
+}

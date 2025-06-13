@@ -1,0 +1,14 @@
+{
+    "user_id": "U05896",
+    "name": "Paul Newton",
+    "email": "sarah63@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07753', 'B06020', 'B07503', 'B09154', 'B02097']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Ward, George and Lynn for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09664', 'B07950']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01281",
+    "name": "Julie Bryant",
+    "email": "michelegonzales@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01189', 'B00101', 'B06995', 'B06852', 'B00028']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lewis Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03079', 'B08128', 'B03008', 'B07093']"
+}

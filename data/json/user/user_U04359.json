@@ -1,0 +1,14 @@
+{
+    "user_id": "U04359",
+    "name": "Elizabeth Dennis",
+    "email": "christinefitzgerald@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09506', 'B01076', 'B06590']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Chambers and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

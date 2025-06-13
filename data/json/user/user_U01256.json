@@ -1,0 +1,14 @@
+{
+    "user_id": "U01256",
+    "name": "Alan Beck PhD",
+    "email": "shanemedina@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07842', 'B02363', 'B07197']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Brown Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06851', 'B09541', 'B02170', 'B03747']"
+}

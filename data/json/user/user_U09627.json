@@ -1,0 +1,14 @@
+{
+    "user_id": "U09627",
+    "name": "Jenny Banks",
+    "email": "dananorton@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04912', 'B00067', 'B02886']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Russell, White and Rhodes for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

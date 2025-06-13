@@ -1,0 +1,14 @@
+{
+    "user_id": "U04869",
+    "name": "Jamie Baker",
+    "email": "victor36@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00488', 'B08483']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Perez, Morton and Mcguire for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07724', 'B06183', 'B04677']"
+}

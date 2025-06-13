@@ -1,0 +1,14 @@
+{
+    "user_id": "U02414",
+    "name": "Diana Ellis",
+    "email": "grant64@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07425']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Dunn Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03112', 'B04619', 'B03944', 'B09733']"
+}

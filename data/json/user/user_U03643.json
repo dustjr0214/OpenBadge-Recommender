@@ -1,0 +1,14 @@
+{
+    "user_id": "U03643",
+    "name": "Jeremy Smith",
+    "email": "tyler52@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02356', 'B03284', 'B00709']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at West, Cannon and Edwards for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05167', 'B06534', 'B00235', 'B02668', 'B00474']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06227",
+    "name": "Ian Alexander",
+    "email": "gregorybruce@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09629', 'B08534']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Valdez LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03346', 'B03835']"
+}

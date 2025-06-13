@@ -1,0 +1,14 @@
+{
+    "user_id": "U04257",
+    "name": "Alan Lynch",
+    "email": "joanbeck@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02616', 'B04639', 'B05704', 'B09936', 'B08473']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Roberts and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00756', 'B01931', 'B09236', 'B07608']"
+}

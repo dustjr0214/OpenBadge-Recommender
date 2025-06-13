@@ -1,0 +1,14 @@
+{
+    "user_id": "U05140",
+    "name": "Carol Santos",
+    "email": "dowens@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09838', 'B08749']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Hurst-Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07397', 'B05755']"
+}

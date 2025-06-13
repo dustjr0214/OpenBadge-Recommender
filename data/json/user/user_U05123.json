@@ -1,0 +1,14 @@
+{
+    "user_id": "U05123",
+    "name": "Jordan Taylor",
+    "email": "ldixon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02626', 'B00069', 'B07365', 'B03054', 'B07258']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Phillips, Daniel and Dixon for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09406']"
+}

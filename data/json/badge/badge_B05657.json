@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05657",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B06422', 'B06346']"
+}

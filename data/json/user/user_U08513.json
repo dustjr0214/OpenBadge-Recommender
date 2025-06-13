@@ -1,0 +1,14 @@
+{
+    "user_id": "U08513",
+    "name": "Jennifer Stevens",
+    "email": "jpetersen@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05230', 'B06639', 'B09795', 'B06352']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Morgan-Mcdonald for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08783', 'B03035']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03353",
+    "name": "Dr. James Clark",
+    "email": "wreed@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Martinez-Page for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

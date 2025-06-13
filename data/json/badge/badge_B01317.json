@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01317",
+    "name": "Machine Learning Pro",
+    "issuer": "Udacity",
+    "description": "Machine Learning Pro badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'UI/UX']",
+    "competency": "['DevOps', 'Teamwork', 'Cybersecurity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02065', 'B01251']"
+}

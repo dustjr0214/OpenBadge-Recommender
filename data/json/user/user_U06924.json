@@ -1,0 +1,14 @@
+{
+    "user_id": "U06924",
+    "name": "Shelly Jackson",
+    "email": "miarichard@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00439']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Osborne Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06811', 'B04471', 'B03365', 'B00394', 'B02660']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00335",
+    "name": "Katherine Golden",
+    "email": "russell44@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Davis-Garcia for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

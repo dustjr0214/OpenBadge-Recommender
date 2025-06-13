@@ -1,0 +1,14 @@
+{
+    "user_id": "U04160",
+    "name": "Dwayne Miller",
+    "email": "haleconnie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05676']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Le Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08621', 'B00995']"
+}

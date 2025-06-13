@@ -1,0 +1,14 @@
+{
+    "user_id": "U00110",
+    "name": "Linda Cantrell",
+    "email": "jason97@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07196', 'B08999', 'B02200', 'B01550', 'B02441']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Bennett-Woodward for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00744', 'B02741', 'B04291', 'B01777', 'B06079']"
+}

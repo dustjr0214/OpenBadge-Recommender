@@ -1,0 +1,14 @@
+{
+    "user_id": "U03395",
+    "name": "Dakota Walters",
+    "email": "pattersonholly@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06293', 'B08257', 'B00668', 'B04346', 'B09319']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Smith, Christian and Ortega for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02960', 'B05411', 'B02721', 'B04683']"
+}

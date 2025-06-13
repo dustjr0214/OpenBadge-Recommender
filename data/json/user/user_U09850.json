@@ -1,0 +1,14 @@
+{
+    "user_id": "U09850",
+    "name": "Tracey Gould",
+    "email": "ashleyvaughn@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08213', 'B00326', 'B02190']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Ortega PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05560', 'B08307', 'B02401', 'B08743']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06480",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Analytical Skills', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

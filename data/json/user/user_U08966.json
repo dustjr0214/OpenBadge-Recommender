@@ -1,0 +1,14 @@
+{
+    "user_id": "U08966",
+    "name": "Dustin Young",
+    "email": "richardfisher@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04716', 'B00985', 'B07176']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Molina, Nguyen and Hill for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05887', 'B05201', 'B09707', 'B05367']"
+}

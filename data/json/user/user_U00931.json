@@ -1,0 +1,14 @@
+{
+    "user_id": "U00931",
+    "name": "Alexander Bradshaw",
+    "email": "jeremy89@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07438']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Clark-Myers for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02864', 'B06572', 'B03028']"
+}

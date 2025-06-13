@@ -1,0 +1,14 @@
+{
+    "user_id": "U02273",
+    "name": "Gabriel Gonzalez",
+    "email": "larry61@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09933', 'B04752']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Singleton, Walker and Sullivan for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01790']"
+}

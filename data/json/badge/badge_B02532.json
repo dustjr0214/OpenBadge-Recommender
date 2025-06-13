@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02532",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'DevOps']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

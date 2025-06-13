@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09551",
+    "name": "Big Data Analyst",
+    "issuer": "Udacity",
+    "description": "Big Data Analyst badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Python', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00312', 'B04130']"
+}

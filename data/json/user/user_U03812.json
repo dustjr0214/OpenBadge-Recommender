@@ -1,0 +1,14 @@
+{
+    "user_id": "U03812",
+    "name": "William Yang",
+    "email": "roberto55@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Walls, White and Pace for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08741', 'B09705', 'B09282']"
+}

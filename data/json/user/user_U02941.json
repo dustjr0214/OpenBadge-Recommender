@@ -1,0 +1,14 @@
+{
+    "user_id": "U02941",
+    "name": "Anna Williams MD",
+    "email": "shawn74@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00201', 'B00841', 'B05219', 'B06747', 'B02596']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Sims PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05936', 'B05154', 'B09216', 'B01057', 'B01929']"
+}

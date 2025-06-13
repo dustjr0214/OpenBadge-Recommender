@@ -1,0 +1,14 @@
+{
+    "user_id": "U02743",
+    "name": "Kimberly Walker",
+    "email": "kyle90@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05009', 'B07859', 'B09288', 'B04188']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Vazquez Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

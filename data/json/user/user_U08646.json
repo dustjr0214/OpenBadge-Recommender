@@ -1,0 +1,14 @@
+{
+    "user_id": "U08646",
+    "name": "Jeremy Drake",
+    "email": "rkirby@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01739']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Norton PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02998']"
+}

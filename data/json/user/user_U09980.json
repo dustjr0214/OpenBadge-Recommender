@@ -1,0 +1,14 @@
+{
+    "user_id": "U09980",
+    "name": "Sydney Hunter",
+    "email": "llynch@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04762', 'B09416', 'B02266', 'B08802', 'B08098']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Alvarez and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04659', 'B01121', 'B04520', 'B03498']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03280",
+    "name": "Jennifer Santana",
+    "email": "guzmanandrew@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05016', 'B04563', 'B01861']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cox-Morris for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00010', 'B01230', 'B04090', 'B08860']"
+}

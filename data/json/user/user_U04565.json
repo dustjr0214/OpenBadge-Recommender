@@ -1,0 +1,14 @@
+{
+    "user_id": "U04565",
+    "name": "Miss Julie Lee",
+    "email": "amanda21@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01365', 'B05750', 'B03671']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Garcia and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02414', 'B08671', 'B07173', 'B08282', 'B02508']"
+}

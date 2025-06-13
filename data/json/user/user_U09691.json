@@ -1,0 +1,14 @@
+{
+    "user_id": "U09691",
+    "name": "James Sanders",
+    "email": "michele53@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03768']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Warner LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06907']"
+}

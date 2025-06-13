@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00945",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['SQL', 'Cybersecurity']",
+    "competency": "['Data Analysis', 'Deep Learning', 'Problem Solving']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05435']"
+}

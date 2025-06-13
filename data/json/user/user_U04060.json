@@ -1,0 +1,14 @@
+{
+    "user_id": "U04060",
+    "name": "James Hicks",
+    "email": "farmercasey@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Jackson LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00647', 'B06031', 'B09325', 'B01183']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09984",
+    "name": "Shannon Benson",
+    "email": "ebonilla@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02373']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Watson-Mayer for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08378', 'B05407', 'B07169', 'B02702']"
+}

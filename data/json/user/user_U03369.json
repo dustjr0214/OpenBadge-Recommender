@@ -1,0 +1,14 @@
+{
+    "user_id": "U03369",
+    "name": "Andrea Lee",
+    "email": "timothy99@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Schneider and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05847', 'B00751', 'B08626', 'B01955', 'B08809']"
+}

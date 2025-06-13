@@ -1,0 +1,14 @@
+{
+    "user_id": "U07011",
+    "name": "Harold Frazier",
+    "email": "danielboyd@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03735', 'B07067', 'B04149', 'B07377', 'B00194']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rogers-Gonzalez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06847', 'B07790', 'B03827', 'B06352']"
+}

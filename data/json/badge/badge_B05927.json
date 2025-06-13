@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05927",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04662', 'B01369']"
+}

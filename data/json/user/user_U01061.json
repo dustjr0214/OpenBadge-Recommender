@@ -1,0 +1,14 @@
+{
+    "user_id": "U01061",
+    "name": "John Robbins",
+    "email": "mfoster@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06270', 'B02194', 'B01766', 'B01954', 'B04710']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Alexander-Erickson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

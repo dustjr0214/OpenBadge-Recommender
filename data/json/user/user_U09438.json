@@ -1,0 +1,14 @@
+{
+    "user_id": "U09438",
+    "name": "Anthony Sanders",
+    "email": "barbara19@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06909', 'B03493', 'B02810', 'B03889']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Kennedy, Cabrera and Rodriguez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05069', 'B01551', 'B09563', 'B05748']"
+}

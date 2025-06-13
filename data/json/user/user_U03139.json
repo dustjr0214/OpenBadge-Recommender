@@ -1,0 +1,14 @@
+{
+    "user_id": "U03139",
+    "name": "Thomas Hartman",
+    "email": "terrycarolyn@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Booth PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04126', 'B05390', 'B04335']"
+}

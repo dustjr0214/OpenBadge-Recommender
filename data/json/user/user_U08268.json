@@ -1,0 +1,14 @@
+{
+    "user_id": "U08268",
+    "name": "Jeffery Alexander",
+    "email": "kimberlybrown@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09452', 'B09673', 'B03747', 'B03580']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hansen and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03301', 'B05397', 'B07088', 'B08048']"
+}

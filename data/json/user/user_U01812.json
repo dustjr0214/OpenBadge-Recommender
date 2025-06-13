@@ -1,0 +1,14 @@
+{
+    "user_id": "U01812",
+    "name": "Robin Figueroa",
+    "email": "glovergrant@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01162', 'B03024', 'B00686', 'B01315']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Ashley-Morgan for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09196', 'B09409', 'B03435', 'B06036']"
+}

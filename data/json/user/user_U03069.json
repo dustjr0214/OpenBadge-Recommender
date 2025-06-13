@@ -1,0 +1,14 @@
+{
+    "user_id": "U03069",
+    "name": "Daniel Rangel",
+    "email": "bmarsh@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06129']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Humphrey PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08513', 'B01621', 'B01767', 'B00035']"
+}

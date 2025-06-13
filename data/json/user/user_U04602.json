@@ -1,0 +1,14 @@
+{
+    "user_id": "U04602",
+    "name": "Denise Nunez",
+    "email": "hernandezryan@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06627']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Underwood-Strong for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07670', 'B02628']"
+}

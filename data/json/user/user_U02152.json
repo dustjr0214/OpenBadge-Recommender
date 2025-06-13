@@ -1,0 +1,14 @@
+{
+    "user_id": "U02152",
+    "name": "Brittany Mccarty",
+    "email": "larrybrooks@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08778', 'B08710', 'B08335']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Rodriguez-Cordova for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04245']"
+}

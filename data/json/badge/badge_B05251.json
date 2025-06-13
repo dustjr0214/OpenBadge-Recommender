@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05251",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python']",
+    "competency": "['Python', 'Cybersecurity', 'Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06165",
+    "name": "Tina Garcia",
+    "email": "gregorygriffin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09006', 'B08722', 'B05905']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Spencer Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07232', 'B09453', 'B05173', 'B07227', 'B07666']"
+}

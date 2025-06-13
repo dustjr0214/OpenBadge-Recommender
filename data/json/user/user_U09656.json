@@ -1,0 +1,14 @@
+{
+    "user_id": "U09656",
+    "name": "Madison York",
+    "email": "crystalparker@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09020', 'B08964']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Johnson-Pierce for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07376', 'B03644', 'B00437', 'B03462', 'B01983']"
+}

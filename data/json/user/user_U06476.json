@@ -1,0 +1,14 @@
+{
+    "user_id": "U06476",
+    "name": "Seth Garrett",
+    "email": "tiffany09@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08704', 'B07793', 'B01661', 'B07688', 'B07133']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Johnson, Brown and Jones for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03944', 'B03352']"
+}

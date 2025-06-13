@@ -1,0 +1,14 @@
+{
+    "user_id": "U08349",
+    "name": "Anthony Wilson",
+    "email": "blittle@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06144', 'B09603', 'B07716', 'B03925', 'B02269']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Parks, Sanders and Campos for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05759', 'B01079', 'B06496', 'B04856', 'B01381']"
+}

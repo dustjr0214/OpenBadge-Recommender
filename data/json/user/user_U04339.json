@@ -1,0 +1,14 @@
+{
+    "user_id": "U04339",
+    "name": "Rebecca Lewis",
+    "email": "simmonsemily@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03479', 'B00009', 'B07084']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Davis, Adams and Bowers for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

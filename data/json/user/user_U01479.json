@@ -1,0 +1,14 @@
+{
+    "user_id": "U01479",
+    "name": "Frances Roach",
+    "email": "bcooley@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00620', 'B03673', 'B07960', 'B07703', 'B04706']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Lindsey-Washington for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00256', 'B00009', 'B08218', 'B01319']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08460",
+    "name": "Corey Martinez",
+    "email": "kristinjoseph@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06877']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Bernard-Carpenter for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07889', 'B04062', 'B01272', 'B07040']"
+}

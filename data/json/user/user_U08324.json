@@ -1,0 +1,14 @@
+{
+    "user_id": "U08324",
+    "name": "Gabrielle Harding",
+    "email": "ykelly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Blackwell PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02235', 'B09512', 'B01786', 'B09113', 'B05818']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02915",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'DevOps']",
+    "competency": "['Machine Learning', 'SQL', 'Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08267', 'B08721']"
+}

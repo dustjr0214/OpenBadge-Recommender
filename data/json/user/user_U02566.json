@@ -1,0 +1,14 @@
+{
+    "user_id": "U02566",
+    "name": "Lisa Rice",
+    "email": "bsteele@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03826', 'B07094', 'B03567']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Benton-Marsh for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07179']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07374",
+    "name": "Julia Harris",
+    "email": "lopezbrian@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09121', 'B06152', 'B03919', 'B08770', 'B07502']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Williams-Baker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08462', 'B07187', 'B05079']"
+}

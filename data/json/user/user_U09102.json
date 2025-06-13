@@ -1,0 +1,14 @@
+{
+    "user_id": "U09102",
+    "name": "April Sandoval",
+    "email": "brandonmorris@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at George, Gross and Montgomery for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06107', 'B03165', 'B06979', 'B06129', 'B09956']"
+}

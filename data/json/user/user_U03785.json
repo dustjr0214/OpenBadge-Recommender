@@ -1,0 +1,14 @@
+{
+    "user_id": "U03785",
+    "name": "Jasmine Stewart",
+    "email": "joannaguerra@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06840', 'B08971', 'B00702', 'B09512', 'B09645']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Campbell-Mitchell for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04049', 'B00357']"
+}

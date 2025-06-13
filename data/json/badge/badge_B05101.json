@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05101",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Python', 'SQL']",
+    "competency": "['Cloud Computing', 'Cybersecurity', 'Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01488', 'B06439']"
+}

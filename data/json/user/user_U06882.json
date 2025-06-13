@@ -1,0 +1,14 @@
+{
+    "user_id": "U06882",
+    "name": "Nicholas Castaneda",
+    "email": "qwest@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00598', 'B04985', 'B09358']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Sanchez Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08733', 'B07055', 'B06131', 'B08903']"
+}

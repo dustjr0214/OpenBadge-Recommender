@@ -1,0 +1,14 @@
+{
+    "user_id": "U09518",
+    "name": "Jessica Gibbs",
+    "email": "williamssteven@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00396', 'B08648', 'B00706']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Pittman, Herrera and Johnson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02855', 'B00128', 'B04580', 'B09943']"
+}

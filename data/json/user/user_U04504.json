@@ -1,0 +1,14 @@
+{
+    "user_id": "U04504",
+    "name": "Megan Pope",
+    "email": "ycastro@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Alvarado-Ortiz for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07468', 'B09568', 'B05497', 'B07134']"
+}

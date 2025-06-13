@@ -1,0 +1,14 @@
+{
+    "user_id": "U04551",
+    "name": "Joseph Barnett",
+    "email": "jonesbrian@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06407', 'B08298', 'B06337', 'B09939', 'B06792']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Burgess PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07274', 'B07713', 'B03689', 'B03116']"
+}

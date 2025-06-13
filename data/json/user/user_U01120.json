@@ -1,0 +1,14 @@
+{
+    "user_id": "U01120",
+    "name": "Steven Holland",
+    "email": "annettejones@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Smith and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07247', 'B05656', 'B09069', 'B00570', 'B06791']"
+}

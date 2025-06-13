@@ -1,0 +1,14 @@
+{
+    "user_id": "U03227",
+    "name": "Alex Yoder",
+    "email": "qbeck@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02947', 'B03502']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Byrd, Powell and Morales for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08403', 'B08100', 'B08532', 'B07575', 'B06784']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00454",
+    "name": "David Sosa",
+    "email": "hoodroy@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03727', 'B02298', 'B07879']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at White, Cole and Miller for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

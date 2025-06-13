@@ -1,0 +1,14 @@
+{
+    "user_id": "U06419",
+    "name": "Olivia Davis",
+    "email": "nsmith@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00398', 'B03454', 'B07489', 'B03487', 'B04569']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Edwards, Moore and Berry for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03143', 'B00003', 'B08879']"
+}

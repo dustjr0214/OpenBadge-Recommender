@@ -1,0 +1,14 @@
+{
+    "user_id": "U00826",
+    "name": "Laurie Best",
+    "email": "ywalker@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09193', 'B00658', 'B03630', 'B07861']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Grant-Patterson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02332', 'B03467', 'B01353', 'B02274', 'B09117']"
+}

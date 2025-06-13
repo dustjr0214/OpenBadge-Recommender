@@ -1,0 +1,14 @@
+{
+    "user_id": "U03550",
+    "name": "Bruce Gonzalez",
+    "email": "lesliegonzalez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03852', 'B08241', 'B01113']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Snyder LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05756']"
+}

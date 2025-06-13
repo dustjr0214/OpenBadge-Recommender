@@ -1,0 +1,14 @@
+{
+    "user_id": "U02023",
+    "name": "Craig Goodman",
+    "email": "nancy74@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02289', 'B06168']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Kelly, Rivera and James for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06525', 'B07679', 'B02154', 'B04281', 'B09293']"
+}

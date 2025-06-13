@@ -1,0 +1,14 @@
+{
+    "user_id": "U05401",
+    "name": "Grant Douglas",
+    "email": "jvelazquez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06058', 'B01542']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Villa LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

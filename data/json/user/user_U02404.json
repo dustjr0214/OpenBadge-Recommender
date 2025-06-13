@@ -1,0 +1,14 @@
+{
+    "user_id": "U02404",
+    "name": "Stephanie Davis",
+    "email": "michellemckenzie@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01612', 'B01465']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Peters-Kaiser for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04492', 'B05509', 'B00214']"
+}

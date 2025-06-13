@@ -1,0 +1,14 @@
+{
+    "user_id": "U02339",
+    "name": "Kevin Perez",
+    "email": "brooksrebecca@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06204', 'B09664', 'B03052', 'B09551']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Orozco Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00572', 'B06434', 'B08747', 'B02889']"
+}

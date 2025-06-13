@@ -1,0 +1,14 @@
+{
+    "user_id": "U09916",
+    "name": "Kevin Cox",
+    "email": "beth58@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07972', 'B09605', 'B06600', 'B06409', 'B08921']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Morton, Campbell and Hopkins for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01946']"
+}

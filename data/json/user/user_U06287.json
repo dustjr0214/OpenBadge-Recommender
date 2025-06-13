@@ -1,0 +1,14 @@
+{
+    "user_id": "U06287",
+    "name": "Michael Vasquez",
+    "email": "robert94@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03264', 'B09635']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cole, Garrett and Stark for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02531', 'B00147', 'B00333', 'B06346']"
+}

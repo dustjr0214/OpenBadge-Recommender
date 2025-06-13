@@ -1,0 +1,14 @@
+{
+    "user_id": "U04235",
+    "name": "Ann Grant",
+    "email": "williamwagner@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Jordan, Lopez and Vance for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07480', 'B09307', 'B08437', 'B03002', 'B00694']"
+}

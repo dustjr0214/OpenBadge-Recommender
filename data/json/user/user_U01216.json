@@ -1,0 +1,14 @@
+{
+    "user_id": "U01216",
+    "name": "Elizabeth Brown",
+    "email": "dwilliams@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04105', 'B00335']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Davis-Baxter for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00180', 'B04065', 'B01599', 'B05063']"
+}

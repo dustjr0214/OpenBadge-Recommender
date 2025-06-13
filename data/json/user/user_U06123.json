@@ -1,0 +1,14 @@
+{
+    "user_id": "U06123",
+    "name": "Anthony Palmer",
+    "email": "hcervantes@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01774', 'B07138', 'B05324', 'B07401', 'B08548']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Hernandez Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08053', 'B02461', 'B03020', 'B00964', 'B05364']"
+}

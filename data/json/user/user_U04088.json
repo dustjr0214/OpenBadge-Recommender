@@ -1,0 +1,14 @@
+{
+    "user_id": "U04088",
+    "name": "Dillon Richards",
+    "email": "darmstrong@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07091']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Garrison Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08712', 'B09067']"
+}

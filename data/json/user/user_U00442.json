@@ -1,0 +1,14 @@
+{
+    "user_id": "U00442",
+    "name": "Daniel Wilson",
+    "email": "amandaescobar@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09040', 'B09136', 'B07345']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Alvarez, Mccoy and Haley for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07991', 'B04267', 'B07528', 'B03596']"
+}

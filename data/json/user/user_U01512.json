@@ -1,0 +1,14 @@
+{
+    "user_id": "U01512",
+    "name": "Lisa Crosby",
+    "email": "james51@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09666', 'B05181', 'B00936', 'B02104']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Ball, Richardson and Thompson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00396', 'B00376', 'B07889', 'B02199', 'B05344']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08229",
+    "name": "Bobby Ortega",
+    "email": "fullererica@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06899', 'B06078', 'B04446', 'B05746', 'B01511']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Crawford-Martinez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08784', 'B01097', 'B09969', 'B07623', 'B01462']"
+}

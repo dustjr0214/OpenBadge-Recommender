@@ -1,0 +1,14 @@
+{
+    "user_id": "U05419",
+    "name": "Carol Doyle",
+    "email": "stevedecker@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00250', 'B03102', 'B06160', 'B08690', 'B08981']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Miller-Strickland for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

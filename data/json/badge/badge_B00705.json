@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00705",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Python', 'Deep Learning']",
+    "competency": "['Analytical Skills', 'Deep Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

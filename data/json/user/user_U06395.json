@@ -1,0 +1,14 @@
+{
+    "user_id": "U06395",
+    "name": "Dr. Jennifer Farley",
+    "email": "amy60@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05492', 'B03743']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Yang PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03325', 'B07070', 'B06787']"
+}

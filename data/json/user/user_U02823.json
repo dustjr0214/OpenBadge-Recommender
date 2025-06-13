@@ -1,0 +1,14 @@
+{
+    "user_id": "U02823",
+    "name": "Heather Morgan",
+    "email": "gailrodriguez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00041', 'B06909', 'B09922', 'B09485', 'B02611']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Baker LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07487', 'B08861', 'B06413', 'B07602']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08931",
+    "name": "Nicolas Vaughn",
+    "email": "qjones@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02400', 'B01997', 'B04148', 'B02139', 'B04108']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gray and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02850', 'B00063', 'B00589']"
+}

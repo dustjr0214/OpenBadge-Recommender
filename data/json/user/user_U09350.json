@@ -1,0 +1,14 @@
+{
+    "user_id": "U09350",
+    "name": "Christopher Bell",
+    "email": "brian37@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03166', 'B04091']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Roberts-Hurley for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08531', 'B08684']"
+}

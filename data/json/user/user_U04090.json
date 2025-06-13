@@ -1,0 +1,14 @@
+{
+    "user_id": "U04090",
+    "name": "Brian Watson",
+    "email": "sara27@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05761', 'B06821', 'B08309', 'B07943']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Vega-Hall for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08325', 'B08457', 'B04942', 'B06099', 'B01643']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04318",
+    "name": "Jonathan Barry",
+    "email": "mcgeecynthia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Scott PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07423', 'B05164', 'B04092']"
+}

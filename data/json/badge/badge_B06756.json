@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06756",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'Machine Learning', 'SQL']",
+    "competency": "['Analytical Skills', 'Cybersecurity', 'Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04841', 'B09989']"
+}

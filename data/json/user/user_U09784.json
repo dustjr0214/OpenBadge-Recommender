@@ -1,0 +1,14 @@
+{
+    "user_id": "U09784",
+    "name": "Wayne Willis",
+    "email": "knightkimberly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09337']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Larson LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03353', 'B08970', 'B07503', 'B03886', 'B02221']"
+}

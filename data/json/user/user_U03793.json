@@ -1,0 +1,14 @@
+{
+    "user_id": "U03793",
+    "name": "Brandi Perez",
+    "email": "richardjordan@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02363', 'B02279', 'B00790']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Thompson, Trujillo and Ayala for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08756', 'B07559', 'B02482', 'B09212']"
+}

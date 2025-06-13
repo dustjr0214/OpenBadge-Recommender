@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02987",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency": "['Data Analysis', 'Problem Solving']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

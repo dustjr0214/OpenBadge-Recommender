@@ -1,0 +1,14 @@
+{
+    "user_id": "U02928",
+    "name": "Nathan Reynolds Jr.",
+    "email": "gdavis@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00512', 'B05284']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Williams, White and Glover for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07957', 'B05869', 'B02783']"
+}

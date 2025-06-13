@@ -1,0 +1,14 @@
+{
+    "user_id": "U02991",
+    "name": "Billy Flores",
+    "email": "smithdavid@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01048', 'B03911', 'B08053', 'B03305', 'B02525']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Ortiz, Holland and Sanders for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08290', 'B02329']"
+}

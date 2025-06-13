@@ -1,0 +1,14 @@
+{
+    "user_id": "U08924",
+    "name": "Ian Gonzales",
+    "email": "pamelakane@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04465', 'B04469']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Patrick and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02021', 'B00089', 'B06862', 'B09204', 'B02940']"
+}

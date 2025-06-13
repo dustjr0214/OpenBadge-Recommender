@@ -1,0 +1,14 @@
+{
+    "user_id": "U03013",
+    "name": "Kathleen Turner MD",
+    "email": "mary23@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09522', 'B05779', 'B04825']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Moreno, Beck and Freeman for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09532']"
+}

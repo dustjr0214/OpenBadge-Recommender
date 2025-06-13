@@ -1,0 +1,14 @@
+{
+    "user_id": "U07198",
+    "name": "Sarah Berry",
+    "email": "morrisonmartin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02328', 'B04427', 'B02849', 'B08067', 'B06084']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Byrd Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08444', 'B02385', 'B07140', 'B03824']"
+}

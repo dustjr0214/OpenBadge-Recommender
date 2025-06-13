@@ -1,0 +1,14 @@
+{
+    "user_id": "U08958",
+    "name": "Michael Schroeder",
+    "email": "yleon@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hopkins Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04238', 'B00888']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07305",
+    "name": "Virginia Davis",
+    "email": "gbarr@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02424']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Henderson Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05570', 'B05036', 'B03979', 'B05552']"
+}

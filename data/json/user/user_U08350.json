@@ -1,0 +1,14 @@
+{
+    "user_id": "U08350",
+    "name": "Terry Cabrera",
+    "email": "vgillespie@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01086', 'B00058', 'B03790']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Dixon, Williams and Ross for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07315', 'B08587', 'B07295']"
+}

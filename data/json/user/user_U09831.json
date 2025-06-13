@@ -1,0 +1,14 @@
+{
+    "user_id": "U09831",
+    "name": "Lisa Watts",
+    "email": "rachelmoore@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05835', 'B03535']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Conway Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08375']"
+}

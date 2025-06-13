@@ -1,0 +1,14 @@
+{
+    "user_id": "U07603",
+    "name": "Sarah Smith",
+    "email": "lloydjessica@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04370', 'B07542']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Rhodes, Schaefer and Burke for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06922', 'B08411', 'B05834', 'B01588', 'B00418']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02262",
+    "name": "Lindsey Barnett",
+    "email": "tylergonzalez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06623', 'B08886', 'B03547', 'B09016']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Young, Mendoza and Mendoza for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03100', 'B09741']"
+}

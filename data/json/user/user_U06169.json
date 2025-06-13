@@ -1,0 +1,14 @@
+{
+    "user_id": "U06169",
+    "name": "Martin Martin",
+    "email": "richemily@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06741', 'B05113', 'B03660']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Roth, Medina and Walker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07955', 'B00308']"
+}

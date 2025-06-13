@@ -1,0 +1,14 @@
+{
+    "user_id": "U03722",
+    "name": "Shane Edwards",
+    "email": "rosalespatrick@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03797']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Garcia-Myers for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07280', 'B05003', 'B04171']"
+}

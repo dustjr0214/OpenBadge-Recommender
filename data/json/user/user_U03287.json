@@ -1,0 +1,14 @@
+{
+    "user_id": "U03287",
+    "name": "Elizabeth West",
+    "email": "rebekahalvarez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04527', 'B07229', 'B03545', 'B05663']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Johnson-Foster for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07250', 'B05721', 'B04887', 'B08644', 'B03113']"
+}

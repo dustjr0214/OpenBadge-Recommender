@@ -1,0 +1,14 @@
+{
+    "user_id": "U08451",
+    "name": "Lance Quinn",
+    "email": "juanberg@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Sampson, Edwards and Newton for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06543', 'B06503', 'B07292', 'B05961', 'B06524']"
+}

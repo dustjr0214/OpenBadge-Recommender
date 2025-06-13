@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01238",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency": "['Cybersecurity', 'Analytical Skills']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01267",
+    "name": "Alyssa Wade",
+    "email": "aliciaanderson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01030', 'B04221', 'B07256']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Miller, Miller and Goodman for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06505']"
+}

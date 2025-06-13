@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00961",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Machine Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07232', 'B08112']"
+}

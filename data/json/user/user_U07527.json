@@ -1,0 +1,14 @@
+{
+    "user_id": "U07527",
+    "name": "Christy Sullivan",
+    "email": "christineharvey@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06486', 'B08568', 'B03807', 'B01984']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Kelly, Douglas and Brown for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05581', 'B06227', 'B07063', 'B06881', 'B08378']"
+}

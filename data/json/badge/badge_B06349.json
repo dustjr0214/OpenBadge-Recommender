@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06349",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Deep Learning']",
+    "competency": "['Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00627",
+    "name": "Rebecca Ward",
+    "email": "bbauer@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03906']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Ward-Wilson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

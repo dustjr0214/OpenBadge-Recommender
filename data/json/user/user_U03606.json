@@ -1,0 +1,14 @@
+{
+    "user_id": "U03606",
+    "name": "Shannon Garcia",
+    "email": "garciabenjamin@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00478', 'B02469', 'B08660']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Hall Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09462', 'B07684']"
+}

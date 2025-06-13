@@ -1,0 +1,14 @@
+{
+    "user_id": "U03277",
+    "name": "James Lopez",
+    "email": "tony78@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01144', 'B08903', 'B03261', 'B07717', 'B01215']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Miller, Gonzalez and Ruiz for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04759', 'B05730', 'B07223']"
+}

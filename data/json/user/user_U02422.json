@@ -1,0 +1,14 @@
+{
+    "user_id": "U02422",
+    "name": "Thomas Mcgee",
+    "email": "joseknapp@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09149', 'B05806']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cline LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07536', 'B09348', 'B01429', 'B06476', 'B06261']"
+}

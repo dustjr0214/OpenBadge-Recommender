@@ -1,0 +1,14 @@
+{
+    "user_id": "U02713",
+    "name": "Michelle Richardson",
+    "email": "kyle27@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05737', 'B02261', 'B00560', 'B02291']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Dickerson-Martinez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02106', 'B02250', 'B03255']"
+}

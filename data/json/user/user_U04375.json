@@ -1,0 +1,14 @@
+{
+    "user_id": "U04375",
+    "name": "James Gonzalez",
+    "email": "tinabutler@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04338', 'B00224', 'B09949', 'B01959', 'B07794']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Jones and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00587', 'B02824', 'B07260', 'B05775', 'B06572']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09986",
+    "name": "Miguel Miller",
+    "email": "ashley60@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09198', 'B09919', 'B08835', 'B03992', 'B01994']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Carter, Jones and Ramos for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05802', 'B06126']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01037",
+    "name": "Tina Luna",
+    "email": "betty45@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09953', 'B08485']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Nichols, Robinson and Washington for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07449', 'B04816']"
+}

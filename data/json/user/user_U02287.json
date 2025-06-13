@@ -1,0 +1,14 @@
+{
+    "user_id": "U02287",
+    "name": "Jonathan Graham",
+    "email": "ycopeland@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07258']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Holder, Wilkerson and Hanson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03998', 'B06857']"
+}

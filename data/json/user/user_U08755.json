@@ -1,0 +1,14 @@
+{
+    "user_id": "U08755",
+    "name": "Sarah Bishop",
+    "email": "alex77@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04652']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Flores-Barnes for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07786', 'B05881', 'B06906']"
+}

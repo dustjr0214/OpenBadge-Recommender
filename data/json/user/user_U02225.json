@@ -1,0 +1,14 @@
+{
+    "user_id": "U02225",
+    "name": "Yolanda Andrews",
+    "email": "jackgregory@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hickman-Ritter for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00014', 'B02942', 'B02105', 'B02753', 'B00313']"
+}

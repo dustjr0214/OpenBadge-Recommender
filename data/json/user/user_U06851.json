@@ -1,0 +1,14 @@
+{
+    "user_id": "U06851",
+    "name": "Christopher Garcia",
+    "email": "maryeaton@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09672', 'B01657', 'B07958', 'B01287', 'B09001']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Golden, Reyes and Eaton for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04722', 'B08376']"
+}

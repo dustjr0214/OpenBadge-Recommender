@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09141",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05200', 'B00329']"
+}

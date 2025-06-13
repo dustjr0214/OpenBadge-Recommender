@@ -1,0 +1,14 @@
+{
+    "user_id": "U00966",
+    "name": "Jason Espinoza",
+    "email": "buckdustin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07940', 'B09393', 'B02622']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at West-Wong for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06708', 'B04126', 'B03153', 'B07061', 'B05324']"
+}

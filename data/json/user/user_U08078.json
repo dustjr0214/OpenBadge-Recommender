@@ -1,0 +1,14 @@
+{
+    "user_id": "U08078",
+    "name": "Mrs. Michelle Hicks",
+    "email": "smithbrian@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05389', 'B09824', 'B08941']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Collins Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09828', 'B01424', 'B01833']"
+}

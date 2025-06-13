@@ -1,0 +1,14 @@
+{
+    "user_id": "U05338",
+    "name": "Jennifer Smith",
+    "email": "tdunn@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09292', 'B07875', 'B00815', 'B08707']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Brown Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05143']"
+}

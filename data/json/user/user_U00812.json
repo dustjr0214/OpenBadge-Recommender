@@ -1,0 +1,14 @@
+{
+    "user_id": "U00812",
+    "name": "Tiffany Hall PhD",
+    "email": "alexandrajones@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Rivera Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04930']"
+}

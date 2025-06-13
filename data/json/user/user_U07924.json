@@ -1,0 +1,14 @@
+{
+    "user_id": "U07924",
+    "name": "Michael Chang",
+    "email": "amy73@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05394', 'B05099']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Reynolds-Downs for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04770', 'B07374', 'B08015', 'B01886', 'B01088']"
+}

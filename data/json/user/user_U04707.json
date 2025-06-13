@@ -1,0 +1,14 @@
+{
+    "user_id": "U04707",
+    "name": "Tiffany Mccormick",
+    "email": "lanejonathan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08349', 'B04897', 'B08895']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Johnson LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07142', 'B06729']"
+}

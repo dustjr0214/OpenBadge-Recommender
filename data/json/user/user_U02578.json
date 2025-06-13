@@ -1,0 +1,14 @@
+{
+    "user_id": "U02578",
+    "name": "Grace Wood",
+    "email": "kellymeghan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03506', 'B05638', 'B00750', 'B02505']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Nelson-Choi for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05837', 'B03181', 'B04947', 'B08979', 'B03301']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01566",
+    "name": "Rodney Johnson",
+    "email": "renee53@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00479', 'B08789', 'B08113', 'B03932', 'B09086']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Howell LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03352', 'B06290', 'B05812', 'B02823']"
+}

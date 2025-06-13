@@ -1,0 +1,14 @@
+{
+    "user_id": "U05136",
+    "name": "Morgan Garcia",
+    "email": "halljames@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06393', 'B03899', 'B00650', 'B00337']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Allen Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06222', 'B04410', 'B09430', 'B03790', 'B04316']"
+}

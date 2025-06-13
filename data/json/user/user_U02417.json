@@ -1,0 +1,14 @@
+{
+    "user_id": "U02417",
+    "name": "Emily Monroe",
+    "email": "colemanjody@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01201', 'B05736', 'B08800', 'B09946']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Wright Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09119', 'B00404']"
+}

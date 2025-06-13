@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07688",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Python']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B06008', 'B02989']"
+}

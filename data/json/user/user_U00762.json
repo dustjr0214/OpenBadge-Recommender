@@ -1,0 +1,14 @@
+{
+    "user_id": "U00762",
+    "name": "Mr. Edward Buckley",
+    "email": "tracy14@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05392', 'B00367', 'B05571']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Grimes Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02664', 'B04197', 'B02873', 'B01474', 'B00742']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02025",
+    "name": "Sean Rich",
+    "email": "mmorris@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05879', 'B00773', 'B04969']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at House, Atkinson and Hawkins for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00794', 'B07870']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07805",
+    "name": "Jennifer Huber",
+    "email": "kochjacob@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04389', 'B01021', 'B06369', 'B06893']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Petty-Sexton for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09172']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03029",
+    "name": "Kelly Miller",
+    "email": "stewartpaula@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08187', 'B04311', 'B01857']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Thompson Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04931', 'B08831']"
+}

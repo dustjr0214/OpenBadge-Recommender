@@ -1,0 +1,14 @@
+{
+    "user_id": "U08207",
+    "name": "Adam Edwards",
+    "email": "hendersonandrea@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02259', 'B07058', 'B06925', 'B02906']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Jones LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07699', 'B06791', 'B02393', 'B03511']"
+}

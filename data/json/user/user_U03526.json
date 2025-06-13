@@ -1,0 +1,14 @@
+{
+    "user_id": "U03526",
+    "name": "Gabriela Smith",
+    "email": "conwayjohn@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03522', 'B09977', 'B02677', 'B08834']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Miller-Porter for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07733', 'B04890']"
+}

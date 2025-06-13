@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05469",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency": "['Problem Solving', 'DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07704']"
+}

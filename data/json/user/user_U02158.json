@@ -1,0 +1,14 @@
+{
+    "user_id": "U02158",
+    "name": "Brian Wilson",
+    "email": "melissalindsey@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07510', 'B03272', 'B02898', 'B02630']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Olsen Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03649', 'B03243', 'B08383', 'B09772', 'B07534']"
+}

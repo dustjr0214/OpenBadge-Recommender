@@ -1,0 +1,14 @@
+{
+    "user_id": "U03149",
+    "name": "Melissa Chavez",
+    "email": "fking@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01230', 'B04916', 'B06154', 'B05313']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hill and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09198', 'B00478']"
+}

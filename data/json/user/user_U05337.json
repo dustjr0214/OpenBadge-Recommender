@@ -1,0 +1,14 @@
+{
+    "user_id": "U05337",
+    "name": "Linda Wheeler",
+    "email": "amandahowell@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05084']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Jordan Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04634', 'B02767', 'B08442', 'B08415']"
+}

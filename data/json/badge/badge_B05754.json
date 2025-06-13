@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05754",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps', 'Deep Learning', 'Cloud Computing']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04827']"
+}

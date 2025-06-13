@@ -1,0 +1,14 @@
+{
+    "user_id": "U01667",
+    "name": "Justin Bush",
+    "email": "maryschmidt@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04133', 'B06082', 'B08038']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Anderson LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09640']"
+}

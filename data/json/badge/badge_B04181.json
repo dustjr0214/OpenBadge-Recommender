@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04181",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'Data Analysis', 'Deep Learning']",
+    "competency": "['SQL', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B00318', 'B07375']"
+}

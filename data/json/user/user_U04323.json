@@ -1,0 +1,14 @@
+{
+    "user_id": "U04323",
+    "name": "Keith Orozco",
+    "email": "fowlerjonathan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01673', 'B02923', 'B05006']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Gonzalez, Henderson and Mathis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02206', 'B01391']"
+}

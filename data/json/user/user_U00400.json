@@ -1,0 +1,14 @@
+{
+    "user_id": "U00400",
+    "name": "Andrew Edwards",
+    "email": "blakerobertson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rogers, Neal and Alvarez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09502', 'B04322']"
+}

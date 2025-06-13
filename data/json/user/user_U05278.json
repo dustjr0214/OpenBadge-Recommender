@@ -1,0 +1,14 @@
+{
+    "user_id": "U05278",
+    "name": "Steven Ward",
+    "email": "rowemichael@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Chavez Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09914', 'B09845']"
+}

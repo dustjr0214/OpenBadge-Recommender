@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04245",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Machine Learning']",
+    "competency": "['Deep Learning', 'Creativity']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01268']"
+}

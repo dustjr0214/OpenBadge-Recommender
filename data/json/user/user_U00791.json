@@ -1,0 +1,14 @@
+{
+    "user_id": "U00791",
+    "name": "Robert Bolton",
+    "email": "agonzalez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03582', 'B04155']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Huang PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08846', 'B02990', 'B07147', 'B03643', 'B07813']"
+}

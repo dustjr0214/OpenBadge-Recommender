@@ -1,0 +1,14 @@
+{
+    "user_id": "U05776",
+    "name": "Shannon Holt",
+    "email": "wangmichele@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02759', 'B01156', 'B04708', 'B06899']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Mccullough, Leach and Barber for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07212', 'B00581', 'B08757', 'B05319', 'B03312']"
+}

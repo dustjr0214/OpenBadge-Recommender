@@ -1,0 +1,14 @@
+{
+    "user_id": "U08308",
+    "name": "Isaac Cain",
+    "email": "alexandergina@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03655', 'B05205']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Parker, Ward and Fisher for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

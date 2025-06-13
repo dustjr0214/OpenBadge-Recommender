@@ -1,0 +1,14 @@
+{
+    "user_id": "U05213",
+    "name": "Juan Knight",
+    "email": "michellehuang@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06650', 'B03686']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Mayer, Duran and Stewart for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01619', 'B06433', 'B05020', 'B00484', 'B07243']"
+}

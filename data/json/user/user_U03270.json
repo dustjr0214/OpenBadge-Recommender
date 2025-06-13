@@ -1,0 +1,14 @@
+{
+    "user_id": "U03270",
+    "name": "Mike Jackson",
+    "email": "aaguirre@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03076', 'B04145', 'B06607']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Ruiz-Brown for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01137']"
+}

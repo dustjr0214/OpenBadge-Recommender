@@ -1,0 +1,14 @@
+{
+    "user_id": "U09598",
+    "name": "Susan Rogers",
+    "email": "perry31@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08542', 'B01698', 'B08742']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Thompson-Ayers for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06657', 'B03403', 'B02145', 'B00671']"
+}

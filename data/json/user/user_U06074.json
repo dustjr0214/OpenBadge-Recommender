@@ -1,0 +1,14 @@
+{
+    "user_id": "U06074",
+    "name": "Christopher Patel",
+    "email": "lisa77@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06543', 'B05926', 'B08078']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Williams, Hamilton and Pitts for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07987', 'B02640', 'B01561', 'B04117', 'B08546']"
+}

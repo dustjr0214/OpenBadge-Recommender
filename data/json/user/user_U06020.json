@@ -1,0 +1,14 @@
+{
+    "user_id": "U06020",
+    "name": "Mrs. Rhonda Johnson DVM",
+    "email": "qgamble@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07525']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Payne LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06475', 'B04463']"
+}

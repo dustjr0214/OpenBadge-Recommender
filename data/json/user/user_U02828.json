@@ -1,0 +1,14 @@
+{
+    "user_id": "U02828",
+    "name": "Ana Mclaughlin",
+    "email": "jroberts@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08434', 'B03243']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Holland Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08379']"
+}

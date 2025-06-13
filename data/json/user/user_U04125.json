@@ -1,0 +1,14 @@
+{
+    "user_id": "U04125",
+    "name": "Miss Lisa Harrington",
+    "email": "michael49@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00080', 'B05461']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Garner and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03442', 'B06035', 'B02650', 'B02051', 'B06358']"
+}

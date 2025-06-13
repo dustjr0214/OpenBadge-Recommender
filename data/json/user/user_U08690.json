@@ -1,0 +1,14 @@
+{
+    "user_id": "U08690",
+    "name": "Allison Mann",
+    "email": "kaylacross@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07848', 'B04793', 'B01430', 'B03553', 'B06215']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Hopkins Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00003', 'B01548', 'B06155', 'B08294', 'B02308']"
+}

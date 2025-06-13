@@ -1,0 +1,14 @@
+{
+    "user_id": "U04327",
+    "name": "Samantha Chapman",
+    "email": "mary95@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08517']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Smith, Peters and Simmons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

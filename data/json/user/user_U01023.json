@@ -1,0 +1,14 @@
+{
+    "user_id": "U01023",
+    "name": "Julie Taylor",
+    "email": "kentmary@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09906', 'B04067']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Stephens, Randall and Tate for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06223', 'B01948', 'B00394', 'B04523', 'B01442']"
+}

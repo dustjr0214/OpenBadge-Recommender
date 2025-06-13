@@ -1,0 +1,14 @@
+{
+    "user_id": "U04141",
+    "name": "Tamara Walker",
+    "email": "fterry@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Burton-Brown for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08939', 'B08186', 'B05272', 'B09166', 'B00477']"
+}

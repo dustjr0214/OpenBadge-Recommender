@@ -1,0 +1,14 @@
+{
+    "user_id": "U02670",
+    "name": "Tiffany Reyes",
+    "email": "hillmary@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07660', 'B06036']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Shepherd PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

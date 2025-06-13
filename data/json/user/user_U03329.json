@@ -1,0 +1,14 @@
+{
+    "user_id": "U03329",
+    "name": "Cheryl Boyle",
+    "email": "wheelerjohn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00674', 'B06089', 'B09266', 'B00468']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Martin, Green and Watkins for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06705', 'B06367']"
+}

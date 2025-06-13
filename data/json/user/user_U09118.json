@@ -1,0 +1,14 @@
+{
+    "user_id": "U09118",
+    "name": "Heather Mendoza",
+    "email": "jonesdavid@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02801', 'B07243', 'B01564', 'B04392']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Sherman-Malone for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02826', 'B04944', 'B09341', 'B09609', 'B09620']"
+}

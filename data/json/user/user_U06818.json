@@ -1,0 +1,14 @@
+{
+    "user_id": "U06818",
+    "name": "John Keller",
+    "email": "brooksdiana@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02307']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Nelson, Lewis and Jones for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04707', 'B09299', 'B03955']"
+}

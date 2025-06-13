@@ -1,0 +1,14 @@
+{
+    "user_id": "U03989",
+    "name": "Darren Patterson",
+    "email": "xhines@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09266', 'B02054', 'B01077', 'B08814', 'B02669']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Cain LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02620']"
+}

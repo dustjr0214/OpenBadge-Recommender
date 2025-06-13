@@ -1,0 +1,14 @@
+{
+    "user_id": "U07470",
+    "name": "Kari Fisher",
+    "email": "scottjohn@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06326', 'B07596', 'B07591']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Foster-Martin for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05773']"
+}

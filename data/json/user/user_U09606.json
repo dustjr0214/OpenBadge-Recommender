@@ -1,0 +1,14 @@
+{
+    "user_id": "U09606",
+    "name": "Timothy Haynes",
+    "email": "keith56@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Morris-Robertson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01869', 'B00782', 'B03419']"
+}

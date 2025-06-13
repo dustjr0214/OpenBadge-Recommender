@@ -1,0 +1,14 @@
+{
+    "user_id": "U09705",
+    "name": "Jill Graves",
+    "email": "jenniferjones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07631', 'B01258', 'B08036', 'B07016', 'B02953']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Koch, Miller and Greene for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00716', 'B09784']"
+}

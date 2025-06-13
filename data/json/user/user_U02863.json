@@ -1,0 +1,14 @@
+{
+    "user_id": "U02863",
+    "name": "Stephen Miller",
+    "email": "ohernandez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08958', 'B09728', 'B09851']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Douglas, Howell and Reese for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00318', 'B09041']"
+}

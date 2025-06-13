@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01943",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'UI/UX']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

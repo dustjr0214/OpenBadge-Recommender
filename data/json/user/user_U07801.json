@@ -1,0 +1,14 @@
+{
+    "user_id": "U07801",
+    "name": "Monique Kidd",
+    "email": "hjenkins@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Kline-Bell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03262']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01428",
+    "name": "Edward Fuentes",
+    "email": "richardortiz@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03006', 'B01389']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Wright-Lyons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00078', 'B02062', 'B09548']"
+}

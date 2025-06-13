@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07150",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['DevOps', 'SQL', 'Data Analysis']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B04337']"
+}

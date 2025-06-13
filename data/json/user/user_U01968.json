@@ -1,0 +1,14 @@
+{
+    "user_id": "U01968",
+    "name": "Timothy Taylor",
+    "email": "brownamanda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02479', 'B00320', 'B00498', 'B00844']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Humphrey-Soto for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02485', 'B01126', 'B01825', 'B06719']"
+}

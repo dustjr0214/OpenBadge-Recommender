@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05510",
+    "name": "Cloud Computing Guru",
+    "issuer": "IBM",
+    "description": "Cloud Computing Guru badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis', 'SQL']",
+    "competency": "['Analytical Skills', 'Data Analysis', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00888']"
+}

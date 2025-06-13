@@ -1,0 +1,14 @@
+{
+    "user_id": "U06530",
+    "name": "Stephanie Arias",
+    "email": "ebutler@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05591', 'B00401', 'B01416']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Galvan-Strickland for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05532', 'B05778', 'B05447', 'B06258']"
+}

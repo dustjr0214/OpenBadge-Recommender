@@ -1,0 +1,14 @@
+{
+    "user_id": "U03448",
+    "name": "Kimberly Summers",
+    "email": "ejones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02878', 'B03020', 'B07898', 'B05349']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Luna Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00937', 'B04112']"
+}

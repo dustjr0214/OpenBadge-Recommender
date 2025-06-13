@@ -1,0 +1,14 @@
+{
+    "user_id": "U05236",
+    "name": "Scott Rice",
+    "email": "monroekyle@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Becker-Armstrong for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08999', 'B02335', 'B06445', 'B08413', 'B08098']"
+}

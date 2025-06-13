@@ -1,0 +1,14 @@
+{
+    "user_id": "U07230",
+    "name": "Lisa Torres",
+    "email": "nhines@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06566', 'B03606', 'B04149', 'B05549']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hughes-Sims for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05314', 'B04624', 'B01864', 'B06735']"
+}

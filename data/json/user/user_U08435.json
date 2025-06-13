@@ -1,0 +1,14 @@
+{
+    "user_id": "U08435",
+    "name": "Alexander Estrada",
+    "email": "anthony92@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03008']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Sanchez-Patterson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04191', 'B01408', 'B02784', 'B05549', 'B06700']"
+}

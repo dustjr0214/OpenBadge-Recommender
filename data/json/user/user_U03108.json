@@ -1,0 +1,14 @@
+{
+    "user_id": "U03108",
+    "name": "Ann Duffy",
+    "email": "julianadkins@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04025', 'B01638']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Walker Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02785', 'B07790', 'B08906', 'B04334', 'B08173']"
+}

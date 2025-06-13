@@ -1,0 +1,14 @@
+{
+    "user_id": "U04007",
+    "name": "Debra Fuentes",
+    "email": "maryleonard@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00350', 'B06983', 'B07706']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Robbins, Diaz and Johnson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09511']"
+}

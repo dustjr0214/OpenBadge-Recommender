@@ -1,0 +1,14 @@
+{
+    "user_id": "U06392",
+    "name": "Lisa Murray",
+    "email": "qjones@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Fitzpatrick Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07150', 'B06946', 'B03002']"
+}

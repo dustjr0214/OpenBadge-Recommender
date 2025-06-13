@@ -1,0 +1,14 @@
+{
+    "user_id": "U00960",
+    "name": "Tracy Mccoy",
+    "email": "jon11@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03824', 'B01121', 'B03196', 'B02243']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Lucas for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03942', 'B01350', 'B08048', 'B06499']"
+}

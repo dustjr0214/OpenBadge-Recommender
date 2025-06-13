@@ -1,0 +1,14 @@
+{
+    "user_id": "U04416",
+    "name": "Andrew Reyes",
+    "email": "pkim@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Horton, Curtis and Gonzales for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02006', 'B02734', 'B02264', 'B00882']"
+}

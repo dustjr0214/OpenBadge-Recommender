@@ -1,0 +1,14 @@
+{
+    "user_id": "U07364",
+    "name": "Terri Bell",
+    "email": "bethany53@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04670', 'B02603', 'B04494', 'B09979']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Lamb LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02081', 'B03492']"
+}

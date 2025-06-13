@@ -1,0 +1,14 @@
+{
+    "user_id": "U06196",
+    "name": "Mary Dunn",
+    "email": "lindawade@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04429', 'B09456']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Forbes and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

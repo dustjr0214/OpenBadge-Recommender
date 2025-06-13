@@ -1,0 +1,14 @@
+{
+    "user_id": "U08036",
+    "name": "Katherine Cook",
+    "email": "danieltorres@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00112', 'B09412', 'B03180', 'B01710']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Simmons-Huang for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07082', 'B08819']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04529",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'Cloud Computing']",
+    "competency": "['Leadership', 'Problem Solving']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B08883']"
+}

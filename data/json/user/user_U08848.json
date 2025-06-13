@@ -1,0 +1,14 @@
+{
+    "user_id": "U08848",
+    "name": "Shane Campbell",
+    "email": "alicia86@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06164', 'B09060', 'B05810', 'B06756']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Reid Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07568', 'B09932', 'B06442', 'B02089']"
+}

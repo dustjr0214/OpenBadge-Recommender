@@ -1,0 +1,14 @@
+{
+    "user_id": "U03268",
+    "name": "Stephanie Mcintyre",
+    "email": "nmcgee@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Leblanc Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01369', 'B05721', 'B03200', 'B03188']"
+}

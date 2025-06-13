@@ -1,0 +1,14 @@
+{
+    "user_id": "U00950",
+    "name": "Michael Graham",
+    "email": "hollandandrea@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Delgado and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02700', 'B09827', 'B09394', 'B05957', 'B05195']"
+}

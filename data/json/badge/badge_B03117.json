@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03117",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Cybersecurity', 'SQL', 'Data Analysis']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05089', 'B08584']"
+}

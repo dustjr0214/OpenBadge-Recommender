@@ -1,0 +1,14 @@
+{
+    "user_id": "U01825",
+    "name": "William Reyes",
+    "email": "umontgomery@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01385', 'B08733', 'B03319']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Thomas Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01686', 'B09345']"
+}

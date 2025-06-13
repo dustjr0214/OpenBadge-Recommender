@@ -1,0 +1,14 @@
+{
+    "user_id": "U04091",
+    "name": "Charles Walters",
+    "email": "bbryant@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04533', 'B06373']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Pitts, Bowman and Johnson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03773",
+    "name": "Lisa Chapman",
+    "email": "cookmary@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04194']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Alvarez and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04602']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01692",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Data Analysis', 'SQL']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01306', 'B05032']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08227",
+    "name": "Sarah Cook",
+    "email": "garciaashley@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09246']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hall LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05686', 'B02221']"
+}

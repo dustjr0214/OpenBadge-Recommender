@@ -1,0 +1,14 @@
+{
+    "user_id": "U05078",
+    "name": "Cynthia Williams",
+    "email": "andrea39@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04069', 'B08087', 'B00828', 'B05705']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Jackson-Graham for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00007', 'B08273']"
+}

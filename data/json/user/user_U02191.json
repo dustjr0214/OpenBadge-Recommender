@@ -1,0 +1,14 @@
+{
+    "user_id": "U02191",
+    "name": "Jamie Simpson",
+    "email": "jamesjustin@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08605']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Li-Hernandez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04421', 'B03255', 'B06786', 'B01668', 'B03701']"
+}

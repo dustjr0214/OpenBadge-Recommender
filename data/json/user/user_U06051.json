@@ -1,0 +1,14 @@
+{
+    "user_id": "U06051",
+    "name": "Brandon Logan",
+    "email": "jimmy79@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04333', 'B09711', 'B04584']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Winters-Richards for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08563']"
+}

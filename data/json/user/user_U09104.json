@@ -1,0 +1,14 @@
+{
+    "user_id": "U09104",
+    "name": "Terry Morton",
+    "email": "william70@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06854', 'B03392', 'B02420', 'B09409']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Chavez Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09032', 'B03907', 'B01725']"
+}

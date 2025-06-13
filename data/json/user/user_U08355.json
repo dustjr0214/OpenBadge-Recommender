@@ -1,0 +1,14 @@
+{
+    "user_id": "U08355",
+    "name": "Katherine Conner MD",
+    "email": "alice62@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Brown, Jones and Garcia for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06235', 'B04550']"
+}

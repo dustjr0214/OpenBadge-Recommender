@@ -1,0 +1,14 @@
+{
+    "user_id": "U01732",
+    "name": "Mary Cunningham",
+    "email": "mcculloughjonathan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02946', 'B04677']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Cuevas-Mcdaniel for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01559', 'B07433']"
+}

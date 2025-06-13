@@ -1,0 +1,14 @@
+{
+    "user_id": "U02266",
+    "name": "Sarah Gomez MD",
+    "email": "jessewilliams@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04353', 'B03823', 'B00123']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Crawford Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07616']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08480",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Machine Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

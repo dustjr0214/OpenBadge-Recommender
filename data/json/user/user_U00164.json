@@ -1,0 +1,14 @@
+{
+    "user_id": "U00164",
+    "name": "Mary Pugh",
+    "email": "longcarla@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07551', 'B01407', 'B01638', 'B02006']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Bean-Johnson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08263', 'B00850']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09836",
+    "name": "Ronald Murphy",
+    "email": "loribarnett@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04456', 'B02414']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Wilson LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09579', 'B04770', 'B06468']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07638",
+    "name": "Chase Trujillo",
+    "email": "vincent76@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00104', 'B04677', 'B02940']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Morris-Bishop for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07131']"
+}

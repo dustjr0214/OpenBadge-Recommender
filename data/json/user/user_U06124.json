@@ -1,0 +1,14 @@
+{
+    "user_id": "U06124",
+    "name": "Joel Gonzalez",
+    "email": "williamsjennifer@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09187', 'B07090']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Ball, Carroll and Krueger for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08626', 'B07765', 'B03041', 'B08212', 'B05252']"
+}

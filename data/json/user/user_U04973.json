@@ -1,0 +1,14 @@
+{
+    "user_id": "U04973",
+    "name": "Madison Thornton",
+    "email": "laura97@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06029', 'B09857', 'B09615', 'B04442']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lee PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05796', 'B03263', 'B01842', 'B04536']"
+}

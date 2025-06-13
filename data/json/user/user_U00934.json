@@ -1,0 +1,14 @@
+{
+    "user_id": "U00934",
+    "name": "Frank Sharp",
+    "email": "zanderson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01609', 'B09835']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Miller-Ramos for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08040', 'B09278']"
+}

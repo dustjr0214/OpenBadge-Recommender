@@ -1,0 +1,14 @@
+{
+    "user_id": "U09116",
+    "name": "Wesley Huffman",
+    "email": "johnzimmerman@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09009', 'B09523', 'B03737', 'B04923', 'B06339']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Miller, Foley and Miller for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03751', 'B00093']"
+}

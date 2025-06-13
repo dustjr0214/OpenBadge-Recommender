@@ -1,0 +1,14 @@
+{
+    "user_id": "U02259",
+    "name": "Steven Williams",
+    "email": "lcontreras@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Finley, Hood and Trevino for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08259', 'B07505']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08000",
+    "name": "Kelly Booker",
+    "email": "grahamrichard@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Jones-Scott for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09898', 'B02909', 'B02535', 'B07216', 'B07500']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03033",
+    "name": "Larry Wells",
+    "email": "briantownsend@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08787', 'B08245']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Perry-Carpenter for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06687']"
+}

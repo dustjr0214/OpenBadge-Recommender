@@ -1,0 +1,14 @@
+{
+    "user_id": "U02582",
+    "name": "Zoe Jones",
+    "email": "gordonheather@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08919', 'B04104']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Bond LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07581']"
+}

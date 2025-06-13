@@ -1,0 +1,14 @@
+{
+    "user_id": "U04301",
+    "name": "Richard Alexander",
+    "email": "ncarlson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Nelson, Smith and Smith for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00194', 'B00148', 'B00347']"
+}

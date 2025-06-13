@@ -1,0 +1,14 @@
+{
+    "user_id": "U09032",
+    "name": "Charles Bailey",
+    "email": "margarethoffman@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09049', 'B07819', 'B04560']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Roberts-Walker for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02081', 'B07896', 'B08656', 'B05814']"
+}

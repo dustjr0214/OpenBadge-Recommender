@@ -1,0 +1,14 @@
+{
+    "user_id": "U07538",
+    "name": "Vincent Lyons",
+    "email": "hsteele@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01783']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Jacobs Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02948', 'B07308', 'B01945', 'B02422', 'B02028']"
+}

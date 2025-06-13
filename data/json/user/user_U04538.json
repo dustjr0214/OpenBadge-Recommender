@@ -1,0 +1,14 @@
+{
+    "user_id": "U04538",
+    "name": "Sarah Medina",
+    "email": "marshbethany@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04844', 'B05357', 'B08329']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cook and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

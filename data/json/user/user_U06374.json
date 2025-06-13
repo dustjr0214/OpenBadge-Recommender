@@ -1,0 +1,14 @@
+{
+    "user_id": "U06374",
+    "name": "Jessica Baker",
+    "email": "sandraayala@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01956', 'B09335', 'B08414']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Jones-Banks for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09095', 'B09767', 'B03711']"
+}

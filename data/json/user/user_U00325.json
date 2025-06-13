@@ -1,0 +1,14 @@
+{
+    "user_id": "U00325",
+    "name": "Kristin Christensen",
+    "email": "jeffreyfarley@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07761', 'B04188', 'B08778', 'B06839']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Morgan LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09957', 'B00175', 'B06508', 'B00259', 'B02016']"
+}

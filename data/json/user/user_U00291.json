@@ -1,0 +1,14 @@
+{
+    "user_id": "U00291",
+    "name": "Katie Zimmerman",
+    "email": "timothy40@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01075']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Sanchez Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02019']"
+}

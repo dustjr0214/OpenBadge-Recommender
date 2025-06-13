@@ -1,0 +1,14 @@
+{
+    "user_id": "U01334",
+    "name": "Tammy Sheppard",
+    "email": "barberstephen@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00490', 'B04825', 'B07622', 'B04230', 'B01840']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Guzman-Young for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

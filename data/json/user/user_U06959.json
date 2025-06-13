@@ -1,0 +1,14 @@
+{
+    "user_id": "U06959",
+    "name": "Monica Martinez",
+    "email": "achambers@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02709', 'B08040', 'B07288']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Turner PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08964', 'B05948', 'B05447']"
+}

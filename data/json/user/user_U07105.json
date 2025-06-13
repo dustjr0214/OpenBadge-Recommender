@@ -1,0 +1,14 @@
+{
+    "user_id": "U07105",
+    "name": "Rachel Anderson",
+    "email": "ssexton@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03565', 'B02627', 'B08889', 'B05000', 'B01374']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Perry Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04078']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08758",
+    "name": "Brandon Davidson",
+    "email": "charlottemiller@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06176', 'B03842']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Richardson-Perez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07071', 'B03250', 'B09163', 'B04498']"
+}

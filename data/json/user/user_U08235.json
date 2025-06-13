@@ -1,0 +1,14 @@
+{
+    "user_id": "U08235",
+    "name": "Katherine Mckee",
+    "email": "burkeblake@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03199']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Randolph-Conway for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04048', 'B01529', 'B00555']"
+}

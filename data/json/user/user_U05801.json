@@ -1,0 +1,14 @@
+{
+    "user_id": "U05801",
+    "name": "Charles Knapp",
+    "email": "david28@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08535', 'B04328', 'B04868', 'B03152']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Collins-Mendoza for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

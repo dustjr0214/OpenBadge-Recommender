@@ -1,0 +1,14 @@
+{
+    "user_id": "U04513",
+    "name": "Kyle Vazquez",
+    "email": "herrerachristopher@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08492', 'B03846']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Kramer PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08617', 'B03630', 'B04663', 'B08777', 'B09794']"
+}

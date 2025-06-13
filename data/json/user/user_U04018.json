@@ -1,0 +1,14 @@
+{
+    "user_id": "U04018",
+    "name": "William Williams",
+    "email": "zwalker@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Morris Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07738']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05902",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Data Analysis', 'Creativity', 'UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

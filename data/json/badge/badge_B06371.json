@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06371",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Cybersecurity', 'Python']",
+    "competency": "['Cybersecurity', 'Analytical Skills']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05737', 'B04096']"
+}

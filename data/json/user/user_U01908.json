@@ -1,0 +1,14 @@
+{
+    "user_id": "U01908",
+    "name": "Frederick Davenport",
+    "email": "nicholas94@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09465', 'B09323', 'B08069', 'B09849', 'B09584']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Miller, Middleton and Holland for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08404']"
+}

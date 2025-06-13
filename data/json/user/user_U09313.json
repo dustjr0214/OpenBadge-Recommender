@@ -1,0 +1,14 @@
+{
+    "user_id": "U09313",
+    "name": "John Bowers",
+    "email": "whall@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00149', 'B01711', 'B06894']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hernandez Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00915', 'B07565', 'B05986', 'B01974', 'B02505']"
+}

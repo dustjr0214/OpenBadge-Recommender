@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04643",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'UI/UX']",
+    "competency": "['Machine Learning', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03802', 'B09989']"
+}

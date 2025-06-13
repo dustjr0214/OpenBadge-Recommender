@@ -1,0 +1,14 @@
+{
+    "user_id": "U09893",
+    "name": "Kristin Thornton",
+    "email": "rfox@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00698', 'B08124', 'B06175']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Williams Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08396', 'B07026', 'B05548', 'B07171']"
+}

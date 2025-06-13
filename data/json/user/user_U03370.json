@@ -1,0 +1,14 @@
+{
+    "user_id": "U03370",
+    "name": "Allison Oneal",
+    "email": "christopher99@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02218', 'B05012', 'B02063', 'B08135']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Johnson, Morris and Campbell for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04601', 'B09419']"
+}

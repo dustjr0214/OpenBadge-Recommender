@@ -1,0 +1,14 @@
+{
+    "user_id": "U01493",
+    "name": "Veronica Booth",
+    "email": "jillwest@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09685', 'B03894', 'B09052', 'B04884', 'B00172']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Murphy-Miller for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06263']"
+}

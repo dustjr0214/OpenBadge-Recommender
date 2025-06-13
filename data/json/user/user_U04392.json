@@ -1,0 +1,14 @@
+{
+    "user_id": "U04392",
+    "name": "Robert Wilson",
+    "email": "bryantpatrick@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08994']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Shelton, Hill and Davis for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06575', 'B04211', 'B05956', 'B09525']"
+}

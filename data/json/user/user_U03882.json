@@ -1,0 +1,14 @@
+{
+    "user_id": "U03882",
+    "name": "Margaret Hall",
+    "email": "oarnold@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07217', 'B03473', 'B07070', 'B04140']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Friedman, Gonzales and Walters for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

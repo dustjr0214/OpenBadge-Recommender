@@ -1,0 +1,14 @@
+{
+    "user_id": "U06627",
+    "name": "Tanner Humphrey",
+    "email": "jakesmith@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06819', 'B01275', 'B03386', 'B06923']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Brown, Taylor and Yates for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02879', 'B02581', 'B00371', 'B08935']"
+}

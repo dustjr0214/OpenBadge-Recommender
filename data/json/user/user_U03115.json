@@ -1,0 +1,14 @@
+{
+    "user_id": "U03115",
+    "name": "Sarah Cunningham",
+    "email": "ahenry@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03197', 'B05132', 'B01118', 'B05599']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Anderson-Mahoney for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03787', 'B09566', 'B01830']"
+}

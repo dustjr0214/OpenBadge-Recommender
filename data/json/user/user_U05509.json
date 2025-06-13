@@ -1,0 +1,14 @@
+{
+    "user_id": "U05509",
+    "name": "Dr. Tabitha Williams",
+    "email": "jlopez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08211', 'B05060', 'B05718', 'B01023', 'B08693']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Rogers-Walsh for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04645', 'B07902', 'B08805']"
+}

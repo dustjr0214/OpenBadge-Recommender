@@ -1,0 +1,14 @@
+{
+    "user_id": "U08743",
+    "name": "Sheri Walker",
+    "email": "collinbrooks@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00543', 'B02754', 'B05838', 'B05572', 'B06192']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Thompson Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05516', 'B08625', 'B07051', 'B00108']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00383",
+    "name": "Craig Kennedy",
+    "email": "ffowler@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07445', 'B04473', 'B05894']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Drake-Thomas for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00873']"
+}

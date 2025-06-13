@@ -1,0 +1,14 @@
+{
+    "user_id": "U03236",
+    "name": "Hayley Foster",
+    "email": "qpeterson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03985', 'B00600', 'B04178']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Nelson, James and Nichols for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00103', 'B09790']"
+}

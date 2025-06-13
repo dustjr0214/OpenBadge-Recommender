@@ -1,0 +1,14 @@
+{
+    "user_id": "U03582",
+    "name": "Mary Richmond",
+    "email": "hamiltonrandy@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06392']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Adams-Long for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03416', 'B06515', 'B05432', 'B04410']"
+}

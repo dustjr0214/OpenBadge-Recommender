@@ -1,0 +1,14 @@
+{
+    "user_id": "U08586",
+    "name": "Frances Walsh",
+    "email": "christineadams@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07915', 'B08983', 'B00556', 'B09078']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Jennings-Edwards for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07955', 'B06649', 'B02214', 'B09452']"
+}

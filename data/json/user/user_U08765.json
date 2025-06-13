@@ -1,0 +1,14 @@
+{
+    "user_id": "U08765",
+    "name": "Benjamin Fuentes",
+    "email": "powerscynthia@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00082', 'B04322']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Delacruz, Garrett and Goodman for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07287', 'B04442']"
+}

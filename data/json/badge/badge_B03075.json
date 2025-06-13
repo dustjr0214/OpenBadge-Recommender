@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03075",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07273', 'B05512']"
+}

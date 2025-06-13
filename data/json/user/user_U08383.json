@@ -1,0 +1,14 @@
+{
+    "user_id": "U08383",
+    "name": "Shannon Rodriguez",
+    "email": "jamesbrenda@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04226', 'B07555', 'B08155']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Nicholson-Nelson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04214', 'B06740']"
+}

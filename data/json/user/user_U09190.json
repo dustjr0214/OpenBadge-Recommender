@@ -1,0 +1,14 @@
+{
+    "user_id": "U09190",
+    "name": "William Barrera",
+    "email": "mollygraham@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01499', 'B06333', 'B07359', 'B09442']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Hall-Oliver for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05491']"
+}

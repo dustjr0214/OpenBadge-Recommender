@@ -1,0 +1,14 @@
+{
+    "user_id": "U00700",
+    "name": "David Cortez",
+    "email": "ramirezalejandro@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01540', 'B07984', 'B09397']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Gibson Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

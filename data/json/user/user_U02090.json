@@ -1,0 +1,14 @@
+{
+    "user_id": "U02090",
+    "name": "Jennifer Santos",
+    "email": "floresbrandon@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08716', 'B00622', 'B00581', 'B07307']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Gross Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06832",
+    "name": "Lori Flynn",
+    "email": "pughshawn@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04604', 'B00391']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Reynolds and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06933', 'B02890', 'B06828']"
+}

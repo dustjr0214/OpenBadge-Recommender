@@ -1,0 +1,14 @@
+{
+    "user_id": "U08172",
+    "name": "Stephen Jackson",
+    "email": "jenkinsjustin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03209', 'B06772', 'B04920', 'B01876', 'B09735']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at White Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09673', 'B07273', 'B05069']"
+}

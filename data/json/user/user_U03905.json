@@ -1,0 +1,14 @@
+{
+    "user_id": "U03905",
+    "name": "Michael Anderson",
+    "email": "anaclark@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05811', 'B00186', 'B02597']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Hamilton and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05792', 'B02057', 'B07641', 'B07956']"
+}

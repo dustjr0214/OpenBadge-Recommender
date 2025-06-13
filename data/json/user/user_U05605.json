@@ -1,0 +1,14 @@
+{
+    "user_id": "U05605",
+    "name": "Debra Franklin",
+    "email": "glewis@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03388', 'B06730']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Nguyen Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

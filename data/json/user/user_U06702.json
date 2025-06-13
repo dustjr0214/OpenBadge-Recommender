@@ -1,0 +1,14 @@
+{
+    "user_id": "U06702",
+    "name": "Bruce Compton",
+    "email": "austinbrett@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07247', 'B01036']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Perez, Carson and Barrera for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

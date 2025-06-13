@@ -1,0 +1,14 @@
+{
+    "user_id": "U05593",
+    "name": "Caleb Potter",
+    "email": "hlopez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Smith-Baker for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05073', 'B07696', 'B09581', 'B00168']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03121",
+    "name": "Lisa Smith",
+    "email": "omarrivera@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04944', 'B05296', 'B04354']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Holmes, Vasquez and Brock for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07365', 'B00714', 'B06082', 'B04374', 'B00083']"
+}

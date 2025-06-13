@@ -1,0 +1,14 @@
+{
+    "user_id": "U06401",
+    "name": "Jennifer Scott",
+    "email": "parkanna@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B10000', 'B06008', 'B04749']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Reynolds, Clark and Daniel for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04686', 'B09667', 'B01734', 'B01525', 'B00610']"
+}

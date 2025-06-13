@@ -1,0 +1,14 @@
+{
+    "user_id": "U00851",
+    "name": "Omar Moody",
+    "email": "ashley25@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08698']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Hill, Harrison and Johnson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08088', 'B09962', 'B02701']"
+}

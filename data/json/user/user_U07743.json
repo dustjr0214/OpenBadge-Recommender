@@ -1,0 +1,14 @@
+{
+    "user_id": "U07743",
+    "name": "Mr. Peter Hendrix",
+    "email": "emcdonald@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02848', 'B00575', 'B03488', 'B07304']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Thomas, Duncan and Dean for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07862', 'B00735', 'B05325', 'B04176', 'B07351']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01964",
+    "name": "Howard Valencia",
+    "email": "wburns@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04118', 'B00806', 'B00610']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Jarvis-Aguilar for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09250', 'B03888', 'B00590', 'B00668']"
+}

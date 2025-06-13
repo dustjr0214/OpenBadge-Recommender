@@ -1,0 +1,14 @@
+{
+    "user_id": "U09709",
+    "name": "Brenda Hernandez",
+    "email": "kellywilliam@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03569', 'B00058']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Evans, Bird and Campbell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03774', 'B08124', 'B03868', 'B00945', 'B00530']"
+}

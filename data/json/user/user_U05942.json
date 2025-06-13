@@ -1,0 +1,14 @@
+{
+    "user_id": "U05942",
+    "name": "Adam Morris",
+    "email": "dave14@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hernandez, Patel and Johnson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09053', 'B04268', 'B06127', 'B08755']"
+}

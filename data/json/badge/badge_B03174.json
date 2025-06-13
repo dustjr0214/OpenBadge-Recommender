@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03174",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

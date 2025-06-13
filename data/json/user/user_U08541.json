@@ -1,0 +1,14 @@
+{
+    "user_id": "U08541",
+    "name": "Curtis White",
+    "email": "nlopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01358', 'B09975']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Mckay, Jones and Clements for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04741', 'B09253']"
+}

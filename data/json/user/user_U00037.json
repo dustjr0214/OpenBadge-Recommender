@@ -1,0 +1,14 @@
+{
+    "user_id": "U00037",
+    "name": "Joseph Bryan",
+    "email": "veronicalee@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03535']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hall-Baxter for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06427', 'B01363', 'B07803']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05495",
+    "name": "Vanessa Wright",
+    "email": "jreed@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06664']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Hunter, Perez and Lewis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08743', 'B05659', 'B03181', 'B05980', 'B07109']"
+}

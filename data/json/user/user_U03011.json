@@ -1,0 +1,14 @@
+{
+    "user_id": "U03011",
+    "name": "Zachary Martin",
+    "email": "cunninghamvincent@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00077', 'B09821', 'B08741', 'B02715']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Morrison, Rodriguez and Herrera for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

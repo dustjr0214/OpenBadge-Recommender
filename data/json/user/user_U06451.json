@@ -1,0 +1,14 @@
+{
+    "user_id": "U06451",
+    "name": "Kenneth Barry",
+    "email": "williamstuart@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09758', 'B06173', 'B06465']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Larson-Mccarthy for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08630']"
+}

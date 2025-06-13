@@ -1,0 +1,14 @@
+{
+    "user_id": "U07516",
+    "name": "Suzanne Kirby",
+    "email": "ounderwood@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07878', 'B08497', 'B00363', 'B05972']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Clarke Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07369', 'B09416']"
+}

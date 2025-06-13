@@ -1,0 +1,14 @@
+{
+    "user_id": "U04317",
+    "name": "Madison Mason",
+    "email": "sheila96@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Price, Pham and Bryant for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06124', 'B09426', 'B05538', 'B08479']"
+}

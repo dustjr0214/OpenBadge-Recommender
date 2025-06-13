@@ -1,0 +1,14 @@
+{
+    "user_id": "U03804",
+    "name": "Brandon Becker",
+    "email": "apearson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07878', 'B01084', 'B09949', 'B02889', 'B04593']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Brown Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04625']"
+}

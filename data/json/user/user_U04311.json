@@ -1,0 +1,14 @@
+{
+    "user_id": "U04311",
+    "name": "Erin Elliott",
+    "email": "awilson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09478', 'B05402']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Hubbard, Brady and Miller for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03477']"
+}

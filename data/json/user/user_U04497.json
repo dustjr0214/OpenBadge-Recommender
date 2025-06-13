@@ -1,0 +1,14 @@
+{
+    "user_id": "U04497",
+    "name": "Craig Campbell",
+    "email": "cassandra80@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00239', 'B04516']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Curtis-Santos for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08855', 'B03343']"
+}

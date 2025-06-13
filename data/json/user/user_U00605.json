@@ -1,0 +1,14 @@
+{
+    "user_id": "U00605",
+    "name": "Samuel Davis",
+    "email": "rachel92@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08118']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Nelson-Rodriguez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00054', 'B09266', 'B03759']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03210",
+    "name": "David Barnett",
+    "email": "gregory23@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01752', 'B03101']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Obrien Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05582']"
+}

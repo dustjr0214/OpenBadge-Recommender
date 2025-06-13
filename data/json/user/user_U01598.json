@@ -1,0 +1,14 @@
+{
+    "user_id": "U01598",
+    "name": "Paul Anderson",
+    "email": "bradleycampbell@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06936', 'B09501']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Harris, Hanson and Armstrong for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05926', 'B03802', 'B00764']"
+}

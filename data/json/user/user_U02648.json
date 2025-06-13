@@ -1,0 +1,14 @@
+{
+    "user_id": "U02648",
+    "name": "Michael Smith",
+    "email": "katherine19@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Williams-Cabrera for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

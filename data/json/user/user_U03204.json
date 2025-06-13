@@ -1,0 +1,14 @@
+{
+    "user_id": "U03204",
+    "name": "Linda Harrison",
+    "email": "garciachristina@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08450', 'B03966', 'B02984']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Miller-Williams for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

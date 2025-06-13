@@ -1,0 +1,14 @@
+{
+    "user_id": "U08553",
+    "name": "Jeffrey Wright",
+    "email": "jordandavis@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09494']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lee, Gardner and Sutton for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09320', 'B04303']"
+}

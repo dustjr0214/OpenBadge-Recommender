@@ -1,0 +1,14 @@
+{
+    "user_id": "U07811",
+    "name": "Randy Williams",
+    "email": "kramerdeanna@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02870', 'B03985', 'B08098', 'B09481']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cardenas and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08853', 'B00963']"
+}

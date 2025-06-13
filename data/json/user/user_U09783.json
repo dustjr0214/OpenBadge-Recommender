@@ -1,0 +1,14 @@
+{
+    "user_id": "U09783",
+    "name": "Antonio Walker",
+    "email": "mosesjackson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06016', 'B07176', 'B05110', 'B04507', 'B05075']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Torres, Rios and Jacobs for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

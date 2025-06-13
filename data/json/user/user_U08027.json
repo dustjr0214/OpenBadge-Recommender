@@ -1,0 +1,14 @@
+{
+    "user_id": "U08027",
+    "name": "Allen Rowland",
+    "email": "stacey68@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07008', 'B07377']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ballard Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09023', 'B09703', 'B08500']"
+}

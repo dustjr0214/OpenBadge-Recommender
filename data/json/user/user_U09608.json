@@ -1,0 +1,14 @@
+{
+    "user_id": "U09608",
+    "name": "Leah Nelson",
+    "email": "lawrencejulie@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05588', 'B08413', 'B04834', 'B05940', 'B05841']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Butler-Carlson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09726', 'B02413', 'B05847', 'B07841']"
+}

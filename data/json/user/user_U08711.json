@@ -1,0 +1,14 @@
+{
+    "user_id": "U08711",
+    "name": "Michelle Carter",
+    "email": "joshuajohnson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Hopkins, Anderson and Bolton for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00606', 'B06357', 'B05597', 'B06300', 'B02372']"
+}

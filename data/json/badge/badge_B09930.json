@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09930",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B01660']"
+}

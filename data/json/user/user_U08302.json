@@ -1,0 +1,14 @@
+{
+    "user_id": "U08302",
+    "name": "Susan Larson",
+    "email": "mgarcia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01007', 'B09145', 'B09282', 'B07736', 'B01371']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wallace-Chapman for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09135']"
+}

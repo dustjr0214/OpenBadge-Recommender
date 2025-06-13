@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05215",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'Cybersecurity']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

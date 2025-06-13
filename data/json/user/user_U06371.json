@@ -1,0 +1,14 @@
+{
+    "user_id": "U06371",
+    "name": "Nicole Santos",
+    "email": "watkinskatie@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05905', 'B09130']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Moore Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08824', 'B03012', 'B00761']"
+}

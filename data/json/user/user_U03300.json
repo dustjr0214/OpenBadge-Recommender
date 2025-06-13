@@ -1,0 +1,14 @@
+{
+    "user_id": "U03300",
+    "name": "Brent Atkinson",
+    "email": "shirley09@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01905', 'B04645', 'B03670', 'B02059']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Foster, Weaver and Underwood for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02077', 'B04610']"
+}

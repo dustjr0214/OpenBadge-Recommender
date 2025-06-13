@@ -1,0 +1,14 @@
+{
+    "user_id": "U03252",
+    "name": "Michael Vega",
+    "email": "dixondavid@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01805', 'B08644', 'B03989']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

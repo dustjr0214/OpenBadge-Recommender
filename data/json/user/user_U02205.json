@@ -1,0 +1,14 @@
+{
+    "user_id": "U02205",
+    "name": "Dennis Wilson",
+    "email": "pughbonnie@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Armstrong-Black for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02522', 'B05049', 'B06134', 'B07849']"
+}

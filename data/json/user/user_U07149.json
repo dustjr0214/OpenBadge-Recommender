@@ -1,0 +1,14 @@
+{
+    "user_id": "U07149",
+    "name": "Carmen Flores",
+    "email": "haydenbrian@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09404', 'B02770']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Rodriguez LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08458', 'B08344', 'B03577', 'B00266']"
+}

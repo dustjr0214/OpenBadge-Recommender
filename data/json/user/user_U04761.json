@@ -1,0 +1,14 @@
+{
+    "user_id": "U04761",
+    "name": "Ryan Estes",
+    "email": "orose@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07593', 'B05634']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Little-Martinez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04209', 'B04293', 'B01350', 'B08322', 'B01832']"
+}

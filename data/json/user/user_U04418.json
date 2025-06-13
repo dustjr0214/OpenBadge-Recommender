@@ -1,0 +1,14 @@
+{
+    "user_id": "U04418",
+    "name": "Michael Scott",
+    "email": "michael09@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Vargas, Hamilton and Harris for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05194', 'B07710', 'B03463', 'B03188', 'B09182']"
+}

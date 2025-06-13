@@ -1,0 +1,14 @@
+{
+    "user_id": "U02629",
+    "name": "Angel Bridges",
+    "email": "lcook@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06229', 'B01033', 'B07839']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Chambers LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05153', 'B00596', 'B08268']"
+}

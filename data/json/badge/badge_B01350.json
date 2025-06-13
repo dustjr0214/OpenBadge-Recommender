@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01350",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'SQL', 'DevOps']",
+    "competency": "['Data Analysis', 'SQL', 'UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00505', 'B05437']"
+}

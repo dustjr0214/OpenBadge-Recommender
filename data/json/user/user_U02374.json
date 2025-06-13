@@ -1,0 +1,14 @@
+{
+    "user_id": "U02374",
+    "name": "Mr. Andrew Zavala",
+    "email": "david91@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08944', 'B00922', 'B06029']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Ball-Shepherd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06221', 'B05546', 'B09025', 'B00035']"
+}

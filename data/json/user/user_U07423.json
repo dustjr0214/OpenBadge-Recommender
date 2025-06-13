@@ -1,0 +1,14 @@
+{
+    "user_id": "U07423",
+    "name": "Justin Valentine",
+    "email": "chad35@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Lee, Hopkins and Flores for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07393', 'B01950']"
+}

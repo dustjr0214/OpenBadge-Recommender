@@ -1,0 +1,14 @@
+{
+    "user_id": "U04525",
+    "name": "Carol Deleon",
+    "email": "xwelch@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07790']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Morse, Farmer and Zimmerman for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02563', 'B00574', 'B06000', 'B03616', 'B09313']"
+}

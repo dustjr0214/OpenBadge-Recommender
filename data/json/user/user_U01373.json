@@ -1,0 +1,14 @@
+{
+    "user_id": "U01373",
+    "name": "Martin Hicks",
+    "email": "michael96@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06700', 'B07200', 'B09081']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Snow, Kirk and White for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07381', 'B07663', 'B09942']"
+}

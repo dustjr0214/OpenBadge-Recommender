@@ -1,0 +1,14 @@
+{
+    "user_id": "U01673",
+    "name": "Nicholas Harris",
+    "email": "dustinaustin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06717', 'B00389', 'B07845', 'B09221']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Peters and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07899', 'B07082', 'B06529', 'B05253']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00468",
+    "name": "Machine Learning Pro",
+    "issuer": "Coursera",
+    "description": "Machine Learning Pro badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency": "['Problem Solving', 'Machine Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03862']"
+}

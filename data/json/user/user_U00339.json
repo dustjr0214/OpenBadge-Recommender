@@ -1,0 +1,14 @@
+{
+    "user_id": "U00339",
+    "name": "William Farmer",
+    "email": "ibrown@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05649', 'B00204', 'B00590', 'B02417', 'B03730']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Harrison LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06997', 'B09660', 'B02543']"
+}

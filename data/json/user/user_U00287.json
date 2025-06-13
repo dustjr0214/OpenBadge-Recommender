@@ -1,0 +1,14 @@
+{
+    "user_id": "U00287",
+    "name": "Cynthia Brown",
+    "email": "jsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00051', 'B06100']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Mayo-Mcclain for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05420', 'B00260', 'B07401', 'B03342']"
+}

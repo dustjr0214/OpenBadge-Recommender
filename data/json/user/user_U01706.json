@@ -1,0 +1,14 @@
+{
+    "user_id": "U01706",
+    "name": "Austin Perkins",
+    "email": "iwilcox@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08143', 'B01890']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Bernard, Maldonado and Mitchell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06562', 'B09405', 'B02847', 'B06443']"
+}

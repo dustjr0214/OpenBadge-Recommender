@@ -1,0 +1,14 @@
+{
+    "user_id": "U03602",
+    "name": "Gregory Sanders",
+    "email": "bob44@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01647', 'B05108', 'B09946', 'B07978', 'B04667']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Roberson LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03651', 'B07975', 'B00371', 'B02481', 'B09535']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07583",
+    "name": "James Duncan",
+    "email": "allen77@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Santos, Thompson and Allen for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09262', 'B05807', 'B05568', 'B07742']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06758",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Analytical Skills', 'UI/UX', 'SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

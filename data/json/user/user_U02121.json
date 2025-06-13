@@ -1,0 +1,14 @@
+{
+    "user_id": "U02121",
+    "name": "Jeffrey Brooks",
+    "email": "howellchristian@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01300']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Harmon-Gaines for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09595', 'B04652', 'B05964', 'B05888', 'B04111']"
+}

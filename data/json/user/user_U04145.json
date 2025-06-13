@@ -1,0 +1,14 @@
+{
+    "user_id": "U04145",
+    "name": "Jason Watson",
+    "email": "bryancalderon@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05883']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Lewis PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02581']"
+}

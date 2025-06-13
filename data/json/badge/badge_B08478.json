@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08478",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Cloud Computing', 'SQL', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

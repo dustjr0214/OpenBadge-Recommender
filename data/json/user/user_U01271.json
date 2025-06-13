@@ -1,0 +1,14 @@
+{
+    "user_id": "U01271",
+    "name": "Justin Reynolds",
+    "email": "ucuevas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08265', 'B06507']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Garcia Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05751', 'B02040', 'B00489', 'B08250', 'B07449']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02010",
+    "name": "Sean Cunningham",
+    "email": "dcole@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02603']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Carter, Hunter and Parker for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05889', 'B06695', 'B09550', 'B00175', 'B05350']"
+}

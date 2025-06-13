@@ -1,0 +1,14 @@
+{
+    "user_id": "U03760",
+    "name": "Anthony Roth",
+    "email": "kimberly22@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00541', 'B00893', 'B08716']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Martinez-Smith for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03913', 'B09569', 'B01260', 'B06215']"
+}

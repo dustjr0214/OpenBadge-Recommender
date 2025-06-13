@@ -1,0 +1,14 @@
+{
+    "user_id": "U00420",
+    "name": "Cheryl Novak",
+    "email": "nhowell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00578']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Cochran-Nichols for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02111', 'B08222', 'B00165', 'B08379', 'B08691']"
+}

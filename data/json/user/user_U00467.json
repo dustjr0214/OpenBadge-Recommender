@@ -1,0 +1,14 @@
+{
+    "user_id": "U00467",
+    "name": "Brian Green",
+    "email": "karenanderson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03205', 'B07675', 'B07353']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Maxwell, Jimenez and Harris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08650']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03359",
+    "name": "James Moreno",
+    "email": "xroberson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01182']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Perez-Wells for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08551', 'B09392', 'B08408', 'B03479', 'B01427']"
+}

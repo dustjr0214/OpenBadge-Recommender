@@ -1,0 +1,14 @@
+{
+    "user_id": "U07922",
+    "name": "Miranda Atkinson",
+    "email": "laurie90@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03358', 'B06048', 'B07397', 'B06347', 'B07227']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Sanchez PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01937', 'B09718', 'B01152', 'B07032', 'B06688']"
+}

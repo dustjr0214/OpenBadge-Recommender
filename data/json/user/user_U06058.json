@@ -1,0 +1,14 @@
+{
+    "user_id": "U06058",
+    "name": "Amy Holland",
+    "email": "destiny35@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04140', 'B05123']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Miller-Frederick for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05606', 'B02602', 'B09636', 'B07182']"
+}

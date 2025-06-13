@@ -1,0 +1,14 @@
+{
+    "user_id": "U08962",
+    "name": "Donna Wilson DDS",
+    "email": "wpineda@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00514', 'B09675', 'B09235', 'B08303', 'B04304']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Johnson, Alvarez and Woods for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09327']"
+}

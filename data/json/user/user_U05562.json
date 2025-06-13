@@ -1,0 +1,14 @@
+{
+    "user_id": "U05562",
+    "name": "Victoria Rogers",
+    "email": "markrobinson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06439', 'B04997', 'B07946', 'B06610']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Adams, Jones and Caldwell for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

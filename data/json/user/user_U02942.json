@@ -1,0 +1,14 @@
+{
+    "user_id": "U02942",
+    "name": "James Collier DDS",
+    "email": "phaynes@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06050', 'B01124', 'B01470', 'B04129', 'B07272']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Silva-Anderson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06212', 'B03218', 'B03470', 'B03431', 'B00983']"
+}

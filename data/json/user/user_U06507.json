@@ -1,0 +1,14 @@
+{
+    "user_id": "U06507",
+    "name": "Margaret Sullivan",
+    "email": "smalone@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02549', 'B09034', 'B05586', 'B02828', 'B06556']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Rios PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01395']"
+}

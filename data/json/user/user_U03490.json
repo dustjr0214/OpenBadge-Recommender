@@ -1,0 +1,14 @@
+{
+    "user_id": "U03490",
+    "name": "Gregory Baker",
+    "email": "christinekrause@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08687', 'B06374', 'B05492']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Reynolds-Jordan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07314']"
+}

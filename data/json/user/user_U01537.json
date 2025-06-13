@@ -1,0 +1,14 @@
+{
+    "user_id": "U01537",
+    "name": "David Alexander",
+    "email": "shelbyobrien@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04451', 'B08533', 'B05101', 'B07354']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Mckay-Gray for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

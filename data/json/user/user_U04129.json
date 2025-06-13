@@ -1,0 +1,14 @@
+{
+    "user_id": "U04129",
+    "name": "Michelle Sanders",
+    "email": "klee@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08639', 'B06619', 'B02387', 'B03141', 'B07855']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Gregory-Kim for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08005', 'B01940', 'B07949']"
+}

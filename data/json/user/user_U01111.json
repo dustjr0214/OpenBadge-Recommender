@@ -1,0 +1,14 @@
+{
+    "user_id": "U01111",
+    "name": "Charles Bates",
+    "email": "davisadam@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05169']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Castro-Fleming for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

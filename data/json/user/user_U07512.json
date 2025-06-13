@@ -1,0 +1,14 @@
+{
+    "user_id": "U07512",
+    "name": "Paul Rodriguez",
+    "email": "edwinweaver@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Luna-Hurst for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02754', 'B07008']"
+}

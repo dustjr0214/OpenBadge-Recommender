@@ -1,0 +1,14 @@
+{
+    "user_id": "U01634",
+    "name": "Kevin Clayton",
+    "email": "chavezbrianna@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07251', 'B03633', 'B06812', 'B07575']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Bailey PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04661', 'B08150', 'B02243']"
+}

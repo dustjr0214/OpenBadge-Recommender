@@ -1,0 +1,14 @@
+{
+    "user_id": "U03536",
+    "name": "Sara Johnson DDS",
+    "email": "carolhoover@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Deleon Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06696', 'B05050', 'B03542', 'B05126', 'B08497']"
+}

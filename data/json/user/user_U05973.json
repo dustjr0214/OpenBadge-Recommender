@@ -1,0 +1,14 @@
+{
+    "user_id": "U05973",
+    "name": "Raymond Woods",
+    "email": "maryhess@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03779', 'B00004']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Miller-Sampson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06619']"
+}

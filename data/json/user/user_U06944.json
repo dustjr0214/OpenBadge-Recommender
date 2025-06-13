@@ -1,0 +1,14 @@
+{
+    "user_id": "U06944",
+    "name": "Sharon Kennedy",
+    "email": "schmidtjordan@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02572', 'B05676', 'B00764']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Combs Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08545",
+    "name": "Steven Rodgers",
+    "email": "timothy70@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02139', 'B09867', 'B05093', 'B01143', 'B03722']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Joseph LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06319', 'B06898']"
+}

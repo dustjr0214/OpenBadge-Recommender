@@ -1,0 +1,14 @@
+{
+    "user_id": "U01305",
+    "name": "Julie Sandoval",
+    "email": "cruzlinda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02426', 'B06504', 'B02537', 'B09173']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Fischer LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02796']"
+}

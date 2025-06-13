@@ -1,0 +1,14 @@
+{
+    "user_id": "U00654",
+    "name": "Daniel Williams",
+    "email": "jason11@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00588']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Goodman, Rose and Hardin for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

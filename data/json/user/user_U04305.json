@@ -1,0 +1,14 @@
+{
+    "user_id": "U04305",
+    "name": "William Dennis",
+    "email": "yujanet@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02861', 'B09324', 'B05165', 'B03868']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mckinney, Jones and Olson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04616', 'B03062', 'B01069', 'B07932']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08324",
+    "name": "Data Science Expert",
+    "issuer": "Coursera",
+    "description": "Data Science Expert badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'DevOps']",
+    "competency": "['Python', 'DevOps', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B02064', 'B00070']"
+}

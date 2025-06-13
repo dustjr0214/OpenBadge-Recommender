@@ -1,0 +1,14 @@
+{
+    "user_id": "U04622",
+    "name": "Lynn Pitts",
+    "email": "todd05@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05084', 'B03782', 'B03398', 'B02962', 'B08294']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Ewing, Hill and Garcia for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08553', 'B00420', 'B06288', 'B03458', 'B04626']"
+}

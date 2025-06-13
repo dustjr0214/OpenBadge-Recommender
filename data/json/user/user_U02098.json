@@ -1,0 +1,14 @@
+{
+    "user_id": "U02098",
+    "name": "Michael Kent",
+    "email": "xlloyd@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09183', 'B05662', 'B01084', 'B06936']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Cochran-Cunningham for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03005', 'B09480', 'B08004']"
+}

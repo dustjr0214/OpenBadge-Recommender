@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05703",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'Deep Learning']",
+    "competency": "['Leadership', 'Creativity', 'Machine Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01590', 'B03690']"
+}

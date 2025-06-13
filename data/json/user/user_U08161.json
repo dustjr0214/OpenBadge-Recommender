@@ -1,0 +1,14 @@
+{
+    "user_id": "U08161",
+    "name": "Seth Baker",
+    "email": "michael08@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04015', 'B04826', 'B01840', 'B04764']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Miller Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04116', 'B05206', 'B01206', 'B07553', 'B06321']"
+}

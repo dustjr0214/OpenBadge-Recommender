@@ -1,0 +1,14 @@
+{
+    "user_id": "U09130",
+    "name": "Robert Mitchell",
+    "email": "christine71@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06263', 'B08300', 'B03955', 'B07316', 'B02312']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Parker, Mckenzie and Bailey for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04034', 'B09284', 'B04187', 'B04432', 'B09911']"
+}

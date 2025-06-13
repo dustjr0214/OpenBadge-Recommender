@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00281",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00760', 'B02487']"
+}

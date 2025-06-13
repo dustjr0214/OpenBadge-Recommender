@@ -1,0 +1,14 @@
+{
+    "user_id": "U03399",
+    "name": "Carlos Schneider",
+    "email": "garyrobinson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04010', 'B03674']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cook-Downs for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09672', 'B04574', 'B03042', 'B07486']"
+}

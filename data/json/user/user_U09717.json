@@ -1,0 +1,14 @@
+{
+    "user_id": "U09717",
+    "name": "Marcus Hill",
+    "email": "jbaker@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01595', 'B03785']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Lopez, Vasquez and Roberson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

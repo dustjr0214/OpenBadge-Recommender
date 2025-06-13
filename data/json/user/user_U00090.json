@@ -1,0 +1,14 @@
+{
+    "user_id": "U00090",
+    "name": "Sara Wright",
+    "email": "jjones@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05834', 'B08375', 'B09826', 'B09766']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Chavez, Murillo and Ray for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08198', 'B00964', 'B01913', 'B08640']"
+}

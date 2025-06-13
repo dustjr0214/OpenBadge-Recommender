@@ -1,0 +1,14 @@
+{
+    "user_id": "U02780",
+    "name": "Joshua Walker",
+    "email": "destiny40@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05055', 'B06546', 'B03095']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Duncan Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09160', 'B00134', 'B08970', 'B03169', 'B02404']"
+}

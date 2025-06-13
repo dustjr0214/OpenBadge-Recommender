@@ -1,0 +1,14 @@
+{
+    "user_id": "U00428",
+    "name": "Diane Perez",
+    "email": "kennethevans@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09335']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hayes, Freeman and Lopez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01400']"
+}

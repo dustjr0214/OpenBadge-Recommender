@@ -1,0 +1,14 @@
+{
+    "user_id": "U00189",
+    "name": "James Cummings",
+    "email": "jennifergarcia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03170', 'B03407', 'B08823', 'B04851', 'B05689']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Gomez, Mcintyre and Lopez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03728', 'B00949', 'B03328']"
+}

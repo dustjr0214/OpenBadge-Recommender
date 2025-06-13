@@ -1,0 +1,14 @@
+{
+    "user_id": "U01965",
+    "name": "Julian Anderson",
+    "email": "theresa81@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08968', 'B09199', 'B05283', 'B06744', 'B08981']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Rojas LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09234', 'B05905', 'B02557', 'B07951']"
+}

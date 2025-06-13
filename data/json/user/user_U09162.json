@@ -1,0 +1,14 @@
+{
+    "user_id": "U09162",
+    "name": "Kimberly Brown",
+    "email": "sherryramirez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09762', 'B02155', 'B01716', 'B04464']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Weaver-Watson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02223', 'B09445', 'B09363']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00196",
+    "name": "Aaron Wilson",
+    "email": "jonathanbrown@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06674', 'B08271', 'B04479']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Perez-Wilson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02548', 'B08629', 'B02380', 'B06114', 'B09347']"
+}

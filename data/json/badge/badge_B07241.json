@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07241",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python']",
+    "competency": "['Deep Learning', 'Cloud Computing']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B04477']"
+}

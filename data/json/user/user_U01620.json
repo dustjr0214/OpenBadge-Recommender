@@ -1,0 +1,14 @@
+{
+    "user_id": "U01620",
+    "name": "Alicia Dixon",
+    "email": "phillipsmichael@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08180']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Hodges, Owens and Lin for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03482",
+    "name": "Nicholas Smith",
+    "email": "cassandra76@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06455', 'B05618', 'B00289', 'B07585', 'B01239']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Chen, Reed and Brown for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

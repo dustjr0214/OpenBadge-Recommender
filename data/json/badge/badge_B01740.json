@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01740",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'UI/UX', 'DevOps']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B03664']"
+}

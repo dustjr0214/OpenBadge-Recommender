@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05191",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B03880', 'B04904']"
+}

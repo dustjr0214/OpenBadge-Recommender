@@ -1,0 +1,14 @@
+{
+    "user_id": "U06855",
+    "name": "James Harper",
+    "email": "shawmichelle@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04226', 'B06320', 'B00133']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Dickerson Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07236']"
+}

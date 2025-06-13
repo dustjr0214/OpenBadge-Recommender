@@ -1,0 +1,14 @@
+{
+    "user_id": "U01150",
+    "name": "Bradley Macdonald",
+    "email": "caldwellsarah@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03319', 'B03832', 'B01419', 'B09747', 'B06944']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Frazier, Khan and Lowe for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

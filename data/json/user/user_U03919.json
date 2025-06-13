@@ -1,0 +1,14 @@
+{
+    "user_id": "U03919",
+    "name": "Joshua Evans",
+    "email": "juliamoss@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05200']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Thompson and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06228', 'B05011', 'B01079']"
+}

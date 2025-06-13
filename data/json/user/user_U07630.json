@@ -1,0 +1,14 @@
+{
+    "user_id": "U07630",
+    "name": "Emily Kramer",
+    "email": "nancyrobertson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07865', 'B07611']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Guerrero Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01713', 'B06547', 'B01351']"
+}

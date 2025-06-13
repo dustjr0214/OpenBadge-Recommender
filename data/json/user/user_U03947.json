@@ -1,0 +1,14 @@
+{
+    "user_id": "U03947",
+    "name": "Joseph Martin",
+    "email": "jonesjames@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02590', 'B08839', 'B05730', 'B01736', 'B02216']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Roberts, Curtis and Hendricks for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06973', 'B00064']"
+}

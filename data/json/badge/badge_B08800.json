@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08800",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'Python', 'Data Analysis']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

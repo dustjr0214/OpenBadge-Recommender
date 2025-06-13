@@ -1,0 +1,14 @@
+{
+    "user_id": "U07832",
+    "name": "Robert White",
+    "email": "kimchan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Howard, Wilson and Arroyo for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09178', 'B03182', 'B07156', 'B02763']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01856",
+    "name": "Donna Andrews",
+    "email": "margaretneal@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03978', 'B05838', 'B07619', 'B07292', 'B00112']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Estrada, Lopez and Luna for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07170', 'B01952', 'B08649', 'B04192']"
+}

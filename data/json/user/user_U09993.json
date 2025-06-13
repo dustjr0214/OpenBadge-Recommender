@@ -1,0 +1,14 @@
+{
+    "user_id": "U09993",
+    "name": "Stephen Hale",
+    "email": "daniellejimenez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02022', 'B04471', 'B08412']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Smith, Briggs and Gonzalez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

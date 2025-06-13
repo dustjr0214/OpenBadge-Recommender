@@ -1,0 +1,14 @@
+{
+    "user_id": "U06205",
+    "name": "David Eaton",
+    "email": "butlerdonna@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01330', 'B01993']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Jimenez-Reyes for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06821', 'B07049']"
+}

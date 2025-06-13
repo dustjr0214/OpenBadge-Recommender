@@ -1,0 +1,14 @@
+{
+    "user_id": "U03345",
+    "name": "Justin Anderson",
+    "email": "moneill@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00910', 'B00530', 'B02389', 'B06599']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Munoz, Diaz and Martin for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02376', 'B08884', 'B01624', 'B05506', 'B02371']"
+}

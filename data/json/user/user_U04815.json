@@ -1,0 +1,14 @@
+{
+    "user_id": "U04815",
+    "name": "Michael Clark",
+    "email": "angela08@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07749', 'B02919']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Wright-Walker for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02884']"
+}

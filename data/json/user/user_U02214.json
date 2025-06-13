@@ -1,0 +1,14 @@
+{
+    "user_id": "U02214",
+    "name": "Daniel Valenzuela",
+    "email": "taylorjames@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Grant, Mitchell and Simon for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09718', 'B09644', 'B01547', 'B05589', 'B04165']"
+}

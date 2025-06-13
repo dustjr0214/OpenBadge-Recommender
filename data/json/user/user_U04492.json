@@ -1,0 +1,14 @@
+{
+    "user_id": "U04492",
+    "name": "Jeffrey Fox",
+    "email": "freykevin@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02046', 'B07025', 'B02595']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Gonzalez Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

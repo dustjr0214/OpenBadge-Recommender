@@ -1,0 +1,14 @@
+{
+    "user_id": "U07399",
+    "name": "Donald Lindsey",
+    "email": "cobbjay@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08710', 'B03933', 'B02601']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Holt Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05521', 'B03635']"
+}

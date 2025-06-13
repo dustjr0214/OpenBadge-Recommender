@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09424",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

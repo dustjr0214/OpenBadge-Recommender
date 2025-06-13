@@ -1,0 +1,14 @@
+{
+    "user_id": "U09173",
+    "name": "David Spencer",
+    "email": "rwalker@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09308', 'B06844', 'B02388', 'B00685', 'B01038']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Torres, Patterson and Fernandez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09829', 'B06995', 'B08895']"
+}

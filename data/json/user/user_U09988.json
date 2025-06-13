@@ -1,0 +1,14 @@
+{
+    "user_id": "U09988",
+    "name": "Kelsey Herman",
+    "email": "alexandriareeves@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04468']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Mack, Payne and Cantrell for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04636', 'B05408', 'B04441', 'B02124']"
+}

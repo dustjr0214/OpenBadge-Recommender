@@ -1,0 +1,14 @@
+{
+    "user_id": "U03068",
+    "name": "George Smith",
+    "email": "hfarmer@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01213', 'B07611', 'B06713', 'B09223', 'B04035']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Murphy LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08675', 'B03812', 'B07421', 'B09751', 'B01667']"
+}

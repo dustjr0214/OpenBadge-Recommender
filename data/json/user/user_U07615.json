@@ -1,0 +1,14 @@
+{
+    "user_id": "U07615",
+    "name": "Amanda Greer",
+    "email": "stephaniesanchez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Collins, Peterson and Rivera for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00847', 'B05527', 'B08652']"
+}

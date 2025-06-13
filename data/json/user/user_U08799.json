@@ -1,0 +1,14 @@
+{
+    "user_id": "U08799",
+    "name": "Sonya Taylor",
+    "email": "kellywilson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04154', 'B08273']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Simmons Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05335', 'B03041', 'B05902']"
+}

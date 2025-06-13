@@ -1,0 +1,14 @@
+{
+    "user_id": "U05966",
+    "name": "Andrew Conway",
+    "email": "robinsondonna@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03161', 'B06688', 'B00179', 'B09686']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Howell-Cox for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02822', 'B05064', 'B05822', 'B00440', 'B06800']"
+}

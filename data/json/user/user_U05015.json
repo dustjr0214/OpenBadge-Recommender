@@ -1,0 +1,14 @@
+{
+    "user_id": "U05015",
+    "name": "Carolyn Yang",
+    "email": "bwilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02750']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Zhang-Taylor for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06431', 'B05986', 'B01552', 'B09507', 'B09177']"
+}

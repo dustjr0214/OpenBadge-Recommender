@@ -1,0 +1,14 @@
+{
+    "user_id": "U08654",
+    "name": "Timothy Phillips",
+    "email": "fmoore@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00015', 'B02154']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hunt-Sherman for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

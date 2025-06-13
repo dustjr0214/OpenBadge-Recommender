@@ -1,0 +1,14 @@
+{
+    "user_id": "U06633",
+    "name": "James Hudson",
+    "email": "madeline58@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02005', 'B09242']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Monroe-Keller for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03828', 'B07231', 'B00998']"
+}

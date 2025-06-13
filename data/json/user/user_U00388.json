@@ -1,0 +1,14 @@
+{
+    "user_id": "U00388",
+    "name": "Gary Pierce",
+    "email": "xdavis@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03405', 'B01917', 'B07894']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Simon, Miller and Singleton for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

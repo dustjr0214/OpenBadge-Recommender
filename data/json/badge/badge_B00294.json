@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00294",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Creativity', 'UI/UX']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B02401', 'B03660']"
+}

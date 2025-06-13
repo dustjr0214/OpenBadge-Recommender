@@ -1,0 +1,14 @@
+{
+    "user_id": "U00247",
+    "name": "Deanna Sparks",
+    "email": "hooperharold@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08052', 'B00704']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Rocha Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01599', 'B06595']"
+}

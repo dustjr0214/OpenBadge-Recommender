@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02538",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'Python', 'SQL']",
+    "competency": "['Deep Learning', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

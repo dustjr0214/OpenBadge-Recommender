@@ -1,0 +1,14 @@
+{
+    "user_id": "U02559",
+    "name": "Gary Johnson",
+    "email": "cmunoz@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01928', 'B05819', 'B06253', 'B09828', 'B08623']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Fitzgerald Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03505', 'B03192']"
+}

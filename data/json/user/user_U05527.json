@@ -1,0 +1,14 @@
+{
+    "user_id": "U05527",
+    "name": "Kimberly Douglas",
+    "email": "normarichardson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00601', 'B01716', 'B09134', 'B03765', 'B06359']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Wood PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00810']"
+}

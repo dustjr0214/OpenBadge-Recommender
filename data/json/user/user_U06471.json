@@ -1,0 +1,14 @@
+{
+    "user_id": "U06471",
+    "name": "Luke Flynn",
+    "email": "leeamber@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00303', 'B01087', 'B01791', 'B09818', 'B03763']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Watts-Marsh for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

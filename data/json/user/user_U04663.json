@@ -1,0 +1,14 @@
+{
+    "user_id": "U04663",
+    "name": "Paul Cunningham",
+    "email": "melody48@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Ware-Wade for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01277', 'B05388', 'B02478', 'B03964']"
+}

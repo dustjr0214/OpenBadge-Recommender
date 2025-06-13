@@ -1,0 +1,14 @@
+{
+    "user_id": "U08967",
+    "name": "Meghan Wilkins",
+    "email": "woodcheryl@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06301', 'B01694']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Clark, Moss and Gardner for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00584', 'B05650', 'B00844', 'B09802', 'B07670']"
+}

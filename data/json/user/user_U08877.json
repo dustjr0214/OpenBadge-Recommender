@@ -1,0 +1,14 @@
+{
+    "user_id": "U08877",
+    "name": "Debbie Martin",
+    "email": "pcordova@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Taylor-Reyes for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09010",
+    "name": "Michelle Smith",
+    "email": "howejulie@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03862', 'B02552', 'B00839']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Garcia Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03350', 'B07474', 'B07271']"
+}

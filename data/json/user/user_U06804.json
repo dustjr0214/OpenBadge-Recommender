@@ -1,0 +1,14 @@
+{
+    "user_id": "U06804",
+    "name": "Joanna Duffy",
+    "email": "edwardgibson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00844', 'B00737', 'B05172', 'B05079']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Scott, Whitaker and Willis for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07532', 'B06153', 'B03576', 'B08808']"
+}

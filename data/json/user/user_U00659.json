@@ -1,0 +1,14 @@
+{
+    "user_id": "U00659",
+    "name": "Jamie Holmes",
+    "email": "phillipsmark@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02786', 'B00597', 'B08326', 'B05660', 'B01377']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Ford-Walton for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01486', 'B03639', 'B09279', 'B02281', 'B03610']"
+}

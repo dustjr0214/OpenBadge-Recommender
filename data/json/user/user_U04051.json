@@ -1,0 +1,14 @@
+{
+    "user_id": "U04051",
+    "name": "Steven Gonzalez",
+    "email": "esoto@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05510', 'B05165']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Foster-Manning for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08671', 'B00218']"
+}

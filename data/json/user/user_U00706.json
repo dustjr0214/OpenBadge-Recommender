@@ -1,0 +1,14 @@
+{
+    "user_id": "U00706",
+    "name": "Connie Myers",
+    "email": "walkerjeffrey@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07038', 'B09429', 'B05682']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Marshall and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06487']"
+}

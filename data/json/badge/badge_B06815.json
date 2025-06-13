@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06815",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'SQL', 'Data Analysis']",
+    "competency": "['Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

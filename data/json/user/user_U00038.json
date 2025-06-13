@@ -1,0 +1,14 @@
+{
+    "user_id": "U00038",
+    "name": "Derek Landry",
+    "email": "jhernandez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00262', 'B02382', 'B07213']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Clark Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

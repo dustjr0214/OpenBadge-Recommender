@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04718",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Python', 'Data Analysis', 'Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08335']"
+}

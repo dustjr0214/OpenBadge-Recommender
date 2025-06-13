@@ -1,0 +1,14 @@
+{
+    "user_id": "U00290",
+    "name": "James Dawson",
+    "email": "tammy50@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03834', 'B00744', 'B03637']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Davis, Davis and Gonzales for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09986', 'B08702']"
+}

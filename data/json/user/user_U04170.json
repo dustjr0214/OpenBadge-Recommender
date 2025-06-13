@@ -1,0 +1,14 @@
+{
+    "user_id": "U04170",
+    "name": "Katrina Hicks",
+    "email": "harmstrong@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02126', 'B05517', 'B01791']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Willis-Gibson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06730', 'B04683']"
+}

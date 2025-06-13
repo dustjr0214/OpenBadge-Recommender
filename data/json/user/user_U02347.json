@@ -1,0 +1,14 @@
+{
+    "user_id": "U02347",
+    "name": "Lauren Fox",
+    "email": "holtamanda@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08124', 'B04916']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Yu, Torres and Burnett for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03326', 'B05860', 'B08602', 'B06527']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04974",
+    "name": "Jesse Black",
+    "email": "zgomez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09694']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Jackson, Arnold and Tran for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01784']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04636",
+    "name": "Kimberly Hanson",
+    "email": "jpierce@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09091', 'B07206', 'B01224']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Tucker, Reyes and Chase for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

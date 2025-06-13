@@ -1,0 +1,14 @@
+{
+    "user_id": "U00457",
+    "name": "Kathryn Brown",
+    "email": "wmitchell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07908', 'B08123', 'B06472', 'B03235']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Blake, Schneider and Schwartz for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04911', 'B09755', 'B09597', 'B00434']"
+}

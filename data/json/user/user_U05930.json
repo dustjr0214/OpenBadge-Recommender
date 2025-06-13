@@ -1,0 +1,14 @@
+{
+    "user_id": "U05930",
+    "name": "Elizabeth Ray",
+    "email": "stevenmarquez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03436', 'B07626', 'B08492']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Norris LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05322', 'B03648']"
+}

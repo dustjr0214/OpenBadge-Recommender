@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02869",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Deep Learning', 'SQL']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B07225', 'B00405']"
+}

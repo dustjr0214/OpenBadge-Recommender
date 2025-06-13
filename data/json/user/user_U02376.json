@@ -1,0 +1,14 @@
+{
+    "user_id": "U02376",
+    "name": "Gerald Mcgrath",
+    "email": "masonapril@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06964', 'B09163']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Savage PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

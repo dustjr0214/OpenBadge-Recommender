@@ -1,0 +1,14 @@
+{
+    "user_id": "U09857",
+    "name": "Linda Ross",
+    "email": "miguel82@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09926', 'B02212', 'B07598', 'B09993']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mora, Guerra and Parker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05462']"
+}

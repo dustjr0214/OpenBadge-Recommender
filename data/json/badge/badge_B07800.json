@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07800",
+    "name": "Cloud Computing Guru",
+    "issuer": "edX",
+    "description": "Cloud Computing Guru badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Data Analysis', 'Deep Learning']",
+    "competency": "['Deep Learning', 'SQL', 'Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07408']"
+}

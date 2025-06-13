@@ -1,0 +1,14 @@
+{
+    "user_id": "U03376",
+    "name": "Sarah Martin",
+    "email": "castanedaleonard@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03906', 'B06603', 'B05225', 'B06631']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Williams, Ford and Thomas for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07859', 'B09204', 'B08292', 'B02330']"
+}

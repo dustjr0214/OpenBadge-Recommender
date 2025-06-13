@@ -1,0 +1,14 @@
+{
+    "user_id": "U04922",
+    "name": "Kathryn James",
+    "email": "bmurray@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09126', 'B03597', 'B03034', 'B08352', 'B09644']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Park Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06073']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05521",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Cloud Computing']",
+    "competency": "['Python', 'SQL', 'UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09452']"
+}

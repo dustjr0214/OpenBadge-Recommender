@@ -1,0 +1,14 @@
+{
+    "user_id": "U01841",
+    "name": "Heather Jimenez",
+    "email": "brobertson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03138', 'B00581']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Adams, Beltran and Rodriguez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

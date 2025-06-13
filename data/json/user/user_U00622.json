@@ -1,0 +1,14 @@
+{
+    "user_id": "U00622",
+    "name": "Dan Frey",
+    "email": "garygibbs@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08538', 'B04701', 'B07263', 'B03903', 'B05669']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Valencia PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00640', 'B02520', 'B08843', 'B01814']"
+}

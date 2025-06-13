@@ -1,0 +1,14 @@
+{
+    "user_id": "U09612",
+    "name": "Hunter Watkins",
+    "email": "bsanders@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02468', 'B04342', 'B00647', 'B04534', 'B04717']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Mclean Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06641', 'B03942', 'B04152', 'B00655', 'B03214']"
+}

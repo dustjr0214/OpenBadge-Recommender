@@ -1,0 +1,14 @@
+{
+    "user_id": "U08418",
+    "name": "Cynthia Tapia",
+    "email": "amber56@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09993', 'B06831', 'B01211', 'B07356', 'B09261']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Walsh Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01246', 'B03563']"
+}

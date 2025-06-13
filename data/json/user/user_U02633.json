@@ -1,0 +1,14 @@
+{
+    "user_id": "U02633",
+    "name": "Thomas Small",
+    "email": "mreese@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00974', 'B00736', 'B08066', 'B02828', 'B04968']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Martinez-Wright for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05272', 'B09131', 'B04544']"
+}

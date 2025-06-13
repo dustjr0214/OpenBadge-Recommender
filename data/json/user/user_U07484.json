@@ -1,0 +1,14 @@
+{
+    "user_id": "U07484",
+    "name": "Michelle Howard",
+    "email": "teresagarrett@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05744', 'B09468', 'B09536']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Nelson, Perry and Stone for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04085', 'B07083', 'B02788', 'B02988']"
+}

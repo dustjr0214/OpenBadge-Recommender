@@ -1,0 +1,14 @@
+{
+    "user_id": "U01742",
+    "name": "Julie Lowery",
+    "email": "klee@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07798', 'B01816']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Holden-Paul for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

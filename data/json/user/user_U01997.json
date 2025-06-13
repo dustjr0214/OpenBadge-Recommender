@@ -1,0 +1,14 @@
+{
+    "user_id": "U01997",
+    "name": "Melissa Lane",
+    "email": "vwilson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Hoffman Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09626', 'B05647', 'B02390', 'B05188']"
+}

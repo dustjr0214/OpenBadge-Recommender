@@ -1,0 +1,14 @@
+{
+    "user_id": "U07885",
+    "name": "Sherry Williams",
+    "email": "williamzavala@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08701', 'B01988', 'B07179', 'B05091', 'B02241']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Frazier and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

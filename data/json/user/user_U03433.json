@@ -1,0 +1,14 @@
+{
+    "user_id": "U03433",
+    "name": "Donald Davis",
+    "email": "erush@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07785', 'B02685', 'B01043', 'B01197']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Shields-Gutierrez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02624']"
+}

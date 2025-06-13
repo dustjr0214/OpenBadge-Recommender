@@ -1,0 +1,14 @@
+{
+    "user_id": "U01901",
+    "name": "Matthew Garrett",
+    "email": "johncollins@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08969', 'B04582', 'B08876', 'B09193', 'B06740']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Ward, Wyatt and Gibson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04351', 'B03802']"
+}

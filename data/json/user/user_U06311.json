@@ -1,0 +1,14 @@
+{
+    "user_id": "U06311",
+    "name": "Jacob Mccormick",
+    "email": "hendersonchristopher@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06661', 'B07945', 'B05719']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Padilla-Good for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07234', 'B05915', 'B01258', 'B02976']"
+}

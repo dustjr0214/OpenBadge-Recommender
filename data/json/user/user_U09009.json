@@ -1,0 +1,14 @@
+{
+    "user_id": "U09009",
+    "name": "Michael Green",
+    "email": "paularodriguez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Pope, Morrow and Peterson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02281', 'B02713', 'B07699', 'B08233', 'B04746']"
+}

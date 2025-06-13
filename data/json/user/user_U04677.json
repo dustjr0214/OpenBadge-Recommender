@@ -1,0 +1,14 @@
+{
+    "user_id": "U04677",
+    "name": "Troy Parker",
+    "email": "cunninghamedward@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09495', 'B04475', 'B03176', 'B04614']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Barry-Russell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03155', 'B07094', 'B06593']"
+}

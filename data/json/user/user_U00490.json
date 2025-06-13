@@ -1,0 +1,14 @@
+{
+    "user_id": "U00490",
+    "name": "Kenneth Bonilla",
+    "email": "fuenteselizabeth@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09430', 'B02240', 'B00671', 'B03278', 'B06905']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Sanchez Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07322', 'B09775']"
+}

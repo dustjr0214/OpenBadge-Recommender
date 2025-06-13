@@ -1,0 +1,14 @@
+{
+    "user_id": "U08216",
+    "name": "Robert Joseph",
+    "email": "baileymariah@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08427', 'B00406', 'B01845', 'B00786']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Cuevas Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06545', 'B06281', 'B04929']"
+}

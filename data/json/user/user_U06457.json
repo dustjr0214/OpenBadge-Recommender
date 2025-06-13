@@ -1,0 +1,14 @@
+{
+    "user_id": "U06457",
+    "name": "Taylor Coleman",
+    "email": "jennifer89@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07366', 'B00429', 'B08180', 'B05085']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Parsons Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08943', 'B01793', 'B03161', 'B05054']"
+}

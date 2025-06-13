@@ -1,0 +1,14 @@
+{
+    "user_id": "U07670",
+    "name": "Jacob Johnson",
+    "email": "mbush@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08808', 'B01006', 'B00585']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Jenkins LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08721', 'B03676', 'B01316']"
+}

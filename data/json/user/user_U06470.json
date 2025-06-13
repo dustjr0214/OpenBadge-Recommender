@@ -1,0 +1,14 @@
+{
+    "user_id": "U06470",
+    "name": "Joseph Baker",
+    "email": "stephanieconway@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09415']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Strong, Humphrey and Lee for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08134', 'B00949', 'B08376']"
+}

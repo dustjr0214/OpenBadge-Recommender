@@ -1,0 +1,14 @@
+{
+    "user_id": "U06273",
+    "name": "Donald Jackson",
+    "email": "kelly15@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Miller, Schwartz and Bailey for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04550', 'B06134', 'B01359', 'B07696']"
+}

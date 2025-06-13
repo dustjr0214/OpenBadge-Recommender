@@ -1,0 +1,14 @@
+{
+    "user_id": "U02839",
+    "name": "William Williams",
+    "email": "leeyvette@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03398', 'B04402', 'B04052', 'B00704', 'B07215']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Lang, Harper and Bentley for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03070', 'B09461', 'B01033', 'B07125', 'B08542']"
+}

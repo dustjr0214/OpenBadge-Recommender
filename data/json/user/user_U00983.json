@@ -1,0 +1,14 @@
+{
+    "user_id": "U00983",
+    "name": "Ellen Harvey",
+    "email": "kimberly35@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Mack-Doyle for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01151', 'B01074']"
+}

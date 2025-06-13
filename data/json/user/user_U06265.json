@@ -1,0 +1,14 @@
+{
+    "user_id": "U06265",
+    "name": "Lori Lee",
+    "email": "katie93@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02311', 'B02847', 'B06911']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Jones Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02741', 'B07075', 'B07773', 'B02759', 'B03462']"
+}

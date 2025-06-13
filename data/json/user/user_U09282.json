@@ -1,0 +1,14 @@
+{
+    "user_id": "U09282",
+    "name": "Tamara Tran",
+    "email": "clifford53@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01952', 'B02362', 'B02002', 'B06902', 'B03717']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hansen Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07808', 'B01808', 'B05759']"
+}

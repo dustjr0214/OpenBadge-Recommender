@@ -1,0 +1,14 @@
+{
+    "user_id": "U00080",
+    "name": "Johnny Brown",
+    "email": "obuchanan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07670', 'B03515', 'B08708', 'B07561']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Ali, Arnold and Ross for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02122', 'B02263', 'B07253', 'B06087']"
+}

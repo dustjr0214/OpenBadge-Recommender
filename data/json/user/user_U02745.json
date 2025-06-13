@@ -1,0 +1,14 @@
+{
+    "user_id": "U02745",
+    "name": "Emily Reid",
+    "email": "cummingspamela@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02577', 'B01143']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Nelson-Perry for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07230', 'B09061', 'B01180', 'B00690', 'B05762']"
+}

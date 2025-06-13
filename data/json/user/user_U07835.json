@@ -1,0 +1,14 @@
+{
+    "user_id": "U07835",
+    "name": "Shari Smith",
+    "email": "deborah60@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00952', 'B04521', 'B04821']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Robinson Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01066']"
+}

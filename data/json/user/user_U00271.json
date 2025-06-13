@@ -1,0 +1,14 @@
+{
+    "user_id": "U00271",
+    "name": "Matthew Jones",
+    "email": "hobbsdaniel@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04466', 'B07610', 'B09268', 'B08573', 'B02802']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Stein, Murillo and Thompson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04951', 'B00243']"
+}

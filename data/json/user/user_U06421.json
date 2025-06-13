@@ -1,0 +1,14 @@
+{
+    "user_id": "U06421",
+    "name": "Frank Carroll",
+    "email": "christinebrock@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01233']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Barrett, Moore and Fisher for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08571', 'B08745', 'B06547', 'B03754', 'B01807']"
+}

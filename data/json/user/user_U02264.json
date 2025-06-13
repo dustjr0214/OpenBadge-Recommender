@@ -1,0 +1,14 @@
+{
+    "user_id": "U02264",
+    "name": "Benjamin Roth",
+    "email": "csosa@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00764', 'B02495']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Cantu Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02622', 'B01765', 'B05083', 'B04535']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06286",
+    "name": "Michele David",
+    "email": "vchung@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07990', 'B07819', 'B03467', 'B02948']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Burton-Castro for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06558', 'B04184', 'B08244']"
+}

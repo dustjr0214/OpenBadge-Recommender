@@ -1,0 +1,14 @@
+{
+    "user_id": "U03926",
+    "name": "Meagan Chen",
+    "email": "jeremiahbarker@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06004', 'B02163', 'B02284', 'B09769']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Evans Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01108', 'B01452']"
+}

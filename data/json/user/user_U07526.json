@@ -1,0 +1,14 @@
+{
+    "user_id": "U07526",
+    "name": "Shawn Gardner",
+    "email": "andre23@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00728']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Robinson-Ramos for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02568', 'B00047', 'B01334']"
+}

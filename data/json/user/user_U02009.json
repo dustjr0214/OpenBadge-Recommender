@@ -1,0 +1,14 @@
+{
+    "user_id": "U02009",
+    "name": "Robert Snyder",
+    "email": "wfloyd@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Smith Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07687']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00920",
+    "name": "Jennifer Kidd",
+    "email": "ssutton@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hines, Crosby and Bell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00773', 'B03774', 'B02913']"
+}

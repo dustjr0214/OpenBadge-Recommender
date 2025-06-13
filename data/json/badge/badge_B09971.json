@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09971",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B01221']"
+}

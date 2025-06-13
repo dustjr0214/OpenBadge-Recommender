@@ -1,0 +1,14 @@
+{
+    "user_id": "U01903",
+    "name": "Dr. Robert Nelson",
+    "email": "hgreen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05883']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Wood Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

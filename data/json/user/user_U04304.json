@@ -1,0 +1,14 @@
+{
+    "user_id": "U04304",
+    "name": "Lindsay Schneider",
+    "email": "teresastephens@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01914', 'B03222']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Scott, Richards and Patterson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03414', 'B04141', 'B03368', 'B07222', 'B09237']"
+}

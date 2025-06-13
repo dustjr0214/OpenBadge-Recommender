@@ -1,0 +1,14 @@
+{
+    "user_id": "U01658",
+    "name": "Kelli Cameron",
+    "email": "rodney39@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07843', 'B06360', 'B08123', 'B06715']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Martin LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09942']"
+}

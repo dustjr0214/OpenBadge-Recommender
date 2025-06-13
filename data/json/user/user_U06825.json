@@ -1,0 +1,14 @@
+{
+    "user_id": "U06825",
+    "name": "Jessica Elliott",
+    "email": "hullzachary@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09244', 'B02241', 'B06438', 'B07767', 'B06827']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Gill-Perez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06164', 'B07775']"
+}

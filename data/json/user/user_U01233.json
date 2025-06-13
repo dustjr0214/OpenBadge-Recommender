@@ -1,0 +1,14 @@
+{
+    "user_id": "U01233",
+    "name": "Michael Mendoza",
+    "email": "bryanttara@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01594']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Trevino, Wilson and Edwards for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01455', 'B02939', 'B05232', 'B03669', 'B07365']"
+}

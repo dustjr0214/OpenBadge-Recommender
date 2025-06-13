@@ -1,0 +1,14 @@
+{
+    "user_id": "U06222",
+    "name": "Corey Nguyen",
+    "email": "feliciajohnson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05510', 'B01475', 'B02253', 'B05300', 'B08639']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Johnson, Wood and Wilson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00554', 'B07191', 'B01938', 'B00413']"
+}

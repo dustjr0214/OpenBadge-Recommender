@@ -1,0 +1,14 @@
+{
+    "user_id": "U00070",
+    "name": "Charles Alexander",
+    "email": "alexis29@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07578', 'B01999', 'B07764', 'B07819', 'B04010']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Rich Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05856', 'B01553', 'B02428', 'B05684', 'B05308']"
+}

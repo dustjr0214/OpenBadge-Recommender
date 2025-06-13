@@ -1,0 +1,14 @@
+{
+    "user_id": "U06354",
+    "name": "Barbara Weiss",
+    "email": "martinlarson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00171', 'B08670', 'B04915', 'B01933']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Lewis and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02404', 'B04785', 'B09051', 'B05396', 'B05374']"
+}

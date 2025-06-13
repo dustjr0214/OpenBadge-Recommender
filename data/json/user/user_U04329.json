@@ -1,0 +1,14 @@
+{
+    "user_id": "U04329",
+    "name": "Thomas Martin",
+    "email": "ifry@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00927', 'B04418']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Clark, Bentley and Marshall for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08897', 'B00919', 'B01855', 'B05673']"
+}

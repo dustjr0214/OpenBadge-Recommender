@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05409",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity']",
+    "competency": "['Problem Solving', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04433']"
+}

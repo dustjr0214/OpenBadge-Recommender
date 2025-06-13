@@ -1,0 +1,14 @@
+{
+    "user_id": "U08486",
+    "name": "Rodney Mays",
+    "email": "timothygarcia@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03798', 'B05267', 'B09168', 'B01362']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Thornton-Maldonado for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

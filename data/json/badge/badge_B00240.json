@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00240",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['SQL', 'Creativity', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06620', 'B05794']"
+}

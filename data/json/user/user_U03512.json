@@ -1,0 +1,14 @@
+{
+    "user_id": "U03512",
+    "name": "Jennifer Hunt",
+    "email": "chambersjared@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06615', 'B05526']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Tanner, Gray and Anderson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05788', 'B08430']"
+}

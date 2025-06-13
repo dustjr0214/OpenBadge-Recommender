@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09544",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps', 'Python']",
+    "competency": "['DevOps', 'UI/UX', 'Machine Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04886']"
+}

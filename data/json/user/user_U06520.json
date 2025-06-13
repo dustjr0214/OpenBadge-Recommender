@@ -1,0 +1,14 @@
+{
+    "user_id": "U06520",
+    "name": "Megan Knight",
+    "email": "michaelhart@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00564', 'B03542', 'B03057', 'B08535', 'B02951']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Mata-Castro for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08895', 'B02332', 'B06487']"
+}

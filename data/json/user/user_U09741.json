@@ -1,0 +1,14 @@
+{
+    "user_id": "U09741",
+    "name": "Jeremy Johnston",
+    "email": "jacqueline64@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07988', 'B08360']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Santos and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07040', 'B04614', 'B06701', 'B07806']"
+}

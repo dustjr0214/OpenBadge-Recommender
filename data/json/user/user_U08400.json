@@ -1,0 +1,14 @@
+{
+    "user_id": "U08400",
+    "name": "John Fischer",
+    "email": "anneturner@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04924']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Guerrero Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00935",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency": "['Analytical Skills']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09242']"
+}

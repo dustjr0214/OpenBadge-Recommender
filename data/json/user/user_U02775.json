@@ -1,0 +1,14 @@
+{
+    "user_id": "U02775",
+    "name": "Amanda Mercer",
+    "email": "iingram@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07204', 'B06318']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Welch, Young and Miller for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01927', 'B07993']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09015",
+    "name": "Jamie Sampson",
+    "email": "singhcrystal@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04748', 'B03645', 'B07525', 'B08067', 'B05390']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Romero, Brown and Lambert for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02679', 'B01203', 'B09736', 'B06489', 'B05779']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00075",
+    "name": "Richard Hart",
+    "email": "hayley21@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08348', 'B02726', 'B03209', 'B04132']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Martin Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09637', 'B06103']"
+}

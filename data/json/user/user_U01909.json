@@ -1,0 +1,14 @@
+{
+    "user_id": "U01909",
+    "name": "Marissa Miller",
+    "email": "robertsjimmy@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01083', 'B04733', 'B09905']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gray Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00076']"
+}

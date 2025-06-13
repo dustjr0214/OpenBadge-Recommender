@@ -1,0 +1,14 @@
+{
+    "user_id": "U06337",
+    "name": "Reginald Mills",
+    "email": "spencemonica@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08596', 'B08471', 'B05297']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Livingston LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02658', 'B02207', 'B03797']"
+}

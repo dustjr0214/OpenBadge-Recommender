@@ -1,0 +1,14 @@
+{
+    "user_id": "U08266",
+    "name": "Dr. Levi Edwards",
+    "email": "rodney54@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06309', 'B03140', 'B00512', 'B07812']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Young Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08026', 'B09940', 'B09899']"
+}

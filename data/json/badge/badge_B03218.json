@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03218",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Cloud Computing']",
+    "competency": "['Problem Solving', 'Cybersecurity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B00606', 'B02707']"
+}

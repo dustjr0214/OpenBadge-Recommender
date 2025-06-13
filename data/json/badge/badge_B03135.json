@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03135",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03155']"
+}

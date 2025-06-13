@@ -1,0 +1,14 @@
+{
+    "user_id": "U03420",
+    "name": "Kelly Thomas",
+    "email": "doyleshawn@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Willis Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03139', 'B01059', 'B09732']"
+}

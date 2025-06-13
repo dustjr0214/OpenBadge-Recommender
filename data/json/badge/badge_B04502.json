@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04502",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'Machine Learning', 'DevOps']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B09529']"
+}

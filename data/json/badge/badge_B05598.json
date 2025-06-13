@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05598",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'DevOps']",
+    "competency": "['Machine Learning', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08733', 'B01349']"
+}

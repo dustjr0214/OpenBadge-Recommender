@@ -1,0 +1,14 @@
+{
+    "user_id": "U09952",
+    "name": "Kathleen Norton",
+    "email": "isimmons@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07134', 'B02482', 'B08567']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Carey, Gray and Castillo for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

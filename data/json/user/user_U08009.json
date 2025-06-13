@@ -1,0 +1,14 @@
+{
+    "user_id": "U08009",
+    "name": "Stacey Johnson",
+    "email": "raykevin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04479', 'B08099', 'B02726', 'B06132']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Evans PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04200', 'B07940', 'B00412']"
+}

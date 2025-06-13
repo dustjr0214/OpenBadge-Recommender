@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08391",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'Python', 'UI/UX']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B09466']"
+}

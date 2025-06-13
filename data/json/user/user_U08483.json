@@ -1,0 +1,14 @@
+{
+    "user_id": "U08483",
+    "name": "William Smith",
+    "email": "fschmidt@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02800', 'B06856', 'B07442']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Baker Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03018', 'B03459', 'B01029']"
+}

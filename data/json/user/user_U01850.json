@@ -1,0 +1,14 @@
+{
+    "user_id": "U01850",
+    "name": "Lori Lee",
+    "email": "adriana01@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02582', 'B06025', 'B00715', 'B08829', 'B07670']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Ford, Powell and Anderson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

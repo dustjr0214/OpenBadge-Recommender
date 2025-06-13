@@ -1,0 +1,14 @@
+{
+    "user_id": "U08601",
+    "name": "Natalie Robertson",
+    "email": "frobles@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00785', 'B09905', 'B03028', 'B07874', 'B09514']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Li, Delacruz and Taylor for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01187', 'B06013', 'B02429', 'B00229']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03784",
+    "name": "Kristi Holt",
+    "email": "wesley40@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06412', 'B02543', 'B05408']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Meyer-Martinez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02294', 'B07928', 'B09534']"
+}

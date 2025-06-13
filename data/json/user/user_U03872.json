@@ -1,0 +1,14 @@
+{
+    "user_id": "U03872",
+    "name": "Jennifer Harding",
+    "email": "clevine@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03084']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Terry-Reynolds for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05155', 'B00743', 'B01163', 'B01803', 'B08740']"
+}

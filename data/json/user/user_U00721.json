@@ -1,0 +1,14 @@
+{
+    "user_id": "U00721",
+    "name": "William Watson",
+    "email": "rjohnson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04531', 'B02032', 'B08781', 'B05100', 'B02711']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Mayer, Jenkins and Cook for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09498']"
+}

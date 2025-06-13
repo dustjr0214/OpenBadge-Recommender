@@ -1,0 +1,14 @@
+{
+    "user_id": "U01926",
+    "name": "Judy Coleman",
+    "email": "abigailjones@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09499', 'B02471', 'B06314', 'B02408', 'B05566']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Richards, Williams and Moore for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02191', 'B09338', 'B08686', 'B06266']"
+}

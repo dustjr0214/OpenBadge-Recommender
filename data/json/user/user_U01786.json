@@ -1,0 +1,14 @@
+{
+    "user_id": "U01786",
+    "name": "Bruce Williams",
+    "email": "johnmartinez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06012', 'B09758', 'B05403', 'B00827', 'B03709']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Montoya, Miller and Jackson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05978', 'B04487', 'B06812', 'B04148']"
+}

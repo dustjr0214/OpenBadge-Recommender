@@ -1,0 +1,14 @@
+{
+    "user_id": "U04147",
+    "name": "Lee Haley",
+    "email": "nelsoneric@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06457', 'B00962', 'B00552', 'B03541']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Lopez, Dunn and Martinez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08332', 'B02124']"
+}

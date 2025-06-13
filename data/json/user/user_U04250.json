@@ -1,0 +1,14 @@
+{
+    "user_id": "U04250",
+    "name": "Brenda Mitchell",
+    "email": "fwhite@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07086', 'B03562', 'B06044']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Stark-Zimmerman for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05609']"
+}

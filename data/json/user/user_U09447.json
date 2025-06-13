@@ -1,0 +1,14 @@
+{
+    "user_id": "U09447",
+    "name": "Gary Martin",
+    "email": "christian32@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02004', 'B02381', 'B01630']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Mosley, Webster and Winters for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02539', 'B01461', 'B08594', 'B04577', 'B01521']"
+}

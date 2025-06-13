@@ -1,0 +1,14 @@
+{
+    "user_id": "U02580",
+    "name": "Jane Anderson",
+    "email": "johnmays@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06856', 'B09925', 'B09139']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at White, Rojas and Sanders for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03196', 'B05972', 'B02309', 'B08982']"
+}

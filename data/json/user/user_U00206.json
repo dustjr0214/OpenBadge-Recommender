@@ -1,0 +1,14 @@
+{
+    "user_id": "U00206",
+    "name": "John Thomas",
+    "email": "jacquelinehall@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Murphy, Myers and Guzman for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02719', 'B02754', 'B04100']"
+}

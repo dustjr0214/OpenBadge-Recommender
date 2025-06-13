@@ -1,0 +1,14 @@
+{
+    "user_id": "U00367",
+    "name": "Caleb Murphy",
+    "email": "ihurley@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08673', 'B09385']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Johns, Burnett and Hall for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09411', 'B00711', 'B09334', 'B03897', 'B01637']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03556",
+    "name": "Anne Lee",
+    "email": "courtneylopez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05856', 'B04431', 'B02558', 'B07562']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Martinez, Moran and Rodgers for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00019']"
+}

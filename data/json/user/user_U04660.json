@@ -1,0 +1,14 @@
+{
+    "user_id": "U04660",
+    "name": "Sarah Patel",
+    "email": "eric93@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Wise and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05495', 'B05589']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08767",
+    "name": "Elizabeth Wade",
+    "email": "kelsey88@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00229', 'B05028']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Ferguson, Barnes and Garcia for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

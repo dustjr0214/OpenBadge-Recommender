@@ -1,0 +1,14 @@
+{
+    "user_id": "U08809",
+    "name": "April Knight",
+    "email": "pricejeremy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00389', 'B09933', 'B06287', 'B09717', 'B09061']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Perkins, Rodgers and Humphrey for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03372', 'B03606', 'B03961', 'B02989']"
+}

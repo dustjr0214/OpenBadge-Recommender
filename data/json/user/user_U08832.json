@@ -1,0 +1,14 @@
+{
+    "user_id": "U08832",
+    "name": "Donna Stuart",
+    "email": "reedjerry@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05316']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Murray-Jackson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06356', 'B05020', 'B03571', 'B00776', 'B09549']"
+}

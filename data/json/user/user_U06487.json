@@ -1,0 +1,14 @@
+{
+    "user_id": "U06487",
+    "name": "Ruth Jones",
+    "email": "fsmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02099', 'B03184', 'B02425', 'B05156', 'B01080']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Schmidt LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09440', 'B02268', 'B00651', 'B08130', 'B04182']"
+}

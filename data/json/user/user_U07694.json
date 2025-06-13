@@ -1,0 +1,14 @@
+{
+    "user_id": "U07694",
+    "name": "Lawrence Ford",
+    "email": "zromero@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08088', 'B09032', 'B00047', 'B03314', 'B03198']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Pacheco-Bautista for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07029', 'B06599', 'B06446']"
+}

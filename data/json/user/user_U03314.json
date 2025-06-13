@@ -1,0 +1,14 @@
+{
+    "user_id": "U03314",
+    "name": "Joseph Avila",
+    "email": "williamsmichael@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02401', 'B07731', 'B00729', 'B09332', 'B00216']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Olson Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09683', 'B05939', 'B01405', 'B06987', 'B01808']"
+}

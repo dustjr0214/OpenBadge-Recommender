@@ -1,0 +1,14 @@
+{
+    "user_id": "U04104",
+    "name": "Cindy Wright",
+    "email": "anthonypeterson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01676', 'B06487', 'B09838', 'B06399', 'B02082']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Mcfarland LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04270', 'B00286', 'B04605']"
+}

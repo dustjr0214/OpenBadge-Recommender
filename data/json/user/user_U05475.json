@@ -1,0 +1,14 @@
+{
+    "user_id": "U05475",
+    "name": "Brittany Duran",
+    "email": "williamdiaz@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04030']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Baker PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07438', 'B09399', 'B04715', 'B05031', 'B01342']"
+}

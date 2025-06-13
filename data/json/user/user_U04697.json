@@ -1,0 +1,14 @@
+{
+    "user_id": "U04697",
+    "name": "Amy Wilkerson",
+    "email": "valerie52@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03228']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Giles-Harris for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03326', 'B00277', 'B06165']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01879",
+    "name": "John Johnson",
+    "email": "eday@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09440', 'B08444', 'B08270', 'B07956', 'B06373']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Hill, Robinson and Edwards for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00348', 'B05520', 'B04838', 'B06115', 'B01192']"
+}

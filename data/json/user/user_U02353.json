@@ -1,0 +1,14 @@
+{
+    "user_id": "U02353",
+    "name": "Brett Bailey",
+    "email": "haley55@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04973', 'B04112', 'B00510', 'B03769']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Contreras-Williams for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04185', 'B01178']"
+}

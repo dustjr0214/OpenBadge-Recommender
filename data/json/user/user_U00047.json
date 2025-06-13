@@ -1,0 +1,14 @@
+{
+    "user_id": "U00047",
+    "name": "Mrs. Samantha Klein",
+    "email": "ppoole@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08289', 'B08926']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Chambers Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07852']"
+}

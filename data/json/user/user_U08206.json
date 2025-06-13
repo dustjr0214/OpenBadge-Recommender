@@ -1,0 +1,14 @@
+{
+    "user_id": "U08206",
+    "name": "Melissa Phillips",
+    "email": "craig90@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00377', 'B08133', 'B08479', 'B08793']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Walsh-Barnett for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07279', 'B00147']"
+}

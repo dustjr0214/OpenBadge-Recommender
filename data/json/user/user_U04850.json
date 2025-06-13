@@ -1,0 +1,14 @@
+{
+    "user_id": "U04850",
+    "name": "Kyle Young",
+    "email": "xcherry@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08199', 'B07556']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Brown, Strickland and Martinez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04037', 'B05578', 'B02074']"
+}

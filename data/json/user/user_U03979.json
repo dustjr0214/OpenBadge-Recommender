@@ -1,0 +1,14 @@
+{
+    "user_id": "U03979",
+    "name": "Joshua Nguyen",
+    "email": "joshua45@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01497', 'B09039']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hughes Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05568', 'B04270', 'B02011', 'B02738', 'B09756']"
+}

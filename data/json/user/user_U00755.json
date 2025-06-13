@@ -1,0 +1,14 @@
+{
+    "user_id": "U00755",
+    "name": "Cathy Preston",
+    "email": "christian55@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07362']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Holder, Garcia and Miller for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

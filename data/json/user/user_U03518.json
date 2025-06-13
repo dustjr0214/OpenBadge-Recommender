@@ -1,0 +1,14 @@
+{
+    "user_id": "U03518",
+    "name": "Kathleen Cabrera",
+    "email": "madisonmeyer@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00976', 'B06767', 'B08209', 'B03596']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Matthews Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05118', 'B09820', 'B04303', 'B07602']"
+}

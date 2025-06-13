@@ -1,0 +1,14 @@
+{
+    "user_id": "U04171",
+    "name": "Joshua Johnson",
+    "email": "alvarezroger@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07829', 'B07724', 'B05783', 'B09683']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Smith-Warner for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09132']"
+}

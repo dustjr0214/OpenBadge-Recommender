@@ -1,0 +1,14 @@
+{
+    "user_id": "U05201",
+    "name": "Wendy Norris",
+    "email": "griffinangela@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07176', 'B03814', 'B01103', 'B00087', 'B01526']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Pena, Franklin and Richardson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04107', 'B05407', 'B08323']"
+}

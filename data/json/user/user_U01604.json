@@ -1,0 +1,14 @@
+{
+    "user_id": "U01604",
+    "name": "Scott Shaw",
+    "email": "hannah42@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Nichols Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09537', 'B00463', 'B07114', 'B07644', 'B03800']"
+}

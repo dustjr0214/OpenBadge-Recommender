@@ -1,0 +1,14 @@
+{
+    "user_id": "U00358",
+    "name": "Allison Simpson",
+    "email": "michael17@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04542', 'B03137', 'B09540', 'B00392', 'B01736']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Trevino PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03524', 'B08799', 'B06755', 'B02863', 'B08569']"
+}

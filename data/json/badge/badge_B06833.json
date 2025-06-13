@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06833",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Cybersecurity']",
+    "competency": "['SQL', 'DevOps', 'Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06310']"
+}

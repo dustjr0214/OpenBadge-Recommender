@@ -1,0 +1,14 @@
+{
+    "user_id": "U01094",
+    "name": "Kathryn King",
+    "email": "annamoses@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04225', 'B02712', 'B03325', 'B01270', 'B01326']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Santana and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09040', 'B09055', 'B07979']"
+}

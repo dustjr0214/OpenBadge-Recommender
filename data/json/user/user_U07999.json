@@ -1,0 +1,14 @@
+{
+    "user_id": "U07999",
+    "name": "Andrew Kelly",
+    "email": "zhenson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08906', 'B07973', 'B09792']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Herman-Black for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07824', 'B09750']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01976",
+    "name": "John Roberts",
+    "email": "reedstephen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06686', 'B01468', 'B05363', 'B02216']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Farmer Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07331', 'B00404']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00245",
+    "name": "Justin Curry",
+    "email": "swillis@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03544', 'B05177', 'B01136', 'B01657']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Avila Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08085', 'B07081']"
+}

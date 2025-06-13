@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01694",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'SQL']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B05535', 'B01222']"
+}

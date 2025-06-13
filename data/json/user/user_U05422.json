@@ -1,0 +1,14 @@
+{
+    "user_id": "U05422",
+    "name": "Mark Webster",
+    "email": "jtaylor@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01225', 'B01199', 'B04481', 'B01757', 'B01995']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Pennington, Roberts and Miller for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08969']"
+}

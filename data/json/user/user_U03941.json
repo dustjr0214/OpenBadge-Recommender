@@ -1,0 +1,14 @@
+{
+    "user_id": "U03941",
+    "name": "Hannah Summers",
+    "email": "mejiakelsey@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01795', 'B09790', 'B04168', 'B07744']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Sanchez-Phillips for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04868', 'B00555', 'B06623', 'B06893', 'B00231']"
+}

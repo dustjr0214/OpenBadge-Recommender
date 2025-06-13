@@ -1,0 +1,14 @@
+{
+    "user_id": "U05650",
+    "name": "Patricia Sloan",
+    "email": "jonathan73@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00085', 'B05950', 'B09073', 'B01244']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Brooks LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09780', 'B05158', 'B09882', 'B03985']"
+}

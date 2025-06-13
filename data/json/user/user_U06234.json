@@ -1,0 +1,14 @@
+{
+    "user_id": "U06234",
+    "name": "Donald Brown",
+    "email": "cookejustin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02890', 'B03428']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Coleman, Smith and Jordan for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

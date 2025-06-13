@@ -1,0 +1,14 @@
+{
+    "user_id": "U05033",
+    "name": "Brian Rodriguez",
+    "email": "williamchristian@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07738', 'B08433', 'B05872', 'B01476']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Armstrong Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07140', 'B05519', 'B08041', 'B02458']"
+}

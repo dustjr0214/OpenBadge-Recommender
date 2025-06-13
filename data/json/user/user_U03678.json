@@ -1,0 +1,14 @@
+{
+    "user_id": "U03678",
+    "name": "David Moore",
+    "email": "garciaemily@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03230', 'B03621', 'B02019']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Blair PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09758', 'B03296']"
+}

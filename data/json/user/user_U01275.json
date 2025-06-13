@@ -1,0 +1,14 @@
+{
+    "user_id": "U01275",
+    "name": "Patricia Williams",
+    "email": "gonzalezmichael@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01250', 'B00879', 'B01748', 'B03029', 'B06094']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wallace-Malone for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06280']"
+}

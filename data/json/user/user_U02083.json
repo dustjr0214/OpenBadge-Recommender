@@ -1,0 +1,14 @@
+{
+    "user_id": "U02083",
+    "name": "Ryan Schwartz",
+    "email": "sramos@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00970', 'B05008', 'B01311', 'B08874', 'B01443']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Mccarthy, Cisneros and Gonzalez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04328', 'B02036', 'B04607', 'B01407', 'B02132']"
+}

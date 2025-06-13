@@ -1,0 +1,14 @@
+{
+    "user_id": "U06672",
+    "name": "David Townsend",
+    "email": "benjaminmalone@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08800', 'B02334', 'B09263']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Church, Wood and Webster for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

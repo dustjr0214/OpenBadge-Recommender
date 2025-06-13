@@ -1,0 +1,14 @@
+{
+    "user_id": "U04751",
+    "name": "Mark Cook",
+    "email": "lori33@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08646', 'B00552', 'B03960']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Johnson Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09567', 'B04998', 'B09514', 'B06721']"
+}

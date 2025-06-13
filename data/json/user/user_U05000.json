@@ -1,0 +1,14 @@
+{
+    "user_id": "U05000",
+    "name": "Ethan Zimmerman",
+    "email": "megan31@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08761', 'B03348', 'B08373', 'B08217', 'B00091']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Romero, Rios and Kennedy for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00294', 'B05525', 'B09013']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07835",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09548",
+    "name": "Linda Edwards",
+    "email": "andrewlopez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08938', 'B01884', 'B09590']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Ali-Jones for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09849', 'B08070', 'B02256']"
+}

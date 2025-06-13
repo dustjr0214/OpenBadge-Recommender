@@ -1,0 +1,14 @@
+{
+    "user_id": "U00077",
+    "name": "Erica Cox",
+    "email": "hcompton@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09473', 'B02187', 'B06835', 'B04863']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Moore-Snyder for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07840']"
+}

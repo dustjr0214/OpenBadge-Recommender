@@ -1,0 +1,14 @@
+{
+    "user_id": "U06629",
+    "name": "Robert Brooks",
+    "email": "johnparker@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04087', 'B09709', 'B05636']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Ho, Miles and Jackson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04238']"
+}

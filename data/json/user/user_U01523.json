@@ -1,0 +1,14 @@
+{
+    "user_id": "U01523",
+    "name": "Carol Pena",
+    "email": "uramsey@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03447', 'B08644', 'B06213', 'B09638']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Smith Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04270', 'B03601', 'B07138', 'B07968']"
+}

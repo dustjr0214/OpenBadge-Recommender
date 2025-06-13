@@ -1,0 +1,14 @@
+{
+    "user_id": "U03036",
+    "name": "Ralph King",
+    "email": "harrisonpaul@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07024', 'B02441']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Rodriguez-Brandt for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02986', 'B09064']"
+}

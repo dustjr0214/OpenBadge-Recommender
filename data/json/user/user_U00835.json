@@ -1,0 +1,14 @@
+{
+    "user_id": "U00835",
+    "name": "Colton Cox",
+    "email": "lindapoole@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06074', 'B05820', 'B02232']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Mcdaniel, King and Mcdonald for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08441', 'B08332', 'B04679', 'B09109']"
+}

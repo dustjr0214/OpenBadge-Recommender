@@ -1,0 +1,14 @@
+{
+    "user_id": "U03565",
+    "name": "Nathan Brown",
+    "email": "gwhite@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Blackburn, Russell and Fox for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08438', 'B03027', 'B08160', 'B04409']"
+}

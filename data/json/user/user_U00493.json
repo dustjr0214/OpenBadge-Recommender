@@ -1,0 +1,14 @@
+{
+    "user_id": "U00493",
+    "name": "Lisa Hester",
+    "email": "velasquezjeremy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02541']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Brooks, Gilbert and Long for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06861', 'B09192', 'B07207', 'B08776', 'B03615']"
+}

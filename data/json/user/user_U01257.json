@@ -1,0 +1,14 @@
+{
+    "user_id": "U01257",
+    "name": "Cynthia Dixon",
+    "email": "lindseylopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00804', 'B05211', 'B02535', 'B08939']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hawkins and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08147', 'B02348', 'B06464', 'B02260']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04900",
+    "name": "Patrick Shepard",
+    "email": "pennyvillarreal@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08174', 'B00105']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Kelly Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07114",
+    "name": "Jennifer Frank",
+    "email": "scole@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00297', 'B02114']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Maxwell-Thompson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05155', 'B05697', 'B08014', 'B02801']"
+}

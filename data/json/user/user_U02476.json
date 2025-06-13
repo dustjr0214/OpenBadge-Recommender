@@ -1,0 +1,14 @@
+{
+    "user_id": "U02476",
+    "name": "Deanna Stewart",
+    "email": "andre41@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03005']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Rivers, Stone and Myers for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06416', 'B00461', 'B07614', 'B02489', 'B05451']"
+}

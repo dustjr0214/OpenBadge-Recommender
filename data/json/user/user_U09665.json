@@ -1,0 +1,14 @@
+{
+    "user_id": "U09665",
+    "name": "Kathryn Berger",
+    "email": "whart@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00459', 'B01696', 'B08482', 'B05465']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Baker-Stone for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00740', 'B05612', 'B06003', 'B01233', 'B01480']"
+}

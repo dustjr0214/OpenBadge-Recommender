@@ -1,0 +1,14 @@
+{
+    "user_id": "U00933",
+    "name": "Christy Hopkins",
+    "email": "gdavis@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01501']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Flores, Scott and Mcfarland for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05017', 'B04467', 'B00029', 'B07475', 'B09472']"
+}

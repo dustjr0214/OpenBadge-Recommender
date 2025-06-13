@@ -1,0 +1,14 @@
+{
+    "user_id": "U05444",
+    "name": "Eric Griffith",
+    "email": "tonyajensen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06898']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Waller-Smith for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

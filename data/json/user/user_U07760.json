@@ -1,0 +1,14 @@
+{
+    "user_id": "U07760",
+    "name": "Scott Johnson",
+    "email": "batesthomas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05731', 'B06792', 'B05871', 'B05154']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Lawson PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00957']"
+}

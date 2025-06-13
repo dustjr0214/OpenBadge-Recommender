@@ -1,0 +1,14 @@
+{
+    "user_id": "U01680",
+    "name": "Crystal Banks",
+    "email": "louisgriffin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02877']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Downs, Fleming and Russell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07888', 'B06895']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03439",
+    "name": "Rachael Caldwell",
+    "email": "jody82@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07974', 'B03235', 'B06640', 'B02181', 'B08499']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Lamb and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04491', 'B07404', 'B02374', 'B08013']"
+}

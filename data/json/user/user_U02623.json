@@ -1,0 +1,14 @@
+{
+    "user_id": "U02623",
+    "name": "Maria Evans",
+    "email": "ambermoore@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03886']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Curry, Oliver and Parker for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07745', 'B04464']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07582",
+    "name": "Alicia Gallegos",
+    "email": "kevin13@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01158', 'B00080', 'B08122', 'B09370']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Montgomery Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00794', 'B06660', 'B05901']"
+}

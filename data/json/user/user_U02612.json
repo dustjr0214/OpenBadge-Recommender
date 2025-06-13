@@ -1,0 +1,14 @@
+{
+    "user_id": "U02612",
+    "name": "John Edwards",
+    "email": "ynielsen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07255', 'B01848', 'B00991', 'B06090']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Mcguire-Schwartz for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

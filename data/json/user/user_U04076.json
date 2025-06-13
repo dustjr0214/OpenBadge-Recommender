@@ -1,0 +1,14 @@
+{
+    "user_id": "U04076",
+    "name": "Taylor Green",
+    "email": "linda19@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09072', 'B05997']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Flores, Simmons and Reese for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03579', 'B08930']"
+}

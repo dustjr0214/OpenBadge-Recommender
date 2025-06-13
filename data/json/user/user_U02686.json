@@ -1,0 +1,14 @@
+{
+    "user_id": "U02686",
+    "name": "Lisa Hicks",
+    "email": "adam34@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05029', 'B00217', 'B09376', 'B02289', 'B07448']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Burgess Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

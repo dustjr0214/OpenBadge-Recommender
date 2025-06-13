@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09463",
+    "name": "Machine Learning Pro",
+    "issuer": "Udacity",
+    "description": "Machine Learning Pro badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'DevOps']",
+    "competency": "['Cybersecurity', 'Problem Solving']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B06784', 'B01071']"
+}

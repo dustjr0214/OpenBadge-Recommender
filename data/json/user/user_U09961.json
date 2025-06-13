@@ -1,0 +1,14 @@
+{
+    "user_id": "U09961",
+    "name": "Robert Pineda",
+    "email": "phillipsleah@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09179', 'B00339', 'B08549', 'B09642']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Ball Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

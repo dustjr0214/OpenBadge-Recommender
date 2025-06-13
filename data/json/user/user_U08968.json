@@ -1,0 +1,14 @@
+{
+    "user_id": "U08968",
+    "name": "Jeffrey Hayes",
+    "email": "icastillo@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09209', 'B08441', 'B07613', 'B07978', 'B05510']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Norris and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05503', 'B06496']"
+}

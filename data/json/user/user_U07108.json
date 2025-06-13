@@ -1,0 +1,14 @@
+{
+    "user_id": "U07108",
+    "name": "Steven Watson",
+    "email": "barnesjoshua@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08065', 'B04042', 'B09935', 'B08986', 'B04589']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Larson-Pena for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06415', 'B05814', 'B00230']"
+}

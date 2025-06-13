@@ -1,0 +1,14 @@
+{
+    "user_id": "U04429",
+    "name": "Andrew Thomas",
+    "email": "hrobinson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Hughes Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08537', 'B09278']"
+}

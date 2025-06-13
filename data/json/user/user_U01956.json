@@ -1,0 +1,14 @@
+{
+    "user_id": "U01956",
+    "name": "Justin Reid",
+    "email": "suttonpaige@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03946', 'B06783', 'B05991', 'B03065', 'B03175']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Dyer-Sanders for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03212', 'B03192', 'B06173']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06655",
+    "name": "Christian Fields",
+    "email": "kelly55@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01303', 'B08312']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Brown LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08780', 'B08022', 'B05535']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04844",
+    "name": "Katherine Herrera",
+    "email": "gwalter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02201', 'B05779']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at West, Mcbride and Clark for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06142', 'B03775', 'B07216', 'B07759', 'B02254']"
+}

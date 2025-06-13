@@ -1,0 +1,14 @@
+{
+    "user_id": "U03594",
+    "name": "Lisa Ramos",
+    "email": "beckmario@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08392']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at White, Mendoza and Bryant for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09356']"
+}

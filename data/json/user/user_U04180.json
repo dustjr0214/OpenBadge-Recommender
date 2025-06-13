@@ -1,0 +1,14 @@
+{
+    "user_id": "U04180",
+    "name": "Rachel Lee",
+    "email": "katherine47@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05064', 'B02988', 'B06982']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Clark, Tapia and Mccormick for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00021', 'B00605']"
+}

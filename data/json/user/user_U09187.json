@@ -1,0 +1,14 @@
+{
+    "user_id": "U09187",
+    "name": "Pamela Brown",
+    "email": "zespinoza@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04635', 'B02719', 'B05798', 'B04642', 'B05500']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Bennett-Porter for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06762', 'B08110', 'B07600']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09588",
+    "name": "Richard Finley",
+    "email": "brianaelliott@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01584', 'B03859', 'B07734', 'B00883', 'B01552']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Smith Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00470', 'B04864', 'B08937', 'B05506', 'B06351']"
+}

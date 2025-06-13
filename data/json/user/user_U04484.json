@@ -1,0 +1,14 @@
+{
+    "user_id": "U04484",
+    "name": "Timothy Webb",
+    "email": "michaelrivera@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01852', 'B09733', 'B01132', 'B09516']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Walker Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07848', 'B03855']"
+}

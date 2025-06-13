@@ -1,0 +1,14 @@
+{
+    "user_id": "U01498",
+    "name": "Kenneth Scott",
+    "email": "rodriguezallison@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03675', 'B07547', 'B05935', 'B05477']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Becker-Robertson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07993', 'B01913', 'B08385']"
+}

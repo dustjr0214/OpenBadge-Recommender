@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03709",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Cloud Computing', 'Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

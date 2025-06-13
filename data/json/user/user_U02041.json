@@ -1,0 +1,14 @@
+{
+    "user_id": "U02041",
+    "name": "Tim Sandoval",
+    "email": "davisanthony@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02706', 'B03984', 'B02793', 'B04059']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Adams, Higgins and Fields for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01415']"
+}

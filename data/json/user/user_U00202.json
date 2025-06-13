@@ -1,0 +1,14 @@
+{
+    "user_id": "U00202",
+    "name": "Ann Hale",
+    "email": "sblack@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Nelson, Michael and Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03154', 'B05248', 'B04486', 'B09272']"
+}

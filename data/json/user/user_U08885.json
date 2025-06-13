@@ -1,0 +1,14 @@
+{
+    "user_id": "U08885",
+    "name": "Robert Reynolds",
+    "email": "tamara64@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04329', 'B05121']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Adams-Casey for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01897', 'B00845', 'B08215', 'B06516', 'B09867']"
+}

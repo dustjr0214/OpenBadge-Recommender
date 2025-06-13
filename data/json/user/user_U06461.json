@@ -1,0 +1,14 @@
+{
+    "user_id": "U06461",
+    "name": "Ashley Harris",
+    "email": "garciarhonda@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08956', 'B07191', 'B05978']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Kelly-Davis for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06148', 'B09830', 'B04970', 'B07669']"
+}

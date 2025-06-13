@@ -1,0 +1,14 @@
+{
+    "user_id": "U06932",
+    "name": "Cynthia Scott",
+    "email": "andrew72@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04724', 'B09176', 'B04709', 'B01239']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Salas-Patterson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

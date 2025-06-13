@@ -1,0 +1,14 @@
+{
+    "user_id": "U08061",
+    "name": "Jessica White",
+    "email": "tinalewis@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05506', 'B07783', 'B08967', 'B09825', 'B02070']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Wood-Reed for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05932', 'B06105', 'B08136', 'B00419', 'B07157']"
+}

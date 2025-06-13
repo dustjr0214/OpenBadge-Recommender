@@ -1,0 +1,14 @@
+{
+    "user_id": "U04892",
+    "name": "Suzanne Mullins",
+    "email": "haroldhernandez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06234', 'B01682', 'B00427', 'B05228']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Walter, Zamora and York for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00050', 'B04629', 'B00607', 'B01026', 'B01594']"
+}

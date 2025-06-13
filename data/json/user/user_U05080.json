@@ -1,0 +1,14 @@
+{
+    "user_id": "U05080",
+    "name": "Sierra Jacobs",
+    "email": "veronica74@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05062', 'B04750', 'B05189', 'B01802']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Stevenson, Martinez and Cowan for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08480', 'B08371']"
+}

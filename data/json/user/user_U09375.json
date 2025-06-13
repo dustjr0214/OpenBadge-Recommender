@@ -1,0 +1,14 @@
+{
+    "user_id": "U09375",
+    "name": "Kristina Avila",
+    "email": "kevin25@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08686', 'B03317', 'B02428']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Lozano PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02990', 'B01638', 'B02616']"
+}

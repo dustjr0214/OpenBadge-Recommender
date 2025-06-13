@@ -1,0 +1,14 @@
+{
+    "user_id": "U06342",
+    "name": "Matthew Ellis",
+    "email": "justin08@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00383', 'B07882', 'B08467']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Harmon, Peterson and Stevenson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03570', 'B08270', 'B06385', 'B08932']"
+}

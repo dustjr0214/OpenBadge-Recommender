@@ -1,0 +1,14 @@
+{
+    "user_id": "U04111",
+    "name": "Kristina Gardner",
+    "email": "angela57@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Anderson Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07403', 'B00684', 'B08166']"
+}

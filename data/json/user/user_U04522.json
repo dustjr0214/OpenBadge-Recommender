@@ -1,0 +1,14 @@
+{
+    "user_id": "U04522",
+    "name": "Justin French",
+    "email": "mary17@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03326', 'B05834']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Winters-Meyer for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09607', 'B05052', 'B07014']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09362",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Data Analysis']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05939', 'B02663']"
+}

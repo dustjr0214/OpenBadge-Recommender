@@ -1,0 +1,14 @@
+{
+    "user_id": "U00620",
+    "name": "Morgan Howell",
+    "email": "mary42@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05243', 'B01143', 'B09215', 'B03583', 'B03179']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Olson-Moyer for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06849', 'B03460', 'B06591', 'B02517', 'B04656']"
+}

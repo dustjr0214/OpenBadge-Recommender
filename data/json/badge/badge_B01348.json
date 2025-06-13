@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01348",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency": "['Creativity', 'Python', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B04571', 'B06000']"
+}

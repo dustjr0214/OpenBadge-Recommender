@@ -1,0 +1,14 @@
+{
+    "user_id": "U04351",
+    "name": "Christopher Huynh",
+    "email": "vbeltran@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01058']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Allen, Wilson and Henderson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01263', 'B03019']"
+}

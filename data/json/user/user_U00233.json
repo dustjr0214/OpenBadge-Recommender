@@ -1,0 +1,14 @@
+{
+    "user_id": "U00233",
+    "name": "Brittany Saunders",
+    "email": "lori00@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08053', 'B01209']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Austin, Long and Baker for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

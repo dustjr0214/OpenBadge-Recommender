@@ -1,0 +1,14 @@
+{
+    "user_id": "U07406",
+    "name": "Elizabeth Berry",
+    "email": "pamelaacosta@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00325', 'B05564', 'B01262', 'B08048', 'B00869']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Espinoza PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03109', 'B06136']"
+}

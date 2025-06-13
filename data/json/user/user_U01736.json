@@ -1,0 +1,14 @@
+{
+    "user_id": "U01736",
+    "name": "Amber Montgomery",
+    "email": "jreyes@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06459', 'B09103', 'B00402', 'B06866', 'B05222']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Williams, Hill and Jones for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03082', 'B04459', 'B09751', 'B08329']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01801",
+    "name": "George Nichols",
+    "email": "moralesmike@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03930', 'B08130']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson, Walker and Curry for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06005']"
+}

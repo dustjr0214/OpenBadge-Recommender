@@ -1,0 +1,14 @@
+{
+    "user_id": "U08761",
+    "name": "Veronica Smith",
+    "email": "heather55@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01193', 'B03732', 'B01928']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Berger, Hines and Moore for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09843']"
+}

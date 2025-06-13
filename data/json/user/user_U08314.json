@@ -1,0 +1,14 @@
+{
+    "user_id": "U08314",
+    "name": "Stephanie Rubio",
+    "email": "etapia@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00753', 'B09182', 'B07051']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Walters, Sherman and Allen for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00880', 'B01233', 'B05089', 'B06734', 'B04016']"
+}

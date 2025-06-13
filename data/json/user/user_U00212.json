@@ -1,0 +1,14 @@
+{
+    "user_id": "U00212",
+    "name": "Kevin Henderson",
+    "email": "douglasramos@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05675', 'B06220', 'B07979']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Warner Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00419']"
+}

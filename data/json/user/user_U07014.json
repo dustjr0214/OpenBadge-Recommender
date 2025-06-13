@@ -1,0 +1,14 @@
+{
+    "user_id": "U07014",
+    "name": "Katie Smith",
+    "email": "parrishanthony@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02605', 'B03161', 'B07892', 'B04818', 'B04847']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hernandez Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

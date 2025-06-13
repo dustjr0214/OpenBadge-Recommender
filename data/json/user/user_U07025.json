@@ -1,0 +1,14 @@
+{
+    "user_id": "U07025",
+    "name": "Jose Flowers",
+    "email": "katkinson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06296', 'B03900', 'B02034', 'B08555']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Brown and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09511']"
+}

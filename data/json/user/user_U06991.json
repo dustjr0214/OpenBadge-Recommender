@@ -1,0 +1,14 @@
+{
+    "user_id": "U06991",
+    "name": "Heather Anderson",
+    "email": "smorrison@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Murphy-Curtis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08959', 'B00798']"
+}

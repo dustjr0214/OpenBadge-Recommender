@@ -1,0 +1,14 @@
+{
+    "user_id": "U06559",
+    "name": "Earl Brown",
+    "email": "rlogan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02659', 'B08003', 'B09431', 'B01282']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Hunter PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00654', 'B09321', 'B01765', 'B02589']"
+}

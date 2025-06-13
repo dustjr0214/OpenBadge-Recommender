@@ -1,0 +1,14 @@
+{
+    "user_id": "U07381",
+    "name": "Daniel Hammond",
+    "email": "loricabrera@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07071']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Gill, Petty and Anthony for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02823', 'B08767', 'B00104', 'B09272']"
+}

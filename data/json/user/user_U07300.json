@@ -1,0 +1,14 @@
+{
+    "user_id": "U07300",
+    "name": "Natasha Page",
+    "email": "lindseybradley@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02459', 'B06272', 'B01244', 'B07779', 'B07167']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Peck Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03429', 'B08802', 'B01181']"
+}

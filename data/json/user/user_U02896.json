@@ -1,0 +1,14 @@
+{
+    "user_id": "U02896",
+    "name": "Joshua Cantu",
+    "email": "elizabethobrien@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02197']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Wilson and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05262', 'B05308']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05499",
+    "name": "Julie Smith",
+    "email": "leemary@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07165', 'B04234']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Wright, Williams and Strong for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08001', 'B00779', 'B03680', 'B04508']"
+}

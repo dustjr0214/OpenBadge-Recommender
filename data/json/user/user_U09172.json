@@ -1,0 +1,14 @@
+{
+    "user_id": "U09172",
+    "name": "Brandon Brown",
+    "email": "khannicole@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02296', 'B08649', 'B06030']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Gaines, Brown and Luna for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02193']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07495",
+    "name": "Robin Zuniga",
+    "email": "ufleming@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02398', 'B05462', 'B01969', 'B09312']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mack Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05890', 'B02346', 'B08005', 'B08369']"
+}

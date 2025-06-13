@@ -1,0 +1,14 @@
+{
+    "user_id": "U06434",
+    "name": "James Charles",
+    "email": "thomaschristopher@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00094', 'B02683', 'B03175']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Harmon-Duarte for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02243",
+    "name": "Jennifer Aguirre",
+    "email": "cpham@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02542']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Miller Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01117', 'B09188', 'B04419', 'B01102']"
+}

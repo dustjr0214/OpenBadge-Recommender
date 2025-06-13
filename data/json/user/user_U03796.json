@@ -1,0 +1,14 @@
+{
+    "user_id": "U03796",
+    "name": "Kristen Jones",
+    "email": "karen66@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08720', 'B06180', 'B08421']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Taylor-Dorsey for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

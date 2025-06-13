@@ -1,0 +1,14 @@
+{
+    "user_id": "U00531",
+    "name": "Brad Johnson",
+    "email": "apierce@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06657', 'B09007']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Snyder, Thomas and Pearson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

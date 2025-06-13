@@ -1,0 +1,14 @@
+{
+    "user_id": "U03310",
+    "name": "Katie Wright",
+    "email": "brooksdarren@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Thompson, Harvey and Larson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05727', 'B01463', 'B06034']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07667",
+    "name": "Kelsey Watts",
+    "email": "carrieproctor@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08886', 'B09247', 'B00436']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Miles-Green for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09193', 'B06529', 'B00402', 'B01968']"
+}

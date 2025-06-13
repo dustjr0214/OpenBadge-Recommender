@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05252",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL', 'Python', 'Machine Learning']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

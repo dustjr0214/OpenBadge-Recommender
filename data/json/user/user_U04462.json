@@ -1,0 +1,14 @@
+{
+    "user_id": "U04462",
+    "name": "Connie Smith",
+    "email": "yeseniacollins@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03176', 'B08499']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Reese-Cisneros for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05636', 'B05211', 'B04285', 'B07673', 'B06039']"
+}

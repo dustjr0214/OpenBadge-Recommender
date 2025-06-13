@@ -1,0 +1,14 @@
+{
+    "user_id": "U04236",
+    "name": "Malik Torres",
+    "email": "mthomas@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01968', 'B01698', 'B07112', 'B04640']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Gonzalez, Chen and White for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

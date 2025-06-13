@@ -1,0 +1,14 @@
+{
+    "user_id": "U06187",
+    "name": "Ashley Fields",
+    "email": "jperry@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Atkinson Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09964', 'B02697', 'B00617', 'B05507']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03569",
+    "name": "Dawn Jensen",
+    "email": "melissawatts@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09441']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Evans-Donaldson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02841', 'B07792', 'B08359', 'B05905']"
+}

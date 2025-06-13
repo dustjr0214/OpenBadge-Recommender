@@ -1,0 +1,14 @@
+{
+    "user_id": "U03083",
+    "name": "Kara Sloan",
+    "email": "kanderson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07512', 'B04099', 'B08556', 'B09461', 'B02734']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Griffin Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

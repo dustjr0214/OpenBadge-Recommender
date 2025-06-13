@@ -1,0 +1,14 @@
+{
+    "user_id": "U07564",
+    "name": "Darrell Tyler",
+    "email": "elijahgarner@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06963']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Miller-Morris for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04425', 'B09116', 'B06802', 'B06863', 'B06088']"
+}

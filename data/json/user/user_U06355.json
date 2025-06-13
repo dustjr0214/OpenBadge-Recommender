@@ -1,0 +1,14 @@
+{
+    "user_id": "U06355",
+    "name": "Elizabeth Jordan",
+    "email": "kevin68@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09225', 'B00067', 'B01536', 'B09345', 'B09016']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Martin Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

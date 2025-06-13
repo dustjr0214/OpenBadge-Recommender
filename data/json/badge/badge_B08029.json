@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08029",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07705', 'B05367']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05443",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency": "['UI/UX', 'SQL', 'Leadership']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05569']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00576",
+    "name": "Steven Holt",
+    "email": "jamesthompson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00012', 'B01783', 'B01438']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Frazier, Perez and Allen for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

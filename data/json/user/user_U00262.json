@@ -1,0 +1,14 @@
+{
+    "user_id": "U00262",
+    "name": "Mrs. Valerie Obrien MD",
+    "email": "nsimmons@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00375', 'B02431', 'B02255', 'B03333', 'B06104']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Cook Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05793', 'B05640', 'B04705', 'B08787', 'B08564']"
+}

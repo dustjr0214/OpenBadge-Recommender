@@ -1,0 +1,14 @@
+{
+    "user_id": "U01700",
+    "name": "Matthew Saunders",
+    "email": "stephanie48@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09806', 'B00292', 'B02483']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Williams, Butler and Arellano for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00965', 'B05078', 'B03533', 'B02957', 'B06782']"
+}

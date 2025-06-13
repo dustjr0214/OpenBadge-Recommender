@@ -1,0 +1,14 @@
+{
+    "user_id": "U06341",
+    "name": "John Richards",
+    "email": "monicagross@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08020']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Collins Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00554', 'B03539', 'B03844', 'B06775', 'B08693']"
+}

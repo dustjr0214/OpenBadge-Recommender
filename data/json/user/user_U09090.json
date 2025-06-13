@@ -1,0 +1,14 @@
+{
+    "user_id": "U09090",
+    "name": "Tabitha Thomas",
+    "email": "angelalee@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Lane-Henry for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09028', 'B03761']"
+}

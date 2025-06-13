@@ -1,0 +1,14 @@
+{
+    "user_id": "U04826",
+    "name": "Melanie Sweeney",
+    "email": "raymondcox@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05260', 'B04730']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Bryan, Johnson and Wolfe for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05426', 'B00540']"
+}

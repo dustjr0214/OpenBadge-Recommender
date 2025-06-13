@@ -1,0 +1,14 @@
+{
+    "user_id": "U09899",
+    "name": "John Diaz",
+    "email": "andersonsandra@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08604', 'B01492', 'B03091', 'B09408']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Martinez PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

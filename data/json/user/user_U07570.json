@@ -1,0 +1,14 @@
+{
+    "user_id": "U07570",
+    "name": "Katherine Thomas",
+    "email": "cartercaitlin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02052', 'B08241']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Bishop-Black for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08650', 'B09714']"
+}

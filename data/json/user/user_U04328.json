@@ -1,0 +1,14 @@
+{
+    "user_id": "U04328",
+    "name": "Sandra Woodard",
+    "email": "gravespaula@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01847']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Johnson Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

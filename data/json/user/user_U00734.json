@@ -1,0 +1,14 @@
+{
+    "user_id": "U00734",
+    "name": "Nancy Miller",
+    "email": "cowens@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02034', 'B03679']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Long Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

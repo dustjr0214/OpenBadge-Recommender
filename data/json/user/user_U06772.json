@@ -1,0 +1,14 @@
+{
+    "user_id": "U06772",
+    "name": "Lawrence Sampson",
+    "email": "greenaaron@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04724', 'B05684', 'B04988', 'B06684', 'B08715']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Jackson, Harris and Martinez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05698', 'B01053']"
+}

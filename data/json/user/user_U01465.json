@@ -1,0 +1,14 @@
+{
+    "user_id": "U01465",
+    "name": "Eric Williams",
+    "email": "nancymartinez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07017', 'B09448', 'B09622', 'B07742', 'B09069']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Jones, Smith and Douglas for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07810']"
+}

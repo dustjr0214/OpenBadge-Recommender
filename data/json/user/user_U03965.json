@@ -1,0 +1,14 @@
+{
+    "user_id": "U03965",
+    "name": "Elizabeth French",
+    "email": "nguyenscott@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07729']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Sullivan, Turner and Figueroa for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

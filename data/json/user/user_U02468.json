@@ -1,0 +1,14 @@
+{
+    "user_id": "U02468",
+    "name": "William Lee DDS",
+    "email": "cooperdavid@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07629', 'B07685']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Campos, Hammond and Cohen for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07829', 'B04397']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03567",
+    "name": "Samuel Johnson",
+    "email": "pgarza@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Thomas, Watson and Keller for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02636', 'B09233']"
+}

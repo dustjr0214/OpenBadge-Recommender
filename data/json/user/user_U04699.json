@@ -1,0 +1,14 @@
+{
+    "user_id": "U04699",
+    "name": "Jacqueline Jones",
+    "email": "natalie24@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08748', 'B01859', 'B05029']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hernandez and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03160', 'B09487']"
+}

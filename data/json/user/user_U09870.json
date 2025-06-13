@@ -1,0 +1,14 @@
+{
+    "user_id": "U09870",
+    "name": "Miguel Alvarez",
+    "email": "carrie57@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06842', 'B02502', 'B06244', 'B08668']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Williams, Lee and Morales for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06182', 'B09897', 'B00411', 'B01782', 'B03668']"
+}

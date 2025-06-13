@@ -1,0 +1,14 @@
+{
+    "user_id": "U08628",
+    "name": "Mary Turner",
+    "email": "watsonstephen@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03924', 'B02849', 'B00860']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Garcia and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03130', 'B07681', 'B04652', 'B03964', 'B01252']"
+}

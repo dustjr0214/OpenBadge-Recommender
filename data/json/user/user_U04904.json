@@ -1,0 +1,14 @@
+{
+    "user_id": "U04904",
+    "name": "Darren Moore",
+    "email": "susan93@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Ball Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00442', 'B09845', 'B00138', 'B00338']"
+}

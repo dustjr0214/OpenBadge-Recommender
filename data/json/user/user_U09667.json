@@ -1,0 +1,14 @@
+{
+    "user_id": "U09667",
+    "name": "Shelby Erickson",
+    "email": "crhodes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09844', 'B09078', 'B08737', 'B00114']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Smith-Duran for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00512', 'B07333', 'B04314']"
+}

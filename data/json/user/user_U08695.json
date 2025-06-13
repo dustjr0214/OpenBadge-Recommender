@@ -1,0 +1,14 @@
+{
+    "user_id": "U08695",
+    "name": "Jonathan Bass",
+    "email": "justin85@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05302', 'B05089', 'B00176', 'B05023']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Smith, Aguilar and Turner for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05099', 'B09838']"
+}

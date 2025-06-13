@@ -1,0 +1,14 @@
+{
+    "user_id": "U00242",
+    "name": "Donald Lam DDS",
+    "email": "conradchristopher@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04280', 'B03873']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lewis-Martinez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08563']"
+}

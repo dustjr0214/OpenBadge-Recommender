@@ -1,0 +1,14 @@
+{
+    "user_id": "U00310",
+    "name": "Dean Parks",
+    "email": "keith01@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Chaney, Carter and Ortiz for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

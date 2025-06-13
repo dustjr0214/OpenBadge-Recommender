@@ -1,0 +1,14 @@
+{
+    "user_id": "U04795",
+    "name": "Anthony Coleman",
+    "email": "russelljason@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04826', 'B06955']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Nielsen Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02795']"
+}

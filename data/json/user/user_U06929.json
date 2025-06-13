@@ -1,0 +1,14 @@
+{
+    "user_id": "U06929",
+    "name": "Cindy Barrett",
+    "email": "cookkevin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Oliver, Preston and Burton for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00233']"
+}

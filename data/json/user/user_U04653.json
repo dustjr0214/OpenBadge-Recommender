@@ -1,0 +1,14 @@
+{
+    "user_id": "U04653",
+    "name": "Jeffrey Miller",
+    "email": "caitlinhayes@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05114', 'B07309', 'B04858', 'B03895', 'B07263']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Henson-Hughes for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

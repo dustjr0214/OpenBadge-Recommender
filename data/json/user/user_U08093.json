@@ -1,0 +1,14 @@
+{
+    "user_id": "U08093",
+    "name": "Antonio Olsen",
+    "email": "jasonfleming@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Walters-Mack for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05610', 'B04121', 'B08447', 'B09893', 'B04106']"
+}

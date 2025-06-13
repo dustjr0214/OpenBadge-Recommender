@@ -1,0 +1,14 @@
+{
+    "user_id": "U05004",
+    "name": "Jessica Anderson",
+    "email": "padilladiane@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03517', 'B04996', 'B09454', 'B07536']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Compton-Brown for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09714', 'B05411', 'B00829', 'B00611']"
+}

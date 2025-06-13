@@ -1,0 +1,14 @@
+{
+    "user_id": "U01776",
+    "name": "Ms. Rachel Smith DVM",
+    "email": "suareznicholas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00633', 'B01862', 'B09846', 'B07067', 'B09465']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Thompson-Goodman for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03450']"
+}

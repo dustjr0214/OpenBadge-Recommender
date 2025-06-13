@@ -1,0 +1,14 @@
+{
+    "user_id": "U01773",
+    "name": "Donald Long",
+    "email": "larry23@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03430', 'B02002', 'B03510', 'B01616']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Parker-Gordon for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

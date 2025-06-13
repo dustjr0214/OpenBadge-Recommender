@@ -1,0 +1,14 @@
+{
+    "user_id": "U09095",
+    "name": "Lisa Frazier",
+    "email": "connie47@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04777']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Alvarado, Gregory and Gross for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01164', 'B01640', 'B08026']"
+}

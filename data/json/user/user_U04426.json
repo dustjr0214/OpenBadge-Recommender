@@ -1,0 +1,14 @@
+{
+    "user_id": "U04426",
+    "name": "Sean Vaughan",
+    "email": "heatherhall@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04318', 'B00689', 'B07184', 'B02543']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Brown LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05453', 'B05584', 'B03626']"
+}

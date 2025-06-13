@@ -1,0 +1,14 @@
+{
+    "user_id": "U09927",
+    "name": "Austin Morris MD",
+    "email": "todd45@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01164', 'B08564', 'B07363']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Schroeder, Herrera and Alexander for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05098']"
+}

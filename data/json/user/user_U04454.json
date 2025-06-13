@@ -1,0 +1,14 @@
+{
+    "user_id": "U04454",
+    "name": "Anthony Brooks",
+    "email": "laurentorres@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05898', 'B03973', 'B08324', 'B04750', 'B08601']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Hubbard-Williams for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00619', 'B00185']"
+}

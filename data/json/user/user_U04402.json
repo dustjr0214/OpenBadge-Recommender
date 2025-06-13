@@ -1,0 +1,14 @@
+{
+    "user_id": "U04402",
+    "name": "Nancy White",
+    "email": "parkpaula@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06332', 'B04651', 'B03691']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Craig and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00815', 'B02753', 'B04578', 'B03724']"
+}

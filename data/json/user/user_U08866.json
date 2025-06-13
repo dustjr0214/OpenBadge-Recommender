@@ -1,0 +1,14 @@
+{
+    "user_id": "U08866",
+    "name": "Meredith Holmes",
+    "email": "fhardin@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04343']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Foster-Morgan for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01759', 'B07470']"
+}

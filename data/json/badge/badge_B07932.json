@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07932",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Machine Learning', 'Cloud Computing']",
+    "competency": "['Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00889",
+    "name": "Paula Leonard",
+    "email": "charlescantrell@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03272']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Eaton and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04468', 'B09390', 'B00189']"
+}

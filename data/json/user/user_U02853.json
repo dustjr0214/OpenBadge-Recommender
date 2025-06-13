@@ -1,0 +1,14 @@
+{
+    "user_id": "U02853",
+    "name": "Jeremy Howard",
+    "email": "wadams@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00931', 'B07199']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wolf Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02012', 'B04911']"
+}

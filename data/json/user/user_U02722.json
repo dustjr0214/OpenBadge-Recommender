@@ -1,0 +1,14 @@
+{
+    "user_id": "U02722",
+    "name": "Brooke Olson",
+    "email": "floresmelanie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08005', 'B08671', 'B01138', 'B06593', 'B03967']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Ford, Thomas and Sutton for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01304', 'B05264', 'B08140', 'B01421']"
+}

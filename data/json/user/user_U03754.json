@@ -1,0 +1,14 @@
+{
+    "user_id": "U03754",
+    "name": "Thomas Mclean",
+    "email": "debrajoyce@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00906']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Stephens, Williams and Williams for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04757']"
+}

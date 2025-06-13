@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06026",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'SQL', 'DevOps']",
+    "competency": "['Cybersecurity', 'Data Analysis', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03334', 'B02652']"
+}

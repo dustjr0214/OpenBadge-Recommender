@@ -1,0 +1,14 @@
+{
+    "user_id": "U02567",
+    "name": "Gina Johnson",
+    "email": "apowell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07639', 'B06922', 'B06413', 'B00380', 'B00857']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Richards-Robinson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05999', 'B00977', 'B03597']"
+}

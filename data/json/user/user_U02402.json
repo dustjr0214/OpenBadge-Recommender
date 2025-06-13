@@ -1,0 +1,14 @@
+{
+    "user_id": "U02402",
+    "name": "Zachary Cox",
+    "email": "longpatricia@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00778']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Phillips, Keith and Wilkerson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08827', 'B06423', 'B04706', 'B03463', 'B07470']"
+}

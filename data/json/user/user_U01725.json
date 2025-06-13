@@ -1,0 +1,14 @@
+{
+    "user_id": "U01725",
+    "name": "Brandi Bauer",
+    "email": "andersonrebecca@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03606', 'B06163', 'B08873', 'B06757', 'B09180']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Walker-Morris for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07436', 'B04238', 'B04868', 'B06294', 'B04641']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09897",
+    "name": "Francisco Adams",
+    "email": "spencer56@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01331', 'B02895', 'B05357']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Thompson, Medina and Best for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03525', 'B03340']"
+}

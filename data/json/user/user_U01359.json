@@ -1,0 +1,14 @@
+{
+    "user_id": "U01359",
+    "name": "Brian Walker",
+    "email": "shawsamantha@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'DevOps', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05395', 'B03450']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Terry PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01422', 'B01817']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07137",
+    "name": "Roberta Estrada",
+    "email": "joseph47@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07405', 'B02902', 'B06313', 'B08877']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Odom-Gonzales for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06623', 'B09609', 'B03284', 'B09392', 'B02750']"
+}

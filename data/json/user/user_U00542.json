@@ -1,0 +1,14 @@
+{
+    "user_id": "U00542",
+    "name": "Alexis Vega",
+    "email": "davissarah@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Carr, Peters and Reed for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02763', 'B07254', 'B05161', 'B01944']"
+}

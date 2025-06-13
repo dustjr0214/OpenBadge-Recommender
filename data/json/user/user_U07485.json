@@ -1,0 +1,14 @@
+{
+    "user_id": "U07485",
+    "name": "Shawn Anderson",
+    "email": "andreadominguez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08603', 'B08540', 'B05592']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Reynolds, Walker and Gonzales for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07181']"
+}

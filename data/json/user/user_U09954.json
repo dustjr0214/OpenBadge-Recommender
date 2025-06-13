@@ -1,0 +1,14 @@
+{
+    "user_id": "U09954",
+    "name": "Charles Gonzalez",
+    "email": "matthewlindsey@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09766', 'B02788', 'B07121', 'B05062', 'B08499']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Cox, Nelson and Russell for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05990', 'B00374']"
+}

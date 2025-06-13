@@ -1,0 +1,14 @@
+{
+    "user_id": "U02979",
+    "name": "Cynthia Melendez",
+    "email": "batesgabriel@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Dunlap and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01060', 'B04047', 'B02216']"
+}

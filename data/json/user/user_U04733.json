@@ -1,0 +1,14 @@
+{
+    "user_id": "U04733",
+    "name": "Mr. Richard Booker",
+    "email": "perezkim@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05123', 'B04066', 'B06603']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Weber, Evans and Christian for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

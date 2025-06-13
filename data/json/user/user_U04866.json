@@ -1,0 +1,14 @@
+{
+    "user_id": "U04866",
+    "name": "Patricia Stephens",
+    "email": "whernandez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01915', 'B05381', 'B01962']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Wang Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08344', 'B05630', 'B01802', 'B08001']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03225",
+    "name": "Richard Lewis",
+    "email": "ichen@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09240', 'B03698', 'B07924']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Ramos LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06980', 'B00885', 'B09594', 'B00359']"
+}

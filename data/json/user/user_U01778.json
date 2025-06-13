@@ -1,0 +1,14 @@
+{
+    "user_id": "U01778",
+    "name": "Gregory Carroll",
+    "email": "blackwellsteven@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04185']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Davis, Reyes and Lopez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05017', 'B05102']"
+}

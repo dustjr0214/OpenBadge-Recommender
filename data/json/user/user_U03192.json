@@ -1,0 +1,14 @@
+{
+    "user_id": "U03192",
+    "name": "Caroline Anderson",
+    "email": "ethomas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Murray-James for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08457', 'B01380', 'B01129']"
+}

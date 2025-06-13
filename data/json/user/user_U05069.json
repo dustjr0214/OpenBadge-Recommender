@@ -1,0 +1,14 @@
+{
+    "user_id": "U05069",
+    "name": "Michael Smith",
+    "email": "cantucassandra@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01022', 'B05470', 'B02672', 'B04508', 'B09764']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Buchanan PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00427",
+    "name": "Lisa Johnson",
+    "email": "martincindy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00647', 'B06072']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Rhodes, Landry and Harris for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05662', 'B01787', 'B02954', 'B02584', 'B07251']"
+}

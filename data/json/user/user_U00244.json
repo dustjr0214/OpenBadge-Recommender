@@ -1,0 +1,14 @@
+{
+    "user_id": "U00244",
+    "name": "Sergio Parks",
+    "email": "daniellegonzalez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05765']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Spence and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

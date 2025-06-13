@@ -1,0 +1,14 @@
+{
+    "user_id": "U02840",
+    "name": "Shannon Brown",
+    "email": "randy42@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02285', 'B04328', 'B01123', 'B00175']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Bell, Hampton and Byrd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02287', 'B00019', 'B02194', 'B08358']"
+}

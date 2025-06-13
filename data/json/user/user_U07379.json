@@ -1,0 +1,14 @@
+{
+    "user_id": "U07379",
+    "name": "Mary Reid",
+    "email": "heathercaldwell@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09788', 'B03416', 'B04189', 'B04528']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gallagher, Reeves and Berger for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06437', 'B02963']"
+}

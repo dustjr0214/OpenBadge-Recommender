@@ -1,0 +1,14 @@
+{
+    "user_id": "U07004",
+    "name": "Jill Burns",
+    "email": "friedmanstephen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09347', 'B05306', 'B02446', 'B01319', 'B03190']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at King Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00960']"
+}

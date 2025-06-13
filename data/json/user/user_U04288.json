@@ -1,0 +1,14 @@
+{
+    "user_id": "U04288",
+    "name": "Nicholas Sellers",
+    "email": "mary28@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08972', 'B01529', 'B06743', 'B08052']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Thomas LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02145', 'B01736']"
+}

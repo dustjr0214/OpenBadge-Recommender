@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06722",
+    "name": "Cloud Computing Guru",
+    "issuer": "Coursera",
+    "description": "Cloud Computing Guru badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Deep Learning']",
+    "competency": "['Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B09716']"
+}

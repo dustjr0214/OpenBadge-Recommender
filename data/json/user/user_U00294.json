@@ -1,0 +1,14 @@
+{
+    "user_id": "U00294",
+    "name": "Brent Barnes",
+    "email": "david50@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05323', 'B06503', 'B03970', 'B02319']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Anderson-Chapman for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03282']"
+}

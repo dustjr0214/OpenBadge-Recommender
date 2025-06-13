@@ -1,0 +1,14 @@
+{
+    "user_id": "U02079",
+    "name": "Scott Higgins",
+    "email": "tmoore@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08055', 'B01009']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Martinez Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02365', 'B05193', 'B05959', 'B09456']"
+}

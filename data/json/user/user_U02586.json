@@ -1,0 +1,14 @@
+{
+    "user_id": "U02586",
+    "name": "Roy Jacobs",
+    "email": "jessicagarcia@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01054', 'B09413', 'B03847', 'B06553', 'B04964']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Evans, Gutierrez and Callahan for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05188', 'B00138']"
+}

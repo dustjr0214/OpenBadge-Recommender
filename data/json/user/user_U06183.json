@@ -1,0 +1,14 @@
+{
+    "user_id": "U06183",
+    "name": "Tracy Reed",
+    "email": "stephanie47@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Peck Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06132', 'B04248', 'B08666', 'B02058']"
+}

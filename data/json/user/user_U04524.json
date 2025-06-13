@@ -1,0 +1,14 @@
+{
+    "user_id": "U04524",
+    "name": "Michelle Rodriguez",
+    "email": "goodmansamantha@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01209', 'B06721', 'B06552', 'B02292', 'B03013']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Butler-Garza for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06137']"
+}

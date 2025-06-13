@@ -1,0 +1,14 @@
+{
+    "user_id": "U02236",
+    "name": "Taylor Rodriguez",
+    "email": "icross@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Bryant, Nguyen and Hall for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08619', 'B05584', 'B00446', 'B09644', 'B00475']"
+}

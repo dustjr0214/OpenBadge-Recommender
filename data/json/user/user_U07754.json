@@ -1,0 +1,14 @@
+{
+    "user_id": "U07754",
+    "name": "Brian Smith",
+    "email": "donnamartinez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01120', 'B04218', 'B09065', 'B08162']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Harris, Smith and Steele for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09109', 'B00084', 'B00735']"
+}

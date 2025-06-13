@@ -1,0 +1,14 @@
+{
+    "user_id": "U07384",
+    "name": "Lindsay Jones",
+    "email": "hgross@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06394', 'B00804']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Benjamin, Estrada and Ferguson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08807']"
+}

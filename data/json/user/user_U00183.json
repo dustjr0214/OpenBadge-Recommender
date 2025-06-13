@@ -1,0 +1,14 @@
+{
+    "user_id": "U00183",
+    "name": "Wendy Wright",
+    "email": "victoriaburton@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02517', 'B03242', 'B01848']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Kim Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03896', 'B04203', 'B08624']"
+}

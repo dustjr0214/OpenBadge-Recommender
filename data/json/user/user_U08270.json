@@ -1,0 +1,14 @@
+{
+    "user_id": "U08270",
+    "name": "Danielle Pugh",
+    "email": "iwarren@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02221', 'B06545', 'B04212', 'B08298', 'B03372']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Smith and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02594', 'B01625', 'B08881', 'B03078']"
+}

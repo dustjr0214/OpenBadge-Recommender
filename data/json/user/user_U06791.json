@@ -1,0 +1,14 @@
+{
+    "user_id": "U06791",
+    "name": "Michael Cain",
+    "email": "chad26@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07796', 'B08030', 'B00449']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Baker and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06862', 'B04918', 'B06743', 'B07696', 'B08305']"
+}

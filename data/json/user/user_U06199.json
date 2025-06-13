@@ -1,0 +1,14 @@
+{
+    "user_id": "U06199",
+    "name": "Sharon Lewis",
+    "email": "carpenterjill@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01465']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Briggs LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06287']"
+}

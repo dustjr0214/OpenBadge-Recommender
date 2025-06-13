@@ -1,0 +1,14 @@
+{
+    "user_id": "U01492",
+    "name": "Amanda Thomas",
+    "email": "bowmanmelissa@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Jones Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

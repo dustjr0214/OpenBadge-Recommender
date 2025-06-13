@@ -1,0 +1,14 @@
+{
+    "user_id": "U04099",
+    "name": "Sean Robinson",
+    "email": "kyle38@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06445']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Martin-Austin for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

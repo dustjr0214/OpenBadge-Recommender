@@ -1,0 +1,14 @@
+{
+    "user_id": "U09790",
+    "name": "Christopher Curtis",
+    "email": "juliebaker@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00488', 'B01386', 'B08432', 'B01895']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Brown, Stokes and Davis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04783', 'B05432', 'B05081', 'B06036']"
+}

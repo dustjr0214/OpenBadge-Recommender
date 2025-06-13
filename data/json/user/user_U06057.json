@@ -1,0 +1,14 @@
+{
+    "user_id": "U06057",
+    "name": "Marissa Davis",
+    "email": "rachelrivers@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08962']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hunter PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02558', 'B07510', 'B06564', 'B09092', 'B04248']"
+}

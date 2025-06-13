@@ -1,0 +1,14 @@
+{
+    "user_id": "U02628",
+    "name": "David Roberts",
+    "email": "pvalencia@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03381', 'B04066']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Grant LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07015', 'B05902', 'B04952', 'B05569']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03746",
+    "name": "Sarah Lynn",
+    "email": "erik88@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08871', 'B03188', 'B08561', 'B03717', 'B00125']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Gonzalez, Juarez and White for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00583', 'B02501', 'B01009', 'B06720', 'B00535']"
+}

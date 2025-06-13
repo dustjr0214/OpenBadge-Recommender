@@ -1,0 +1,14 @@
+{
+    "user_id": "U06880",
+    "name": "Tonya Walker",
+    "email": "garrett27@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09025', 'B07546', 'B07187', 'B00283', 'B02537']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Adams, Flores and Carlson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09786', 'B03720']"
+}

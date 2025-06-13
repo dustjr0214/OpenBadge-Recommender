@@ -1,0 +1,14 @@
+{
+    "user_id": "U00413",
+    "name": "Kiara Mitchell",
+    "email": "hawkinszachary@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03926', 'B05362']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Anderson-Hudson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07173', 'B07267', 'B05829', 'B01521']"
+}

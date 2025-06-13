@@ -1,0 +1,14 @@
+{
+    "user_id": "U09291",
+    "name": "Robert Wade",
+    "email": "debra46@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08941', 'B04812']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Aguirre Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02139', 'B04708', 'B02663', 'B07072']"
+}

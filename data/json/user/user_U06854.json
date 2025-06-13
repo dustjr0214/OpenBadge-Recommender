@@ -1,0 +1,14 @@
+{
+    "user_id": "U06854",
+    "name": "Sarah Santos",
+    "email": "pamela75@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Sanchez-Shaw for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05923', 'B05775']"
+}

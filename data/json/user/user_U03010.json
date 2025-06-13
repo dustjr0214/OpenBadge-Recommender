@@ -1,0 +1,14 @@
+{
+    "user_id": "U03010",
+    "name": "Taylor Matthews",
+    "email": "mnelson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07975']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Atkinson-Nielsen for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06064']"
+}

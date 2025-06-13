@@ -1,0 +1,14 @@
+{
+    "user_id": "U04631",
+    "name": "Chad Smith",
+    "email": "wroberson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Perez, Barker and Ray for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00016', 'B07815', 'B07283', 'B01156', 'B07931']"
+}

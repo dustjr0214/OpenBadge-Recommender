@@ -1,0 +1,14 @@
+{
+    "user_id": "U00318",
+    "name": "Kevin Forbes",
+    "email": "christophertaylor@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03688']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Burns, Wagner and Green for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06306', 'B01055', 'B04159']"
+}

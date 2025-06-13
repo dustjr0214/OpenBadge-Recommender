@@ -1,0 +1,14 @@
+{
+    "user_id": "U03346",
+    "name": "Denise Wheeler",
+    "email": "michaelcarter@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00804', 'B08687', 'B08429']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Sanchez Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04338', 'B08700']"
+}

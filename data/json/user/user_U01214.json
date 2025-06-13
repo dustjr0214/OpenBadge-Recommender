@@ -1,0 +1,14 @@
+{
+    "user_id": "U01214",
+    "name": "Kim Ramsey",
+    "email": "tcarter@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01890', 'B04081', 'B08895', 'B07523', 'B09573']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Bennett, Hoffman and Nelson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04859', 'B07069', 'B04159', 'B08731', 'B08071']"
+}

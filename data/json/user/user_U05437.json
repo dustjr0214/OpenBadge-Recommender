@@ -1,0 +1,14 @@
+{
+    "user_id": "U05437",
+    "name": "Kristen Brooks",
+    "email": "sware@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03339', 'B02975', 'B01855', 'B09814', 'B06232']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Garcia-Nelson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06210', 'B05989', 'B00980', 'B08561', 'B05221']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07523",
+    "name": "Lori Thomas",
+    "email": "brittany87@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09939', 'B02221', 'B05154', 'B05441', 'B07745']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Fuller, Gilmore and Chen for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09783', 'B01708']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07649",
+    "name": "Gary Long",
+    "email": "tracyhawkins@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Stark and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05260', 'B05911', 'B00183', 'B03736']"
+}

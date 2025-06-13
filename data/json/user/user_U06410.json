@@ -1,0 +1,14 @@
+{
+    "user_id": "U06410",
+    "name": "Adam Mclaughlin",
+    "email": "qthomas@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06157', 'B03457', 'B07068']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Ellis Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05532",
+    "name": "Jeremy Mejia",
+    "email": "leethompson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08738', 'B01025', 'B03789']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hart Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02762', 'B07919', 'B09820']"
+}

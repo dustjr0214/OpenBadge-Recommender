@@ -1,0 +1,14 @@
+{
+    "user_id": "U09881",
+    "name": "Nathan Nichols",
+    "email": "jeremywalsh@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08332', 'B08005', 'B06166']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Ibarra, Stewart and Sutton for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05706', 'B04950']"
+}

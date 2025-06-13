@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03223",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'SQL']",
+    "competency": "['Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B08237', 'B03541']"
+}

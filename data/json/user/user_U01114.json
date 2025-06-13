@@ -1,0 +1,14 @@
+{
+    "user_id": "U01114",
+    "name": "Monica Davis DDS",
+    "email": "nicole98@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02985', 'B01223', 'B05862', 'B00233']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Johnston LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01330', 'B05554', 'B01783']"
+}

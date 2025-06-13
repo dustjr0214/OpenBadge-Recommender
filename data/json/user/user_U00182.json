@@ -1,0 +1,14 @@
+{
+    "user_id": "U00182",
+    "name": "Sabrina Crawford",
+    "email": "omoyer@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01678', 'B06895', 'B06604']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Griffith-Martin for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02732']"
+}

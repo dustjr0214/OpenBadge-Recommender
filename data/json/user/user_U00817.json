@@ -1,0 +1,14 @@
+{
+    "user_id": "U00817",
+    "name": "Tyler Fox",
+    "email": "davisgeorge@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03324', 'B05845', 'B01884']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Avila, Salazar and Proctor for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02632', 'B05117', 'B04331']"
+}

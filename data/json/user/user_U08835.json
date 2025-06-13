@@ -1,0 +1,14 @@
+{
+    "user_id": "U08835",
+    "name": "Manuel Parker",
+    "email": "dodsonallison@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06475', 'B04877']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Daniels, Diaz and Cabrera for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05640', 'B06621', 'B09821', 'B04286', 'B06027']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01761",
+    "name": "Robert Evans",
+    "email": "robertmassey@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07099', 'B07485', 'B07279', 'B03947']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Anderson, Valdez and King for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04083', 'B03152', 'B01783']"
+}

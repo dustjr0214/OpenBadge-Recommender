@@ -1,0 +1,14 @@
+{
+    "user_id": "U07428",
+    "name": "Robert Mathis",
+    "email": "jonesmichael@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08524', 'B09024', 'B09929']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Estrada-Torres for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05012', 'B07174', 'B01888', 'B02620']"
+}

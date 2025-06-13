@@ -1,0 +1,14 @@
+{
+    "user_id": "U06624",
+    "name": "William Brooks",
+    "email": "gregorybranch@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01830', 'B01370']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Randall LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

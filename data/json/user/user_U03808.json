@@ -1,0 +1,14 @@
+{
+    "user_id": "U03808",
+    "name": "Brittany Chen",
+    "email": "jking@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06747', 'B00732', 'B08822', 'B07922']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brock, Black and Miller for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

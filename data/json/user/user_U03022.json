@@ -1,0 +1,14 @@
+{
+    "user_id": "U03022",
+    "name": "Mark Brooks",
+    "email": "eferguson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04346', 'B01913', 'B03304']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Pennington, White and Miller for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

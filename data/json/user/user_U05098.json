@@ -1,0 +1,14 @@
+{
+    "user_id": "U05098",
+    "name": "Preston Wolfe",
+    "email": "ronaldgoodman@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04666', 'B03602']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Thornton, Smith and Davis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09343', 'B08429', 'B05391', 'B07369']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03147",
+    "name": "Scott Mercer",
+    "email": "bradley34@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03577', 'B05193', 'B00088', 'B06688', 'B07474']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Clark-Roberts for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04161', 'B06569', 'B09377', 'B05447', 'B00226']"
+}

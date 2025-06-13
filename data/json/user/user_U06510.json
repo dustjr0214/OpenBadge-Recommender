@@ -1,0 +1,14 @@
+{
+    "user_id": "U06510",
+    "name": "Steven Casey",
+    "email": "michael61@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00393', 'B09140', 'B05338', 'B00809', 'B08360']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Clark Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09004', 'B08341', 'B07878', 'B01837', 'B08103']"
+}

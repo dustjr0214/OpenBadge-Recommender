@@ -1,0 +1,14 @@
+{
+    "user_id": "U05128",
+    "name": "Meredith Taylor",
+    "email": "jameslopez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08999', 'B08571', 'B07157', 'B02910', 'B09666']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Kelley Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

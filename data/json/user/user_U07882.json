@@ -1,0 +1,14 @@
+{
+    "user_id": "U07882",
+    "name": "Patrick Harris",
+    "email": "jenniferprice@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04239']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Potter-Dyer for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

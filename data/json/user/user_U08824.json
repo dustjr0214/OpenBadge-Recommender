@@ -1,0 +1,14 @@
+{
+    "user_id": "U08824",
+    "name": "Tanya Garrett",
+    "email": "tannerschneider@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02421', 'B07962', 'B04764', 'B07331', 'B07994']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Santos Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00101', 'B05710', 'B04029']"
+}

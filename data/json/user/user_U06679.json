@@ -1,0 +1,14 @@
+{
+    "user_id": "U06679",
+    "name": "Barbara Owens",
+    "email": "ericahunter@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06246', 'B03897', 'B08167']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Fitzgerald, Castro and Davis for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08696', 'B09652']"
+}

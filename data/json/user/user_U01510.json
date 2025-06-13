@@ -1,0 +1,14 @@
+{
+    "user_id": "U01510",
+    "name": "Raven Ford",
+    "email": "evan31@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04006', 'B09698']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Brown Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09950', 'B03040', 'B06723', 'B01102']"
+}

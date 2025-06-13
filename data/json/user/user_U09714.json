@@ -1,0 +1,14 @@
+{
+    "user_id": "U09714",
+    "name": "Allison Nelson",
+    "email": "jamiesalinas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02436', 'B02967', 'B01829']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Mcgee, Brown and Garcia for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08696', 'B06548', 'B01211', 'B02016', 'B01361']"
+}

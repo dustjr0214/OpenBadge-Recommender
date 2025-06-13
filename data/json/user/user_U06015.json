@@ -1,0 +1,14 @@
+{
+    "user_id": "U06015",
+    "name": "Dustin Fox",
+    "email": "allison15@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00028', 'B09377', 'B00555']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Bolton, Simon and Greer for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04494', 'B01712']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07551",
+    "name": "Robert Ford",
+    "email": "mark47@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06609', 'B00115']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Wilkinson-Pratt for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07340', 'B04953', 'B00760', 'B07600']"
+}

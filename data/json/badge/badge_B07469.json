@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07469",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['DevOps', 'SQL', 'Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B04743', 'B01659']"
+}

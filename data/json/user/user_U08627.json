@@ -1,0 +1,14 @@
+{
+    "user_id": "U08627",
+    "name": "Leonard Farrell",
+    "email": "steven49@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04086', 'B01549', 'B06681']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Haas and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06974', 'B00073', 'B08403']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00883",
+    "name": "Jennifer Reynolds",
+    "email": "heatherlarsen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00258', 'B07847', 'B07515']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Riley, Scott and Hopkins for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08206', 'B02057', 'B01481']"
+}

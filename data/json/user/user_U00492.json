@@ -1,0 +1,14 @@
+{
+    "user_id": "U00492",
+    "name": "Juan Smith",
+    "email": "monica35@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02124']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Campbell-Barker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04508']"
+}

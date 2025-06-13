@@ -1,0 +1,14 @@
+{
+    "user_id": "U08815",
+    "name": "Joseph Bell",
+    "email": "apadilla@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07009']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Chase LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06938', 'B03357', 'B04607', 'B07366']"
+}

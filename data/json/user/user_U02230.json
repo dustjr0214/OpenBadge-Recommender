@@ -1,0 +1,14 @@
+{
+    "user_id": "U02230",
+    "name": "Joshua Walker",
+    "email": "brownwayne@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01879']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lopez, Neal and Hernandez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06133']"
+}

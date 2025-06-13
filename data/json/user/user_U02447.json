@@ -1,0 +1,14 @@
+{
+    "user_id": "U02447",
+    "name": "Angela Harris",
+    "email": "kschmitt@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03932', 'B07569']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Ellis-Cook for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07029', 'B03077', 'B09081', 'B07846']"
+}

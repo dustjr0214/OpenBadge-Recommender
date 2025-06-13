@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06204",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Teamwork', 'Cybersecurity', 'Leadership']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B01511', 'B08369']"
+}

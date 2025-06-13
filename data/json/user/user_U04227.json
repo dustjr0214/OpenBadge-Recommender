@@ -1,0 +1,14 @@
+{
+    "user_id": "U04227",
+    "name": "Eric Oneill",
+    "email": "browncynthia@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05861', 'B04752']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Palmer-Cooley for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

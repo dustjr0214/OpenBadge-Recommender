@@ -1,0 +1,14 @@
+{
+    "user_id": "U02123",
+    "name": "Erin Ingram",
+    "email": "alison71@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Hensley-Williams for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02785', 'B04340', 'B09209', 'B06952']"
+}

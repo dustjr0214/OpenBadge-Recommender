@@ -1,0 +1,14 @@
+{
+    "user_id": "U00625",
+    "name": "Paul Hancock",
+    "email": "sharigarza@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05915', 'B08021', 'B05571', 'B07656', 'B03354']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Bass LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04184', 'B06859']"
+}

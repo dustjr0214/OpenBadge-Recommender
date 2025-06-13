@@ -1,0 +1,14 @@
+{
+    "user_id": "U04905",
+    "name": "Kaitlin Roberts",
+    "email": "andrewserin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07837', 'B07896', 'B05520']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Hawkins Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02589', 'B09628', 'B05353', 'B02355', 'B08756']"
+}

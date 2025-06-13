@@ -1,0 +1,14 @@
+{
+    "user_id": "U03601",
+    "name": "Laura Foster",
+    "email": "lopezdeborah@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08127', 'B05790', 'B09342', 'B00548', 'B01860']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Zuniga, Hoffman and Stanton for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02214', 'B04889', 'B08357', 'B08582', 'B05315']"
+}

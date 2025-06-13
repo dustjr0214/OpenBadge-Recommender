@@ -1,0 +1,14 @@
+{
+    "user_id": "U06244",
+    "name": "Leah Mccormick",
+    "email": "justingonzales@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04814', 'B01689', 'B08308', 'B00300', 'B09713']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Garza-May for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

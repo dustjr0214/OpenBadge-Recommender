@@ -1,0 +1,14 @@
+{
+    "user_id": "U05948",
+    "name": "Caitlin Davila",
+    "email": "zachary31@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03940', 'B09151', 'B08868']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Jenkins and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02990']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04798",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Data Analysis']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B08721', 'B01434']"
+}

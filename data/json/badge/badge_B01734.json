@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01734",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity', 'UI/UX']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

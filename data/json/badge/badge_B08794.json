@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08794",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01046', 'B04997']"
+}

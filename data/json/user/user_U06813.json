@@ -1,0 +1,14 @@
+{
+    "user_id": "U06813",
+    "name": "Luis Williams MD",
+    "email": "juliefletcher@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01233', 'B06562', 'B02672', 'B01355']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Schultz, Velez and Allen for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05376', 'B04155', 'B05711', 'B00713']"
+}

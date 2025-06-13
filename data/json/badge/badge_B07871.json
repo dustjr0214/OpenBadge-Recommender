@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07871",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Data Analysis', 'UI/UX']",
+    "competency": "['UI/UX', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09890', 'B04785']"
+}

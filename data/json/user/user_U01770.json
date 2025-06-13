@@ -1,0 +1,14 @@
+{
+    "user_id": "U01770",
+    "name": "Joseph Barnes",
+    "email": "ugray@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08342']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Robertson, Jones and Dickerson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03912', 'B03567', 'B07025', 'B01334', 'B01490']"
+}

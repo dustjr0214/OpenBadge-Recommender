@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05634",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Cybersecurity', 'Deep Learning']",
+    "competency": "['Deep Learning', 'Teamwork']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

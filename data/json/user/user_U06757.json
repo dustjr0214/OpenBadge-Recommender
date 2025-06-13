@@ -1,0 +1,14 @@
+{
+    "user_id": "U06757",
+    "name": "Hannah Green",
+    "email": "tsmith@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02311', 'B04634']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Sullivan-Carr for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08452']"
+}

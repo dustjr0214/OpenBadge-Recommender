@@ -1,0 +1,14 @@
+{
+    "user_id": "U04242",
+    "name": "Kenneth Schultz",
+    "email": "privera@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01992', 'B09722', 'B07496', 'B03895', 'B05688']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hickman Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01391']"
+}

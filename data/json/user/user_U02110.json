@@ -1,0 +1,14 @@
+{
+    "user_id": "U02110",
+    "name": "Cynthia Wang",
+    "email": "campbellcraig@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03168', 'B03700']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Cook-Wade for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07160', 'B02845', 'B09015']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07916",
+    "name": "Jordan Phelps",
+    "email": "hansenalicia@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00335']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Rodriguez LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09293', 'B06753']"
+}

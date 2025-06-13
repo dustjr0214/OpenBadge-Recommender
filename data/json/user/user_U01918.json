@@ -1,0 +1,14 @@
+{
+    "user_id": "U01918",
+    "name": "Keith Ferguson",
+    "email": "snyderryan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Owen-Adams for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04802', 'B08561']"
+}

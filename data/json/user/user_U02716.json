@@ -1,0 +1,14 @@
+{
+    "user_id": "U02716",
+    "name": "Brenda Peterson",
+    "email": "michaelrivera@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mcdonald-Taylor for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09008', 'B05643', 'B03851']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01894",
+    "name": "Cynthia Long",
+    "email": "jhebert@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05640', 'B05123', 'B01174']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Burke PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08156', 'B07204', 'B02699']"
+}

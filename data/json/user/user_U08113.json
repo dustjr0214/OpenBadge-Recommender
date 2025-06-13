@@ -1,0 +1,14 @@
+{
+    "user_id": "U08113",
+    "name": "Pamela Martin",
+    "email": "swaters@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08291']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Russell, Gallegos and Adams for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03363', 'B08872', 'B04734', 'B02845']"
+}

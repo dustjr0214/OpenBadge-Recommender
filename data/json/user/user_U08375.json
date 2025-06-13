@@ -1,0 +1,14 @@
+{
+    "user_id": "U08375",
+    "name": "Colleen Chase",
+    "email": "awarren@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07312', 'B08502', 'B02162', 'B06490']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Blackburn Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06795', 'B02327']"
+}

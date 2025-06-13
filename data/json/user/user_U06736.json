@@ -1,0 +1,14 @@
+{
+    "user_id": "U06736",
+    "name": "Steven Davis",
+    "email": "andrew56@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01976', 'B09980', 'B06237', 'B03018', 'B02832']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Bowers, Hodges and Mora for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08278",
+    "name": "William Richards",
+    "email": "shirley98@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Harrison, Sutton and Vega for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06959', 'B09250', 'B01168']"
+}

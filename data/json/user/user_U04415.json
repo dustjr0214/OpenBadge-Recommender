@@ -1,0 +1,14 @@
+{
+    "user_id": "U04415",
+    "name": "Martin Wall",
+    "email": "rsmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08961', 'B02715']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Coffey, Harris and Mack for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

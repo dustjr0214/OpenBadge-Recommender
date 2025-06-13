@@ -1,0 +1,14 @@
+{
+    "user_id": "U05983",
+    "name": "Morgan Ferguson",
+    "email": "donald61@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05593']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Martinez-Briggs for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08588', 'B08256']"
+}

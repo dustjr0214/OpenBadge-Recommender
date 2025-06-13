@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05334",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'UI/UX', 'DevOps']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B06222', 'B07066']"
+}

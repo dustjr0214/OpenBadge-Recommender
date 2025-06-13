@@ -1,0 +1,14 @@
+{
+    "user_id": "U00154",
+    "name": "Paul Bryant",
+    "email": "devinbrown@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03685', 'B01241', 'B03989']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Edwards and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05708']"
+}

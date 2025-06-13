@@ -1,0 +1,14 @@
+{
+    "user_id": "U07525",
+    "name": "Andrea Kelley",
+    "email": "melissabryant@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09923', 'B07792', 'B08422']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Rojas LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02228', 'B00629', 'B04323']"
+}

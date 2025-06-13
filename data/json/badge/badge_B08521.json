@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08521",
+    "name": "Data Science Expert",
+    "issuer": "Coursera",
+    "description": "Data Science Expert badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04211', 'B02666']"
+}

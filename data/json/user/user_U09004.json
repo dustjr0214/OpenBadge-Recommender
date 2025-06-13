@@ -1,0 +1,14 @@
+{
+    "user_id": "U09004",
+    "name": "William Nunez",
+    "email": "rthomas@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01514', 'B04902', 'B00512']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Kim, Grant and Roy for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

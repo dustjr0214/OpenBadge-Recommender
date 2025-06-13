@@ -1,0 +1,14 @@
+{
+    "user_id": "U08075",
+    "name": "Jodi Martin",
+    "email": "ryan11@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Wall-Perez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08803', 'B04255', 'B06290', 'B01161', 'B06265']"
+}

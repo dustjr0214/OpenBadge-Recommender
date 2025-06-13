@@ -1,0 +1,14 @@
+{
+    "user_id": "U01871",
+    "name": "Mike Mosley",
+    "email": "kholloway@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03862', 'B02389']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at White Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03304', 'B04104', 'B04073']"
+}

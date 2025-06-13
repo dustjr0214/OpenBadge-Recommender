@@ -1,0 +1,14 @@
+{
+    "user_id": "U01816",
+    "name": "Nicholas Hill",
+    "email": "paulaneal@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02699', 'B08248', 'B02855', 'B03635', 'B01571']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hudson Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00861', 'B03841']"
+}

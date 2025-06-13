@@ -1,0 +1,14 @@
+{
+    "user_id": "U09853",
+    "name": "Samantha Atkinson",
+    "email": "patriciamartinez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09052']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Fuller-Martinez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04641', 'B00115', 'B06251', 'B02056', 'B06679']"
+}

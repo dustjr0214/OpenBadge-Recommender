@@ -1,0 +1,14 @@
+{
+    "user_id": "U06262",
+    "name": "Diana Frost",
+    "email": "glenn29@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Sparks-Morris for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07360', 'B06629', 'B08828']"
+}

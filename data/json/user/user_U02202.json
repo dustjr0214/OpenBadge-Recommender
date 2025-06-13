@@ -1,0 +1,14 @@
+{
+    "user_id": "U02202",
+    "name": "Tommy Mullins",
+    "email": "jamesandersen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07307', 'B05715', 'B02410', 'B01542', 'B09051']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Arias, Atkins and Morales for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06115', 'B03172']"
+}

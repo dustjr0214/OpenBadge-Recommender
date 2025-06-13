@@ -1,0 +1,14 @@
+{
+    "user_id": "U07497",
+    "name": "Rebecca Mullins",
+    "email": "andrew91@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03517', 'B06697', 'B00170']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Sanders Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02763', 'B03980']"
+}

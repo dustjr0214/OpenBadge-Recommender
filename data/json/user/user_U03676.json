@@ -1,0 +1,14 @@
+{
+    "user_id": "U03676",
+    "name": "Timothy Oneal",
+    "email": "turnerpatrick@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06408', 'B04680']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Gordon, Schwartz and Taylor for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00012', 'B05645', 'B07053', 'B01281', 'B02846']"
+}

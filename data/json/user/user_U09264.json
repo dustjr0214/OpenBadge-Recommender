@@ -1,0 +1,14 @@
+{
+    "user_id": "U09264",
+    "name": "David Nelson",
+    "email": "nathangrant@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06001', 'B03228', 'B09196']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Black-Walton for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

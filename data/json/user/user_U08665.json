@@ -1,0 +1,14 @@
+{
+    "user_id": "U08665",
+    "name": "Nancy Hall",
+    "email": "csmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04122', 'B07848', 'B00758']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Powell PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08207', 'B06391', 'B08267']"
+}

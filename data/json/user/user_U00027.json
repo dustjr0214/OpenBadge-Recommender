@@ -1,0 +1,14 @@
+{
+    "user_id": "U00027",
+    "name": "Nicholas Holt",
+    "email": "pvelez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02151', 'B04932', 'B09885', 'B00887', 'B06456']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Lyons, Perry and Martinez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08453']"
+}

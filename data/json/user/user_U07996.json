@@ -1,0 +1,14 @@
+{
+    "user_id": "U07996",
+    "name": "Monica Marquez",
+    "email": "rhoward@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01473', 'B02934', 'B07617']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith-Tran for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07581', 'B03647', 'B05395']"
+}

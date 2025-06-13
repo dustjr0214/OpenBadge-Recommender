@@ -1,0 +1,14 @@
+{
+    "user_id": "U04239",
+    "name": "Pamela Hawkins",
+    "email": "josephhill@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hodges, Estrada and Sanchez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01661', 'B05657', 'B03872', 'B00898']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06138",
+    "name": "Barbara Doyle",
+    "email": "moralessarah@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09657', 'B00765', 'B08446']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Hansen-Lewis for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

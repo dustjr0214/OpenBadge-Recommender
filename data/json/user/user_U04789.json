@@ -1,0 +1,14 @@
+{
+    "user_id": "U04789",
+    "name": "Krystal Burnett",
+    "email": "elizabethpark@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03966']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Contreras-Washington for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04724', 'B04920']"
+}

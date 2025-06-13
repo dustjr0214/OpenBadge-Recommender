@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07787",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'Python', 'Cybersecurity']",
+    "competency": "['SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

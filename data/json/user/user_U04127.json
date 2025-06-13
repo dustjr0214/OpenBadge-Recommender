@@ -1,0 +1,14 @@
+{
+    "user_id": "U04127",
+    "name": "Michael Thompson",
+    "email": "johnyoung@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00993', 'B01851', 'B07674', 'B07218']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Brock-Perez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00892']"
+}

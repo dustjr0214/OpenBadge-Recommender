@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06837",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'SQL']",
+    "competency": "['Creativity', 'Problem Solving', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

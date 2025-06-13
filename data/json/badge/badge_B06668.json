@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06668",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Data Analysis']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B00804', 'B09141']"
+}

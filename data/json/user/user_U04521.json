@@ -1,0 +1,14 @@
+{
+    "user_id": "U04521",
+    "name": "Charles Norris",
+    "email": "martintracy@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06675', 'B05482']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Kim, Jenkins and Collins for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07841']"
+}

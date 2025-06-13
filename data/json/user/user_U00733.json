@@ -1,0 +1,14 @@
+{
+    "user_id": "U00733",
+    "name": "Yvonne Martinez",
+    "email": "stephen97@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05874']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Smith, Waters and Simpson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05096', 'B05480', 'B09326', 'B00352', 'B08972']"
+}

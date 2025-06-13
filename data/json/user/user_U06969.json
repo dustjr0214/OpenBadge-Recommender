@@ -1,0 +1,14 @@
+{
+    "user_id": "U06969",
+    "name": "Angela Atkins",
+    "email": "wwilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06740', 'B04788']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Cooper, Howard and Wood for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02569', 'B09197', 'B08565', 'B02943', 'B05798']"
+}

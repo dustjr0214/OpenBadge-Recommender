@@ -1,0 +1,14 @@
+{
+    "user_id": "U04035",
+    "name": "Kristopher Johnson",
+    "email": "amysparks@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09066', 'B03713', 'B09669']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hall-Henderson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

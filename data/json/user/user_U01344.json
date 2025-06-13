@@ -1,0 +1,14 @@
+{
+    "user_id": "U01344",
+    "name": "Jody Clements",
+    "email": "smendoza@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03641']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Ray and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05023', 'B06957', 'B06300', 'B01154']"
+}

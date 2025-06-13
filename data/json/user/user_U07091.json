@@ -1,0 +1,14 @@
+{
+    "user_id": "U07091",
+    "name": "Vincent Mitchell",
+    "email": "josephjohnson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05837', 'B07918']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Miller Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02342', 'B04552', 'B09665', 'B08803']"
+}

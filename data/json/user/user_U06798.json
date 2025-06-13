@@ -1,0 +1,14 @@
+{
+    "user_id": "U06798",
+    "name": "Robert Pearson",
+    "email": "jerry38@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01444', 'B01809', 'B00683']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Luna Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02253",
+    "name": "David Carter",
+    "email": "beth67@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01486', 'B03599', 'B01549', 'B05741']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Myers-Peters for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04989', 'B04047', 'B01781']"
+}

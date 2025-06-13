@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00909",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B09537', 'B03334']"
+}

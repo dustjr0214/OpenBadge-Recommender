@@ -1,0 +1,14 @@
+{
+    "user_id": "U09999",
+    "name": "Heather Blackwell",
+    "email": "tonya07@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02666', 'B02390', 'B05164']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Decker Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08694']"
+}

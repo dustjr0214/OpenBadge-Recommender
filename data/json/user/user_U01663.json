@@ -1,0 +1,14 @@
+{
+    "user_id": "U01663",
+    "name": "David Fuller",
+    "email": "johnevans@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03516', 'B00751']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Wolfe-Juarez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05290', 'B08476', 'B03177']"
+}

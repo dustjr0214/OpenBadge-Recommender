@@ -1,0 +1,14 @@
+{
+    "user_id": "U02797",
+    "name": "Jillian Wright",
+    "email": "arianaross@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09193', 'B04470', 'B03032', 'B08628']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Cook-Lucero for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03754', 'B04743', 'B03583', 'B07949']"
+}

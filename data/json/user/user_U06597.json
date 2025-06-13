@@ -1,0 +1,14 @@
+{
+    "user_id": "U06597",
+    "name": "Melissa Mccall",
+    "email": "hillmatthew@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01828', 'B05923']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gilbert-Winters for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08140', 'B07689', 'B03235']"
+}

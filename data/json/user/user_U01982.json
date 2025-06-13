@@ -1,0 +1,14 @@
+{
+    "user_id": "U01982",
+    "name": "Kathryn Mendoza",
+    "email": "hunterstewart@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07940', 'B07123']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Gardner, Weber and Olson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08747', 'B05839', 'B02890', 'B06931', 'B04676']"
+}

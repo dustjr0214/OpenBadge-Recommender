@@ -1,0 +1,14 @@
+{
+    "user_id": "U04370",
+    "name": "Anna Massey",
+    "email": "alan30@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02577', 'B00535', 'B06606', 'B03137', 'B09929']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Sims-Mcdowell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09381', 'B00734', 'B04617']"
+}

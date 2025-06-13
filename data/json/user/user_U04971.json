@@ -1,0 +1,14 @@
+{
+    "user_id": "U04971",
+    "name": "Austin Brown",
+    "email": "christinewilliams@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08633', 'B05483']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Kim, Mcintosh and Watson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08963']"
+}

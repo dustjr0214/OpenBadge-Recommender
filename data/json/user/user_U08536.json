@@ -1,0 +1,14 @@
+{
+    "user_id": "U08536",
+    "name": "Monica Davis",
+    "email": "kflores@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09224']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at French and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04416', 'B02265']"
+}

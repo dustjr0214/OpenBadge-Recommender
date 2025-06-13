@@ -1,0 +1,14 @@
+{
+    "user_id": "U06811",
+    "name": "Cindy English",
+    "email": "smithjesus@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04724', 'B07980', 'B09751', 'B09911', 'B00511']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Cooper, Sims and Rogers for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01816']"
+}

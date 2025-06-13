@@ -1,0 +1,14 @@
+{
+    "user_id": "U03422",
+    "name": "Stephen Bradley",
+    "email": "zacharysmith@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09580', 'B01089', 'B04012', 'B07970', 'B08676']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Barrett Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05511', 'B02259', 'B02554']"
+}

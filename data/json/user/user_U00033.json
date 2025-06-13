@@ -1,0 +1,14 @@
+{
+    "user_id": "U00033",
+    "name": "Jimmy Franco",
+    "email": "parkerkrystal@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09589']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Turner LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05263', 'B04329', 'B03172', 'B00967', 'B06466']"
+}

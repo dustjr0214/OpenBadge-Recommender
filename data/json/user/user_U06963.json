@@ -1,0 +1,14 @@
+{
+    "user_id": "U06963",
+    "name": "Laura Guzman",
+    "email": "mooneyeric@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06706', 'B03048']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Brown, Mcdowell and Whitehead for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00761', 'B06969']"
+}

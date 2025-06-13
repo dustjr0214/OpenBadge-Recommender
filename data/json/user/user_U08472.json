@@ -1,0 +1,14 @@
+{
+    "user_id": "U08472",
+    "name": "Curtis Pope",
+    "email": "harnold@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08691', 'B07291', 'B01395']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Warren PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08890', 'B09614', 'B08011']"
+}

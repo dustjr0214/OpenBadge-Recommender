@@ -1,0 +1,14 @@
+{
+    "user_id": "U04172",
+    "name": "Robin Frost",
+    "email": "samantha70@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01687', 'B04874', 'B08320', 'B00356']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Conner-Mccormick for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05603', 'B03907']"
+}

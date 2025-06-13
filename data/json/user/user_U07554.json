@@ -1,0 +1,14 @@
+{
+    "user_id": "U07554",
+    "name": "Jessica Chen",
+    "email": "ctaylor@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01163', 'B01917', 'B03678', 'B08252', 'B04926']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Johnson, Dougherty and Price for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03390', 'B09816', 'B06009']"
+}

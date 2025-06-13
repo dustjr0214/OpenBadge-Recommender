@@ -1,0 +1,14 @@
+{
+    "user_id": "U00257",
+    "name": "Kevin Wright",
+    "email": "diane73@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04153', 'B06133']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Archer-Robinson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04357', 'B09855', 'B02521', 'B08477', 'B06546']"
+}

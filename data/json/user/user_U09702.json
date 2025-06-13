@@ -1,0 +1,14 @@
+{
+    "user_id": "U09702",
+    "name": "Christina Hendrix",
+    "email": "brian21@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04722']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Sherman-Lopez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08314', 'B02926', 'B06072', 'B08396', 'B05779']"
+}

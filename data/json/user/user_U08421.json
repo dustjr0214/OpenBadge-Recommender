@@ -1,0 +1,14 @@
+{
+    "user_id": "U08421",
+    "name": "Anna Martin",
+    "email": "robert43@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08103', 'B08758', 'B08445', 'B04305', 'B03018']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ware Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05274', 'B08088']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06302",
+    "name": "Michael Zavala",
+    "email": "robinsonsamuel@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Clay-Martin for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06553', 'B04194', 'B05144']"
+}

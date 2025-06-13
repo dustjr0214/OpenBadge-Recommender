@@ -1,0 +1,14 @@
+{
+    "user_id": "U01936",
+    "name": "Dr. Kaitlyn Holloway",
+    "email": "alexanderprice@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08706', 'B01935', 'B04142', 'B05475', 'B09079']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Kelley-Rodriguez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04184', 'B06868', 'B05461']"
+}

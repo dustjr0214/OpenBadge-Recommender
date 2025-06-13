@@ -1,0 +1,14 @@
+{
+    "user_id": "U07445",
+    "name": "Michael Perry",
+    "email": "kennedykimberly@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02518', 'B04291', 'B02096']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Robertson LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03931']"
+}

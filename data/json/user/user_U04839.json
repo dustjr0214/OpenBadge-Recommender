@@ -1,0 +1,14 @@
+{
+    "user_id": "U04839",
+    "name": "Martin Edwards",
+    "email": "nhurley@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05341', 'B04769', 'B07787', 'B04272', 'B03273']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Cunningham-Bryant for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06230', 'B09474']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03343",
+    "name": "Kendra Houston",
+    "email": "yolanda03@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06031']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Johnson-Lewis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00305', 'B04623', 'B09409', 'B05319', 'B04177']"
+}

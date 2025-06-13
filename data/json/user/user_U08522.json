@@ -1,0 +1,14 @@
+{
+    "user_id": "U08522",
+    "name": "Don Webb",
+    "email": "tmiller@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06412', 'B00731', 'B09146', 'B02992']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Allen-Ashley for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00486', 'B06364', 'B08951', 'B09383', 'B05013']"
+}

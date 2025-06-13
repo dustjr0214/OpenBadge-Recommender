@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09538",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'Cloud Computing']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B03431', 'B01687']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00122",
+    "name": "Jessica Garcia",
+    "email": "nmurray@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07772', 'B04027', 'B06272', 'B00461', 'B00572']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Cisneros PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00968', 'B07313']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03912",
+    "name": "Tabitha Davidson",
+    "email": "wbarr@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03397', 'B00594', 'B09167']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Newman-Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02502', 'B08641', 'B05978', 'B01756']"
+}

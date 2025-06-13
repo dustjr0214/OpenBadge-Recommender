@@ -1,0 +1,14 @@
+{
+    "user_id": "U04405",
+    "name": "Larry Foster",
+    "email": "miranda27@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00951', 'B03830']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Floyd PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05299', 'B00647', 'B01276', 'B07534']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09937",
+    "name": "Barbara Jimenez",
+    "email": "robert81@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04816', 'B09335']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Robinson-Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02464']"
+}

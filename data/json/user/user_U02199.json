@@ -1,0 +1,14 @@
+{
+    "user_id": "U02199",
+    "name": "Melissa Torres",
+    "email": "ruizsandra@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04616', 'B09812', 'B01983', 'B04776', 'B08486']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Chen, Mendoza and Hughes for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02819']"
+}

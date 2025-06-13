@@ -1,0 +1,14 @@
+{
+    "user_id": "U06078",
+    "name": "Stephen Mendoza",
+    "email": "kevinpeterson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06581', 'B09356']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wilcox LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09059', 'B03384', 'B01872']"
+}

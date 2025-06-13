@@ -1,0 +1,14 @@
+{
+    "user_id": "U03554",
+    "name": "Nicole Evans",
+    "email": "tim55@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Sullivan, Pope and Jones for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07790', 'B01200']"
+}

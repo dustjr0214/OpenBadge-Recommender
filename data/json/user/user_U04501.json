@@ -1,0 +1,14 @@
+{
+    "user_id": "U04501",
+    "name": "Jillian Mccoy",
+    "email": "cvazquez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09542', 'B07037', 'B09943', 'B07149', 'B02860']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Barnes Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08393', 'B03729', 'B04442', 'B07071']"
+}

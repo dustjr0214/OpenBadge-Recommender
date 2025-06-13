@@ -1,0 +1,14 @@
+{
+    "user_id": "U05648",
+    "name": "Shannon Mooney",
+    "email": "ojones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09807', 'B01707', 'B05619', 'B09331']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hunt Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

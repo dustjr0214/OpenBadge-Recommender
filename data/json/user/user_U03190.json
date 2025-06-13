@@ -1,0 +1,14 @@
+{
+    "user_id": "U03190",
+    "name": "Jennifer Hendrix",
+    "email": "david02@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02438', 'B03326', 'B02760', 'B08643']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Chaney-Norris for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08350']"
+}

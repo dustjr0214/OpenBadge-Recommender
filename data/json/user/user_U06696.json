@@ -1,0 +1,14 @@
+{
+    "user_id": "U06696",
+    "name": "William Fields",
+    "email": "cbeltran@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00144', 'B08473', 'B07338']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Jackson LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07887', 'B07367', 'B05603', 'B08131', 'B06763']"
+}

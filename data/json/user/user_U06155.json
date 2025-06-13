@@ -1,0 +1,14 @@
+{
+    "user_id": "U06155",
+    "name": "Martha Young",
+    "email": "davidmoore@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04243', 'B06256', 'B07721']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Holland, Foster and Thornton for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

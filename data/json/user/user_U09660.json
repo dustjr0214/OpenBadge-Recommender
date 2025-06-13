@@ -1,0 +1,14 @@
+{
+    "user_id": "U09660",
+    "name": "Jennifer Wolfe",
+    "email": "pamelakennedy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09165']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Singh, Hall and Brown for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02943', 'B08206', 'B09812', 'B09827']"
+}

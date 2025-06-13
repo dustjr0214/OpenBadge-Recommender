@@ -1,0 +1,14 @@
+{
+    "user_id": "U01581",
+    "name": "Mrs. Olivia Fields",
+    "email": "brett44@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03184', 'B08036', 'B09537', 'B05794', 'B00645']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Miles-Martin for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00291']"
+}

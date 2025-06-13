@@ -1,0 +1,14 @@
+{
+    "user_id": "U01200",
+    "name": "William Scott",
+    "email": "seanjones@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02603', 'B07259', 'B06481']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Gates Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08859']"
+}

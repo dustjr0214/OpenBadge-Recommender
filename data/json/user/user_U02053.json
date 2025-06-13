@@ -1,0 +1,14 @@
+{
+    "user_id": "U02053",
+    "name": "Susan Edwards",
+    "email": "clinton35@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07691', 'B01183', 'B03333']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hughes-Wilson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07325']"
+}

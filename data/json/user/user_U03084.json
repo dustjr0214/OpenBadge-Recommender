@@ -1,0 +1,14 @@
+{
+    "user_id": "U03084",
+    "name": "Stephen Everett",
+    "email": "matthew97@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06713', 'B06670', 'B02881', 'B04469']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gomez, Velazquez and Ferguson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02809', 'B06391', 'B07693']"
+}

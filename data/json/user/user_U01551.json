@@ -1,0 +1,14 @@
+{
+    "user_id": "U01551",
+    "name": "Danielle Taylor",
+    "email": "danielanne@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04876', 'B01642']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Davis LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04411', 'B02917', 'B08719']"
+}

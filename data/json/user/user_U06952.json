@@ -1,0 +1,14 @@
+{
+    "user_id": "U06952",
+    "name": "Deborah Pennington",
+    "email": "wagneraaron@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06135', 'B08069']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Bean, Baker and Phelps for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08120', 'B09440']"
+}

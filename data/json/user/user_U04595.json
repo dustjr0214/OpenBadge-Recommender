@@ -1,0 +1,14 @@
+{
+    "user_id": "U04595",
+    "name": "Allison Young",
+    "email": "brandonwiggins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00330', 'B07755']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Williams, Stewart and Smith for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04847', 'B04166', 'B00453', 'B09252']"
+}

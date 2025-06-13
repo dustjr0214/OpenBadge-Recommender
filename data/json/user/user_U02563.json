@@ -1,0 +1,14 @@
+{
+    "user_id": "U02563",
+    "name": "Alexander Johnson MD",
+    "email": "margaret83@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06379']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Thompson LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07768', 'B04280']"
+}

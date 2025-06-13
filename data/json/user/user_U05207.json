@@ -1,0 +1,14 @@
+{
+    "user_id": "U05207",
+    "name": "Valerie Smith",
+    "email": "gravesamanda@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Hernandez-Todd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06188', 'B02644']"
+}

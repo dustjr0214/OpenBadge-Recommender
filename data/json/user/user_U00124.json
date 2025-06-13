@@ -1,0 +1,14 @@
+{
+    "user_id": "U00124",
+    "name": "Tyler Pierce",
+    "email": "brookechristensen@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Perez-White for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06653', 'B08803', 'B00315', 'B04106', 'B03275']"
+}

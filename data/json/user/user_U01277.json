@@ -1,0 +1,14 @@
+{
+    "user_id": "U01277",
+    "name": "Scott Miranda",
+    "email": "wandapearson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09910', 'B03167']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Schwartz-Garcia for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04709', 'B08681', 'B07725', 'B06158']"
+}

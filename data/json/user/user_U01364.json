@@ -1,0 +1,14 @@
+{
+    "user_id": "U01364",
+    "name": "Katherine Hicks",
+    "email": "watkinsstephen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04707', 'B03515', 'B05482', 'B09594', 'B07825']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Spencer-Woods for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03557', 'B08316', 'B05370', 'B07465', 'B09024']"
+}

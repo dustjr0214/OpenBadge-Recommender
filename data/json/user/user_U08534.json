@@ -1,0 +1,14 @@
+{
+    "user_id": "U08534",
+    "name": "Meghan Rivera",
+    "email": "elliottdean@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06476', 'B04425', 'B04225', 'B08668']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Hill Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00796', 'B09517', 'B04190', 'B05667', 'B05777']"
+}

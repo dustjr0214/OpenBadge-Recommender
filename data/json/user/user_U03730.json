@@ -1,0 +1,14 @@
+{
+    "user_id": "U03730",
+    "name": "Stephen Garcia",
+    "email": "daviskevin@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09188', 'B06898', 'B00128', 'B09242', 'B01364']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Bryant, Jackson and Reese for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01882', 'B05765', 'B02889', 'B09544']"
+}

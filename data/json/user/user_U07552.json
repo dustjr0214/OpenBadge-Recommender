@@ -1,0 +1,14 @@
+{
+    "user_id": "U07552",
+    "name": "Andre Graves",
+    "email": "scottcampbell@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01365', 'B02397', 'B00108']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Phillips PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

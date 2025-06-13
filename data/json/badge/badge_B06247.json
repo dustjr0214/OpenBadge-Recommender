@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06247",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python', 'Data Analysis']",
+    "competency": "['Data Analysis', 'Machine Learning', 'Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07738']"
+}

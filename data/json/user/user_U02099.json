@@ -1,0 +1,14 @@
+{
+    "user_id": "U02099",
+    "name": "Diane Rivera",
+    "email": "asmith@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00279', 'B02708', 'B07017', 'B09449']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Boyd-Greene for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08783', 'B06388', 'B02434', 'B00649']"
+}

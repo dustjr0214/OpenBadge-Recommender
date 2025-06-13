@@ -1,0 +1,14 @@
+{
+    "user_id": "U02145",
+    "name": "Dawn West",
+    "email": "kschwartz@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04012', 'B05664']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Alvarado-Warner for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08271', 'B03939', 'B03190', 'B01228', 'B06766']"
+}

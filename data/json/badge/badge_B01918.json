@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01918",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'Cloud Computing']",
+    "competency": "['Analytical Skills', 'Problem Solving', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B03365', 'B01157']"
+}

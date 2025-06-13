@@ -1,0 +1,14 @@
+{
+    "user_id": "U02836",
+    "name": "Mark Pena",
+    "email": "davidnicholson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Harrington Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08765', 'B00153', 'B02329', 'B06572', 'B00038']"
+}

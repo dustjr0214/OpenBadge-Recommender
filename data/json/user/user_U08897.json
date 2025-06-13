@@ -1,0 +1,14 @@
+{
+    "user_id": "U08897",
+    "name": "Phillip Petty",
+    "email": "sherri15@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05892', 'B00200', 'B05502', 'B03031', 'B02209']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Atkins-Berg for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05286', 'B01815']"
+}

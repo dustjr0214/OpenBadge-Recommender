@@ -1,0 +1,14 @@
+{
+    "user_id": "U07376",
+    "name": "John Bass",
+    "email": "gregoryhughes@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00552', 'B04351']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Erickson-Johnson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02497', 'B02822']"
+}

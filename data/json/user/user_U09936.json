@@ -1,0 +1,14 @@
+{
+    "user_id": "U09936",
+    "name": "Katie Chen",
+    "email": "robertswilliam@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01078']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Simpson Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09377', 'B03130']"
+}

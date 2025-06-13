@@ -1,0 +1,14 @@
+{
+    "user_id": "U01461",
+    "name": "Justin Richard",
+    "email": "monique33@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07239', 'B00871', 'B06467', 'B05881', 'B09637']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Miller PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09252', 'B00713', 'B01090', 'B02407', 'B01390']"
+}

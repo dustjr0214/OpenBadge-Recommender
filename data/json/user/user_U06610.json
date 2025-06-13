@@ -1,0 +1,14 @@
+{
+    "user_id": "U06610",
+    "name": "Hannah Bowers",
+    "email": "laurenhanson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00243', 'B09457']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Brown, Ballard and Mullins for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06385', 'B03303', 'B04475', 'B06891', 'B00662']"
+}

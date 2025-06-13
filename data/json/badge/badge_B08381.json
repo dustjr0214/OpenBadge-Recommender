@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08381",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'UI/UX', 'Data Analysis']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08547', 'B07775']"
+}

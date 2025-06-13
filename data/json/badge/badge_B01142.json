@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01142",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Teamwork', 'Problem Solving', 'Analytical Skills']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08299']"
+}

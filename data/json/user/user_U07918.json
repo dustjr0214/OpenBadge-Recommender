@@ -1,0 +1,14 @@
+{
+    "user_id": "U07918",
+    "name": "Nina Ward",
+    "email": "zcrane@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00216']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Rubio Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02057']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09743",
+    "name": "Diamond Bean",
+    "email": "bradleyalex@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08344', 'B07042', 'B07666']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Davis-Carter for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09449', 'B03436']"
+}

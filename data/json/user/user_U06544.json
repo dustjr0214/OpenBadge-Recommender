@@ -1,0 +1,14 @@
+{
+    "user_id": "U06544",
+    "name": "Eric Johnson",
+    "email": "gmay@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00513', 'B00428', 'B08376']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Jimenez-Crosby for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04160', 'B08995', 'B04316']"
+}

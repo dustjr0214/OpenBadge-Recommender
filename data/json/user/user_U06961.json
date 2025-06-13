@@ -1,0 +1,14 @@
+{
+    "user_id": "U06961",
+    "name": "Tara Hernandez",
+    "email": "gutierrezautumn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05022', 'B03139', 'B08411', 'B09397']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Cantrell PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08897', 'B04883']"
+}

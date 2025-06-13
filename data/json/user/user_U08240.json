@@ -1,0 +1,14 @@
+{
+    "user_id": "U08240",
+    "name": "Gary Smith",
+    "email": "kaitlyn83@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02572', 'B08871', 'B02224']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Marshall, Scott and Little for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06779', 'B00639', 'B04230']"
+}

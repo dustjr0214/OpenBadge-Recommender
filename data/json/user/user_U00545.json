@@ -1,0 +1,14 @@
+{
+    "user_id": "U00545",
+    "name": "Amber King",
+    "email": "wilsoncurtis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04540', 'B09405']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Martin LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00646', 'B04555', 'B02910', 'B00731', 'B07718']"
+}

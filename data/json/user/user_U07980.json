@@ -1,0 +1,14 @@
+{
+    "user_id": "U07980",
+    "name": "Michael Ortiz",
+    "email": "josephfranco@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02900', 'B02288', 'B05917']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Gomez-Carr for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09945', 'B07955', 'B05735', 'B06288']"
+}

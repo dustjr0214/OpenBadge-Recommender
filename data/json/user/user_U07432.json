@@ -1,0 +1,14 @@
+{
+    "user_id": "U07432",
+    "name": "Charles Clark",
+    "email": "mitchelltammie@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03850', 'B01840', 'B00698', 'B06352']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Cantu, Gomez and Williams for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06251']"
+}

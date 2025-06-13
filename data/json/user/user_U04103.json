@@ -1,0 +1,14 @@
+{
+    "user_id": "U04103",
+    "name": "Jeffrey Edwards",
+    "email": "kirkkimberly@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01428', 'B06422', 'B03700']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Gardner Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06680', 'B07711', 'B03018', 'B01886', 'B04909']"
+}

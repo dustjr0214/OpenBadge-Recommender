@@ -1,0 +1,14 @@
+{
+    "user_id": "U07765",
+    "name": "Andrea Roberts",
+    "email": "amendez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01669', 'B02741']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Farrell-Ferguson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06334', 'B02240', 'B01095', 'B00131', 'B04239']"
+}

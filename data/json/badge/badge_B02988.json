@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02988",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['SQL', 'Machine Learning']",
+    "competency": "['Cybersecurity', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04566']"
+}

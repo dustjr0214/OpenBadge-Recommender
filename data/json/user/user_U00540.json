@@ -1,0 +1,14 @@
+{
+    "user_id": "U00540",
+    "name": "Molly Walker",
+    "email": "mdavis@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08279', 'B05697', 'B08935', 'B08165', 'B02438']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Edwards Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01505', 'B07410', 'B04015', 'B07759', 'B06060']"
+}

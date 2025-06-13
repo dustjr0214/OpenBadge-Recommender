@@ -1,0 +1,14 @@
+{
+    "user_id": "U04712",
+    "name": "Miranda Nelson",
+    "email": "mbender@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07132']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Gilmore, Moore and Garcia for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07765', 'B02851', 'B05260', 'B08377', 'B08015']"
+}

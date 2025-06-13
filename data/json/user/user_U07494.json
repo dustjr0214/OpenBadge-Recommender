@@ -1,0 +1,14 @@
+{
+    "user_id": "U07494",
+    "name": "Anne Lee",
+    "email": "luispeterson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Smith-Johnson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07888', 'B06017']"
+}

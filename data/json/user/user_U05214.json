@@ -1,0 +1,14 @@
+{
+    "user_id": "U05214",
+    "name": "Edward Merritt",
+    "email": "labbott@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08702', 'B06476', 'B01130', 'B07787', 'B00999']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Park and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09719', 'B09325', 'B03707', 'B01046', 'B07084']"
+}

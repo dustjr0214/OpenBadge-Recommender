@@ -1,0 +1,14 @@
+{
+    "user_id": "U05521",
+    "name": "Renee Thomas",
+    "email": "dsalazar@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01150', 'B09599', 'B08659', 'B04161']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Zavala, Vaughn and Elliott for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06852', 'B09568', 'B00858']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04499",
+    "name": "Madison Peterson",
+    "email": "nicholsrussell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04893', 'B00989', 'B04799', 'B06452', 'B02180']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Harper PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

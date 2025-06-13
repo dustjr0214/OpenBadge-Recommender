@@ -1,0 +1,14 @@
+{
+    "user_id": "U02148",
+    "name": "Tonya Mccullough",
+    "email": "kimberlyharrington@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08033', 'B02453', 'B00058', 'B05756', 'B05833']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hines Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04595']"
+}

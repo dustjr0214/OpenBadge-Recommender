@@ -1,0 +1,14 @@
+{
+    "user_id": "U08746",
+    "name": "David Riddle",
+    "email": "anna18@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09004', 'B00343', 'B05238', 'B00184', 'B07342']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Everett, Wallace and Stevens for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03741', 'B09222', 'B02806']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03172",
+    "name": "Samuel Reeves",
+    "email": "melissamartin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07653', 'B09456', 'B01401', 'B06198', 'B07386']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Bass-Watson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04434', 'B00202', 'B05759', 'B00684', 'B00442']"
+}

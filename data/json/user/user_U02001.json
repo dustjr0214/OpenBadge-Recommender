@@ -1,0 +1,14 @@
+{
+    "user_id": "U02001",
+    "name": "Ruben Miller",
+    "email": "kurt04@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00795']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hall Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06196', 'B00846', 'B05619']"
+}

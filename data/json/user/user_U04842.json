@@ -1,0 +1,14 @@
+{
+    "user_id": "U04842",
+    "name": "Jason Ware",
+    "email": "grantrobin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06892', 'B00507']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hamilton LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08981', 'B03694', 'B08246']"
+}

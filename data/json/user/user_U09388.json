@@ -1,0 +1,14 @@
+{
+    "user_id": "U09388",
+    "name": "James Arroyo",
+    "email": "whiteryan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01602', 'B08412', 'B05509', 'B03293']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Flynn-Davis for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

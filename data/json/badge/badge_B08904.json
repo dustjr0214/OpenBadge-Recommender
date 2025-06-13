@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08904",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'SQL']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01081', 'B03201']"
+}

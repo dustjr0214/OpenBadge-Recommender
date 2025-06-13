@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04403",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'SQL']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B06771', 'B06031']"
+}

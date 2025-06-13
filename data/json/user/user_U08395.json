@@ -1,0 +1,14 @@
+{
+    "user_id": "U08395",
+    "name": "Frank Reeves",
+    "email": "kathleen59@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02994', 'B06387', 'B06349', 'B09203']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Alvarez, Robinson and Jenkins for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07042', 'B00412', 'B07803', 'B04833', 'B06347']"
+}

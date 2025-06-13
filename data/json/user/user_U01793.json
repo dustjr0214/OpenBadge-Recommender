@@ -1,0 +1,14 @@
+{
+    "user_id": "U01793",
+    "name": "John Cole",
+    "email": "elizabeth37@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03964', 'B00797', 'B05200']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Gomez-Allen for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01381', 'B04862', 'B06474', 'B08240']"
+}

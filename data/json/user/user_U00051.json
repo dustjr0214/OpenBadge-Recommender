@@ -1,0 +1,14 @@
+{
+    "user_id": "U00051",
+    "name": "Shane Adams",
+    "email": "jean84@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07309', 'B09336']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Brooks, Williams and Pittman for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09839', 'B08679', 'B09925']"
+}

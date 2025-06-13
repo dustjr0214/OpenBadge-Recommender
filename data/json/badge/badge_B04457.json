@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04457",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency": "['Machine Learning', 'Cloud Computing', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02808', 'B01954']"
+}

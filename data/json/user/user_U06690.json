@@ -1,0 +1,14 @@
+{
+    "user_id": "U06690",
+    "name": "Jaime Williamson",
+    "email": "katherine59@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04011', 'B07287']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Ball, Davis and Walker for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09901', 'B08370', 'B05586']"
+}

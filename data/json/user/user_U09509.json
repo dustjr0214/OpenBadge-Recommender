@@ -1,0 +1,14 @@
+{
+    "user_id": "U09509",
+    "name": "Andrea Solis",
+    "email": "pcox@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05284']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Ramos-Monroe for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05631']"
+}

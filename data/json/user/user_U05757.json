@@ -1,0 +1,14 @@
+{
+    "user_id": "U05757",
+    "name": "Sydney George",
+    "email": "jason27@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05807', 'B02062']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wolf Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05315",
+    "name": "Sarah Edwards",
+    "email": "robertsonjared@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09009', 'B01211', 'B06630']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Chen PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00518', 'B08687', 'B02950', 'B02963', 'B00693']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07501",
+    "name": "Margaret Salazar",
+    "email": "samantharichardson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03344', 'B01907', 'B02699']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cook-Poole for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09451', 'B02550', 'B04193', 'B03328']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00844",
+    "name": "Stephanie Barnett",
+    "email": "laurietaylor@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07543', 'B08451']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brown, Smith and Carpenter for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00083', 'B00064']"
+}

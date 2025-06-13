@@ -1,0 +1,14 @@
+{
+    "user_id": "U08666",
+    "name": "Luis Shields",
+    "email": "mswanson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01666', 'B05918', 'B09708']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Nicholson-Miller for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05104', 'B01461', 'B00232', 'B03915', 'B09192']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05649",
+    "name": "Samuel Johnson",
+    "email": "bconrad@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02222', 'B07017', 'B07754', 'B02693']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Campbell, Peterson and Swanson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06246', 'B00499', 'B04168']"
+}

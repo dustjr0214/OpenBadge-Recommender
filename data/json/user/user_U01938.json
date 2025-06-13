@@ -1,0 +1,14 @@
+{
+    "user_id": "U01938",
+    "name": "Roy Lambert",
+    "email": "marycooper@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01759', 'B09338', 'B07207', 'B04239', 'B04568']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Thompson Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06644', 'B09166', 'B02498', 'B09846']"
+}

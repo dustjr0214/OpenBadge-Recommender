@@ -1,0 +1,14 @@
+{
+    "user_id": "U01526",
+    "name": "Isaac Mcclain",
+    "email": "wmcconnell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Ayers LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00844', 'B08770', 'B07912', 'B00847', 'B00108']"
+}

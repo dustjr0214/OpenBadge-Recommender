@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05807",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B09529']"
+}

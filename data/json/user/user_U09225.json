@@ -1,0 +1,14 @@
+{
+    "user_id": "U09225",
+    "name": "Elizabeth Patel",
+    "email": "aguilarrobert@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Gilbert, Peters and Lewis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05394', 'B01921', 'B02298']"
+}

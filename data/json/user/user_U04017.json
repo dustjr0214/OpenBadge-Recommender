@@ -1,0 +1,14 @@
+{
+    "user_id": "U04017",
+    "name": "Kristen Sullivan",
+    "email": "hamptonthomas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09925', 'B04380', 'B03345', 'B03118']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Peters, Mckee and Chavez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01614', 'B01007', 'B08061']"
+}

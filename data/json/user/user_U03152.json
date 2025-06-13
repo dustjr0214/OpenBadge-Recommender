@@ -1,0 +1,14 @@
+{
+    "user_id": "U03152",
+    "name": "Amanda Smith",
+    "email": "marvin69@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06166', 'B03122', 'B08809', 'B04004', 'B01295']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Morrison-Dawson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03310', 'B07026', 'B01504', 'B01769', 'B03649']"
+}

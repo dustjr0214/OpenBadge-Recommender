@@ -1,0 +1,14 @@
+{
+    "user_id": "U04753",
+    "name": "Alexander White",
+    "email": "igomez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09081']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Santiago-Brown for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07805', 'B07839', 'B03711', 'B08437']"
+}

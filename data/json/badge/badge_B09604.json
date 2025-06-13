@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09604",
+    "name": "Big Data Analyst",
+    "issuer": "Coursera",
+    "description": "Big Data Analyst badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Python']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B06787', 'B01093']"
+}

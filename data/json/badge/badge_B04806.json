@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04806",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Data Analysis']",
+    "competency": "['Problem Solving', 'Analytical Skills', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01734', 'B00055']"
+}

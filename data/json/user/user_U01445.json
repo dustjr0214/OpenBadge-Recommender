@@ -1,0 +1,14 @@
+{
+    "user_id": "U01445",
+    "name": "Eduardo Beasley",
+    "email": "mpatterson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05287']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Morgan PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08624', 'B06810']"
+}

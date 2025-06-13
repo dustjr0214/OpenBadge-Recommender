@@ -1,0 +1,14 @@
+{
+    "user_id": "U09939",
+    "name": "Reginald Rodriguez",
+    "email": "whitecynthia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06716', 'B07780', 'B01267', 'B01825', 'B05758']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Powell Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06975', 'B03019', 'B01796', 'B07711', 'B01772']"
+}

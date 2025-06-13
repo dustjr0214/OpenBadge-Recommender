@@ -1,0 +1,14 @@
+{
+    "user_id": "U02675",
+    "name": "Ana Velasquez",
+    "email": "colehill@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05273', 'B08292', 'B05109', 'B02863', 'B04135']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Blake and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00470', 'B01126', 'B01622']"
+}

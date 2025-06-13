@@ -1,0 +1,14 @@
+{
+    "user_id": "U09143",
+    "name": "Willie Flores",
+    "email": "rmckenzie@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00941', 'B03481', 'B05272', 'B00568', 'B00161']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Villarreal-Green for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00430', 'B06948', 'B07994', 'B07695', 'B05002']"
+}

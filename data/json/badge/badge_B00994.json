@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00994",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['DevOps', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09220', 'B04788']"
+}

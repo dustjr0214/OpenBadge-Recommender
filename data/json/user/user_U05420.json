@@ -1,0 +1,14 @@
+{
+    "user_id": "U05420",
+    "name": "Laura Herring",
+    "email": "scotthansen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06000']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Foster, Lopez and Greene for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09973', 'B03973', 'B00641', 'B04218']"
+}

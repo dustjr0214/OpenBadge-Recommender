@@ -1,0 +1,14 @@
+{
+    "user_id": "U02310",
+    "name": "Jason Frazier",
+    "email": "bdavis@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at King-Kim for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02498', 'B04788', 'B03772', 'B02500']"
+}

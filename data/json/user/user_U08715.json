@@ -1,0 +1,14 @@
+{
+    "user_id": "U08715",
+    "name": "Anna Walker",
+    "email": "flynnkimberly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06915', 'B03742']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Hughes-Shaw for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

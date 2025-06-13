@@ -1,0 +1,14 @@
+{
+    "user_id": "U00610",
+    "name": "Manuel Rodriguez",
+    "email": "teresafowler@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05091', 'B03314', 'B04096']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Mercado-Cruz for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

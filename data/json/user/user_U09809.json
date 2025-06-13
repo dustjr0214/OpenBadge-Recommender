@@ -1,0 +1,14 @@
+{
+    "user_id": "U09809",
+    "name": "Rachel Marquez",
+    "email": "amandaturner@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Caldwell, King and Wagner for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03767', 'B05715', 'B09993', 'B07844']"
+}

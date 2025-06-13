@@ -1,0 +1,14 @@
+{
+    "user_id": "U03213",
+    "name": "Stephen Lopez",
+    "email": "dylanmorris@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08214', 'B01740', 'B05064', 'B07248']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Phillips-Taylor for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07302', 'B02724', 'B06074', 'B05071']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09025",
+    "name": "Kevin Strickland",
+    "email": "sanchezchristopher@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01611', 'B02154', 'B04552', 'B03912', 'B00453']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Chambers, Thornton and Soto for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05739', 'B07279', 'B07275', 'B06816', 'B04838']"
+}

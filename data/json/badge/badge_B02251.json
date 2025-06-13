@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02251",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL']",
+    "competency": "['Teamwork', 'Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02071', 'B04563']"
+}

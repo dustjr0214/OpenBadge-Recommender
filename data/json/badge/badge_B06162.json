@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06162",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04180', 'B06211']"
+}

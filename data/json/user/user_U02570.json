@@ -1,0 +1,14 @@
+{
+    "user_id": "U02570",
+    "name": "Lydia Walker",
+    "email": "imorgan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03554', 'B05573', 'B04192', 'B00241', 'B01106']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Graves and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08230']"
+}

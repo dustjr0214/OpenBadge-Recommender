@@ -1,0 +1,14 @@
+{
+    "user_id": "U02030",
+    "name": "John Nichols",
+    "email": "cookerobert@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09580', 'B09560', 'B02370', 'B02287', 'B04865']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Rodriguez Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07355', 'B05251', 'B03143', 'B07588']"
+}

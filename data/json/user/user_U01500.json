@@ -1,0 +1,14 @@
+{
+    "user_id": "U01500",
+    "name": "Kathleen Mejia",
+    "email": "rbrooks@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08754', 'B06510', 'B09180']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Dickerson, Mendez and Patterson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04326', 'B00883', 'B00729', 'B08300', 'B00021']"
+}

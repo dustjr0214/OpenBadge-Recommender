@@ -1,0 +1,14 @@
+{
+    "user_id": "U01097",
+    "name": "Angela Anderson",
+    "email": "johnny70@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01898']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Edwards, Hernandez and Reeves for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

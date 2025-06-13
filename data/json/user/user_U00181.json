@@ -1,0 +1,14 @@
+{
+    "user_id": "U00181",
+    "name": "Nicole Woods",
+    "email": "stanleydanielle@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02649', 'B08032', 'B06269', 'B05079']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Fields-Rivera for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04438', 'B07268', 'B07438', 'B00894', 'B05473']"
+}

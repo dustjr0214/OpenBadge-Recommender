@@ -1,0 +1,14 @@
+{
+    "user_id": "U09373",
+    "name": "William Jones",
+    "email": "williamsheather@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03257', 'B08553']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Sampson-Taylor for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00185', 'B05746', 'B07585', 'B09757']"
+}

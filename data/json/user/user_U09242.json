@@ -1,0 +1,14 @@
+{
+    "user_id": "U09242",
+    "name": "Thomas Cook",
+    "email": "sdean@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02455']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Torres Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02178', 'B04870']"
+}

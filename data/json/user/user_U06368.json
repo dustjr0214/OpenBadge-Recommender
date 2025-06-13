@@ -1,0 +1,14 @@
+{
+    "user_id": "U06368",
+    "name": "Angela Beltran",
+    "email": "joshua07@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05725', 'B08990', 'B03623', 'B01398', 'B04118']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Arias, Murphy and Stewart for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08232', 'B01119', 'B09561', 'B08960', 'B05457']"
+}

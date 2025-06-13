@@ -1,0 +1,14 @@
+{
+    "user_id": "U02652",
+    "name": "Michael Mclaughlin",
+    "email": "adamnash@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00197', 'B07144']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Gregory-Williams for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09673', 'B06785']"
+}

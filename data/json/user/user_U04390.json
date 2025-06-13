@@ -1,0 +1,14 @@
+{
+    "user_id": "U04390",
+    "name": "Samuel White MD",
+    "email": "kglover@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00862', 'B02418', 'B07718', 'B07043', 'B06277']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Hensley, Morales and Harrington for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04185', 'B06514', 'B08117']"
+}

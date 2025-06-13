@@ -1,0 +1,14 @@
+{
+    "user_id": "U04345",
+    "name": "Larry Hansen",
+    "email": "fergusonnicholas@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00807', 'B06903', 'B00789']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Chambers Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

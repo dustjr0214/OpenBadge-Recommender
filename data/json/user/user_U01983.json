@@ -1,0 +1,14 @@
+{
+    "user_id": "U01983",
+    "name": "Heather Tran",
+    "email": "kevin89@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06479', 'B07994']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Avery-Henderson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01291', 'B03707', 'B00262', 'B08650', 'B07072']"
+}

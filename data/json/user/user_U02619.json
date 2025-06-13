@@ -1,0 +1,14 @@
+{
+    "user_id": "U02619",
+    "name": "Reginald Kim",
+    "email": "rbrock@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03194', 'B03784', 'B09148', 'B09593', 'B03515']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Carlson, Deleon and Peterson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02062']"
+}

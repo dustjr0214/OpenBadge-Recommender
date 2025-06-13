@@ -1,0 +1,14 @@
+{
+    "user_id": "U02382",
+    "name": "Lawrence Morris",
+    "email": "gtrevino@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07268', 'B01951', 'B03560']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Blair Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00405', 'B01850', 'B04575']"
+}

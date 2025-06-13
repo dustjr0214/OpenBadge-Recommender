@@ -1,0 +1,14 @@
+{
+    "user_id": "U08904",
+    "name": "Alan Bennett",
+    "email": "volsen@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01103', 'B05799']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Rivas Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06922', 'B05521']"
+}

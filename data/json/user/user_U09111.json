@@ -1,0 +1,14 @@
+{
+    "user_id": "U09111",
+    "name": "Austin Alvarez",
+    "email": "shaun82@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01705', 'B06075']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Kennedy, Cole and Haynes for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04043', 'B00057', 'B06555', 'B07952']"
+}

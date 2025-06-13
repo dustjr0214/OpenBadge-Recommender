@@ -1,0 +1,14 @@
+{
+    "user_id": "U02573",
+    "name": "Michael Walls",
+    "email": "tammy25@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02816', 'B02628', 'B02730']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Romero-Davis for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09747']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03755",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02563', 'B08177']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02141",
+    "name": "Jacqueline Cook",
+    "email": "carterjoshua@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09718', 'B01505', 'B04531']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Ruiz, Thompson and Hill for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06086', 'B05465', 'B09650', 'B02076']"
+}

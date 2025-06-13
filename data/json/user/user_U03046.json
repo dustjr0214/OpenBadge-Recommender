@@ -1,0 +1,14 @@
+{
+    "user_id": "U03046",
+    "name": "Tina Garcia",
+    "email": "anash@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05344', 'B03744', 'B00904', 'B01376']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Mcintosh and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

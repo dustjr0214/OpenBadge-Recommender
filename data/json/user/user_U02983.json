@@ -1,0 +1,14 @@
+{
+    "user_id": "U02983",
+    "name": "Sara Moore",
+    "email": "natasha31@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01124']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Hayes Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02925', 'B05194', 'B08813', 'B08539']"
+}

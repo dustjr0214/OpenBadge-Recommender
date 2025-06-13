@@ -1,0 +1,14 @@
+{
+    "user_id": "U04391",
+    "name": "Michael Salas",
+    "email": "brownsteve@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00953', 'B05654', 'B04838', 'B03120', 'B08339']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Munoz, Kirby and Rivera for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00485']"
+}

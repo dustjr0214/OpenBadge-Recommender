@@ -1,0 +1,14 @@
+{
+    "user_id": "U00635",
+    "name": "Tracey Dougherty",
+    "email": "sjackson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05568', 'B09607']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Thompson, Pitts and Sanchez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05596', 'B04854', 'B09494', 'B00255']"
+}

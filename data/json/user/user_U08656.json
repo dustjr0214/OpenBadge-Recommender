@@ -1,0 +1,14 @@
+{
+    "user_id": "U08656",
+    "name": "Adam Bush",
+    "email": "yjackson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09186', 'B01233', 'B06558', 'B05068', 'B07008']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Perkins Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02895', 'B06558', 'B08498']"
+}

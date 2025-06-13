@@ -1,0 +1,14 @@
+{
+    "user_id": "U04032",
+    "name": "Cody Guerrero",
+    "email": "donald47@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03631', 'B07888', 'B09835', 'B08078']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Padilla PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09127', 'B04377', 'B01526']"
+}

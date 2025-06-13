@@ -1,0 +1,14 @@
+{
+    "user_id": "U05219",
+    "name": "Kristina Peterson",
+    "email": "richardsondanielle@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09320']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Johnson-Grant for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05502', 'B05293']"
+}

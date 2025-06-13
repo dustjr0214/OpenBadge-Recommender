@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06603",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Python', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08602', 'B00409']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04367",
+    "name": "Monica Grimes",
+    "email": "pmcbride@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01500']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Adams and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

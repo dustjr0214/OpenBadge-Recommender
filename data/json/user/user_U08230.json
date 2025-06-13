@@ -1,0 +1,14 @@
+{
+    "user_id": "U08230",
+    "name": "Austin Mclean",
+    "email": "foleyvictoria@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09189', 'B03976', 'B06439', 'B07427']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Smith, Lee and Griffin for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06046', 'B06894', 'B06548', 'B07248']"
+}

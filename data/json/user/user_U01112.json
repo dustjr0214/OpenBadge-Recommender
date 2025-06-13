@@ -1,0 +1,14 @@
+{
+    "user_id": "U01112",
+    "name": "Krista Davis",
+    "email": "michaelfoster@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08654', 'B08089', 'B04628', 'B03133']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Johnson, Bishop and Johnson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02620', 'B07894', 'B04930', 'B04836', 'B00051']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07013",
+    "name": "Tony Melton",
+    "email": "omiles@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04111']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Webster, Morton and Rogers for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02251', 'B00205', 'B00114']"
+}

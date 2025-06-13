@@ -1,0 +1,14 @@
+{
+    "user_id": "U03174",
+    "name": "Eric Maynard",
+    "email": "robert32@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08223', 'B03378', 'B02971', 'B07872']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Smith, Kerr and Fitzpatrick for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03149', 'B09947', 'B07434', 'B08254', 'B00412']"
+}

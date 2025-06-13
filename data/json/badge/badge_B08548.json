@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08548",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis']",
+    "competency": "['Deep Learning', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

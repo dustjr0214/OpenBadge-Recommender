@@ -1,0 +1,14 @@
+{
+    "user_id": "U00169",
+    "name": "Leah Jensen",
+    "email": "bethmccormick@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03809', 'B03889']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Herring Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

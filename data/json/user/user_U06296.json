@@ -1,0 +1,14 @@
+{
+    "user_id": "U06296",
+    "name": "Mary Jordan",
+    "email": "andrea42@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03941', 'B03877', 'B03171', 'B07307']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Becker-Newman for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05670', 'B08633', 'B02523', 'B01766']"
+}

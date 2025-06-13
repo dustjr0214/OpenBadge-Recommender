@@ -1,0 +1,14 @@
+{
+    "user_id": "U06845",
+    "name": "Caitlin Molina",
+    "email": "laurie88@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08537', 'B06824', 'B05541', 'B05836']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Evans, Walker and Sullivan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00193', 'B02821', 'B07324', 'B06096', 'B00858']"
+}

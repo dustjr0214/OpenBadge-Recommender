@@ -1,0 +1,14 @@
+{
+    "user_id": "U01890",
+    "name": "Kevin Sims",
+    "email": "ypittman@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09554', 'B02547', 'B03478']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Garcia-Scott for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01398']"
+}

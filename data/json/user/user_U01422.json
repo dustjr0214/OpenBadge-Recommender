@@ -1,0 +1,14 @@
+{
+    "user_id": "U01422",
+    "name": "Jeffrey Young",
+    "email": "beckjanet@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09494']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Williams Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02140', 'B01981', 'B01771', 'B07634']"
+}

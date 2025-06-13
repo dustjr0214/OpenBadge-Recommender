@@ -1,0 +1,14 @@
+{
+    "user_id": "U04209",
+    "name": "David Clark",
+    "email": "tiffanysloan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05654', 'B07035', 'B02204', 'B01444']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hamilton Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08271', 'B01720', 'B09457', 'B04005', 'B05391']"
+}

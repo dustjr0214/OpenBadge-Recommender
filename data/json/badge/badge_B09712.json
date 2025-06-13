@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09712",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Cybersecurity']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B04127']"
+}

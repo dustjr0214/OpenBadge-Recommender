@@ -1,0 +1,14 @@
+{
+    "user_id": "U02012",
+    "name": "Sarah Jordan",
+    "email": "hallryan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03570', 'B07948']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rocha and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00016', 'B08485', 'B08412', 'B02715', 'B01334']"
+}

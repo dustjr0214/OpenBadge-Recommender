@@ -1,0 +1,14 @@
+{
+    "user_id": "U03634",
+    "name": "Roy Sandoval",
+    "email": "efisher@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02106', 'B09174', 'B07125', 'B08413', 'B09000']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Turner, Taylor and Gutierrez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09537', 'B09902', 'B02271', 'B01485']"
+}

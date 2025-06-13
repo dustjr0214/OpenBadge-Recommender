@@ -1,0 +1,14 @@
+{
+    "user_id": "U00633",
+    "name": "Kyle Williams",
+    "email": "ocole@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Machine Learning', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06793', 'B06151']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Sanchez-Bond for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03732', 'B03383']"
+}

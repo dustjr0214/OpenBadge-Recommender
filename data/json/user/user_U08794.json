@@ -1,0 +1,14 @@
+{
+    "user_id": "U08794",
+    "name": "Michele Lara",
+    "email": "xthompson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09928']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Carter-Salazar for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08664', 'B03278', 'B02832', 'B00403', 'B05851']"
+}

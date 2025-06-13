@@ -1,0 +1,14 @@
+{
+    "user_id": "U08135",
+    "name": "Danielle Roberts",
+    "email": "joann70@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08330', 'B09855', 'B00694', 'B05981']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Ross, Hampton and Hughes for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01826', 'B01922']"
+}

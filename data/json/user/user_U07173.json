@@ -1,0 +1,14 @@
+{
+    "user_id": "U07173",
+    "name": "Jeffrey Hill",
+    "email": "melissa44@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00735', 'B08431', 'B08911', 'B00240']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Mccarty PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02719', 'B01190', 'B00526']"
+}

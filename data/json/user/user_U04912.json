@@ -1,0 +1,14 @@
+{
+    "user_id": "U04912",
+    "name": "Amanda Williams",
+    "email": "nataliesanchez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00219', 'B06658', 'B07345']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Newman Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00570', 'B03410', 'B08525', 'B07637', 'B09977']"
+}

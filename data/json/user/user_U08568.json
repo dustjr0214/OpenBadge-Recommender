@@ -1,0 +1,14 @@
+{
+    "user_id": "U08568",
+    "name": "Robert Bray",
+    "email": "nicole09@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03386', 'B01017', 'B00546', 'B09556']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Bowman Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

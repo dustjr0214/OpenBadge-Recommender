@@ -1,0 +1,14 @@
+{
+    "user_id": "U03430",
+    "name": "Virginia Moran",
+    "email": "monica83@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09595']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Parker Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04121', 'B08579']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08251",
+    "name": "Jesse Stevenson",
+    "email": "crodriguez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05496', 'B07763', 'B05821', 'B05841', 'B06777']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Robinson-David for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00116', 'B06351', 'B00042']"
+}

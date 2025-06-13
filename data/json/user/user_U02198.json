@@ -1,0 +1,14 @@
+{
+    "user_id": "U02198",
+    "name": "Cameron Greene",
+    "email": "elizabeth33@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00585', 'B06875']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Rivera Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02575']"
+}

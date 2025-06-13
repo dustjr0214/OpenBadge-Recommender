@@ -1,0 +1,14 @@
+{
+    "user_id": "U06930",
+    "name": "Jeremy Gonzales",
+    "email": "rellis@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02222']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Nielsen, Brooks and Webb for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02866', 'B09923', 'B03352', 'B00387']"
+}

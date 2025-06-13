@@ -1,0 +1,14 @@
+{
+    "user_id": "U05808",
+    "name": "Nathaniel Walter",
+    "email": "bparks@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01207', 'B03225', 'B02981', 'B05178', 'B03638']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Castro, Martinez and Brown for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05448']"
+}

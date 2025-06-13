@@ -1,0 +1,14 @@
+{
+    "user_id": "U01606",
+    "name": "Jonathan Hall",
+    "email": "robertedwards@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06522', 'B01335']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Lewis, White and Gonzalez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09982', 'B06033', 'B06761', 'B09820', 'B02285']"
+}

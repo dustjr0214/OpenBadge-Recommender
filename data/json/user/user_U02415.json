@@ -1,0 +1,14 @@
+{
+    "user_id": "U02415",
+    "name": "Stuart Lopez",
+    "email": "barrettrachael@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03153']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Davis-Waters for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07211']"
+}

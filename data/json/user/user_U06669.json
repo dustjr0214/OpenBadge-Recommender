@@ -1,0 +1,14 @@
+{
+    "user_id": "U06669",
+    "name": "Jordan Nunez",
+    "email": "michaelolson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03062', 'B08484', 'B01370']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ferguson Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03926', 'B02071', 'B03130', 'B02690']"
+}

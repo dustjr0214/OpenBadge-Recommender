@@ -1,0 +1,14 @@
+{
+    "user_id": "U04002",
+    "name": "Terrence Dean",
+    "email": "rrivera@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07187', 'B02783', 'B00597', 'B02060']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hughes and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

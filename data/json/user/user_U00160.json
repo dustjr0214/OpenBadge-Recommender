@@ -1,0 +1,14 @@
+{
+    "user_id": "U00160",
+    "name": "Randy Dawson",
+    "email": "burtonmichael@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07419', 'B05533', 'B09903', 'B02269', 'B08515']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Santiago LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03058', 'B04694', 'B06705', 'B05355']"
+}

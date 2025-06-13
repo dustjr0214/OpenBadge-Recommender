@@ -1,0 +1,14 @@
+{
+    "user_id": "U07190",
+    "name": "Emily Stuart",
+    "email": "xhartman@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02263']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Johnson Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03802', 'B09330', 'B09743', 'B04662', 'B03394']"
+}

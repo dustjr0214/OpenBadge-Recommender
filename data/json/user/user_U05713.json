@@ -1,0 +1,14 @@
+{
+    "user_id": "U05713",
+    "name": "Daniel Patrick",
+    "email": "tammiebrown@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09867', 'B02463', 'B05487']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Taylor Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07267', 'B08009', 'B04415', 'B08735', 'B06956']"
+}

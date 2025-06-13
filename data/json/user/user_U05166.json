@@ -1,0 +1,14 @@
+{
+    "user_id": "U05166",
+    "name": "Charles Garcia",
+    "email": "sararuiz@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02700', 'B01842', 'B02122', 'B09782']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Gibbs, Alexander and Perry for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03318', 'B08202', 'B02053']"
+}

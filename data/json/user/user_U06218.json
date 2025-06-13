@@ -1,0 +1,14 @@
+{
+    "user_id": "U06218",
+    "name": "Teresa Campbell",
+    "email": "kwang@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05736', 'B00723', 'B04465', 'B01251']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Lee PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04939', 'B09924', 'B01416', 'B00695']"
+}

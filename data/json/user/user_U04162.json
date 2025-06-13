@@ -1,0 +1,14 @@
+{
+    "user_id": "U04162",
+    "name": "Michelle Peters",
+    "email": "jriley@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01113', 'B06852', 'B04459']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Rodriguez-Wilson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03946', 'B00066']"
+}

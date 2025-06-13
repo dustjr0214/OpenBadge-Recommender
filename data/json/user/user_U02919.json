@@ -1,0 +1,14 @@
+{
+    "user_id": "U02919",
+    "name": "Jennifer Bell",
+    "email": "smithdaniel@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04007']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Davis, Garcia and Moore for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06279', 'B01234', 'B02981']"
+}

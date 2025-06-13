@@ -1,0 +1,14 @@
+{
+    "user_id": "U01655",
+    "name": "Jeanne Williams",
+    "email": "coxcheryl@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05268']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Turner, Dixon and Nolan for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07557', 'B09153', 'B05736', 'B09460', 'B00604']"
+}

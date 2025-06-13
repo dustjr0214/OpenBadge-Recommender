@@ -1,0 +1,14 @@
+{
+    "user_id": "U04202",
+    "name": "Krystal Williams",
+    "email": "virginiastokes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06487', 'B06305', 'B00338', 'B09925', 'B00131']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Calhoun PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05111', 'B07067']"
+}

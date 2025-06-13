@@ -1,0 +1,14 @@
+{
+    "user_id": "U02812",
+    "name": "Jesus Johnson",
+    "email": "uthomas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Singh, Conley and Downs for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02202', 'B07011', 'B06335', 'B02282', 'B00632']"
+}

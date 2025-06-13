@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00210",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency": "['Analytical Skills', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B00495']"
+}

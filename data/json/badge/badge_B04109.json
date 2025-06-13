@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04109",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Python', 'Machine Learning']",
+    "competency": "['Teamwork', 'Cloud Computing', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09068', 'B02165']"
+}

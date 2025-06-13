@@ -1,0 +1,14 @@
+{
+    "user_id": "U07257",
+    "name": "Jesse Howard",
+    "email": "charles01@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03012', 'B07426']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Combs PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06633', 'B08956', 'B03949', 'B04751', 'B09687']"
+}

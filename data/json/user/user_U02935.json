@@ -1,0 +1,14 @@
+{
+    "user_id": "U02935",
+    "name": "Sara Leon",
+    "email": "conradmatthew@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Jones PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01697', 'B01246', 'B07011', 'B05326', 'B03946']"
+}

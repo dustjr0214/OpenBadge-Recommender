@@ -1,0 +1,14 @@
+{
+    "user_id": "U07184",
+    "name": "David Bell",
+    "email": "jennifer24@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00833', 'B04126']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Francis-Marks for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08917', 'B09137', 'B06632', 'B08568']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00101",
+    "name": "David Giles",
+    "email": "qharris@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09444', 'B04816', 'B02306']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Pratt PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07366', 'B00864', 'B05560', 'B05465', 'B08571']"
+}

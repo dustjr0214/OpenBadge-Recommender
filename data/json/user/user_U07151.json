@@ -1,0 +1,14 @@
+{
+    "user_id": "U07151",
+    "name": "Emma Ward",
+    "email": "tsmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08884']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Meza LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05135', 'B01810', 'B04829', 'B08661', 'B01914']"
+}

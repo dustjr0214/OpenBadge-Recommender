@@ -1,0 +1,14 @@
+{
+    "user_id": "U04875",
+    "name": "Ashley Rogers",
+    "email": "sarahlawrence@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01897', 'B04431', 'B09873', 'B00110']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Burgess-Fisher for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09574']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06255",
+    "name": "Mr. Justin Gardner",
+    "email": "michelle88@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03578', 'B03704']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Lane LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08018', 'B00613', 'B01083', 'B01117', 'B05496']"
+}

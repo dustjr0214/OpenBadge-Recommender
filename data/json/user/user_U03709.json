@@ -1,0 +1,14 @@
+{
+    "user_id": "U03709",
+    "name": "Erik Castaneda",
+    "email": "clopez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03286', 'B02398', 'B03162']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Fisher, Fuentes and Smith for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03942', 'B08812', 'B06431', 'B02799', 'B03152']"
+}

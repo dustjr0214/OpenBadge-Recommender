@@ -1,0 +1,14 @@
+{
+    "user_id": "U02178",
+    "name": "Amy Collins",
+    "email": "richard00@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08721', 'B08404', 'B08675']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Holmes Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

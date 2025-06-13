@@ -1,0 +1,14 @@
+{
+    "user_id": "U07782",
+    "name": "Adam Harris",
+    "email": "charles17@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07604']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Norris Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07473', 'B01525', 'B07858']"
+}

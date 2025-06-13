@@ -1,0 +1,14 @@
+{
+    "user_id": "U07317",
+    "name": "James Walker",
+    "email": "johnfletcher@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05454', 'B02789', 'B02955', 'B01926', 'B06369']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Thomas-White for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09208', 'B06391']"
+}

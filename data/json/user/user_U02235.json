@@ -1,0 +1,14 @@
+{
+    "user_id": "U02235",
+    "name": "Julie Gomez",
+    "email": "brandon96@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08345', 'B01204']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Kaiser, Nelson and Hogan for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04287', 'B06168']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07890",
+    "name": "Erin Sullivan",
+    "email": "curryteresa@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08508', 'B01895', 'B03668', 'B01421', 'B05077']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hines PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03661', 'B01089']"
+}

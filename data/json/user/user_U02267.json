@@ -1,0 +1,14 @@
+{
+    "user_id": "U02267",
+    "name": "Carlos Jensen",
+    "email": "reiddonna@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02162', 'B03820', 'B06892']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Vasquez-Ball for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03743', 'B02706', 'B08556', 'B03497']"
+}

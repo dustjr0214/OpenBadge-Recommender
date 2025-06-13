@@ -1,0 +1,14 @@
+{
+    "user_id": "U06918",
+    "name": "Alyssa Ramos",
+    "email": "jennifer97@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08008', 'B06005', 'B08844', 'B04957', 'B00544']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Long, Brady and Petersen for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09178', 'B07495']"
+}

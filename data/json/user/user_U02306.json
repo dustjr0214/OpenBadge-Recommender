@@ -1,0 +1,14 @@
+{
+    "user_id": "U02306",
+    "name": "Angelica Rivera",
+    "email": "kristin30@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03470', 'B06844', 'B02429', 'B02783', 'B01638']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Dean-Burns for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02821', 'B07312', 'B04131', 'B00205', 'B06177']"
+}

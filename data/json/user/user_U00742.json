@@ -1,0 +1,14 @@
+{
+    "user_id": "U00742",
+    "name": "Mark Richmond",
+    "email": "dreyes@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07803', 'B02583', 'B03352', 'B06829']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Flores Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

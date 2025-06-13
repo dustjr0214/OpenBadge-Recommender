@@ -1,0 +1,14 @@
+{
+    "user_id": "U05931",
+    "name": "Robert Walker",
+    "email": "rhondabell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00392', 'B06489', 'B09347']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Murillo and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09023', 'B02159']"
+}

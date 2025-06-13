@@ -1,0 +1,14 @@
+{
+    "user_id": "U09655",
+    "name": "Katrina Smith",
+    "email": "marshallcraig@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02801', 'B09387', 'B02559']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Copeland, Jenkins and Ramos for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09322', 'B02927', 'B09183']"
+}

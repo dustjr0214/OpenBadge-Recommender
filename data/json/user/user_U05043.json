@@ -1,0 +1,14 @@
+{
+    "user_id": "U05043",
+    "name": "Amy Rodriguez",
+    "email": "carol26@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08751', 'B03730', 'B01283']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Moses, Lopez and Pham for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06965', 'B07644', 'B01319', 'B00556', 'B05776']"
+}

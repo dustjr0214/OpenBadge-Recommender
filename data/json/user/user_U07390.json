@@ -1,0 +1,14 @@
+{
+    "user_id": "U07390",
+    "name": "Peggy Hodge",
+    "email": "hallricky@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09292', 'B00290', 'B05332']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Cummings-Quinn for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00324']"
+}

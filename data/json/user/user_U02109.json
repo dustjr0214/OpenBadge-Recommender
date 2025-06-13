@@ -1,0 +1,14 @@
+{
+    "user_id": "U02109",
+    "name": "Antonio Smith DVM",
+    "email": "alan68@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08948', 'B02254', 'B01983', 'B09709']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Moss Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05983', 'B06761', 'B03633', 'B00174']"
+}

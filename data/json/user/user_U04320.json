@@ -1,0 +1,14 @@
+{
+    "user_id": "U04320",
+    "name": "Rebecca Melendez MD",
+    "email": "ocunningham@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05141', 'B05074', 'B07088', 'B06268', 'B04790']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Smith-Avery for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

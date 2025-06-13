@@ -1,0 +1,14 @@
+{
+    "user_id": "U09484",
+    "name": "Peter Oliver",
+    "email": "ehuynh@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Stewart Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05931', 'B09256', 'B00133', 'B01034', 'B09277']"
+}

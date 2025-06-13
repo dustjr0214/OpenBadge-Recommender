@@ -1,0 +1,14 @@
+{
+    "user_id": "U05055",
+    "name": "Michelle Hardy",
+    "email": "grayjennifer@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05648', 'B02912', 'B02956', 'B01315', 'B01819']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hatfield-Baker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08556', 'B02765']"
+}

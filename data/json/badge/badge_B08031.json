@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08031",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08196",
+    "name": "Audrey Norman",
+    "email": "patricia64@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03271', 'B08787', 'B08184']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Fitzgerald, Fletcher and Rivera for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03918', 'B09662', 'B00209']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00028",
+    "name": "Jennifer Scott",
+    "email": "tlopez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07430']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Dunn Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06210']"
+}

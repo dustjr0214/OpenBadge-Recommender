@@ -1,0 +1,14 @@
+{
+    "user_id": "U07241",
+    "name": "Cameron Sexton",
+    "email": "clarkdaniel@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06001', 'B01016', 'B05281']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Young, Gentry and Maldonado for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08145', 'B03931', 'B04523', 'B09961']"
+}

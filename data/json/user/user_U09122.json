@@ -1,0 +1,14 @@
+{
+    "user_id": "U09122",
+    "name": "Pamela Carlson",
+    "email": "ritterpeter@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08028', 'B08743', 'B04830']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Jones-Williams for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09675']"
+}

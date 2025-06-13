@@ -1,0 +1,14 @@
+{
+    "user_id": "U07030",
+    "name": "Gregory Davidson",
+    "email": "tony71@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00913', 'B08751', 'B01244']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Hernandez LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03870']"
+}

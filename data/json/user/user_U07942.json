@@ -1,0 +1,14 @@
+{
+    "user_id": "U07942",
+    "name": "Sheila Figueroa",
+    "email": "brewerjohn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04918']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Hudson, Kelly and Sanchez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00930', 'B09911', 'B04901']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06346",
+    "name": "Yesenia Jones",
+    "email": "steven26@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00388', 'B06437', 'B07136', 'B01785']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Robbins-Williams for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06878']"
+}

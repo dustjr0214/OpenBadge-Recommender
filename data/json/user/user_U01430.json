@@ -1,0 +1,14 @@
+{
+    "user_id": "U01430",
+    "name": "Rachel Carrillo",
+    "email": "josephgardner@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08514']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Taylor-Valdez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02998', 'B05630', 'B04739', 'B00394', 'B09586']"
+}

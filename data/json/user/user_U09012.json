@@ -1,0 +1,14 @@
+{
+    "user_id": "U09012",
+    "name": "Mrs. Brittney Alvarez",
+    "email": "rebeccahernandez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07505', 'B04187', 'B07169', 'B04254']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Cooper Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02277', 'B07174']"
+}

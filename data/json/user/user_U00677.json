@@ -1,0 +1,14 @@
+{
+    "user_id": "U00677",
+    "name": "Cody Baker",
+    "email": "marywalters@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04616', 'B07548', 'B08062', 'B06612', 'B08484']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Odonnell Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08133']"
+}

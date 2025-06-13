@@ -1,0 +1,14 @@
+{
+    "user_id": "U03755",
+    "name": "Jeremy Ferguson",
+    "email": "juliareid@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07588', 'B02804', 'B06318', 'B01450']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Harris, Mclaughlin and Sullivan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02091', 'B08652']"
+}

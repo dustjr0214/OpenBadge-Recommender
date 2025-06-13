@@ -1,0 +1,14 @@
+{
+    "user_id": "U03003",
+    "name": "Richard Villa",
+    "email": "ecampbell@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09862', 'B00252', 'B04474', 'B09145', 'B05521']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Ayers Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01959",
+    "name": "Ricky Estrada",
+    "email": "ramosbrianna@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08676', 'B03407', 'B01056', 'B07087']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Thomas, White and Phillips for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00473', 'B05347', 'B01925', 'B01576', 'B04299']"
+}

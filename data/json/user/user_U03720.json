@@ -1,0 +1,14 @@
+{
+    "user_id": "U03720",
+    "name": "Daniel Newman",
+    "email": "williamsluis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03392', 'B09724', 'B01332', 'B00372']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Melton Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00612', 'B03367', 'B03046', 'B09505', 'B01003']"
+}

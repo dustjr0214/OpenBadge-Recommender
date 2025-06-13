@@ -1,0 +1,14 @@
+{
+    "user_id": "U03007",
+    "name": "James Flynn",
+    "email": "zrich@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07521', 'B07995']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Scott, Bailey and Davis for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03856', 'B07118']"
+}

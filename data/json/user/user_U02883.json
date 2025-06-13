@@ -1,0 +1,14 @@
+{
+    "user_id": "U02883",
+    "name": "Marcus Salazar",
+    "email": "drhodes@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05238', 'B00181', 'B00922', 'B01107']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Garner, Meadows and Gray for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09147', 'B03860', 'B02008']"
+}

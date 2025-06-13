@@ -1,0 +1,14 @@
+{
+    "user_id": "U09500",
+    "name": "Brett Smith",
+    "email": "williamslinda@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01058']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Miller, Cardenas and Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06297",
+    "name": "Beth Henry",
+    "email": "aguilarthomas@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00730', 'B09238', 'B06763']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Wang, Curry and Baker for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04419', 'B04833', 'B08030', 'B09532', 'B06919']"
+}

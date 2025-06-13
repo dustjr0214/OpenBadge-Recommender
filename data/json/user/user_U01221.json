@@ -1,0 +1,14 @@
+{
+    "user_id": "U01221",
+    "name": "Colleen Nash",
+    "email": "travissims@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05124', 'B05365']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Estrada PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07694']"
+}

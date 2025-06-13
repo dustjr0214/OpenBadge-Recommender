@@ -1,0 +1,14 @@
+{
+    "user_id": "U08162",
+    "name": "Jennifer Chapman",
+    "email": "vbrooks@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07219', 'B04913', 'B08134', 'B06412', 'B00242']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Farmer and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08666', 'B05705', 'B09856']"
+}

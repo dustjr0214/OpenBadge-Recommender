@@ -1,0 +1,14 @@
+{
+    "user_id": "U06212",
+    "name": "John Reed",
+    "email": "vcrawford@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09622', 'B00095', 'B06484']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Watson-Holmes for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02828', 'B05328']"
+}

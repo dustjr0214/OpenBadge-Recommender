@@ -1,0 +1,14 @@
+{
+    "user_id": "U02671",
+    "name": "Jerry Paul",
+    "email": "yfreeman@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04194', 'B07795', 'B02764', 'B00015', 'B01014']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Woodward-Clark for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07039']"
+}

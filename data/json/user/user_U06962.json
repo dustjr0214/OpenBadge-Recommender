@@ -1,0 +1,14 @@
+{
+    "user_id": "U06962",
+    "name": "Christine Winters",
+    "email": "bryan89@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08777']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Thomas-Marshall for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

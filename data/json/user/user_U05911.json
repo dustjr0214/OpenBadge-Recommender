@@ -1,0 +1,14 @@
+{
+    "user_id": "U05911",
+    "name": "Nicole Santana",
+    "email": "csmith@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Smith-Doyle for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09782']"
+}

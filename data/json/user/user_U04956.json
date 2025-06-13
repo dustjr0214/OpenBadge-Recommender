@@ -1,0 +1,14 @@
+{
+    "user_id": "U04956",
+    "name": "Christian Weber",
+    "email": "kimberlystein@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09317', 'B00175', 'B04966', 'B06909']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Robinson-Walker for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07026', 'B07970']"
+}

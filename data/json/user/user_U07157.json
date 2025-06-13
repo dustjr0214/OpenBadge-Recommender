@@ -1,0 +1,14 @@
+{
+    "user_id": "U07157",
+    "name": "Rodney Rose",
+    "email": "wford@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01495', 'B07456', 'B01935']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Obrien, Tran and Carter for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06123']"
+}

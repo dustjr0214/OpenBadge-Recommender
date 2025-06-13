@@ -1,0 +1,14 @@
+{
+    "user_id": "U04151",
+    "name": "Amy Montoya",
+    "email": "michael48@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02618']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Hall PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00238']"
+}

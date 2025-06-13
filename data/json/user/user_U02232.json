@@ -1,0 +1,14 @@
+{
+    "user_id": "U02232",
+    "name": "Lawrence Brown",
+    "email": "holtanne@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09017', 'B06581']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Brown Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05185', 'B09859', 'B08623', 'B01769', 'B04467']"
+}

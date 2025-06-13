@@ -1,0 +1,14 @@
+{
+    "user_id": "U01731",
+    "name": "Danielle Simpson",
+    "email": "smithricardo@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03360', 'B05033']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at White, Marquez and Peters for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03777', 'B08403']"
+}

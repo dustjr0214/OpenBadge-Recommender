@@ -1,0 +1,14 @@
+{
+    "user_id": "U06407",
+    "name": "Nicholas Edwards",
+    "email": "sanderscory@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05717', 'B01399', 'B07485', 'B03591', 'B00056']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ford, Case and Jones for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04135', 'B01077']"
+}

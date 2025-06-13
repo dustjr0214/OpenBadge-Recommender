@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03069",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'SQL']",
+    "competency": "['Machine Learning', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03102', 'B07057']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01003",
+    "name": "Karen Williams",
+    "email": "wrightkara@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01103', 'B03531', 'B04416', 'B04404']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Strong-Brown for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00999', 'B00504', 'B06932', 'B01317', 'B07163']"
+}

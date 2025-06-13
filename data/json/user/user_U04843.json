@@ -1,0 +1,14 @@
+{
+    "user_id": "U04843",
+    "name": "Cheryl Hayes",
+    "email": "gabrieladavis@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07962', 'B03032', 'B02157', 'B02142']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Roth-Lopez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07716', 'B06574', 'B02884', 'B05626']"
+}

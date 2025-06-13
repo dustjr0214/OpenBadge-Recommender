@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01595",
+    "name": "Data Science Expert",
+    "issuer": "Coursera",
+    "description": "Data Science Expert badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Cybersecurity']",
+    "competency": "['Data Analysis', 'Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05774', 'B06016']"
+}

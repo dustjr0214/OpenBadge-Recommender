@@ -1,0 +1,14 @@
+{
+    "user_id": "U00152",
+    "name": "Yolanda Evans",
+    "email": "williamgonzalez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Daniel Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00717', 'B03484', 'B02291', 'B04047']"
+}

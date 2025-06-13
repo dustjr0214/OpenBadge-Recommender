@@ -1,0 +1,14 @@
+{
+    "user_id": "U09453",
+    "name": "Catherine Schroeder",
+    "email": "rebecca98@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04634']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Simon PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05978']"
+}

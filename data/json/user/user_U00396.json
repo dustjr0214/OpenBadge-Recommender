@@ -1,0 +1,14 @@
+{
+    "user_id": "U00396",
+    "name": "Steve Clark",
+    "email": "brittany43@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06170', 'B08733', 'B02869', 'B03784', 'B02847']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Mejia-Hughes for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

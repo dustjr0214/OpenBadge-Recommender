@@ -1,0 +1,14 @@
+{
+    "user_id": "U05998",
+    "name": "Brian Sullivan",
+    "email": "isaiahvalencia@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07049', 'B05089', 'B03246', 'B06400', 'B06803']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Moon, Lowery and Salazar for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01346', 'B09479', 'B01018', 'B09196']"
+}

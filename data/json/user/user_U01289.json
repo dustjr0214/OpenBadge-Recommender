@@ -1,0 +1,14 @@
+{
+    "user_id": "U01289",
+    "name": "David Thompson",
+    "email": "wmiller@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09195', 'B08852', 'B07557', 'B01122', 'B00680']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Hicks, Johnson and Mcgrath for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02852', 'B02496']"
+}

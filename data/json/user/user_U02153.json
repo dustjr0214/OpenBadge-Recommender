@@ -1,0 +1,14 @@
+{
+    "user_id": "U02153",
+    "name": "Brian Gutierrez",
+    "email": "thomas50@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04926', 'B05425', 'B04878', 'B02155']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Schwartz-Bullock for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01678', 'B04530']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09822",
+    "name": "Jared Jones",
+    "email": "dbuckley@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03678', 'B01931']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Lewis-Phillips for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03451', 'B01113', 'B04883', 'B08435', 'B07949']"
+}

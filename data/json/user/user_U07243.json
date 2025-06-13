@@ -1,0 +1,14 @@
+{
+    "user_id": "U07243",
+    "name": "Rachel Butler",
+    "email": "andersonspencer@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08136', 'B03027', 'B02865', 'B04822', 'B07298']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Daniels PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00960', 'B03004', 'B03258', 'B06000', 'B00780']"
+}

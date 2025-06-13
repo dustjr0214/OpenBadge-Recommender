@@ -1,0 +1,14 @@
+{
+    "user_id": "U01270",
+    "name": "Christopher Aguirre",
+    "email": "yadams@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03579', 'B00398']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Stark, Flowers and Holt for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07565', 'B09696']"
+}

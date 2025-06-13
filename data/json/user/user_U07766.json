@@ -1,0 +1,14 @@
+{
+    "user_id": "U07766",
+    "name": "Wendy Salinas",
+    "email": "omiller@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00143', 'B04516']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Drake-Wallace for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05494', 'B01370', 'B01121', 'B04413', 'B09401']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04036",
+    "name": "Emily Williams",
+    "email": "kball@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08890', 'B09388', 'B03892']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Green Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

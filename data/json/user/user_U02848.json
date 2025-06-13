@@ -1,0 +1,14 @@
+{
+    "user_id": "U02848",
+    "name": "Shelby Juarez",
+    "email": "meltonkiara@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06716', 'B03011']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Herrera, Bush and White for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09127', 'B03869', 'B09076', 'B09405']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09757",
+    "name": "Nathan Berry",
+    "email": "michelle72@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03797', 'B01203', 'B01377', 'B02263', 'B05622']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Price Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03813', 'B03832', 'B09197', 'B08977', 'B08591']"
+}

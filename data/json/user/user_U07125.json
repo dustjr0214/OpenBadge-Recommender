@@ -1,0 +1,14 @@
+{
+    "user_id": "U07125",
+    "name": "David Bell",
+    "email": "gillvictoria@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03994', 'B00665']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Calderon, Griffin and Wilkerson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06004', 'B07058', 'B02032', 'B09146']"
+}

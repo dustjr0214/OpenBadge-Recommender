@@ -1,0 +1,14 @@
+{
+    "user_id": "U07749",
+    "name": "David Maynard",
+    "email": "prodriguez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05771', 'B09696', 'B05710', 'B08688']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Holt Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03401', 'B09448', 'B08855', 'B09713']"
+}

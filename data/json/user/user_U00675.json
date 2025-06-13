@@ -1,0 +1,14 @@
+{
+    "user_id": "U00675",
+    "name": "Devin Carson",
+    "email": "bendermichael@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06523', 'B02191', 'B04367', 'B01699', 'B04178']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Weeks, Rodriguez and Owens for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07751']"
+}

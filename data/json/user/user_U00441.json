@@ -1,0 +1,14 @@
+{
+    "user_id": "U00441",
+    "name": "Jeffery Johnson",
+    "email": "adougherty@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00124']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Fisher-Garcia for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04179', 'B06332', 'B08666', 'B04252']"
+}

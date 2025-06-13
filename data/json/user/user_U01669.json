@@ -1,0 +1,14 @@
+{
+    "user_id": "U01669",
+    "name": "Hunter Horton",
+    "email": "joshuablankenship@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03728', 'B06120', 'B06798']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Spencer PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05191']"
+}

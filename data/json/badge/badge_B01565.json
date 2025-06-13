@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01565",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity']",
+    "competency": "['Deep Learning', 'Python', 'Analytical Skills']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01944', 'B02289']"
+}

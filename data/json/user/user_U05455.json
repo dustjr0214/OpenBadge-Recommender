@@ -1,0 +1,14 @@
+{
+    "user_id": "U05455",
+    "name": "Tyler David",
+    "email": "klara@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03706', 'B06256', 'B07290']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Cole-Hernandez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07595', 'B08184']"
+}

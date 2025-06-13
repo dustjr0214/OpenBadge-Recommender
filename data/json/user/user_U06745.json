@@ -1,0 +1,14 @@
+{
+    "user_id": "U06745",
+    "name": "Diane Gardner",
+    "email": "camachoamy@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09158', 'B02757', 'B05447', 'B09919', 'B07162']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Miller, Harris and Scott for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06326', 'B07133', 'B02955', 'B02543', 'B04700']"
+}

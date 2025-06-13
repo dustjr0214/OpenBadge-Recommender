@@ -1,0 +1,14 @@
+{
+    "user_id": "U03613",
+    "name": "Heather Salas",
+    "email": "ashleycardenas@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00439', 'B00157', 'B08036']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Lara-Jenkins for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02766', 'B03332']"
+}

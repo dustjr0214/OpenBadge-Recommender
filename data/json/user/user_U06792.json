@@ -1,0 +1,14 @@
+{
+    "user_id": "U06792",
+    "name": "Juan Jenkins",
+    "email": "brownbrittany@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01075', 'B09141', 'B05131']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Pittman PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02018",
+    "name": "Francisco Hudson",
+    "email": "mannmargaret@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00210']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Hartman, Welch and Stone for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07461', 'B09862', 'B07883', 'B06551']"
+}

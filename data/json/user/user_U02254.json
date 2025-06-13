@@ -1,0 +1,14 @@
+{
+    "user_id": "U02254",
+    "name": "Aaron Mccormick",
+    "email": "julie38@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Velasquez-Curtis for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07983', 'B06901', 'B03113']"
+}

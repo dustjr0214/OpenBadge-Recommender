@@ -1,0 +1,14 @@
+{
+    "user_id": "U08292",
+    "name": "Laura Robertson",
+    "email": "brucekeith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00791']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Salas-Torres for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06835', 'B01750', 'B02597', 'B01760']"
+}

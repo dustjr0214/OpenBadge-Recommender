@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09157",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Deep Learning']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02310', 'B01869']"
+}

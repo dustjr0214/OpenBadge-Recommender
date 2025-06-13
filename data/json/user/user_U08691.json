@@ -1,0 +1,14 @@
+{
+    "user_id": "U08691",
+    "name": "Dennis Watkins",
+    "email": "stephenhensley@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Cline, Holmes and Baker for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06130', 'B06252', 'B01576']"
+}

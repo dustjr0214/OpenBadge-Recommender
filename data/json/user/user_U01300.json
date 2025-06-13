@@ -1,0 +1,14 @@
+{
+    "user_id": "U01300",
+    "name": "Glen Abbott",
+    "email": "elizabethmorse@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08917', 'B08964', 'B04783', 'B01414', 'B06151']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Mueller-Mcdonald for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00360', 'B06704', 'B06699', 'B00216', 'B08942']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08506",
+    "name": "Phillip Yates",
+    "email": "amitchell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08414', 'B09341']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Larson-Lewis for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02761', 'B02419']"
+}

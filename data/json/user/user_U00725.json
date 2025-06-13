@@ -1,0 +1,14 @@
+{
+    "user_id": "U00725",
+    "name": "Ellen Cowan",
+    "email": "qmorales@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07173', 'B01586', 'B04503']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Moore-Brady for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05091', 'B05573', 'B06695']"
+}

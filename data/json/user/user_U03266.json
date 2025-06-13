@@ -1,0 +1,14 @@
+{
+    "user_id": "U03266",
+    "name": "Adam Moore",
+    "email": "mortonmario@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01308', 'B04195']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Reyes PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05563', 'B02454']"
+}

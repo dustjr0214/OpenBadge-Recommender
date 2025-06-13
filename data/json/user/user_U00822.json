@@ -1,0 +1,14 @@
+{
+    "user_id": "U00822",
+    "name": "Kimberly Patterson",
+    "email": "perrykenneth@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00638', 'B05314', 'B05168', 'B09248', 'B02216']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Hensley, Avila and Alvarado for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00375', 'B08555', 'B01250', 'B06967', 'B08565']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06249",
+    "name": "Jesse Perez",
+    "email": "tyler63@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Wilson and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

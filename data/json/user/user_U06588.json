@@ -1,0 +1,14 @@
+{
+    "user_id": "U06588",
+    "name": "Kayla Zuniga",
+    "email": "vanessaroberts@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03135', 'B08637']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Williams Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09653']"
+}

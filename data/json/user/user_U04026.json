@@ -1,0 +1,14 @@
+{
+    "user_id": "U04026",
+    "name": "Steve Rice",
+    "email": "bwalsh@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06757', 'B06662', 'B06599']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Jones PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07584', 'B09839', 'B07773']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02907",
+    "name": "Robert Wallace",
+    "email": "taylorthomas@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Chan-Jones for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

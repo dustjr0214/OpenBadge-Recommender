@@ -1,0 +1,14 @@
+{
+    "user_id": "U03819",
+    "name": "Christopher Morrow",
+    "email": "hwolfe@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04924', 'B09514', 'B05175']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Warner and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02201']"
+}

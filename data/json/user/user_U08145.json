@@ -1,0 +1,14 @@
+{
+    "user_id": "U08145",
+    "name": "Melanie Anderson",
+    "email": "christopher51@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Sandoval, Brewer and Thomas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02579', 'B00608', 'B02823', 'B03372', 'B03460']"
+}

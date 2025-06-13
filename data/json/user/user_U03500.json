@@ -1,0 +1,14 @@
+{
+    "user_id": "U03500",
+    "name": "Amy Davis",
+    "email": "deankatrina@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09423']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Werner-Alvarado for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00566', 'B08009', 'B01548', 'B04905']"
+}

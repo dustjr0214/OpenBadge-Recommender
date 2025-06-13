@@ -1,0 +1,14 @@
+{
+    "user_id": "U04500",
+    "name": "Helen Rodriguez",
+    "email": "cooperchristopher@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Cooper-Greer for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08009', 'B04576']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05834",
+    "name": "Mrs. Erica Swanson",
+    "email": "bryan15@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01650', 'B07678', 'B06500']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Velazquez, Peterson and Skinner for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

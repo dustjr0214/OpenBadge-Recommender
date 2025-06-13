@@ -1,0 +1,14 @@
+{
+    "user_id": "U07008",
+    "name": "James Sullivan",
+    "email": "cabrerasarah@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00367', 'B07132', 'B05273', 'B09529']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Burton, Dalton and Carr for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00115', 'B00704', 'B02072']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05556",
+    "name": "Gloria Burgess",
+    "email": "jennifer33@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01554']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Huffman-Stone for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02655', 'B08134', 'B07272', 'B00967']"
+}

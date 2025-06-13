@@ -1,0 +1,14 @@
+{
+    "user_id": "U01610",
+    "name": "Deborah Bullock",
+    "email": "zjennings@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02365', 'B02546', 'B06904', 'B09150', 'B04005']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Perez and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07456', 'B08547', 'B06151', 'B05390']"
+}

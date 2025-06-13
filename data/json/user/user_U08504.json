@@ -1,0 +1,14 @@
+{
+    "user_id": "U08504",
+    "name": "Cassandra Johnson",
+    "email": "amanda31@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Day, Miller and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08375']"
+}

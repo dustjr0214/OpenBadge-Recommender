@@ -1,0 +1,14 @@
+{
+    "user_id": "U04858",
+    "name": "Alexandra Arnold",
+    "email": "smithmichael@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05118', 'B01251']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hayes-Reyes for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08051', 'B01797', 'B01209', 'B01966', 'B00919']"
+}

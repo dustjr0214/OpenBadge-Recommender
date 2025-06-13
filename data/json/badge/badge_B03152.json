@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03152",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Cybersecurity']",
+    "competency": "['Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

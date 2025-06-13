@@ -1,0 +1,14 @@
+{
+    "user_id": "U08756",
+    "name": "Diane Garcia",
+    "email": "hlowery@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00796', 'B03919', 'B05171']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cisneros, Parker and Franco for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06621', 'B07966']"
+}

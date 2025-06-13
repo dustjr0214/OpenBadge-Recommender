@@ -1,0 +1,14 @@
+{
+    "user_id": "U09372",
+    "name": "Sydney Dudley",
+    "email": "johnsonkevin@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00846']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Moody, Harrison and Allen for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03946', 'B08039', 'B06763', 'B03730']"
+}

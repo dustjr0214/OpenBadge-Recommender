@@ -1,0 +1,14 @@
+{
+    "user_id": "U02035",
+    "name": "Scott Walters",
+    "email": "ywilliams@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01971', 'B01625', 'B06196']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Olson, Carrillo and Burke for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04664",
+    "name": "Mr. George Kelly",
+    "email": "erush@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06650', 'B07591', 'B05967']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Mcintosh LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00495', 'B08688']"
+}

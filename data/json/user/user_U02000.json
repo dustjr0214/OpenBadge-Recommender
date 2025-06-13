@@ -1,0 +1,14 @@
+{
+    "user_id": "U02000",
+    "name": "Jessica Matthews",
+    "email": "birdalicia@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04092']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Keith-Haley for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02682', 'B00126', 'B01191']"
+}

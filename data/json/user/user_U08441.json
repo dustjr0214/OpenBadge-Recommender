@@ -1,0 +1,14 @@
+{
+    "user_id": "U08441",
+    "name": "Matthew Henderson",
+    "email": "owensluke@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06042', 'B02644', 'B02241', 'B03143']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Sullivan Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07694', 'B01310', 'B09114', 'B08829', 'B08447']"
+}

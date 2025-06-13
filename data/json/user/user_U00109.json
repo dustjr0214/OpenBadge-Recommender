@@ -1,0 +1,14 @@
+{
+    "user_id": "U00109",
+    "name": "Regina Harmon",
+    "email": "obailey@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02636', 'B04081']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Mann PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

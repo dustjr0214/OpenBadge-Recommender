@@ -1,0 +1,14 @@
+{
+    "user_id": "U04303",
+    "name": "Shelley Wiley",
+    "email": "sarahsmith@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05931', 'B01654', 'B01215', 'B05779']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Jones, Keller and Anderson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00987']"
+}

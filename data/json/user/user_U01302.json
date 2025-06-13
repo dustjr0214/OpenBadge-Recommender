@@ -1,0 +1,14 @@
+{
+    "user_id": "U01302",
+    "name": "Barry Wright",
+    "email": "omurphy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07395', 'B02106', 'B03536']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Gordon LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06972', 'B01636', 'B04532', 'B03588']"
+}

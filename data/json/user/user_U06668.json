@@ -1,0 +1,14 @@
+{
+    "user_id": "U06668",
+    "name": "Melissa Kim",
+    "email": "daniel33@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05814', 'B07566', 'B06959', 'B02204']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Jackson-Bennett for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04406', 'B03545', 'B01957', 'B09061']"
+}

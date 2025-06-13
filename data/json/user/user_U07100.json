@@ -1,0 +1,14 @@
+{
+    "user_id": "U07100",
+    "name": "James Welch",
+    "email": "samuelleach@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01145', 'B07133', 'B01545', 'B00981', 'B09530']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Leblanc and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02495', 'B04019', 'B09749', 'B06258']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01394",
+    "name": "Michael House",
+    "email": "mary29@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09976', 'B08343']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Richards and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03617', 'B06664', 'B02251', 'B04258']"
+}

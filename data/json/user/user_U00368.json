@@ -1,0 +1,14 @@
+{
+    "user_id": "U00368",
+    "name": "Kimberly Phillips",
+    "email": "tracystewart@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01165', 'B03470', 'B09130']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Becker, Webb and Hubbard for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03742', 'B02821', 'B00879']"
+}

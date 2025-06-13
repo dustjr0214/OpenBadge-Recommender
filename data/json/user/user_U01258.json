@@ -1,0 +1,14 @@
+{
+    "user_id": "U01258",
+    "name": "Kristy Holland",
+    "email": "njones@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01634', 'B05896', 'B02473', 'B01664']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Hull, Cooper and Mathis for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05829', 'B04121', 'B04496']"
+}

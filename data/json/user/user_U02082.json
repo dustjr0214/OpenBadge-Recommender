@@ -1,0 +1,14 @@
+{
+    "user_id": "U02082",
+    "name": "Jacqueline Kerr",
+    "email": "jamesflores@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07361', 'B07684', 'B07354']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Powers, Martin and Baker for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02793', 'B09857', 'B05386']"
+}

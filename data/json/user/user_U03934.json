@@ -1,0 +1,14 @@
+{
+    "user_id": "U03934",
+    "name": "Lawrence Mercado",
+    "email": "daniel13@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00772', 'B08871']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Waller Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03499', 'B07497', 'B06280', 'B03576']"
+}

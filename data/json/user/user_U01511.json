@@ -1,0 +1,14 @@
+{
+    "user_id": "U01511",
+    "name": "Brenda Allen",
+    "email": "zbailey@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09640', 'B05397', 'B06762']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Fisher-Greer for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01636']"
+}

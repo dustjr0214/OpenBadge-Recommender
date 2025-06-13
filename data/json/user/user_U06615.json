@@ -1,0 +1,14 @@
+{
+    "user_id": "U06615",
+    "name": "Angela Ross",
+    "email": "rollinsheather@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04662', 'B02369']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Patterson, Smith and Fleming for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08825', 'B05435', 'B02059', 'B06805']"
+}

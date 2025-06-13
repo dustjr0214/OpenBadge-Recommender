@@ -1,0 +1,14 @@
+{
+    "user_id": "U09941",
+    "name": "Jennifer Jones",
+    "email": "xray@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09588', 'B03338', 'B09432', 'B06830']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Frazier-Myers for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

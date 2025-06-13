@@ -1,0 +1,14 @@
+{
+    "user_id": "U08100",
+    "name": "Morgan Schmidt",
+    "email": "cynthia36@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04685', 'B00936', 'B01020']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Lee Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00467', 'B09718', 'B04155', 'B03606']"
+}

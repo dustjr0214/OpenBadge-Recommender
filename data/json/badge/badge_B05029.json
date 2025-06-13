@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05029",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency": "['Cloud Computing']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01232', 'B07268']"
+}

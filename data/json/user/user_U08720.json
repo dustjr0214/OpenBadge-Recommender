@@ -1,0 +1,14 @@
+{
+    "user_id": "U08720",
+    "name": "Susan Byrd",
+    "email": "lucasshawn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09110', 'B05840', 'B09659', 'B07002', 'B04210']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Williams Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00086', 'B01392', 'B09069', 'B02785', 'B01034']"
+}

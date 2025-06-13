@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00876",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Analytical Skills', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01866', 'B09001']"
+}

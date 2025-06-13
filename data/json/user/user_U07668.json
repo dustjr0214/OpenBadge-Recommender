@@ -1,0 +1,14 @@
+{
+    "user_id": "U07668",
+    "name": "Andrew Davis",
+    "email": "rpatterson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08392']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Watson-Frank for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09983', 'B07546', 'B01248']"
+}

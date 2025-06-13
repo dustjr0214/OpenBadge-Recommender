@@ -1,0 +1,14 @@
+{
+    "user_id": "U04445",
+    "name": "Jeremy Campbell",
+    "email": "ronaldgarcia@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09415', 'B04824', 'B01985', 'B07564']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Patel-Price for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

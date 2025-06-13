@@ -1,0 +1,14 @@
+{
+    "user_id": "U08956",
+    "name": "Katherine Jordan",
+    "email": "gregorylewis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05048', 'B08669']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Brown-Colon for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03841', 'B00108', 'B02575', 'B07875', 'B00755']"
+}

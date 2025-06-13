@@ -1,0 +1,14 @@
+{
+    "user_id": "U07077",
+    "name": "Peter Mckinney",
+    "email": "kenneth23@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Casey-Thompson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03592']"
+}

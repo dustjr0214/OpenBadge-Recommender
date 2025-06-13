@@ -1,0 +1,14 @@
+{
+    "user_id": "U08949",
+    "name": "Victoria Fields",
+    "email": "carlossalas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04820', 'B05223', 'B02146', 'B06411']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Parker-Harris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02760', 'B07287', 'B05574']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06548",
+    "name": "John Knight",
+    "email": "kellerjeffrey@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06626', 'B07178']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Wright, Barnes and Hubbard for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02003', 'B09336', 'B02377', 'B08312', 'B08733']"
+}

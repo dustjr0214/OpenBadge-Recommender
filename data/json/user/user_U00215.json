@@ -1,0 +1,14 @@
+{
+    "user_id": "U00215",
+    "name": "Thomas Abbott",
+    "email": "jennifergarcia@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Gates-Green for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00335', 'B04645']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09331",
+    "name": "Elizabeth Wilson",
+    "email": "valenciajustin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02689', 'B09819', 'B01366']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Johnson Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05821', 'B03473']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05772",
+    "name": "Christopher Grimes",
+    "email": "nbradford@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04222']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Young, Clark and Edwards for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04267', 'B05641', 'B04417', 'B01204']"
+}

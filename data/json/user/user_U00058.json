@@ -1,0 +1,14 @@
+{
+    "user_id": "U00058",
+    "name": "Kimberly Cisneros",
+    "email": "drewjones@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Cain, Butler and Castro for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

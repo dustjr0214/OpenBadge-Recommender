@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09884",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Cybersecurity', 'Python']",
+    "competency": "['Leadership', 'Data Analysis', 'UI/UX']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

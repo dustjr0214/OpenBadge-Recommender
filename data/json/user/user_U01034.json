@@ -1,0 +1,14 @@
+{
+    "user_id": "U01034",
+    "name": "Elizabeth Brown",
+    "email": "morankari@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04047', 'B06862', 'B03650']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Gomez Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01086']"
+}

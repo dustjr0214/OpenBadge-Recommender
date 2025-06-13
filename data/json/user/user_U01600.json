@@ -1,0 +1,14 @@
+{
+    "user_id": "U01600",
+    "name": "Veronica Trujillo",
+    "email": "kelly32@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01763']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Johnson, Bradford and Crawford for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

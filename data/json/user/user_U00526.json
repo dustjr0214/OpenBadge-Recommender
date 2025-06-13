@@ -1,0 +1,14 @@
+{
+    "user_id": "U00526",
+    "name": "Kaylee Larson",
+    "email": "cpearson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02569', 'B00772', 'B05168']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Aguilar Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08488', 'B07370', 'B05822', 'B00026', 'B07035']"
+}

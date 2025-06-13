@@ -1,0 +1,14 @@
+{
+    "user_id": "U04344",
+    "name": "Rodney Becker",
+    "email": "john48@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07911', 'B05625', 'B03602']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Flores, Haley and Schultz for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00615', 'B01636']"
+}

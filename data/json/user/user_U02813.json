@@ -1,0 +1,14 @@
+{
+    "user_id": "U02813",
+    "name": "Tracy Snyder",
+    "email": "hpatel@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01167', 'B01467']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Burke, Brennan and Perkins for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00155', 'B03728', 'B05060']"
+}

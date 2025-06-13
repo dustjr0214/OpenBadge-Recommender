@@ -1,0 +1,14 @@
+{
+    "user_id": "U09716",
+    "name": "Douglas Michael",
+    "email": "ununez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00892', 'B00382', 'B01537']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Alexander, Archer and Barron for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09298', 'B09394', 'B02323']"
+}

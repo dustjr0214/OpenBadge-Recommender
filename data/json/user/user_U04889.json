@@ -1,0 +1,14 @@
+{
+    "user_id": "U04889",
+    "name": "Mary Garcia",
+    "email": "deborah28@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00257', 'B07710', 'B03343', 'B05120', 'B01994']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Bernard PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07637', 'B09000']"
+}

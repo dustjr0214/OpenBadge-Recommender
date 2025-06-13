@@ -1,0 +1,14 @@
+{
+    "user_id": "U04062",
+    "name": "Sarah Smith DDS",
+    "email": "cdavis@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06755', 'B09330', 'B02611']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Gill PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05834']"
+}

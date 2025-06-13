@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01714",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Analytical Skills', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

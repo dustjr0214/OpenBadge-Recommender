@@ -1,0 +1,14 @@
+{
+    "user_id": "U00757",
+    "name": "Cynthia Robbins",
+    "email": "michaellopez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Bates-Swanson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01022', 'B03470', 'B03969', 'B09003']"
+}

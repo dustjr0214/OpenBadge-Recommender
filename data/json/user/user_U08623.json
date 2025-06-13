@@ -1,0 +1,14 @@
+{
+    "user_id": "U08623",
+    "name": "James Stone",
+    "email": "nunezmonica@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00197', 'B04184', 'B08237', 'B05850', 'B04359']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Oliver Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01190']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00873",
+    "name": "Cory Harris MD",
+    "email": "wpatterson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00309', 'B05119', 'B04985', 'B07514', 'B00343']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Jones, Sanford and Pennington for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

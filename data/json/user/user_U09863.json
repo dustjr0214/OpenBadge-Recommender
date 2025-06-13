@@ -1,0 +1,14 @@
+{
+    "user_id": "U09863",
+    "name": "Amanda Greene",
+    "email": "leeangela@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00824', 'B07994']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Brady-Mitchell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01804', 'B07900']"
+}

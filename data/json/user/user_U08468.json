@@ -1,0 +1,14 @@
+{
+    "user_id": "U08468",
+    "name": "Heather Dickson",
+    "email": "ericrich@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01320']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Jones, Hoffman and Flynn for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07116']"
+}

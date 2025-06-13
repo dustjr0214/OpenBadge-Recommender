@@ -1,0 +1,14 @@
+{
+    "user_id": "U06336",
+    "name": "Katie Ortiz",
+    "email": "travis72@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02327', 'B09596', 'B02056', 'B09590', 'B04173']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Alexander, Miller and Ryan for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08480', 'B07245', 'B07788', 'B08063']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08682",
+    "name": "Cynthia Johnson",
+    "email": "colleenmcknight@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01428']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Adams, Melendez and Robinson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03195', 'B06597', 'B00033', 'B00430', 'B09345']"
+}

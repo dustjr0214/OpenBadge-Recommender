@@ -1,0 +1,14 @@
+{
+    "user_id": "U06794",
+    "name": "Henry Tanner",
+    "email": "donaldsondanielle@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Arellano Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

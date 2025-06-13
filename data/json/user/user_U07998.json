@@ -1,0 +1,14 @@
+{
+    "user_id": "U07998",
+    "name": "Gary Valdez",
+    "email": "chowe@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09985', 'B00196', 'B02097', 'B09187', 'B01559']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Roberts, Stanley and Dawson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04416', 'B02260', 'B05816']"
+}

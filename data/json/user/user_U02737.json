@@ -1,0 +1,14 @@
+{
+    "user_id": "U02737",
+    "name": "Samantha Cook",
+    "email": "jennifer08@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09298', 'B06170', 'B03055']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Bowers-Gray for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

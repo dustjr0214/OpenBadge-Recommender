@@ -1,0 +1,14 @@
+{
+    "user_id": "U01697",
+    "name": "William Baker",
+    "email": "warnermichael@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00207', 'B03380', 'B07366', 'B08358', 'B04757']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Stafford, Wright and Lawson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00525', 'B05882', 'B02306']"
+}

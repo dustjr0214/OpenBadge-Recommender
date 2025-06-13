@@ -1,0 +1,14 @@
+{
+    "user_id": "U04087",
+    "name": "Timothy Lopez",
+    "email": "ayaladavid@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01782', 'B00557', 'B07411', 'B08171', 'B03997']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Donaldson-Mcdonald for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04882', 'B03604', 'B04339', 'B08536']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05263",
+    "name": "Adam Jensen",
+    "email": "edwardreese@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02165', 'B02863', 'B09013']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Vasquez-Thompson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

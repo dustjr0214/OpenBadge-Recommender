@@ -1,0 +1,14 @@
+{
+    "user_id": "U02165",
+    "name": "Michael Davis",
+    "email": "waltersheather@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07750']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Fisher-Juarez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02699', 'B05185']"
+}

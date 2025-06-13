@@ -1,0 +1,14 @@
+{
+    "user_id": "U03025",
+    "name": "Brandon Rice",
+    "email": "gsantos@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01039', 'B00039']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Campos-Wood for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02138', 'B09837', 'B04630', 'B07581']"
+}

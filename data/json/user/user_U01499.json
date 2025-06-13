@@ -1,0 +1,14 @@
+{
+    "user_id": "U01499",
+    "name": "Peter Cervantes",
+    "email": "michele96@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07206', 'B09699']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Morris PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06879']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01545",
+    "name": "Robert Garza",
+    "email": "victoriathomas@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09258', 'B09874', 'B02452']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Nicholson Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04758', 'B05874', 'B01559']"
+}

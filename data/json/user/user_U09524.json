@@ -1,0 +1,14 @@
+{
+    "user_id": "U09524",
+    "name": "Heidi Lee",
+    "email": "amy44@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00793', 'B02862', 'B06023', 'B00944']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Benson, Nicholson and Martin for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04674']"
+}

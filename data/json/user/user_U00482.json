@@ -1,0 +1,14 @@
+{
+    "user_id": "U00482",
+    "name": "Jason Ross",
+    "email": "chadrodgers@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07170', 'B01092', 'B03760']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hansen Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04274', 'B09474', 'B04714', 'B09723']"
+}

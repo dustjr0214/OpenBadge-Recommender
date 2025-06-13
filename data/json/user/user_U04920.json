@@ -1,0 +1,14 @@
+{
+    "user_id": "U04920",
+    "name": "Elizabeth Torres",
+    "email": "megan87@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02893', 'B05120', 'B06622', 'B05736']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Green and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

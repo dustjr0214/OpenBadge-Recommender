@@ -1,0 +1,14 @@
+{
+    "user_id": "U03958",
+    "name": "Deborah Williams",
+    "email": "donald53@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01108', 'B05503']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Brown, Miller and Brown for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02520', 'B05386', 'B01191', 'B09680', 'B02175']"
+}

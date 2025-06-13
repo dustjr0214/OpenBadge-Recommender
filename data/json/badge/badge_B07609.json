@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07609",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'DevOps', 'Deep Learning']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

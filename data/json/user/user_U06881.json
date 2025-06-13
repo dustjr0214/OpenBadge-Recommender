@@ -1,0 +1,14 @@
+{
+    "user_id": "U06881",
+    "name": "Jon Sheppard",
+    "email": "whernandez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04861', 'B03950', 'B04223']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Marsh Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03714', 'B07789', 'B03538', 'B08340']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04898",
+    "name": "Gabriel Baker",
+    "email": "jbrown@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02371', 'B07771', 'B04586', 'B05999']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Daniel-Allen for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01306",
+    "name": "Kristin Wright",
+    "email": "jason40@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02970', 'B01368', 'B09426', 'B00145', 'B07206']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mendoza-Marshall for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01066",
+    "name": "Debra Lane",
+    "email": "robinsonwilliam@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06833', 'B02582', 'B07292', 'B04899']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Fischer, Maxwell and Maldonado for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00424', 'B01755', 'B06701', 'B01834']"
+}

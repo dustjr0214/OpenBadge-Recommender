@@ -1,0 +1,14 @@
+{
+    "user_id": "U09929",
+    "name": "Alexander Russell",
+    "email": "ovance@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07653', 'B08666', 'B00581', 'B01114']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Smith Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08133']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01932",
+    "name": "Jordan Brown",
+    "email": "vanessa91@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04726', 'B09564']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Cherry Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01064', 'B02947']"
+}

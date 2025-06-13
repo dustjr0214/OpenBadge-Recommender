@@ -1,0 +1,14 @@
+{
+    "user_id": "U04050",
+    "name": "Sarah Walker",
+    "email": "amyjordan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09128', 'B08239', 'B06040', 'B03344', 'B07294']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Manning-Bell for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06903']"
+}

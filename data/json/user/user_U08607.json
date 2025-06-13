@@ -1,0 +1,14 @@
+{
+    "user_id": "U08607",
+    "name": "Bobby Porter",
+    "email": "dgarcia@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08369', 'B05324', 'B01200', 'B09682']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Henry-Nash for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02417', 'B09963', 'B05560', 'B02887']"
+}

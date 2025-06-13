@@ -1,0 +1,14 @@
+{
+    "user_id": "U02279",
+    "name": "James Martinez",
+    "email": "tgilmore@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07563', 'B06203', 'B08006']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Reeves-Morrison for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06404', 'B09682', 'B02323', 'B08444']"
+}

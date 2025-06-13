@@ -1,0 +1,14 @@
+{
+    "user_id": "U06694",
+    "name": "Jeff Murray",
+    "email": "zstephens@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01497']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Ferguson, Perry and Gray for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02811']"
+}

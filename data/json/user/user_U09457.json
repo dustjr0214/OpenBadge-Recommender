@@ -1,0 +1,14 @@
+{
+    "user_id": "U09457",
+    "name": "Lori Mann",
+    "email": "mindyclark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05783', 'B08874']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Anderson and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07115']"
+}

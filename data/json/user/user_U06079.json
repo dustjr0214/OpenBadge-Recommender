@@ -1,0 +1,14 @@
+{
+    "user_id": "U06079",
+    "name": "Jordan Marshall",
+    "email": "kdominguez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07888']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Alvarez and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07189']"
+}

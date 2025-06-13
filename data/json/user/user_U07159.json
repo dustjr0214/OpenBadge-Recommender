@@ -1,0 +1,14 @@
+{
+    "user_id": "U07159",
+    "name": "Angela Harris",
+    "email": "jessicaramsey@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09015', 'B05935', 'B09758', 'B00116', 'B02237']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Wallace-Shepard for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09121', 'B07852', 'B09603', 'B00981']"
+}

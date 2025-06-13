@@ -1,0 +1,14 @@
+{
+    "user_id": "U01407",
+    "name": "Robert Andrews",
+    "email": "nreed@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05096', 'B05084', 'B08092', 'B07254']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Peck, Wilson and Grant for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

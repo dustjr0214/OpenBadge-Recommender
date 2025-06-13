@@ -1,0 +1,14 @@
+{
+    "user_id": "U06920",
+    "name": "Anthony Miller",
+    "email": "traceyosborn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05561', 'B00588', 'B01544', 'B05426']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Rush-Klein for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02811', 'B02236', 'B05516']"
+}

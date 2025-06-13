@@ -1,0 +1,14 @@
+{
+    "user_id": "U07041",
+    "name": "Benjamin Leonard",
+    "email": "kvasquez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01880', 'B00852', 'B07984']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Bailey-Morse for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05434', 'B07645', 'B02046', 'B06021']"
+}

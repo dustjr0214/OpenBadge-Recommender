@@ -1,0 +1,14 @@
+{
+    "user_id": "U04780",
+    "name": "Paul Farmer",
+    "email": "robertwilson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03225', 'B06290', 'B05606', 'B04669']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Schroeder-Meyer for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06454']"
+}

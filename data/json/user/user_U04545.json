@@ -1,0 +1,14 @@
+{
+    "user_id": "U04545",
+    "name": "Jesse Thompson",
+    "email": "wherring@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06214', 'B01288']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Melendez-Wallace for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07424', 'B08345']"
+}

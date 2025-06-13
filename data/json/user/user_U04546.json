@@ -1,0 +1,14 @@
+{
+    "user_id": "U04546",
+    "name": "Patricia Sanders",
+    "email": "mwilcox@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00482']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Collins-Burton for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03738', 'B05618', 'B06714', 'B08158']"
+}

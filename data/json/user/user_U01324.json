@@ -1,0 +1,14 @@
+{
+    "user_id": "U01324",
+    "name": "Amanda Blake",
+    "email": "davidrandall@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07412']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rose-Fields for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03795', 'B06868', 'B01162', 'B07339', 'B05011']"
+}

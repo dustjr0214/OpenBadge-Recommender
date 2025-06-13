@@ -1,0 +1,14 @@
+{
+    "user_id": "U01124",
+    "name": "Taylor Hunter",
+    "email": "heathertorres@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05521', 'B02059', 'B01019', 'B09093']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Torres Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01580']"
+}

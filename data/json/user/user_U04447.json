@@ -1,0 +1,14 @@
+{
+    "user_id": "U04447",
+    "name": "Rick Zuniga",
+    "email": "obarnes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00664', 'B09736', 'B04842']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Mills, Russell and Jones for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03902', 'B04667', 'B03131', 'B02657', 'B02997']"
+}

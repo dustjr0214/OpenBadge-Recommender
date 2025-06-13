@@ -1,0 +1,14 @@
+{
+    "user_id": "U08801",
+    "name": "Brandon Ellis",
+    "email": "changchristopher@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02014', 'B06109', 'B06119', 'B02925', 'B05858']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Anderson, Powell and Kirk for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06538']"
+}

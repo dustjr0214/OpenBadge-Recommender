@@ -1,0 +1,14 @@
+{
+    "user_id": "U02574",
+    "name": "Philip Scott",
+    "email": "qclark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Lee-Olson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05012', 'B08762', 'B03159']"
+}

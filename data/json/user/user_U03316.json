@@ -1,0 +1,14 @@
+{
+    "user_id": "U03316",
+    "name": "Craig Cooper",
+    "email": "larryshields@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06538', 'B01337']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Carlson-Gray for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03601']"
+}

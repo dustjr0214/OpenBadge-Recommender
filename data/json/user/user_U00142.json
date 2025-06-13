@@ -1,0 +1,14 @@
+{
+    "user_id": "U00142",
+    "name": "Amber Riley",
+    "email": "robertpatterson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08603', 'B05818']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Jones, Francis and Rodriguez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07982']"
+}

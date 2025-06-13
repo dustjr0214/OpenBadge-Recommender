@@ -1,0 +1,14 @@
+{
+    "user_id": "U08752",
+    "name": "Johnny Carter",
+    "email": "davidwatts@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gibson, Young and Cordova for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02543', 'B08620', 'B06374', 'B06701', 'B02704']"
+}

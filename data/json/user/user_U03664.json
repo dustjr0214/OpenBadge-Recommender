@@ -1,0 +1,14 @@
+{
+    "user_id": "U03664",
+    "name": "Christina Sanchez",
+    "email": "brian10@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Martin LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02011', 'B01783', 'B02477']"
+}

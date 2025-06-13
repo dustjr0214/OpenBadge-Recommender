@@ -1,0 +1,14 @@
+{
+    "user_id": "U03319",
+    "name": "Katherine Collins",
+    "email": "michaeljackson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06041', 'B01943', 'B08853', 'B03380']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Smith-Taylor for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09065', 'B02967', 'B03976', 'B00717']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02426",
+    "name": "Nancy Carter",
+    "email": "brownjames@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03770']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Williams, Lang and Lane for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02952', 'B00696', 'B08357', 'B07465', 'B07498']"
+}

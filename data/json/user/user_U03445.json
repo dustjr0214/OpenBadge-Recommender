@@ -1,0 +1,14 @@
+{
+    "user_id": "U03445",
+    "name": "Matthew Gonzalez PhD",
+    "email": "davidfreeman@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07620', 'B09236']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Lawson, Miller and Gutierrez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

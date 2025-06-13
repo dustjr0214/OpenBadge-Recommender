@@ -1,0 +1,14 @@
+{
+    "user_id": "U04354",
+    "name": "Mark Powell",
+    "email": "kaylabrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09409']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Murray, Bush and Alvarado for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05553', 'B03250', 'B07151']"
+}

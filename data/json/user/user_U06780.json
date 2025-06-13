@@ -1,0 +1,14 @@
+{
+    "user_id": "U06780",
+    "name": "Kimberly Hernandez",
+    "email": "jimmy76@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07874', 'B07820', 'B06846', 'B00818']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Jones Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08905', 'B04444']"
+}

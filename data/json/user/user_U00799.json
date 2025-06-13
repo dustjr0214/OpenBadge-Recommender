@@ -1,0 +1,14 @@
+{
+    "user_id": "U00799",
+    "name": "Richard Parker",
+    "email": "deannajoyce@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09790', 'B03618', 'B05812', 'B06845']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Sanchez, Reid and Franco for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02906', 'B06669', 'B08576', 'B05247']"
+}

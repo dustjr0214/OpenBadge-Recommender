@@ -1,0 +1,14 @@
+{
+    "user_id": "U02255",
+    "name": "Amanda Maynard",
+    "email": "jessicagraves@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00362', 'B08807']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Downs-Johnson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08378', 'B04826']"
+}

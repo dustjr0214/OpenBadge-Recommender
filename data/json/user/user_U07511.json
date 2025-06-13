@@ -1,0 +1,14 @@
+{
+    "user_id": "U07511",
+    "name": "Lisa Jones",
+    "email": "ashley63@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00188', 'B09883', 'B03482']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cardenas, Scott and Hines for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08747', 'B02641', 'B06446', 'B02362']"
+}

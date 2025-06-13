@@ -1,0 +1,14 @@
+{
+    "user_id": "U04132",
+    "name": "Ashley Chapman",
+    "email": "ricedonna@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04412']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hill-Ortiz for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04835', 'B09540']"
+}

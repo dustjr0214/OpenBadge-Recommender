@@ -1,0 +1,14 @@
+{
+    "user_id": "U01668",
+    "name": "Kristin Green",
+    "email": "smithmichael@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04770', 'B00164', 'B06737', 'B07712']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Marshall, Bennett and Walker for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

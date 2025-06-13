@@ -1,0 +1,14 @@
+{
+    "user_id": "U03413",
+    "name": "Anna Blanchard",
+    "email": "yvettehall@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08057', 'B05294', 'B00609', 'B05722']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Schwartz-David for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04487', 'B06201', 'B01756', 'B02505', 'B01205']"
+}

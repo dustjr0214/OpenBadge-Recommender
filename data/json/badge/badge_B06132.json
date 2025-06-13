@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06132",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'SQL', 'Python']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06989']"
+}

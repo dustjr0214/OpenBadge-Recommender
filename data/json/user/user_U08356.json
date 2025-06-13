@@ -1,0 +1,14 @@
+{
+    "user_id": "U08356",
+    "name": "Christine Jones",
+    "email": "powelljoseph@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01994', 'B02783', 'B09689', 'B06619']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Smith, Smith and Hunt for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02336', 'B01846', 'B01051', 'B08861', 'B03681']"
+}

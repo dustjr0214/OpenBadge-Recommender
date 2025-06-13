@@ -1,0 +1,14 @@
+{
+    "user_id": "U01222",
+    "name": "Mary Campos",
+    "email": "tstephens@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02328', 'B04262']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Patel, Chang and Velazquez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04835', 'B00338', 'B07084', 'B01047']"
+}

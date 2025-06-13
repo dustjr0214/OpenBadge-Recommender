@@ -1,0 +1,14 @@
+{
+    "user_id": "U07106",
+    "name": "Christian Wilson",
+    "email": "kristin04@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08711', 'B00517', 'B07021', 'B00313', 'B04894']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Rodriguez, Elliott and Flores for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09044']"
+}

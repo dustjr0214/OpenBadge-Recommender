@@ -1,0 +1,14 @@
+{
+    "user_id": "U08952",
+    "name": "Heather Bowman",
+    "email": "monique95@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01687', 'B04644', 'B04495']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Costa, Pearson and Reid for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08879', 'B03819', 'B05108', 'B06126']"
+}

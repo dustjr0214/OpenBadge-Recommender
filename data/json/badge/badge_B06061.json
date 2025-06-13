@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06061",
+    "name": "Big Data Analyst",
+    "issuer": "edX",
+    "description": "Big Data Analyst badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency": "['Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01224', 'B04467']"
+}

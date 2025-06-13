@@ -1,0 +1,14 @@
+{
+    "user_id": "U08537",
+    "name": "Michael Johnson",
+    "email": "mauricemiller@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04195', 'B09858', 'B08064', 'B06078']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Gonzales, Trevino and Lewis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00656']"
+}

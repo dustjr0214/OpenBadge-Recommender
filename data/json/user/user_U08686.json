@@ -1,0 +1,14 @@
+{
+    "user_id": "U08686",
+    "name": "Thomas Garcia",
+    "email": "johnsongeorge@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01538', 'B09981', 'B07445']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Santos-Gonzalez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02668', 'B08734', 'B06703', 'B08336', 'B07602']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05530",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['DevOps', 'Creativity', 'Cybersecurity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07983', 'B07382']"
+}

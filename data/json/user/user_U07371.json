@@ -1,0 +1,14 @@
+{
+    "user_id": "U07371",
+    "name": "Joel Long",
+    "email": "vegaduane@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02390', 'B07599', 'B06731', 'B06157', 'B06590']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at White-Newton for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08117']"
+}

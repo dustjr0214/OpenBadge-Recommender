@@ -1,0 +1,14 @@
+{
+    "user_id": "U04796",
+    "name": "Todd Morgan",
+    "email": "lisagreen@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07897', 'B03168', 'B05370', 'B08817']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Houston, Yang and Mercado for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03423', 'B04734', 'B08898', 'B02970']"
+}

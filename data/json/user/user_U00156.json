@@ -1,0 +1,14 @@
+{
+    "user_id": "U00156",
+    "name": "Susan Mosley",
+    "email": "harmstrong@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01516', 'B07684', 'B08814', 'B09249']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rose-Young for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05499', 'B03739', 'B03536']"
+}

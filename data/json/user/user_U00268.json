@@ -1,0 +1,14 @@
+{
+    "user_id": "U00268",
+    "name": "Donna King",
+    "email": "mgeorge@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00434', 'B02958', 'B00262', 'B00357', 'B00626']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Fischer-Combs for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07429']"
+}

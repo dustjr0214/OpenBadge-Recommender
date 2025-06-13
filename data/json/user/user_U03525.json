@@ -1,0 +1,14 @@
+{
+    "user_id": "U03525",
+    "name": "Jared Page",
+    "email": "michaelpaul@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02473', 'B03766', 'B07535']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Williams-Martinez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01821', 'B07552', 'B08738', 'B04985', 'B07367']"
+}

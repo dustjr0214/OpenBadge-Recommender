@@ -1,0 +1,14 @@
+{
+    "user_id": "U06127",
+    "name": "Abigail Herrera",
+    "email": "nlewis@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02892']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Brown-Collins for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

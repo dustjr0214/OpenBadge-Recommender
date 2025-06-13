@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06040",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['Problem Solving', 'Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07029', 'B00849']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00976",
+    "name": "Dustin Brown",
+    "email": "joelhall@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06766', 'B03301', 'B05064', 'B06692']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Taylor, Kramer and May for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08270', 'B02021']"
+}

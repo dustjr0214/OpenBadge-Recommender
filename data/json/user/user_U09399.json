@@ -1,0 +1,14 @@
+{
+    "user_id": "U09399",
+    "name": "John Greer",
+    "email": "kennethfranklin@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03903', 'B00412', 'B03494', 'B02392']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Wilson, Harding and Hall for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

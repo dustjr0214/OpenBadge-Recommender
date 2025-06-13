@@ -1,0 +1,14 @@
+{
+    "user_id": "U02052",
+    "name": "Natalie Singleton",
+    "email": "jenny61@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06206', 'B07650', 'B08545']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Dudley-Carrillo for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

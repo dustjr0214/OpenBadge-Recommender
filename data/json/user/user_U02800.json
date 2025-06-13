@@ -1,0 +1,14 @@
+{
+    "user_id": "U02800",
+    "name": "Janet Ramos",
+    "email": "charleskelly@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03477', 'B05812', 'B02575', 'B06419']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Morris-Johnston for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02285', 'B03167', 'B03775', 'B09912', 'B03275']"
+}

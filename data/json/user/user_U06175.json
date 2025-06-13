@@ -1,0 +1,14 @@
+{
+    "user_id": "U06175",
+    "name": "Lisa Stephens",
+    "email": "fgonzalez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07026']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Pearson, Bartlett and Jones for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04392', 'B07376', 'B08495']"
+}

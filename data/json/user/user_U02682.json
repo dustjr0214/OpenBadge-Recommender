@@ -1,0 +1,14 @@
+{
+    "user_id": "U02682",
+    "name": "Jonathan Norton",
+    "email": "owoodward@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03523', 'B09237']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Salazar, Page and Williams for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

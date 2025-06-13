@@ -1,0 +1,14 @@
+{
+    "user_id": "U07704",
+    "name": "Timothy Lindsey",
+    "email": "donnacain@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00471']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Marsh-Gray for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09844', 'B02149', 'B00923']"
+}

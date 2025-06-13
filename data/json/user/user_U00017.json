@@ -1,0 +1,14 @@
+{
+    "user_id": "U00017",
+    "name": "Brendan Gibson",
+    "email": "esmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03286', 'B03071', 'B04842', 'B08532']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Harrison PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08998', 'B00489', 'B03616', 'B09871', 'B08466']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06118",
+    "name": "Jason Lowe",
+    "email": "igordon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05761', 'B08438']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Lawrence-Kelly for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09182', 'B04192', 'B03388', 'B05380']"
+}

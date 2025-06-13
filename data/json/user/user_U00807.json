@@ -1,0 +1,14 @@
+{
+    "user_id": "U00807",
+    "name": "Aaron Allen",
+    "email": "goodmaria@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Blair, Peck and Hayes for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08881', 'B08064', 'B09181']"
+}

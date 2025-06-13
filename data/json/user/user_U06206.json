@@ -1,0 +1,14 @@
+{
+    "user_id": "U06206",
+    "name": "Kendra Poole",
+    "email": "vangjohn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07254', 'B03212', 'B05690', 'B08364']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Irwin, Henderson and Moore for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07202']"
+}

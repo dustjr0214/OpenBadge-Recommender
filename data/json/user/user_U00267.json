@@ -1,0 +1,14 @@
+{
+    "user_id": "U00267",
+    "name": "Timothy Harris",
+    "email": "danielsmith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07506']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Simmons-Rogers for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06538', 'B07834']"
+}

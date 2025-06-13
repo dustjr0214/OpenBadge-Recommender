@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08995",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'Deep Learning']",
+    "competency": "['Machine Learning', 'Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03145', 'B08081']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02475",
+    "name": "Cassandra Martin",
+    "email": "hortonanthony@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02369', 'B02319', 'B03610', 'B03168']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Jennings Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08472', 'B03091']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03321",
+    "name": "Andrea Barr",
+    "email": "marcusallen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00657', 'B08475', 'B02077']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Anderson PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04387']"
+}

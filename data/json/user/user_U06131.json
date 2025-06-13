@@ -1,0 +1,14 @@
+{
+    "user_id": "U06131",
+    "name": "Daniel Miller",
+    "email": "mitchell43@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08641', 'B05968', 'B03184', 'B00110']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Garrett, Rodriguez and Sanchez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

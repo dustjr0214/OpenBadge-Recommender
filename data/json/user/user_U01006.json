@@ -1,0 +1,14 @@
+{
+    "user_id": "U01006",
+    "name": "Mary Hendrix",
+    "email": "ykennedy@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04492']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Nelson-Horn for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06981', 'B02459', 'B06857']"
+}

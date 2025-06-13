@@ -1,0 +1,14 @@
+{
+    "user_id": "U03961",
+    "name": "Christian King",
+    "email": "clinton87@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00142', 'B05550', 'B05235', 'B04275', 'B09397']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Keller Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06364', 'B09886', 'B05134', 'B00630']"
+}

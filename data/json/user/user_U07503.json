@@ -1,0 +1,14 @@
+{
+    "user_id": "U07503",
+    "name": "Stephanie Hernandez",
+    "email": "christophergarcia@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03369', 'B09349', 'B04361']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Scott Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02867', 'B03558', 'B02254']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01865",
+    "name": "George Dodson",
+    "email": "dwatkins@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03981', 'B03003']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Parker, Perez and Austin for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06545', 'B05262', 'B07687']"
+}

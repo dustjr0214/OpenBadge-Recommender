@@ -1,0 +1,14 @@
+{
+    "user_id": "U07761",
+    "name": "James Singleton",
+    "email": "reginaldmccoy@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07680']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Gilbert-Smith for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05921', 'B00638', 'B04301', 'B09629', 'B07814']"
+}

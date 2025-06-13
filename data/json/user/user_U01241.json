@@ -1,0 +1,14 @@
+{
+    "user_id": "U01241",
+    "name": "Daniel Moreno",
+    "email": "frederickkevin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07391', 'B05627']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Hancock-Moreno for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00930']"
+}

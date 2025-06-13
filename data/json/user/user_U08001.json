@@ -1,0 +1,14 @@
+{
+    "user_id": "U08001",
+    "name": "Laura Contreras",
+    "email": "lramos@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04832', 'B05879', 'B01362']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Weber-Ferguson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

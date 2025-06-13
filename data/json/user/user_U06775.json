@@ -1,0 +1,14 @@
+{
+    "user_id": "U06775",
+    "name": "Jason Johnson",
+    "email": "sheila82@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07962', 'B08655', 'B07800', 'B01447']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at James-Newton for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06568', 'B00326']"
+}

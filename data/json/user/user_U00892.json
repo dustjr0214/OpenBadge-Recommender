@@ -1,0 +1,14 @@
+{
+    "user_id": "U00892",
+    "name": "Kristen Barrett",
+    "email": "foxwesley@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07314', 'B05096']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Marshall, Gonzalez and Ortiz for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07388', 'B03754']"
+}

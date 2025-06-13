@@ -1,0 +1,14 @@
+{
+    "user_id": "U00121",
+    "name": "Jennifer Wagner",
+    "email": "jimmyjones@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03435', 'B09228', 'B08286', 'B01395']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Douglas for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07832', 'B06908', 'B09304']"
+}

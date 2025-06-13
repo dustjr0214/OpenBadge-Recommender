@@ -1,0 +1,14 @@
+{
+    "user_id": "U07827",
+    "name": "Thomas Crane",
+    "email": "amanda74@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07730', 'B03533']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Powell, Schroeder and James for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01883']"
+}

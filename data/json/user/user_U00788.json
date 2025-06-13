@@ -1,0 +1,14 @@
+{
+    "user_id": "U00788",
+    "name": "Robert Burton",
+    "email": "kenneth70@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01134', 'B09043', 'B02242']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Guzman, White and Owens for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

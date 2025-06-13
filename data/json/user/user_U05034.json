@@ -1,0 +1,14 @@
+{
+    "user_id": "U05034",
+    "name": "Kathleen Jackson",
+    "email": "james38@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08180', 'B06552', 'B09895', 'B09668', 'B01634']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rivera-Lewis for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

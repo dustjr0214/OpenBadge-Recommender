@@ -1,0 +1,14 @@
+{
+    "user_id": "U02692",
+    "name": "Tanya Wolf",
+    "email": "jturner@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08260', 'B00402']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Kelly, Brown and Stewart for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08949', 'B09001', 'B02258', 'B08497']"
+}

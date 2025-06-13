@@ -1,0 +1,14 @@
+{
+    "user_id": "U03103",
+    "name": "Gregory Davis",
+    "email": "felicia80@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00294', 'B09873']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lawson-Molina for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06067', 'B01671', 'B07311', 'B04923']"
+}

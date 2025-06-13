@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01675",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'DevOps']",
+    "competency": "['Problem Solving', 'Teamwork', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B08561', 'B05787']"
+}

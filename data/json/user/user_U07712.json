@@ -1,0 +1,14 @@
+{
+    "user_id": "U07712",
+    "name": "Justin Lynch",
+    "email": "david40@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05932', 'B01109', 'B04904', 'B03071', 'B07825']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Brown, Turner and Herring for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00914', 'B09172', 'B05451']"
+}

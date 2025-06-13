@@ -1,0 +1,14 @@
+{
+    "user_id": "U04652",
+    "name": "Mary Bishop",
+    "email": "lhall@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Allen, Rodriguez and Townsend for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07961', 'B01666', 'B03175', 'B01481']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04800",
+    "name": "Marcus Cox",
+    "email": "jenniferarmstrong@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07903', 'B09462', 'B08010', 'B07134', 'B02506']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Nicholson-Alexander for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04627', 'B02022', 'B09188', 'B08273', 'B03419']"
+}

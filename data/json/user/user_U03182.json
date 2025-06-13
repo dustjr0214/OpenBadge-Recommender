@@ -1,0 +1,14 @@
+{
+    "user_id": "U03182",
+    "name": "Jeanne Harris",
+    "email": "robert56@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07991', 'B07613', 'B05687', 'B05271', 'B02154']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Williams LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05117']"
+}

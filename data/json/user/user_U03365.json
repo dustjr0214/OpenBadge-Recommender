@@ -1,0 +1,14 @@
+{
+    "user_id": "U03365",
+    "name": "Rachel Ball",
+    "email": "bstevenson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09273']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Moreno-Mann for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00835', 'B04144', 'B05095', 'B01759']"
+}

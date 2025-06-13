@@ -1,0 +1,14 @@
+{
+    "user_id": "U06489",
+    "name": "Stephen Proctor",
+    "email": "thomashahn@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00306', 'B00287', 'B02397']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Hardy, Murillo and Rodriguez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

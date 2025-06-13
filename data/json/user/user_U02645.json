@@ -1,0 +1,14 @@
+{
+    "user_id": "U02645",
+    "name": "Jackie Benson",
+    "email": "earlblake@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05539', 'B00641', 'B00013', 'B00827', 'B02155']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Perez-Oliver for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06939', 'B07603']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09564",
+    "name": "Luis Estrada",
+    "email": "petersonjeremy@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02413']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brooks, Kline and Hill for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03520', 'B05417', 'B08237', 'B04513', 'B06342']"
+}

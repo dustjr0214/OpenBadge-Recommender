@@ -1,0 +1,14 @@
+{
+    "user_id": "U04113",
+    "name": "Tyler Martinez",
+    "email": "brownamanda@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01325', 'B06011']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Brown Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04859', 'B06772']"
+}

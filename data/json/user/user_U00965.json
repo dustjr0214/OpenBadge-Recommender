@@ -1,0 +1,14 @@
+{
+    "user_id": "U00965",
+    "name": "John Cohen",
+    "email": "ravila@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03574']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Roberson-Clark for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

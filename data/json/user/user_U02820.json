@@ -1,0 +1,14 @@
+{
+    "user_id": "U02820",
+    "name": "John Ryan",
+    "email": "aestes@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09382', 'B02682', 'B03784']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Phillips-Douglas for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06409']"
+}

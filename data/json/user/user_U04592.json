@@ -1,0 +1,14 @@
+{
+    "user_id": "U04592",
+    "name": "Judy Watson",
+    "email": "sgraham@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05959']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Shaw, Hughes and Cole for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05444', 'B08554', 'B03978', 'B00017']"
+}

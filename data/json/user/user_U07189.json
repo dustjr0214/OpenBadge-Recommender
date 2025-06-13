@@ -1,0 +1,14 @@
+{
+    "user_id": "U07189",
+    "name": "Daniel Hernandez",
+    "email": "schen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09754', 'B04107', 'B03065', 'B05341']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Mendoza, Walker and Johnson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00698']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08558",
+    "name": "Jennifer Martin",
+    "email": "allison91@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04504', 'B05623', 'B08648']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Sullivan and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

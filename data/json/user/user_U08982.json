@@ -1,0 +1,14 @@
+{
+    "user_id": "U08982",
+    "name": "Jonathan Pena",
+    "email": "sdaugherty@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Moses-Smith for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06736', 'B08830', 'B08080', 'B04359', 'B04931']"
+}

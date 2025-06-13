@@ -1,0 +1,14 @@
+{
+    "user_id": "U04511",
+    "name": "Ronald Joseph",
+    "email": "dawsonalfred@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08192', 'B06578']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Becker, Sloan and Clark for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05876', 'B04940', 'B02351', 'B09825', 'B09919']"
+}

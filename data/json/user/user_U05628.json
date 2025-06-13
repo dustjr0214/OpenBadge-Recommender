@@ -1,0 +1,14 @@
+{
+    "user_id": "U05628",
+    "name": "Stacy Yang",
+    "email": "williamsbrianna@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06147', 'B05498', 'B03866', 'B07926']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Jordan Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00031', 'B09326']"
+}

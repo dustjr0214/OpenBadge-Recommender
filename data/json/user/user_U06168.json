@@ -1,0 +1,14 @@
+{
+    "user_id": "U06168",
+    "name": "Matthew Garcia",
+    "email": "walkerbrandon@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06782', 'B03496']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Johnson, Adams and Stevens for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08365']"
+}

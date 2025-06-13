@@ -1,0 +1,14 @@
+{
+    "user_id": "U08733",
+    "name": "Sarah Jackson",
+    "email": "joshua12@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00352', 'B06828']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Butler-Soto for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05992', 'B00576', 'B00798', 'B03209']"
+}

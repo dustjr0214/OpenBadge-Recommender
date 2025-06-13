@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07732",
+    "name": "UI/UX Designer",
+    "issuer": "Coursera",
+    "description": "UI/UX Designer badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08609', 'B09762']"
+}

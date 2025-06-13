@@ -1,0 +1,14 @@
+{
+    "user_id": "U06509",
+    "name": "Katherine Wright",
+    "email": "mccannelizabeth@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00638']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Ramos and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08517', 'B09841']"
+}

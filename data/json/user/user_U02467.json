@@ -1,0 +1,14 @@
+{
+    "user_id": "U02467",
+    "name": "Nicole Anderson",
+    "email": "dustinjackson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09898', 'B02333']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Murphy LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02808', 'B06166', 'B05533', 'B09382']"
+}

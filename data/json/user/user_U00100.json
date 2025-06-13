@@ -1,0 +1,14 @@
+{
+    "user_id": "U00100",
+    "name": "Peter Garcia",
+    "email": "qthompson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Acevedo Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06523', 'B06214']"
+}

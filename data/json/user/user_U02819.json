@@ -1,0 +1,14 @@
+{
+    "user_id": "U02819",
+    "name": "Michael Taylor",
+    "email": "robertmaynard@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Moody Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03880', 'B07468', 'B02021', 'B06659', 'B07951']"
+}

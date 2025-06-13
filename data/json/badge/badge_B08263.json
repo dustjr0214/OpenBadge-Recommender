@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08263",
+    "name": "Big Data Analyst",
+    "issuer": "edX",
+    "description": "Big Data Analyst badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['Leadership', 'Deep Learning', 'Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02141', 'B04600']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08530",
+    "name": "Kaitlin Proctor",
+    "email": "erica82@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07996', 'B01812', 'B00143', 'B04293']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Young-Mendez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02702', 'B07271', 'B05778']"
+}

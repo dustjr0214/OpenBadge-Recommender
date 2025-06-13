@@ -1,0 +1,14 @@
+{
+    "user_id": "U08320",
+    "name": "Jessica Hampton",
+    "email": "briana08@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07523', 'B02811', 'B05860', 'B05297']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Johnson Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07165', 'B02415', 'B06074', 'B06088', 'B08343']"
+}

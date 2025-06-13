@@ -1,0 +1,14 @@
+{
+    "user_id": "U07845",
+    "name": "Joanna Burke",
+    "email": "emolina@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07018']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Rogers, Jacobs and Lee for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05579', 'B06876']"
+}

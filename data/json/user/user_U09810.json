@@ -1,0 +1,14 @@
+{
+    "user_id": "U09810",
+    "name": "Ronald Avery",
+    "email": "davidvasquez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06252', 'B05450', 'B08502', 'B08774']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Johnson, Rodriguez and Padilla for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07663', 'B02722', 'B02680', 'B03537', 'B09061']"
+}

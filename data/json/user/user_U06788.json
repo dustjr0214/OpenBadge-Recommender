@@ -1,0 +1,14 @@
+{
+    "user_id": "U06788",
+    "name": "Jennifer Sanchez",
+    "email": "zle@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06845', 'B06732', 'B03885', 'B04149', 'B02648']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Sims, Rodriguez and Brown for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07637', 'B05243', 'B08445']"
+}

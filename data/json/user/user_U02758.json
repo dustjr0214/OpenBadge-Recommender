@@ -1,0 +1,14 @@
+{
+    "user_id": "U02758",
+    "name": "Steven Tate",
+    "email": "lisa78@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05459', 'B06478', 'B04293', 'B01448', 'B01600']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Holt-Haas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09083', 'B07274', 'B09953', 'B03839', 'B02188']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04077",
+    "name": "Alexandra Rivas",
+    "email": "cgarcia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01039', 'B03263', 'B08836', 'B09677', 'B07088']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Patterson Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07118",
+    "name": "Janice Lewis",
+    "email": "ojohnson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03802', 'B09218', 'B06082', 'B02269', 'B04201']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Porter Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05332', 'B03899', 'B09066']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08216",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['SQL', 'Cloud Computing', 'Cybersecurity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

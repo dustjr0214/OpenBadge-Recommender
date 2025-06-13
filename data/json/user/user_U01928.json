@@ -1,0 +1,14 @@
+{
+    "user_id": "U01928",
+    "name": "David Tran",
+    "email": "corybrown@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06495', 'B05993', 'B05229']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Lopez Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06244', 'B00620', 'B01259', 'B02714', 'B03898']"
+}

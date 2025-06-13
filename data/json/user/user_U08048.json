@@ -1,0 +1,14 @@
+{
+    "user_id": "U08048",
+    "name": "Leonard Wall",
+    "email": "katelynwilliams@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06196', 'B02472']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Rivera Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

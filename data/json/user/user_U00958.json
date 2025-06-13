@@ -1,0 +1,14 @@
+{
+    "user_id": "U00958",
+    "name": "Heather Tran",
+    "email": "hartmancrystal@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05406', 'B02554', 'B07225']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Roach-Moore for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04079', 'B00759', 'B03265', 'B08496', 'B01109']"
+}

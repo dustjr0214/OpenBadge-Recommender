@@ -1,0 +1,14 @@
+{
+    "user_id": "U09669",
+    "name": "Angela Lynch",
+    "email": "smcdonald@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04298', 'B06108', 'B05180', 'B00975']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Kennedy Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06045']"
+}

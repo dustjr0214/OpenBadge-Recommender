@@ -1,0 +1,14 @@
+{
+    "user_id": "U01043",
+    "name": "Daniel James",
+    "email": "brittney26@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08965', 'B09613', 'B05291', 'B05062', 'B06500']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Best, Jones and Martinez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02246', 'B04314', 'B00861', 'B02024', 'B06466']"
+}

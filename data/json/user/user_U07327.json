@@ -1,0 +1,14 @@
+{
+    "user_id": "U07327",
+    "name": "Randall Smith",
+    "email": "sanchezjason@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07146', 'B06132']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Jimenez-Harris for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02894', 'B00648', 'B00133']"
+}

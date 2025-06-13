@@ -1,0 +1,14 @@
+{
+    "user_id": "U08499",
+    "name": "Belinda Freeman",
+    "email": "huberemma@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06306', 'B05121']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Wilson, Torres and Porter for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08111']"
+}

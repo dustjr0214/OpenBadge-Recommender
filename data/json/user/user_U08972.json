@@ -1,0 +1,14 @@
+{
+    "user_id": "U08972",
+    "name": "Tyler Gray",
+    "email": "greenekevin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01021', 'B06981', 'B01593']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Obrien LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08102', 'B04659', 'B00773', 'B02525']"
+}

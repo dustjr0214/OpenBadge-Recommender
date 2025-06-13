@@ -1,0 +1,14 @@
+{
+    "user_id": "U00418",
+    "name": "John Leon",
+    "email": "kevinkramer@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Crane, Brown and Monroe for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

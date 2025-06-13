@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01047",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Teamwork', 'Deep Learning']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07962', 'B03968']"
+}

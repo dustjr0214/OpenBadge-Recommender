@@ -1,0 +1,14 @@
+{
+    "user_id": "U06055",
+    "name": "Ryan Ferguson",
+    "email": "tracy34@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08738']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Mora-Le for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08518', 'B02392', 'B01824', 'B04340']"
+}

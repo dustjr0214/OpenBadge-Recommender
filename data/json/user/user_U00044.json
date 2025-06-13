@@ -1,0 +1,14 @@
+{
+    "user_id": "U00044",
+    "name": "Kristin Ortiz",
+    "email": "wvaldez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01381', 'B02157', 'B03855', 'B00588']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Lane Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

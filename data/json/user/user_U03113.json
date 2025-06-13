@@ -1,0 +1,14 @@
+{
+    "user_id": "U03113",
+    "name": "Edwin Kelly",
+    "email": "anguyen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05490', 'B06442']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Huber, Kerr and Dawson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

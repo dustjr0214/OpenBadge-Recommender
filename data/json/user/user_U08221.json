@@ -1,0 +1,14 @@
+{
+    "user_id": "U08221",
+    "name": "Elizabeth Acosta",
+    "email": "michaelwiggins@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06653', 'B00623', 'B00727', 'B01877']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Howard LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

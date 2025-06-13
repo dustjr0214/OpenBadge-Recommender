@@ -1,0 +1,14 @@
+{
+    "user_id": "U05899",
+    "name": "Diana Sparks",
+    "email": "micheleramsey@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07105', 'B02475', 'B04380', 'B03619']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Bauer, Harvey and Pratt for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05566', 'B01192', 'B06390', 'B02479']"
+}

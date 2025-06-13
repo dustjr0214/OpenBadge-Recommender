@@ -1,0 +1,14 @@
+{
+    "user_id": "U07745",
+    "name": "Brianna Johnson",
+    "email": "hebertrobert@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06138', 'B03861']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Sanchez, Lopez and Scott for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04412', 'B00424', 'B02372', 'B05548']"
+}

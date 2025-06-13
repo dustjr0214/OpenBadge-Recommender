@@ -1,0 +1,14 @@
+{
+    "user_id": "U01103",
+    "name": "Mark Brock",
+    "email": "sconner@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Wilson-Banks for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04233', 'B00013']"
+}

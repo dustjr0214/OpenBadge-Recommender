@@ -1,0 +1,14 @@
+{
+    "user_id": "U05802",
+    "name": "Kathryn Garcia",
+    "email": "lgarcia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Cain, Hayes and Weeks for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05114']"
+}

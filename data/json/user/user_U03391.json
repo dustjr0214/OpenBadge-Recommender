@@ -1,0 +1,14 @@
+{
+    "user_id": "U03391",
+    "name": "Alfred Smith",
+    "email": "brendamoore@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Orozco-Knight for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06225', 'B04592', 'B09798']"
+}

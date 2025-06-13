@@ -1,0 +1,14 @@
+{
+    "user_id": "U04270",
+    "name": "Thomas Robbins",
+    "email": "kwilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00406', 'B08495', 'B06428']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Lambert, Davenport and Whitehead for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

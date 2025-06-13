@@ -1,0 +1,14 @@
+{
+    "user_id": "U06344",
+    "name": "Allison Montgomery",
+    "email": "daniel95@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09899', 'B04441', 'B06889', 'B01171']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Cortez PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04212', 'B07114', 'B02155', 'B07081', 'B02442']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08092",
+    "name": "Sharon Lang",
+    "email": "robertsonkaren@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03568', 'B01074', 'B00734', 'B06125']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Garcia, Lewis and Jones for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05119', 'B06306', 'B08188', 'B00111']"
+}

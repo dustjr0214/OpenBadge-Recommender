@@ -1,0 +1,14 @@
+{
+    "user_id": "U01028",
+    "name": "Cynthia Moran",
+    "email": "wilsonandrea@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09694', 'B08090', 'B04916', 'B08598', 'B05203']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Cain-Chandler for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01893', 'B07049', 'B00539']"
+}

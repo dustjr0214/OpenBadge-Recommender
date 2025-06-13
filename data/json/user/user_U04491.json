@@ -1,0 +1,14 @@
+{
+    "user_id": "U04491",
+    "name": "Sherry Marshall",
+    "email": "joseph42@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01990', 'B00222', 'B06248']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Clayton Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06294']"
+}

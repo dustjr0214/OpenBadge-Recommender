@@ -1,0 +1,14 @@
+{
+    "user_id": "U02641",
+    "name": "Matthew Briggs",
+    "email": "thomasmary@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00503']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Wilson and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04559', 'B06710', 'B09810', 'B02464', 'B04101']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03612",
+    "name": "Robert Reed",
+    "email": "obell@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05604', 'B09307', 'B06945', 'B01111']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Sanchez-Rogers for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03422']"
+}

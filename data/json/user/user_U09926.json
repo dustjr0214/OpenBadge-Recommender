@@ -1,0 +1,14 @@
+{
+    "user_id": "U09926",
+    "name": "Gary Day",
+    "email": "stacey36@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01210', 'B05630', 'B08928', 'B06082', 'B04537']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Brady-Henry for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03201', 'B04685', 'B04983', 'B08965']"
+}

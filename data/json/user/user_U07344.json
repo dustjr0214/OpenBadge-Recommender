@@ -1,0 +1,14 @@
+{
+    "user_id": "U07344",
+    "name": "Christopher Owens",
+    "email": "lfoster@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05248', 'B09326', 'B08210', 'B07599', 'B02615']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Fischer Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05143', 'B04513', 'B01018', 'B05353']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02511",
+    "name": "Michael Pena",
+    "email": "darrell18@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Browning-Dunn for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07751', 'B02915']"
+}

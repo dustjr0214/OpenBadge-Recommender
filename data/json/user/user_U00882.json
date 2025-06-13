@@ -1,0 +1,14 @@
+{
+    "user_id": "U00882",
+    "name": "Ashley Jackson",
+    "email": "nathan49@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'UI/UX', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09731', 'B02513', 'B03676', 'B03915', 'B01893']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mcknight-Palmer for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03134', 'B07509']"
+}

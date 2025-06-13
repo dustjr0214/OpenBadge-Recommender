@@ -1,0 +1,14 @@
+{
+    "user_id": "U02549",
+    "name": "Mr. Ryan Hicks PhD",
+    "email": "cjones@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01448', 'B00055']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Gilmore-Henderson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03078', 'B04839', 'B09445', 'B03313', 'B07050']"
+}

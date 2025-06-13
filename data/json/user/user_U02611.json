@@ -1,0 +1,14 @@
+{
+    "user_id": "U02611",
+    "name": "Heather White",
+    "email": "cervanteskenneth@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04645', 'B03975', 'B02032', 'B01139', 'B00762']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Davis LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06312', 'B02862', 'B04339', 'B06959']"
+}

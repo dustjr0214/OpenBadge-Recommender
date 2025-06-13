@@ -1,0 +1,14 @@
+{
+    "user_id": "U06063",
+    "name": "Lisa Perez",
+    "email": "jenningscarolyn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07452', 'B02475', 'B01294', 'B00383']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Howard-Bell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07239', 'B05908', 'B05754']"
+}

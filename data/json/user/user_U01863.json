@@ -1,0 +1,14 @@
+{
+    "user_id": "U01863",
+    "name": "Tiffany Brooks",
+    "email": "bjones@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09509', 'B06102']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Long, Hale and Hernandez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

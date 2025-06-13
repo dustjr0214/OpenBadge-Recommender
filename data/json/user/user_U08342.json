@@ -1,0 +1,14 @@
+{
+    "user_id": "U08342",
+    "name": "Mariah Carlson",
+    "email": "jessica13@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07188']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rodgers-Cox for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06338', 'B08937', 'B04933']"
+}

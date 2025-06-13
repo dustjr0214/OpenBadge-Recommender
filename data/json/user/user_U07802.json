@@ -1,0 +1,14 @@
+{
+    "user_id": "U07802",
+    "name": "Pamela Adkins",
+    "email": "justin77@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00955', 'B01433', 'B00479']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Clark, Watkins and Harrell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07829']"
+}

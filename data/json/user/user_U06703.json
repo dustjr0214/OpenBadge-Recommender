@@ -1,0 +1,14 @@
+{
+    "user_id": "U06703",
+    "name": "Cassandra Brown",
+    "email": "jasonbarber@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00591', 'B01258', 'B09067']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rodriguez-Bowen for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05566', 'B02156', 'B02001', 'B06735', 'B06900']"
+}

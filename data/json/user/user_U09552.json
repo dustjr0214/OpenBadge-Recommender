@@ -1,0 +1,14 @@
+{
+    "user_id": "U09552",
+    "name": "Bobby Williams",
+    "email": "patrickhunter@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Morrow Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01409', 'B05347', 'B05362', 'B05324']"
+}

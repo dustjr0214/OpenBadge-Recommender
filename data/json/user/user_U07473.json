@@ -1,0 +1,14 @@
+{
+    "user_id": "U07473",
+    "name": "Bill Garcia",
+    "email": "vgibbs@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Martinez-Lawrence for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00455', 'B08346', 'B08732', 'B00585']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09391",
+    "name": "Kelly Robles",
+    "email": "gmcconnell@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08025', 'B02048']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Leonard Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07086', 'B01556']"
+}

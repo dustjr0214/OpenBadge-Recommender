@@ -1,0 +1,14 @@
+{
+    "user_id": "U09896",
+    "name": "Deborah Hall",
+    "email": "iclarke@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08799', 'B04149', 'B04107', 'B00310', 'B03891']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Graham and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02625', 'B07054', 'B03439', 'B01268']"
+}

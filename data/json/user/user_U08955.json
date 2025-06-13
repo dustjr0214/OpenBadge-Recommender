@@ -1,0 +1,14 @@
+{
+    "user_id": "U08955",
+    "name": "Nicole Jefferson",
+    "email": "dfowler@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09251', 'B08881']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Martin, Gay and Young for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06468', 'B09533']"
+}

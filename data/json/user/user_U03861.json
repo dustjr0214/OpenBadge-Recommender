@@ -1,0 +1,14 @@
+{
+    "user_id": "U03861",
+    "name": "Martha Delgado",
+    "email": "william79@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05913', 'B08312', 'B03363']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Cook Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03747', 'B09708', 'B01762', 'B01362']"
+}

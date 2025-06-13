@@ -1,0 +1,14 @@
+{
+    "user_id": "U06750",
+    "name": "Samantha Johnson DVM",
+    "email": "victoria09@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08508', 'B07306', 'B09000', 'B05181']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Vaughan, Brown and Mckee for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04498', 'B06746', 'B05409']"
+}

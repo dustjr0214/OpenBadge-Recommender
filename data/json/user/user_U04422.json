@@ -1,0 +1,14 @@
+{
+    "user_id": "U04422",
+    "name": "Kelly Ellis",
+    "email": "njohnson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Bennett and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04047', 'B04076', 'B00708', 'B09433', 'B02737']"
+}

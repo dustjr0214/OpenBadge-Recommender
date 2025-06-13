@@ -1,0 +1,14 @@
+{
+    "user_id": "U02334",
+    "name": "Joe Richardson",
+    "email": "perkinsbrandon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05978']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Gutierrez Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06594']"
+}

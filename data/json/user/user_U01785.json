@@ -1,0 +1,14 @@
+{
+    "user_id": "U01785",
+    "name": "Sarah Reyes",
+    "email": "smithandrew@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05132', 'B03069', 'B02463']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Norris, Perez and Kline for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07448', 'B05771', 'B09519', 'B01835']"
+}

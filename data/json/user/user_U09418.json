@@ -1,0 +1,14 @@
+{
+    "user_id": "U09418",
+    "name": "Joseph Williams",
+    "email": "dominicpotts@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07419']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Castillo Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03271', 'B08973', 'B06728', 'B05820', 'B08978']"
+}

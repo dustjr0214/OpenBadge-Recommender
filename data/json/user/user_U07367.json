@@ -1,0 +1,14 @@
+{
+    "user_id": "U07367",
+    "name": "Brent Oliver",
+    "email": "jonathan03@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06440', 'B03880', 'B08916', 'B01984', 'B09165']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Cantu-Elliott for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07875', 'B00772', 'B08533', 'B07346', 'B02857']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06085",
+    "name": "Mr. Charles Davis",
+    "email": "timothyhensley@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02576', 'B09949', 'B00144', 'B08742', 'B00672']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Green, Fischer and Silva for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05190', 'B03748']"
+}

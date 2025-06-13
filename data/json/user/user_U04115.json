@@ -1,0 +1,14 @@
+{
+    "user_id": "U04115",
+    "name": "Louis Jenkins",
+    "email": "erinmason@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06730', 'B03091']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Rodriguez, Hale and Duffy for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09508', 'B01538', 'B01058', 'B00651', 'B00883']"
+}

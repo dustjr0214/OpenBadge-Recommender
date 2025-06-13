@@ -1,0 +1,14 @@
+{
+    "user_id": "U04010",
+    "name": "Stacy Torres",
+    "email": "william00@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05996', 'B03541']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at English, Knight and Clark for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00668', 'B04709', 'B05959', 'B01017']"
+}

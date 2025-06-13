@@ -1,0 +1,14 @@
+{
+    "user_id": "U08630",
+    "name": "Taylor Dunn",
+    "email": "oquinn@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09737', 'B01735', 'B04115']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wall, Wilson and Moyer for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04442']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08165",
+    "name": "Mary Evans",
+    "email": "rosejoshua@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03023', 'B02060', 'B07756', 'B05535', 'B03628']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Whitehead and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07113', 'B07993', 'B05743']"
+}

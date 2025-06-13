@@ -1,0 +1,14 @@
+{
+    "user_id": "U09213",
+    "name": "Kelly Smith",
+    "email": "eugene37@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06299', 'B09793']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Oliver, Horn and Osborn for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09375', 'B07580']"
+}

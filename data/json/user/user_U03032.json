@@ -1,0 +1,14 @@
+{
+    "user_id": "U03032",
+    "name": "Robin Graham",
+    "email": "megan52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02822', 'B05990', 'B09148']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Murphy-Hernandez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05633', 'B02980', 'B09830', 'B09952', 'B09965']"
+}

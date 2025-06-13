@@ -1,0 +1,14 @@
+{
+    "user_id": "U00563",
+    "name": "Eric Young",
+    "email": "huntmichelle@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07620', 'B00925', 'B06399', 'B01254']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Mathis and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04613', 'B02793', 'B04691']"
+}

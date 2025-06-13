@@ -1,0 +1,14 @@
+{
+    "user_id": "U07148",
+    "name": "Dr. Mallory Miller",
+    "email": "brownmichael@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05705', 'B04925', 'B04993', 'B05690', 'B08153']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Stephens-Edwards for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02111', 'B02273']"
+}

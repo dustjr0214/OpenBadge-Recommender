@@ -1,0 +1,14 @@
+{
+    "user_id": "U09050",
+    "name": "Suzanne Garcia",
+    "email": "colleen85@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08885', 'B02261', 'B01730', 'B08140', 'B07814']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Aguirre Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04578', 'B08519', 'B08165']"
+}

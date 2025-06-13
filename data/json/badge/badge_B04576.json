@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04576",
+    "name": "DevOps Engineer",
+    "issuer": "edX",
+    "description": "DevOps Engineer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Creativity', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05389', 'B05548']"
+}

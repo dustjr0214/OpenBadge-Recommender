@@ -1,0 +1,14 @@
+{
+    "user_id": "U05537",
+    "name": "Ashley Marquez",
+    "email": "ashleycurtis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09856', 'B06009', 'B08009', 'B02301']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Kaufman-Velez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09864', 'B01208', 'B02810', 'B09398']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09337",
+    "name": "Jason Pruitt",
+    "email": "xjones@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Perez-White for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01428', 'B06955', 'B09840', 'B01206']"
+}

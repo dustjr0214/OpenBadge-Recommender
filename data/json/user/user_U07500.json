@@ -1,0 +1,14 @@
+{
+    "user_id": "U07500",
+    "name": "Bernard Ward",
+    "email": "vharris@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX', 'Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00707', 'B09188']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Henry, Brown and Carter for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08623', 'B04898', 'B05949']"
+}

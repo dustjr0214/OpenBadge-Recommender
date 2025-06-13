@@ -1,0 +1,14 @@
+{
+    "user_id": "U08960",
+    "name": "Christopher Thompson",
+    "email": "edwardshailey@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09036', 'B05677', 'B06301', 'B09134']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Howard, Booth and Cruz for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08955', 'B09731']"
+}

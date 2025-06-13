@@ -1,0 +1,14 @@
+{
+    "user_id": "U06868",
+    "name": "Laura Spencer",
+    "email": "kimberly65@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Turner and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07786', 'B03401', 'B00047', 'B04753']"
+}

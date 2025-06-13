@@ -1,0 +1,14 @@
+{
+    "user_id": "U02749",
+    "name": "Michael Alexander",
+    "email": "harriskimberly@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09177', 'B09050']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Jackson, Bell and Harris for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02851', 'B02701', 'B00570']"
+}

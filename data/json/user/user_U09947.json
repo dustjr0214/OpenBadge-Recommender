@@ -1,0 +1,14 @@
+{
+    "user_id": "U09947",
+    "name": "Jeffrey Thompson",
+    "email": "danny68@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08500', 'B09710', 'B01068', 'B02970', 'B04321']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Wilson and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02834']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06070",
+    "name": "Shawn Graham",
+    "email": "freilly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08277']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Hall-Stewart for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04845']"
+}

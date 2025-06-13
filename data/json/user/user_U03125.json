@@ -1,0 +1,14 @@
+{
+    "user_id": "U03125",
+    "name": "Brian Nelson",
+    "email": "walkerjustin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05959', 'B05887', 'B04805', 'B09768', 'B00749']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at King, Sims and Long for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04769', 'B09303']"
+}

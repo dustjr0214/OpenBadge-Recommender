@@ -1,0 +1,14 @@
+{
+    "user_id": "U03832",
+    "name": "Dominic Hunt",
+    "email": "sharon40@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07547', 'B04111', 'B07589']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Carter Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09374', 'B04253', 'B05436', 'B00028']"
+}

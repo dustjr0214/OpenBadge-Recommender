@@ -1,0 +1,14 @@
+{
+    "user_id": "U08619",
+    "name": "Alexander Cameron",
+    "email": "kaitlin37@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00959', 'B01482', 'B06947', 'B04137', 'B07863']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Hernandez, Floyd and Frank for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07082', 'B08409']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06502",
+    "name": "Alexander Williamson",
+    "email": "torresmaria@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03148', 'B07450', 'B06234', 'B07872']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Delgado-Young for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05797', 'B06971', 'B09458', 'B07664', 'B08831']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05032",
+    "name": "Christopher Nielsen",
+    "email": "haroldyang@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04863', 'B02276', 'B09697', 'B03140', 'B01820']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Bradford-Cameron for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03713', 'B07254', 'B01846', 'B01088']"
+}

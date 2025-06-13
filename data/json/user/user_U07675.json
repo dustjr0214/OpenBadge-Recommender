@@ -1,0 +1,14 @@
+{
+    "user_id": "U07675",
+    "name": "Steven Brown",
+    "email": "xserrano@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09692', 'B01256', 'B06040']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Johnson, Thompson and Soto for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

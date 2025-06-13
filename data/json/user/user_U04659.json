@@ -1,0 +1,14 @@
+{
+    "user_id": "U04659",
+    "name": "Jody Ingram",
+    "email": "jtorres@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07910']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cervantes Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04277', 'B06494', 'B02346']"
+}

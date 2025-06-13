@@ -1,0 +1,14 @@
+{
+    "user_id": "U06899",
+    "name": "James Reid",
+    "email": "austin41@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01358', 'B00014', 'B01567', 'B05821', 'B08233']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Garcia, Johnson and Fisher for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02499', 'B01958', 'B09957', 'B04106']"
+}

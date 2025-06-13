@@ -1,0 +1,14 @@
+{
+    "user_id": "U09628",
+    "name": "Michael Peters",
+    "email": "barrettpaige@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07967', 'B08136', 'B09232', 'B09659', 'B06704']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Coleman-Carter for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

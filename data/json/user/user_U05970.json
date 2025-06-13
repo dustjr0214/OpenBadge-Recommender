@@ -1,0 +1,14 @@
+{
+    "user_id": "U05970",
+    "name": "Gary Pace",
+    "email": "benjamin42@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02307', 'B03256']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Russell, Dickerson and Webb for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04121', 'B00594', 'B05663', 'B06661']"
+}

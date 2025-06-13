@@ -1,0 +1,14 @@
+{
+    "user_id": "U06403",
+    "name": "Jessica Davis",
+    "email": "dmoss@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00457', 'B08341', 'B04513']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Smith, Wright and Smith for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02999']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08954",
+    "name": "Caroline Wallace",
+    "email": "brendahutchinson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08024', 'B09863']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Ashley, Morris and White for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09403', 'B04138', 'B04898']"
+}

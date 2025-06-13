@@ -1,0 +1,14 @@
+{
+    "user_id": "U06322",
+    "name": "Joshua Warner",
+    "email": "grantjames@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Brooks-Villegas for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02461', 'B06074', 'B02698', 'B03354', 'B07235']"
+}

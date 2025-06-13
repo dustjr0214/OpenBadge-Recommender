@@ -1,0 +1,14 @@
+{
+    "user_id": "U00840",
+    "name": "David Mays",
+    "email": "marklarsen@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06314']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Pace Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05253', 'B01894', 'B06849', 'B04605']"
+}

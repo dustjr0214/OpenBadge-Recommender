@@ -1,0 +1,14 @@
+{
+    "user_id": "U07879",
+    "name": "Jennifer Coleman",
+    "email": "patrickronald@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05800']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Willis Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09882', 'B07354', 'B07218', 'B06768', 'B03420']"
+}

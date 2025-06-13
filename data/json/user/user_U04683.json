@@ -1,0 +1,14 @@
+{
+    "user_id": "U04683",
+    "name": "Michelle Bennett",
+    "email": "jill05@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02334', 'B04567']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Anderson, Collins and Foster for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

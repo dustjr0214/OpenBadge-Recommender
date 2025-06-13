@@ -1,0 +1,14 @@
+{
+    "user_id": "U00284",
+    "name": "John Lane DDS",
+    "email": "jimenezvictoria@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00338', 'B01523', 'B08998']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Watts-Perez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02140', 'B01451']"
+}

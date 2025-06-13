@@ -1,0 +1,14 @@
+{
+    "user_id": "U04893",
+    "name": "Edward Mcclain",
+    "email": "kyle13@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03132', 'B06562', 'B05496']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Simpson and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01346', 'B08120', 'B06383']"
+}

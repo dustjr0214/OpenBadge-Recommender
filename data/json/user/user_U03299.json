@@ -1,0 +1,14 @@
+{
+    "user_id": "U03299",
+    "name": "Jacqueline Rose",
+    "email": "kenneth74@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06254', 'B08266', 'B07009']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Sharp LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07331', 'B09047', 'B01733', 'B09794']"
+}

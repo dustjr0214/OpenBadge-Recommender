@@ -1,0 +1,14 @@
+{
+    "user_id": "U00229",
+    "name": "Yesenia Robinson",
+    "email": "barbarabuck@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09107', 'B05837', 'B03384', 'B04688']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Acevedo and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09206', 'B05936', 'B09336', 'B05264']"
+}

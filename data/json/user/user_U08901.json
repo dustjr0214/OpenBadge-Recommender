@@ -1,0 +1,14 @@
+{
+    "user_id": "U08901",
+    "name": "Brian Mccoy",
+    "email": "nicholslori@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Raymond, Perez and Anthony for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06032']"
+}

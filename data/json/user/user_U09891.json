@@ -1,0 +1,14 @@
+{
+    "user_id": "U09891",
+    "name": "Heidi Simmons",
+    "email": "jason53@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00784', 'B08516', 'B05952']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Becker, Young and Nguyen for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03754', 'B04585']"
+}

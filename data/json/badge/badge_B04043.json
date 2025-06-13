@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04043",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Teamwork', 'Cybersecurity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

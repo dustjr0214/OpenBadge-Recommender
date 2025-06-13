@@ -1,0 +1,14 @@
+{
+    "user_id": "U06681",
+    "name": "Jack Hopkins",
+    "email": "bmitchell@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03157', 'B02977', 'B04973', 'B02070']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Holland and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00937', 'B06367', 'B08369']"
+}

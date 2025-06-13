@@ -1,0 +1,14 @@
+{
+    "user_id": "U00415",
+    "name": "Mallory Hernandez",
+    "email": "ujones@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Watkins PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06335', 'B08545']"
+}

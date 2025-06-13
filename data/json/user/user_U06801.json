@@ -1,0 +1,14 @@
+{
+    "user_id": "U06801",
+    "name": "Aaron Scott",
+    "email": "blackbradley@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07749', 'B01560', 'B02147', 'B01486', 'B09395']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Kim-Walker for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05388', 'B00078', 'B01048', 'B07090']"
+}

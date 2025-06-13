@@ -1,0 +1,14 @@
+{
+    "user_id": "U07774",
+    "name": "Heidi Dixon",
+    "email": "justin81@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03947', 'B06364', 'B03334']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Ramirez, Duncan and Smith for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05188",
+    "name": "Joanna Boyd",
+    "email": "buckleykimberly@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04415', 'B09205', 'B06220', 'B04258']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Petty Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02727']"
+}

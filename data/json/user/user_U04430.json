@@ -1,0 +1,14 @@
+{
+    "user_id": "U04430",
+    "name": "Dorothy Mitchell",
+    "email": "fwhite@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Alexander-Clark for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01731', 'B06720', 'B02554', 'B04786']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08852",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'SQL']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00389",
+    "name": "Alexis Roberts",
+    "email": "nlawson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00629', 'B02536', 'B04210', 'B01912']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Williams, Mitchell and Arnold for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01852', 'B08588']"
+}

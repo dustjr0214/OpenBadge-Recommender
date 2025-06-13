@@ -1,0 +1,14 @@
+{
+    "user_id": "U08580",
+    "name": "Michael Potter",
+    "email": "rebeccawatkins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08953', 'B06812', 'B01901']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Hunter Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08055', 'B09420', 'B00172', 'B04602']"
+}

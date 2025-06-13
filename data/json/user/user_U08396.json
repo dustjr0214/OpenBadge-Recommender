@@ -1,0 +1,14 @@
+{
+    "user_id": "U08396",
+    "name": "Levi Cordova",
+    "email": "emartin@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01968', 'B09106']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Torres, Nichols and Carson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07966', 'B01425', 'B06593', 'B06852', 'B09520']"
+}

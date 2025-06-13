@@ -1,0 +1,14 @@
+{
+    "user_id": "U04614",
+    "name": "Connor Harris",
+    "email": "andrew30@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09796', 'B02905', 'B02864']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ferguson-Neal for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04343', 'B07106']"
+}

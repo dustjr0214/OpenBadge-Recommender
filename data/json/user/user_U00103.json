@@ -1,0 +1,14 @@
+{
+    "user_id": "U00103",
+    "name": "Michelle Oneill",
+    "email": "uferguson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08846']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Fritz-Garcia for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06668', 'B06374', 'B08138']"
+}

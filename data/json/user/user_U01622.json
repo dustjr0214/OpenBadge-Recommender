@@ -1,0 +1,14 @@
+{
+    "user_id": "U01622",
+    "name": "Caroline Gentry",
+    "email": "christineclark@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05205', 'B04728', 'B00617', 'B04275']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Owens-Hall for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03655', 'B00822', 'B00380']"
+}

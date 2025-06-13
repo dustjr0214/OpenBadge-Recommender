@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09661",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B00045', 'B05099']"
+}

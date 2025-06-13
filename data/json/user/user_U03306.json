@@ -1,0 +1,14 @@
+{
+    "user_id": "U03306",
+    "name": "Karla Jacobs",
+    "email": "timothy96@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06945', 'B04127', 'B02054']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Wise-Mays for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05411', 'B09597', 'B01332', 'B02890']"
+}

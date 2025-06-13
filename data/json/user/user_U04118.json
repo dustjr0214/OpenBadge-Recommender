@@ -1,0 +1,14 @@
+{
+    "user_id": "U04118",
+    "name": "Matthew Martin",
+    "email": "valenciaeric@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03026', 'B04598', 'B03859']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Davis PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02889', 'B04722', 'B09622', 'B05884', 'B07491']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08792",
+    "name": "Melissa Rivera",
+    "email": "heather02@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02232', 'B01404', 'B05443', 'B04079', 'B03527']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Rogers-Wilson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

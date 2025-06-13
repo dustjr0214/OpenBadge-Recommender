@@ -1,0 +1,14 @@
+{
+    "user_id": "U04512",
+    "name": "Anthony Moore",
+    "email": "jeremydoyle@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Jackson Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09683', 'B07374']"
+}

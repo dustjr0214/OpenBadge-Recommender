@@ -1,0 +1,14 @@
+{
+    "user_id": "U02981",
+    "name": "Matthew Taylor",
+    "email": "sara52@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07889', 'B01464', 'B05274', 'B04390', 'B07906']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Brooks-King for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07095', 'B00832']"
+}

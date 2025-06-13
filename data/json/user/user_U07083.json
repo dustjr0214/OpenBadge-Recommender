@@ -1,0 +1,14 @@
+{
+    "user_id": "U07083",
+    "name": "Charles Patton",
+    "email": "ryanenglish@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03678']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Fitzpatrick LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07487', 'B04909', 'B08282', 'B01281', 'B05743']"
+}

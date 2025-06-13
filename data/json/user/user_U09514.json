@@ -1,0 +1,14 @@
+{
+    "user_id": "U09514",
+    "name": "Anna Lopez",
+    "email": "tracie63@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09253', 'B00202', 'B00793', 'B00768', 'B02996']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Collins PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04706', 'B09085']"
+}

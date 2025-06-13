@@ -1,0 +1,14 @@
+{
+    "user_id": "U02282",
+    "name": "Mary Douglas",
+    "email": "codymurillo@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09251', 'B02004', 'B08683']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Lawson LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

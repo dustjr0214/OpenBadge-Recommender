@@ -1,0 +1,14 @@
+{
+    "user_id": "U02104",
+    "name": "Tabitha Farmer",
+    "email": "jeffrey32@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00362', 'B02576', 'B06929']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Powell-Fitzgerald for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06985', 'B03983', 'B07937', 'B08079', 'B05723']"
+}

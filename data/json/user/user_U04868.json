@@ -1,0 +1,14 @@
+{
+    "user_id": "U04868",
+    "name": "Jesse Skinner",
+    "email": "wcollins@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06448', 'B07447', 'B03365', 'B03893']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Fritz, Barrett and Rodriguez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09987', 'B07626', 'B06921', 'B00099']"
+}

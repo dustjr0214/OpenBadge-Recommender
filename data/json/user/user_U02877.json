@@ -1,0 +1,14 @@
+{
+    "user_id": "U02877",
+    "name": "Bernard Martinez",
+    "email": "jamiesmith@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05852', 'B04031', 'B07878']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Cantrell, Mcclain and Ford for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04204', 'B00325']"
+}

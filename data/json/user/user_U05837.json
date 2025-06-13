@@ -1,0 +1,14 @@
+{
+    "user_id": "U05837",
+    "name": "Mary Osborne",
+    "email": "jonesmonica@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Pena, Fisher and Wilson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

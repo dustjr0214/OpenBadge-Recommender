@@ -1,0 +1,14 @@
+{
+    "user_id": "U01777",
+    "name": "Ronald Kemp",
+    "email": "erica14@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00021', 'B07495', 'B05702', 'B08292']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Sanchez, Walker and Fletcher for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08119', 'B08022', 'B02280', 'B08997', 'B09211']"
+}

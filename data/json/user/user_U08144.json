@@ -1,0 +1,14 @@
+{
+    "user_id": "U08144",
+    "name": "William Henson PhD",
+    "email": "william18@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01876', 'B08934', 'B02307', 'B00543']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Nguyen, Manning and Kim for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01832', 'B01949']"
+}

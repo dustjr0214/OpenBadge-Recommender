@@ -1,0 +1,14 @@
+{
+    "user_id": "U09723",
+    "name": "Monica Gray",
+    "email": "victoriareyes@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Hernandez, Walker and Rivas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07733', 'B07898', 'B09702', 'B05732', 'B06562']"
+}

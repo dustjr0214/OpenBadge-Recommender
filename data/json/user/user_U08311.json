@@ -1,0 +1,14 @@
+{
+    "user_id": "U08311",
+    "name": "Daryl Rich",
+    "email": "hendersonsusan@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07429', 'B05861']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Huff Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08419', 'B09903', 'B01946', 'B04050', 'B03263']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06189",
+    "name": "Frank Adams",
+    "email": "ronald65@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01597', 'B06754', 'B07861']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Robinson, Joseph and Wright for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02345', 'B04506']"
+}

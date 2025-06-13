@@ -1,0 +1,14 @@
+{
+    "user_id": "U01032",
+    "name": "Patty Maynard",
+    "email": "flee@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01941', 'B05879', 'B06652', 'B04303']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Nguyen Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

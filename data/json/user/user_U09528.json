@@ -1,0 +1,14 @@
+{
+    "user_id": "U09528",
+    "name": "David Pennington",
+    "email": "dwaynebrown@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02919']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Mills-Walters for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01044', 'B08579', 'B09348', 'B08357']"
+}

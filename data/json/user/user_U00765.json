@@ -1,0 +1,14 @@
+{
+    "user_id": "U00765",
+    "name": "Lori Rowland",
+    "email": "patriciawilliams@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01372', 'B02236', 'B08282', 'B07104']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Joyce-Arnold for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

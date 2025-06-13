@@ -1,0 +1,14 @@
+{
+    "user_id": "U04110",
+    "name": "Gregory Wallace",
+    "email": "sherry68@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08589', 'B01811', 'B09489']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Hampton LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06077', 'B06503', 'B09199']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05435",
+    "name": "Stephen Stevens",
+    "email": "vmurphy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00037', 'B06022', 'B03086', 'B05718']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Gutierrez-Tran for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

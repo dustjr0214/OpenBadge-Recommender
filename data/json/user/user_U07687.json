@@ -1,0 +1,14 @@
+{
+    "user_id": "U07687",
+    "name": "Sarah Fletcher",
+    "email": "heather75@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00971']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Rodriguez Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03852', 'B04819', 'B04033', 'B09343']"
+}

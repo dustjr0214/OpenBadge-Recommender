@@ -1,0 +1,14 @@
+{
+    "user_id": "U04258",
+    "name": "Brooke Ortega",
+    "email": "hallkathy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01654', 'B04606', 'B05169', 'B05382', 'B00692']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hendrix and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02749', 'B03207', 'B04922', 'B02942']"
+}

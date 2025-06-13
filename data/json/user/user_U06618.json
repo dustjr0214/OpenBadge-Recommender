@@ -1,0 +1,14 @@
+{
+    "user_id": "U06618",
+    "name": "James Daniels",
+    "email": "julie71@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02447', 'B06888', 'B01658']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Campbell, Morgan and Harrell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07821']"
+}

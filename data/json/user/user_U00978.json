@@ -1,0 +1,14 @@
+{
+    "user_id": "U00978",
+    "name": "Andrea Allen",
+    "email": "kellyjanet@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00980', 'B08555', 'B01045', 'B00846']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Williams-Myers for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08787', 'B04218']"
+}

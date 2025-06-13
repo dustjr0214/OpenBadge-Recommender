@@ -1,0 +1,14 @@
+{
+    "user_id": "U06913",
+    "name": "Steven Burton",
+    "email": "coleheidi@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07492']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Ruiz Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04835', 'B01812', 'B04178']"
+}

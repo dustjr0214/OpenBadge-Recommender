@@ -1,0 +1,14 @@
+{
+    "user_id": "U04122",
+    "name": "Taylor Price",
+    "email": "catherine89@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00453', 'B08791', 'B07689', 'B08328', 'B02436']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Terrell Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05022', 'B01319', 'B04282', 'B05978', 'B09127']"
+}

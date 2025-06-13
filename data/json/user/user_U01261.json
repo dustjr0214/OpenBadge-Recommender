@@ -1,0 +1,14 @@
+{
+    "user_id": "U01261",
+    "name": "Dr. Jacob Dixon",
+    "email": "michael76@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07057', 'B03442']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Fernandez, Watson and Mora for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04167', 'B08318', 'B00962', 'B04232']"
+}

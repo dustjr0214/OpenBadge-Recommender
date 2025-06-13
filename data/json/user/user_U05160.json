@@ -1,0 +1,14 @@
+{
+    "user_id": "U05160",
+    "name": "Sandra Choi",
+    "email": "atkinsmichael@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05324', 'B00677']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Scott-Booker for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06074', 'B07727', 'B04319']"
+}

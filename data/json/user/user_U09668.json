@@ -1,0 +1,14 @@
+{
+    "user_id": "U09668",
+    "name": "Erica Nelson",
+    "email": "gmitchell@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04471']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Obrien, Perez and Rhodes for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03455', 'B01261', 'B08720', 'B05103']"
+}

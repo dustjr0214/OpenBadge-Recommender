@@ -1,0 +1,14 @@
+{
+    "user_id": "U08644",
+    "name": "Yolanda Briggs",
+    "email": "keithbrooks@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09904', 'B06910', 'B03537', 'B02104']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Bryant LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03586']"
+}

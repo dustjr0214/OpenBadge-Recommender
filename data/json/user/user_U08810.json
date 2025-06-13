@@ -1,0 +1,14 @@
+{
+    "user_id": "U08810",
+    "name": "Samantha Houston",
+    "email": "gwagner@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06105', 'B07806', 'B01497', 'B08562', 'B08675']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Ramirez-House for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05226']"
+}

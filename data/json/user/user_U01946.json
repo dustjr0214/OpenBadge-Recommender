@@ -1,0 +1,14 @@
+{
+    "user_id": "U01946",
+    "name": "Jill Mcdonald",
+    "email": "curtis24@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01136', 'B04638', 'B02068']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Campbell-Scott for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02754', 'B04988', 'B00789', 'B01323', 'B01303']"
+}

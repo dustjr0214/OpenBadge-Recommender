@@ -1,0 +1,14 @@
+{
+    "user_id": "U03655",
+    "name": "Eric Manning",
+    "email": "georgewilson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00474', 'B00648', 'B05232', 'B03467']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Patton-Mueller for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

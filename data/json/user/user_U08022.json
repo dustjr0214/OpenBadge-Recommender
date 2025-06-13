@@ -1,0 +1,14 @@
+{
+    "user_id": "U08022",
+    "name": "Megan Oneal",
+    "email": "taylorkimberly@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00407', 'B07757', 'B00459']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Sexton-Bailey for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07187', 'B08203']"
+}

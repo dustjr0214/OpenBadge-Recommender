@@ -1,0 +1,14 @@
+{
+    "user_id": "U05854",
+    "name": "Tamara Bennett",
+    "email": "aherring@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06409', 'B04552', 'B00409']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Waters-Murphy for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00836', 'B06942', 'B06923', 'B02064']"
+}

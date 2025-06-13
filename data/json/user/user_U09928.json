@@ -1,0 +1,14 @@
+{
+    "user_id": "U09928",
+    "name": "Diana Smith",
+    "email": "wigginssamuel@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06777', 'B04057', 'B09527', 'B04296', 'B01190']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Short, Norton and Hunter for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02821']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00862",
+    "name": "Jean Brown",
+    "email": "iancrawford@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03310', 'B00261', 'B07445', 'B05122', 'B01732']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Curtis-Aguirre for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08112']"
+}

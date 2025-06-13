@@ -1,0 +1,14 @@
+{
+    "user_id": "U01384",
+    "name": "Reginald Small",
+    "email": "robinreid@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08253', 'B02216']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Sims Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02713', 'B03755', 'B08156', 'B03184', 'B09242']"
+}

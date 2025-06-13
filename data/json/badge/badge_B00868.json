@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00868",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05551']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01416",
+    "name": "Jeffery House",
+    "email": "kelleytravis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Goodwin-Owens for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06505', 'B01988', 'B07401', 'B00994']"
+}

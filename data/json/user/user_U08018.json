@@ -1,0 +1,14 @@
+{
+    "user_id": "U08018",
+    "name": "John Johnson",
+    "email": "haleyhayes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Sanders, Jackson and Anderson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06406']"
+}

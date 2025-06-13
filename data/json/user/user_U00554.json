@@ -1,0 +1,14 @@
+{
+    "user_id": "U00554",
+    "name": "Joseph Johnson",
+    "email": "mreed@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06183', 'B03229', 'B05548', 'B08029', 'B05702']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Garrison Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09642', 'B03600']"
+}

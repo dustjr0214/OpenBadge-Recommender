@@ -1,0 +1,14 @@
+{
+    "user_id": "U06931",
+    "name": "Rachel Wallace",
+    "email": "brandybrown@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06004', 'B07482', 'B02050']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Anderson and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

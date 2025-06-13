@@ -1,0 +1,14 @@
+{
+    "user_id": "U04191",
+    "name": "Matthew Burnett",
+    "email": "hbrown@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02717', 'B01203']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gordon, Li and Espinoza for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02898', 'B02076', 'B07846', 'B09046']"
+}

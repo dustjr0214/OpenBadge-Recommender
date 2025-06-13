@@ -1,0 +1,14 @@
+{
+    "user_id": "U03429",
+    "name": "Jason Manning",
+    "email": "lalexander@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01150', 'B06000']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Joyce-Clark for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01573', 'B04201']"
+}

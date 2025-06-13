@@ -1,0 +1,14 @@
+{
+    "user_id": "U00502",
+    "name": "David Sharp",
+    "email": "hernandezkerry@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06540', 'B01065']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at King, Singleton and Clark for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07883', 'B00937', 'B09594', 'B08210']"
+}

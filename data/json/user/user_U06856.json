@@ -1,0 +1,14 @@
+{
+    "user_id": "U06856",
+    "name": "Kyle Alvarez",
+    "email": "jeffreyklein@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03988', 'B02735', 'B05405', 'B03355', 'B00226']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Edwards-Wilson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08140', 'B08217']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08880",
+    "name": "Brandon Maldonado",
+    "email": "gzimmerman@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04494', 'B01492', 'B04017', 'B03673']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Bailey-Bautista for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03734', 'B06856', 'B04969']"
+}

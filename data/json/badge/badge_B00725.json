@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00725",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'Cybersecurity']",
+    "competency": "['Teamwork', 'Python', 'Problem Solving']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06372']"
+}

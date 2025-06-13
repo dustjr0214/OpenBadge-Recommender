@@ -1,0 +1,14 @@
+{
+    "user_id": "U04887",
+    "name": "Melanie Tapia",
+    "email": "rpowell@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06598', 'B05264', 'B08597', 'B01458']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Conner LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08917', 'B03786', 'B03133', 'B07141']"
+}

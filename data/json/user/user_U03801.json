@@ -1,0 +1,14 @@
+{
+    "user_id": "U03801",
+    "name": "Brianna Smith",
+    "email": "rcain@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08336', 'B08518', 'B03025', 'B07776', 'B09920']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Fisher-Huffman for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04078']"
+}

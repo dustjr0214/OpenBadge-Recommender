@@ -1,0 +1,14 @@
+{
+    "user_id": "U07133",
+    "name": "Tamara Acosta",
+    "email": "maureen72@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03154', 'B01278', 'B08417']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Bell, Smith and Smith for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04532', 'B05488', 'B00540', 'B02942']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07601",
+    "name": "Angela Webster",
+    "email": "maycarol@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09490', 'B06299', 'B06559', 'B03322']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Rivera, Evans and Jones for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07812', 'B02601']"
+}

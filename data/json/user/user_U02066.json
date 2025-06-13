@@ -1,0 +1,14 @@
+{
+    "user_id": "U02066",
+    "name": "Michael Stanley",
+    "email": "nwhitney@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07556', 'B07631', 'B07771', 'B04782', 'B06894']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Webster-Lee for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05117', 'B02858']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00278",
+    "name": "Charles Adams",
+    "email": "briandillon@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05772', 'B08256', 'B04080']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Sanders-Williams for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06003']"
+}

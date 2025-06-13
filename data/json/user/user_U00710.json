@@ -1,0 +1,14 @@
+{
+    "user_id": "U00710",
+    "name": "Larry Ford",
+    "email": "megan45@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02362', 'B09995', 'B08019', 'B03216']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Griffin, Knight and Vang for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09408', 'B01829', 'B01097', 'B03628']"
+}

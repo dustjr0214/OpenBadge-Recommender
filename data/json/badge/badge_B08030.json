@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08030",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL', 'UI/UX']",
+    "competency": "['Teamwork', 'Creativity', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B05264', 'B05077']"
+}

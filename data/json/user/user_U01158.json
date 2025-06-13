@@ -1,0 +1,14 @@
+{
+    "user_id": "U01158",
+    "name": "Kelly Taylor",
+    "email": "williamharris@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04877']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Beasley-Martin for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04556', 'B06083', 'B07403']"
+}

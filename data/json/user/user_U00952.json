@@ -1,0 +1,14 @@
+{
+    "user_id": "U00952",
+    "name": "Daniel Robinson",
+    "email": "dawsonalexandra@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03252']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Harris, Mullen and Floyd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

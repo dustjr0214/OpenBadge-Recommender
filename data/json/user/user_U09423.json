@@ -1,0 +1,14 @@
+{
+    "user_id": "U09423",
+    "name": "Nicholas Noble",
+    "email": "sbrewer@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04128', 'B07376']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Garner, Mitchell and Williams for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04536', 'B08770', 'B01028', 'B05546']"
+}

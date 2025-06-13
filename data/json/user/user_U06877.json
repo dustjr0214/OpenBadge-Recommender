@@ -1,0 +1,14 @@
+{
+    "user_id": "U06877",
+    "name": "Tonya Morrison",
+    "email": "trevorfrazier@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00273', 'B06988']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Mayer-Brown for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04346', 'B04705', 'B00500']"
+}

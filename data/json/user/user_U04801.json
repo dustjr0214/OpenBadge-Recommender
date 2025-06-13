@@ -1,0 +1,14 @@
+{
+    "user_id": "U04801",
+    "name": "Dale Hoffman",
+    "email": "jerryholland@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05963', 'B02227', 'B01739', 'B03410']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Murray PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07012', 'B00782']"
+}

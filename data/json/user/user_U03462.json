@@ -1,0 +1,14 @@
+{
+    "user_id": "U03462",
+    "name": "Lisa Morrison",
+    "email": "nproctor@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00516', 'B00917', 'B08292']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Miles-Barnes for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04797', 'B06641', 'B00110', 'B02230']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02852",
+    "name": "Danielle Cunningham",
+    "email": "holmesantonio@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08237', 'B07033', 'B05290', 'B01568', 'B06445']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Cunningham and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07789', 'B06911', 'B00186', 'B02394', 'B01068']"
+}

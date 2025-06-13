@@ -1,0 +1,14 @@
+{
+    "user_id": "U04857",
+    "name": "Shawn Herring",
+    "email": "thomasparsons@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04969', 'B02297', 'B05271', 'B00506']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Patton-Ryan for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08958', 'B06752']"
+}

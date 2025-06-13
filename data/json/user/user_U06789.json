@@ -1,0 +1,14 @@
+{
+    "user_id": "U06789",
+    "name": "Sarah Wagner",
+    "email": "allisonjamie@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00754', 'B04006', 'B05457']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith, Williams and Campbell for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

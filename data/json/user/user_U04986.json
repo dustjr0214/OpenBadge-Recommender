@@ -1,0 +1,14 @@
+{
+    "user_id": "U04986",
+    "name": "Paula Miles",
+    "email": "cassidy29@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03424', 'B08516']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cooper-Mcdaniel for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08147', 'B07087', 'B06335', 'B01223']"
+}

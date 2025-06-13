@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06602",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'Python', 'Cybersecurity']",
+    "competency": "['Deep Learning', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08354",
+    "name": "Jerry Chang",
+    "email": "stephensdavid@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03126', 'B03175', 'B08812', 'B04857']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mckee-Davis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07092', 'B09555', 'B08129', 'B01679']"
+}

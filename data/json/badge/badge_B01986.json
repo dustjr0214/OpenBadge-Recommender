@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01986",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00176']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04959",
+    "name": "David Harris",
+    "email": "maryjones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09081', 'B08506']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Francis LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08653', 'B08154', 'B03388', 'B01336', 'B08743']"
+}

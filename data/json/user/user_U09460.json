@@ -1,0 +1,14 @@
+{
+    "user_id": "U09460",
+    "name": "Kaitlyn Howard",
+    "email": "velezmichael@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Harris-Hall for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02595', 'B07828', 'B00160', 'B05492', 'B05998']"
+}

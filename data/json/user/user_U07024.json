@@ -1,0 +1,14 @@
+{
+    "user_id": "U07024",
+    "name": "William Garcia",
+    "email": "sara29@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07759', 'B07315', 'B00955']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Brown, Jimenez and Potts for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06049']"
+}

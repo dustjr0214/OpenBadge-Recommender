@@ -1,0 +1,14 @@
+{
+    "user_id": "U09263",
+    "name": "Leslie Miles",
+    "email": "vscott@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Guerra Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07469', 'B05480', 'B00542']"
+}

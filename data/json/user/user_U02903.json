@@ -1,0 +1,14 @@
+{
+    "user_id": "U02903",
+    "name": "Kelsey Smith",
+    "email": "dgardner@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04860', 'B07755', 'B04869', 'B09423']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Martin-Medina for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03627']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07205",
+    "name": "Tamara Hernandez",
+    "email": "victorhood@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03090', 'B07468', 'B00369', 'B07849', 'B02651']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Brown Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02305', 'B06256', 'B08866']"
+}

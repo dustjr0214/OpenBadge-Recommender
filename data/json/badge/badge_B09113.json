@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09113",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency": "['Deep Learning', 'Problem Solving', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08635', 'B04650']"
+}

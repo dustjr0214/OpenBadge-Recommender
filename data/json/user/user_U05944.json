@@ -1,0 +1,14 @@
+{
+    "user_id": "U05944",
+    "name": "Kimberly Smith",
+    "email": "mbrown@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08592', 'B04762', 'B01320']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Gordon-Giles for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09581', 'B02890', 'B06635', 'B08436']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03627",
+    "name": "Mr. Joseph White",
+    "email": "lrichards@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06215']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Garcia-Arnold for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09683']"
+}

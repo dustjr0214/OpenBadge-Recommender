@@ -1,0 +1,14 @@
+{
+    "user_id": "U07529",
+    "name": "Karen Dawson",
+    "email": "steventownsend@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08426', 'B08626']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Brown-Mosley for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01990', 'B08822', 'B06480', 'B01561']"
+}

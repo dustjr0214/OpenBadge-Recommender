@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03938",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency": "['Creativity', 'Analytical Skills', 'Leadership']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B03291']"
+}

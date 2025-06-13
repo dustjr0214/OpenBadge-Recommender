@@ -1,0 +1,14 @@
+{
+    "user_id": "U04228",
+    "name": "Benjamin Torres",
+    "email": "williehernandez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Smith-Williams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

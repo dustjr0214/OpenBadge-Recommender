@@ -1,0 +1,14 @@
+{
+    "user_id": "U07060",
+    "name": "Robert Robertson",
+    "email": "jessicariddle@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08460', 'B00888', 'B06824', 'B00023']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Andersen-Gonzalez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06471', 'B01164', 'B00567']"
+}

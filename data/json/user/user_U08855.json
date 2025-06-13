@@ -1,0 +1,14 @@
+{
+    "user_id": "U08855",
+    "name": "Christopher Edwards",
+    "email": "pjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00753', 'B02685', 'B01476', 'B09149']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Roberson Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06516', 'B08515', 'B03165', 'B01216', 'B00604']"
+}

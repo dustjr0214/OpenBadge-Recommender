@@ -1,0 +1,14 @@
+{
+    "user_id": "U01250",
+    "name": "Steven Gallegos",
+    "email": "kyliemcguire@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01378', 'B01995']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Harris, Thomas and Schmidt for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05613']"
+}

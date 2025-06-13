@@ -1,0 +1,14 @@
+{
+    "user_id": "U04830",
+    "name": "Joel Woods",
+    "email": "iwilliams@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09852', 'B08787', 'B07835', 'B03358', 'B02613']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Valenzuela, Morris and Terrell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

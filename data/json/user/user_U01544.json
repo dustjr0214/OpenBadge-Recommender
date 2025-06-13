@@ -1,0 +1,14 @@
+{
+    "user_id": "U01544",
+    "name": "Alexandra Lee",
+    "email": "hernandezcameron@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05940', 'B08480']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Singleton-Moore for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03221', 'B03050', 'B01712']"
+}

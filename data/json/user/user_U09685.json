@@ -1,0 +1,14 @@
+{
+    "user_id": "U09685",
+    "name": "Bryce Morris",
+    "email": "zhart@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00884', 'B01062', 'B09793', 'B07311']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Estrada-Bush for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06633', 'B01580', 'B09472', 'B07217', 'B06376']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01009",
+    "name": "Gene Hunt",
+    "email": "samuel25@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00415', 'B00953']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Brooks, West and Taylor for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00064']"
+}

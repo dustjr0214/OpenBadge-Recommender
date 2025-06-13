@@ -1,0 +1,14 @@
+{
+    "user_id": "U07789",
+    "name": "Taylor Sanchez",
+    "email": "suzannemccormick@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08024', 'B02737']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Brown, Powell and Cox for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04100",
+    "name": "Angela Nunez",
+    "email": "amywilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01021', 'B02850']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Peters-Dean for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09736', 'B09519', 'B02083']"
+}

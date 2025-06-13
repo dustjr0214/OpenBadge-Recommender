@@ -1,0 +1,14 @@
+{
+    "user_id": "U01392",
+    "name": "Jake Meyer",
+    "email": "nicolerice@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06193', 'B08237', 'B00796']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hurst, Tran and Mendoza for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05060']"
+}

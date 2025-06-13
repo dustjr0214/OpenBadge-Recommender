@@ -1,0 +1,14 @@
+{
+    "user_id": "U08412",
+    "name": "Teresa Beltran",
+    "email": "josephbarrett@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01115', 'B06981', 'B09203', 'B03024']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Williams, Chapman and Kramer for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06436', 'B00416', 'B05952', 'B00472', 'B02279']"
+}

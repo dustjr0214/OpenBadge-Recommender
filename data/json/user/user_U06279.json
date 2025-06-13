@@ -1,0 +1,14 @@
+{
+    "user_id": "U06279",
+    "name": "Sarah Reynolds",
+    "email": "psanford@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09391', 'B00496', 'B03882', 'B05720', 'B01241']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Kelly Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07803']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04778",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency": "['Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02601']"
+}

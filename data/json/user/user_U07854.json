@@ -1,0 +1,14 @@
+{
+    "user_id": "U07854",
+    "name": "Daniel Evans",
+    "email": "changmalik@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09911', 'B02304', 'B08511', 'B06749', 'B04331']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Turner LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05211']"
+}

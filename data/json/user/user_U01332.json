@@ -1,0 +1,14 @@
+{
+    "user_id": "U01332",
+    "name": "Andrea Glass",
+    "email": "dgarza@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03364', 'B05187', 'B01265', 'B06627']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Phillips, Dean and Gay for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06256', 'B00675', 'B06219', 'B07521']"
+}

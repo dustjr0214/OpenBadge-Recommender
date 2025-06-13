@@ -1,0 +1,14 @@
+{
+    "user_id": "U07177",
+    "name": "Matthew Harris",
+    "email": "lrodriguez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00885', 'B04780', 'B00789']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Garrett and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02123', 'B06663', 'B04626', 'B07244', 'B02537']"
+}

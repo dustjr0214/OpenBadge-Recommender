@@ -1,0 +1,14 @@
+{
+    "user_id": "U05492",
+    "name": "James Bailey",
+    "email": "zacharysawyer@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00461', 'B06038', 'B07142', 'B07833', 'B00321']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Walker Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

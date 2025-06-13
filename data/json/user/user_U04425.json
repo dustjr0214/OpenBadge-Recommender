@@ -1,0 +1,14 @@
+{
+    "user_id": "U04425",
+    "name": "Connor Stewart",
+    "email": "david87@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00044']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Bradford-Garcia for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04636']"
+}

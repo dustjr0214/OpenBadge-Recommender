@@ -1,0 +1,14 @@
+{
+    "user_id": "U03920",
+    "name": "Keith Stephens",
+    "email": "kelly17@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05992', 'B09685', 'B03104']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Washington-Potts for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08754', 'B06936', 'B08779', 'B05200']"
+}

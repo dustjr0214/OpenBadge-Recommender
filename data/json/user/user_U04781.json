@@ -1,0 +1,14 @@
+{
+    "user_id": "U04781",
+    "name": "Robert Brown",
+    "email": "karenwright@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08377', 'B00548']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Vargas Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01960', 'B03542', 'B03639', 'B02665']"
+}

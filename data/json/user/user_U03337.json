@@ -1,0 +1,14 @@
+{
+    "user_id": "U03337",
+    "name": "Mindy Crawford",
+    "email": "sullivanjasmine@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04950', 'B00831', 'B07780', 'B06463']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Williams-Nelson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02113', 'B05247', 'B00371', 'B07501', 'B01517']"
+}

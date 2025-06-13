@@ -1,0 +1,14 @@
+{
+    "user_id": "U03313",
+    "name": "Allison Allen",
+    "email": "toddcole@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01036', 'B05340', 'B00633', 'B04445', 'B03660']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Martin-Jones for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07245', 'B00980', 'B04612', 'B09397', 'B09239']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08634",
+    "name": "Ryan Carter",
+    "email": "anita54@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Tran and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05102', 'B05865', 'B02060', 'B03403']"
+}

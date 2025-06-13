@@ -1,0 +1,14 @@
+{
+    "user_id": "U06052",
+    "name": "Ashley Clark",
+    "email": "ijenkins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07435', 'B01509', 'B05045', 'B05064', 'B08974']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at West-Moss for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06616', 'B03987', 'B02127']"
+}

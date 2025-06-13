@@ -1,0 +1,14 @@
+{
+    "user_id": "U02107",
+    "name": "Dylan Adams",
+    "email": "tateryan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02466', 'B00781', 'B01101']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Smith-Garcia for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02636', 'B00938', 'B00332']"
+}

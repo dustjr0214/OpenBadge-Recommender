@@ -1,0 +1,14 @@
+{
+    "user_id": "U01162",
+    "name": "Peter Peterson",
+    "email": "glennduran@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09624', 'B05509']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Reynolds Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

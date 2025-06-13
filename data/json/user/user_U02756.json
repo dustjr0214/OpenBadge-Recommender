@@ -1,0 +1,14 @@
+{
+    "user_id": "U02756",
+    "name": "Molly Cole",
+    "email": "stafforddenise@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04143', 'B08669']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Wright for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

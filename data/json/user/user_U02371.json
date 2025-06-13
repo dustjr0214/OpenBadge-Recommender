@@ -1,0 +1,14 @@
+{
+    "user_id": "U02371",
+    "name": "Jason Nichols",
+    "email": "qgutierrez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00240', 'B05454']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Hill-Wilson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00865']"
+}

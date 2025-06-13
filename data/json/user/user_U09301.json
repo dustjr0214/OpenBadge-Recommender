@@ -1,0 +1,14 @@
+{
+    "user_id": "U09301",
+    "name": "Jessica Wolf",
+    "email": "fordtroy@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00081', 'B05595', 'B08944', 'B02433', 'B01922']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Doyle-Daniel for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

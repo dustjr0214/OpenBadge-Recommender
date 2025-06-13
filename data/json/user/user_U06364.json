@@ -1,0 +1,14 @@
+{
+    "user_id": "U06364",
+    "name": "Anthony Cooper",
+    "email": "hudsonbrandi@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03948', 'B01648', 'B08808', 'B05154']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Cooper PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03698",
+    "name": "Jill Davis",
+    "email": "laurennewman@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01350', 'B00204', 'B06826']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Sanford Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04622', 'B04457', 'B05207', 'B07728', 'B08117']"
+}

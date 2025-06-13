@@ -1,0 +1,14 @@
+{
+    "user_id": "U05394",
+    "name": "Ryan Ellis",
+    "email": "ueaton@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Thomas Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05038']"
+}

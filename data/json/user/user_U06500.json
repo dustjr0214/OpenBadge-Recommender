@@ -1,0 +1,14 @@
+{
+    "user_id": "U06500",
+    "name": "Jasmine Hall",
+    "email": "normancarlos@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04259']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Jordan LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09119', 'B03387', 'B06027', 'B02475']"
+}

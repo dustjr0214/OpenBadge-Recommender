@@ -1,0 +1,14 @@
+{
+    "user_id": "U08202",
+    "name": "David Thompson",
+    "email": "zreyes@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04019', 'B06357']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Wood-Sanchez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00290', 'B03209']"
+}

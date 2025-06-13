@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05390",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Analytical Skills', 'Teamwork', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

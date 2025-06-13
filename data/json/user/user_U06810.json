@@ -1,0 +1,14 @@
+{
+    "user_id": "U06810",
+    "name": "Barry Delacruz",
+    "email": "jessicahoward@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03002', 'B04035', 'B06271']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Larson Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06352', 'B08501']"
+}

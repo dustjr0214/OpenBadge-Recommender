@@ -1,0 +1,14 @@
+{
+    "user_id": "U02420",
+    "name": "Michael Shaw",
+    "email": "katherine77@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01986', 'B08310', 'B03140', 'B08693']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Daniels-George for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08952']"
+}

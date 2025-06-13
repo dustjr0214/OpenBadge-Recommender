@@ -1,0 +1,14 @@
+{
+    "user_id": "U02890",
+    "name": "Joshua Walker",
+    "email": "matthewle@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04685']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cook-Wilson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05496', 'B08097']"
+}

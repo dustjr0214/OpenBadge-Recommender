@@ -1,0 +1,14 @@
+{
+    "user_id": "U01070",
+    "name": "Alexander Lopez",
+    "email": "znunez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00358', 'B05103', 'B09400']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Evans-Green for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06119']"
+}

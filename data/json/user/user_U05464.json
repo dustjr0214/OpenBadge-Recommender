@@ -1,0 +1,14 @@
+{
+    "user_id": "U05464",
+    "name": "Matthew Barker",
+    "email": "carlosnorman@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00217', 'B05421']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Atkins-Wall for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01172', 'B09614', 'B00471', 'B04837', 'B03407']"
+}

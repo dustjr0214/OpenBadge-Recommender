@@ -1,0 +1,14 @@
+{
+    "user_id": "U05148",
+    "name": "Jason Allen",
+    "email": "johnshields@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03712', 'B05163']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at White LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03352', 'B01902', 'B02765', 'B09307', 'B09654']"
+}

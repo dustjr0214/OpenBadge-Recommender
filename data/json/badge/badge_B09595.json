@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09595",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Python']",
+    "competency": "['Cybersecurity', 'UI/UX']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

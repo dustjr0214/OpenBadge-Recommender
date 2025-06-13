@@ -1,0 +1,14 @@
+{
+    "user_id": "U05491",
+    "name": "Ethan Cummings",
+    "email": "stephaniegill@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09006', 'B01621']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Rogers and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04986', 'B00164', 'B06142', 'B08189']"
+}

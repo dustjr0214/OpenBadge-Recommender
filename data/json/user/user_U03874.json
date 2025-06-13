@@ -1,0 +1,14 @@
+{
+    "user_id": "U03874",
+    "name": "Natalie Williams",
+    "email": "katherinearmstrong@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04708', 'B05839', 'B06912', 'B03391']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Newman-Cooper for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08729', 'B02125', 'B08091', 'B05948']"
+}

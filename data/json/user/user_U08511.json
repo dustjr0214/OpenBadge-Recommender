@@ -1,0 +1,14 @@
+{
+    "user_id": "U08511",
+    "name": "Megan Lewis",
+    "email": "watsonkimberly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09794', 'B07084']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Johnson, Clark and Watkins for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

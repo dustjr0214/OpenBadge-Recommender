@@ -1,0 +1,14 @@
+{
+    "user_id": "U02317",
+    "name": "Marvin Hall",
+    "email": "lauraschmidt@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05858', 'B05503']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Hansen, Miller and Beasley for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05109']"
+}

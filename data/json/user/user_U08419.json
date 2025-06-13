@@ -1,0 +1,14 @@
+{
+    "user_id": "U08419",
+    "name": "Stephanie Navarro",
+    "email": "david63@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06872', 'B08964', 'B00957', 'B02724']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Thompson-Simpson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09236', 'B06709', 'B03806', 'B06433', 'B07980']"
+}

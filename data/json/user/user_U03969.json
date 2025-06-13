@@ -1,0 +1,14 @@
+{
+    "user_id": "U03969",
+    "name": "Eric Hicks",
+    "email": "leonardjoshua@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04939', 'B09952', 'B02394', 'B01977']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Vance LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09900', 'B00831', 'B08956', 'B04055']"
+}

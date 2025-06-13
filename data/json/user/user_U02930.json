@@ -1,0 +1,14 @@
+{
+    "user_id": "U02930",
+    "name": "Joseph Schmidt",
+    "email": "alison30@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01857', 'B06231']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hansen, Yates and Kramer for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09105",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07160']"
+}

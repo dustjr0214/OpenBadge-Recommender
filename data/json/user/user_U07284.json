@@ -1,0 +1,14 @@
+{
+    "user_id": "U07284",
+    "name": "Steven Gonzalez",
+    "email": "kyleacosta@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07750', 'B09977', 'B05598']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Gillespie-Richardson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09513']"
+}

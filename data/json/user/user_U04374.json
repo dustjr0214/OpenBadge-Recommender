@@ -1,0 +1,14 @@
+{
+    "user_id": "U04374",
+    "name": "Kenneth Ho",
+    "email": "jonathan06@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06293', 'B00500', 'B04779']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Pineda, Anderson and Scott for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07885', 'B08526', 'B05574', 'B07195', 'B09891']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07899",
+    "name": "Heidi Hess",
+    "email": "susanjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04335', 'B04952', 'B07913']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Patel Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01700', 'B00530', 'B07710', 'B08459', 'B01284']"
+}

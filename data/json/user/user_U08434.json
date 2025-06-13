@@ -1,0 +1,14 @@
+{
+    "user_id": "U08434",
+    "name": "Justin Harris",
+    "email": "janice91@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06298', 'B03798', 'B05438', 'B09343', 'B05808']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Peterson-Jones for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06907', 'B08423', 'B05075', 'B06377', 'B06413']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06166",
+    "name": "Robert Riley",
+    "email": "masonkirsten@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06528', 'B01201', 'B03116', 'B02543', 'B03930']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Willis-Weaver for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00138', 'B09955', 'B08409']"
+}

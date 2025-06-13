@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02475",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python']",
+    "competency": "['Cloud Computing', 'Analytical Skills', 'Teamwork']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B04079', 'B00197']"
+}

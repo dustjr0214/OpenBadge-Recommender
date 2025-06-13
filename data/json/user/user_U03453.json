@@ -1,0 +1,14 @@
+{
+    "user_id": "U03453",
+    "name": "James Jones",
+    "email": "ryan83@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Carlson-Johnston for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02999', 'B08942', 'B03384', 'B05155']"
+}

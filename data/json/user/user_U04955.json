@@ -1,0 +1,14 @@
+{
+    "user_id": "U04955",
+    "name": "Dennis Stewart",
+    "email": "qcunningham@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07095']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Moore, Miranda and Sweeney for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03754', 'B09667', 'B06772', 'B03969']"
+}

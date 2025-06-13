@@ -1,0 +1,14 @@
+{
+    "user_id": "U06195",
+    "name": "Michael Butler",
+    "email": "kevinerickson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07160', 'B05711', 'B01844']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gross Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06939', 'B09073', 'B08110', 'B05760', 'B07494']"
+}

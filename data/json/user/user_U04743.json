@@ -1,0 +1,14 @@
+{
+    "user_id": "U04743",
+    "name": "Lisa Pitts",
+    "email": "riosmargaret@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09838', 'B07221', 'B02305']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at White, Johnson and Watkins for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01752']"
+}

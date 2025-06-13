@@ -1,0 +1,14 @@
+{
+    "user_id": "U00071",
+    "name": "Karen Arnold",
+    "email": "jmiller@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05882', 'B09118', 'B02429', 'B09043']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Smith, Brown and Hahn for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05011']"
+}

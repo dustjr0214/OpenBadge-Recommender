@@ -1,0 +1,14 @@
+{
+    "user_id": "U01831",
+    "name": "Marie Soto",
+    "email": "jacobsdaniel@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08879', 'B03093']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Stewart-Franco for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

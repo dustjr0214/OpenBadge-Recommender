@@ -1,0 +1,14 @@
+{
+    "user_id": "U00232",
+    "name": "Bobby Francis",
+    "email": "susanprice@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00522']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at White-Jackson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00003', 'B02573', 'B03328']"
+}

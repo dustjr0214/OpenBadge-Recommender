@@ -1,0 +1,14 @@
+{
+    "user_id": "U04183",
+    "name": "Adam Phillips",
+    "email": "travis72@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07021', 'B09774', 'B02545', 'B01017', 'B09158']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Smith-Thomas for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06078', 'B00063', 'B06355', 'B09900', 'B09525']"
+}

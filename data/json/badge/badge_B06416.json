@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06416",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Leadership', 'Data Analysis', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01856', 'B08233']"
+}

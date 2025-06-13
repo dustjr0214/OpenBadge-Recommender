@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05079",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Leadership', 'Analytical Skills']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09571']"
+}

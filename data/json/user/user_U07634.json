@@ -1,0 +1,14 @@
+{
+    "user_id": "U07634",
+    "name": "Sandra Andrews",
+    "email": "kevinparsons@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06422']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Finley Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00662', 'B06431']"
+}

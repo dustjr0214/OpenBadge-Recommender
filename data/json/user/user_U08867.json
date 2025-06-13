@@ -1,0 +1,14 @@
+{
+    "user_id": "U08867",
+    "name": "Kathleen Johnson",
+    "email": "sknox@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09383', 'B08911', 'B07962', 'B06361']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Chung Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05824', 'B06656', 'B07317', 'B06713']"
+}

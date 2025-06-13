@@ -1,0 +1,14 @@
+{
+    "user_id": "U08757",
+    "name": "James Tucker",
+    "email": "martinmonica@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hernandez-Martinez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05788', 'B06645']"
+}

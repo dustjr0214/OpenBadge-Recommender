@@ -1,0 +1,14 @@
+{
+    "user_id": "U07961",
+    "name": "Deanna Foster",
+    "email": "qjackson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01696', 'B00013', 'B02041']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Fox, Peters and Thornton for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05854', 'B06019', 'B00587', 'B09917']"
+}

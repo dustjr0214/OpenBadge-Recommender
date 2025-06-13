@@ -1,0 +1,14 @@
+{
+    "user_id": "U08939",
+    "name": "Jacob Hill",
+    "email": "bradleywilliams@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06607', 'B08240']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Andrade PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04610', 'B00250']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06220",
+    "name": "James Evans",
+    "email": "jodiwelch@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03361', 'B09191', 'B05239', 'B04433']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Lyons, Gilbert and Wood for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02778', 'B05308', 'B09819', 'B03239']"
+}

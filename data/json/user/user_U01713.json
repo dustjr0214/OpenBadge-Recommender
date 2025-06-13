@@ -1,0 +1,14 @@
+{
+    "user_id": "U01713",
+    "name": "Valerie Ward",
+    "email": "steven79@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06370']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Macdonald Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06750', 'B04179', 'B08333', 'B04719']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08179",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning']",
+    "competency": "['Analytical Skills']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01635",
+    "name": "Stephanie Coffey",
+    "email": "meredith54@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00069', 'B00620', 'B05427']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Middleton Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09966', 'B08732', 'B02582', 'B05448', 'B09619']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05810",
+    "name": "Katie Logan",
+    "email": "haley25@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05333', 'B06349', 'B08766', 'B02767', 'B04003']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Bradley Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06973', 'B06232', 'B03785', 'B07147', 'B01053']"
+}

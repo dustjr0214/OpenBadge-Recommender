@@ -1,0 +1,14 @@
+{
+    "user_id": "U05404",
+    "name": "Ashley Stevens",
+    "email": "ryanhenson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00715']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Martinez, Ward and Vaughan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09462', 'B09111', 'B08441']"
+}

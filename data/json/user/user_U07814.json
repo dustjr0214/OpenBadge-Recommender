@@ -1,0 +1,14 @@
+{
+    "user_id": "U07814",
+    "name": "Patricia Garrison",
+    "email": "jesse67@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06869', 'B03420', 'B00358', 'B09989']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Nelson, Goodwin and Stanley for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05657', 'B01358']"
+}

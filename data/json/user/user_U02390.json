@@ -1,0 +1,14 @@
+{
+    "user_id": "U02390",
+    "name": "Brandon Taylor",
+    "email": "towen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07520', 'B01612', 'B00027', 'B08990']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Small, Knight and Williams for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00771', 'B01727', 'B06223']"
+}

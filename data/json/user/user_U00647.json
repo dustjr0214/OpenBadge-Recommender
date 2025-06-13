@@ -1,0 +1,14 @@
+{
+    "user_id": "U00647",
+    "name": "Benjamin Clark",
+    "email": "andrewcoleman@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09349', 'B08185', 'B07412']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Hawkins, Rivera and Walls for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00309']"
+}

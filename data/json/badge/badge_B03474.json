@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03474",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Data Analysis', 'DevOps', 'Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B07625', 'B03434']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09217",
+    "name": "Sherry Anderson",
+    "email": "brownmegan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02755', 'B05411', 'B08706', 'B08547']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Dougherty Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02033', 'B01825', 'B09760', 'B07685']"
+}

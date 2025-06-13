@@ -1,0 +1,14 @@
+{
+    "user_id": "U06366",
+    "name": "Joshua Sparks",
+    "email": "pamwilliams@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01149', 'B06614', 'B02733', 'B00115', 'B06306']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Riley-Pham for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02765', 'B01755', 'B00712', 'B04692', 'B01715']"
+}

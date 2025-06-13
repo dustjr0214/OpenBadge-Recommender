@@ -1,0 +1,14 @@
+{
+    "user_id": "U03502",
+    "name": "Jon Ware",
+    "email": "sanchezbrian@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05425', 'B07037', 'B05769', 'B02321']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rogers-Davidson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02520', 'B00090']"
+}

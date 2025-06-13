@@ -1,0 +1,14 @@
+{
+    "user_id": "U03931",
+    "name": "Amanda Hobbs",
+    "email": "justinharris@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Smith, Brown and Wiggins for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04646', 'B03267']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09794",
+    "name": "Theresa Carr",
+    "email": "rebecca84@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01851']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Anderson-Lowe for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09548', 'B04014', 'B07778']"
+}

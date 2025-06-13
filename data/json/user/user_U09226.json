@@ -1,0 +1,14 @@
+{
+    "user_id": "U09226",
+    "name": "Robin Mckenzie",
+    "email": "shepardthomas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00291', 'B08040', 'B05566', 'B01623', 'B05697']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Perez, Johnson and Hensley for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03558', 'B02248']"
+}

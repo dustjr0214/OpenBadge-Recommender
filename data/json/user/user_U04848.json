@@ -1,0 +1,14 @@
+{
+    "user_id": "U04848",
+    "name": "Jennifer Franklin",
+    "email": "michaelsavage@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03007']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mcgee, Mccarty and Armstrong for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08930', 'B01318', 'B04377', 'B09162']"
+}

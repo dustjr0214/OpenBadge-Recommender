@@ -1,0 +1,14 @@
+{
+    "user_id": "U05468",
+    "name": "James Martinez",
+    "email": "daniel64@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06939']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Hammond-Ingram for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01624', 'B02044']"
+}

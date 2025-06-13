@@ -1,0 +1,14 @@
+{
+    "user_id": "U06582",
+    "name": "Lisa Allison",
+    "email": "jeffreed@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05082', 'B05977', 'B00301', 'B07611']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Yu LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00936', 'B00062', 'B05575', 'B04920', 'B02256']"
+}

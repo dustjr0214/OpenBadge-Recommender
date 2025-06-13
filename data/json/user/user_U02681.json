@@ -1,0 +1,14 @@
+{
+    "user_id": "U02681",
+    "name": "Michael Smith",
+    "email": "sweeneyamanda@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00714', 'B01263', 'B00121']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Richardson-Kemp for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05064', 'B04847']"
+}

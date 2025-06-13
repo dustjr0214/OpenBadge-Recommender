@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06360",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'SQL', 'UI/UX']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B02354']"
+}

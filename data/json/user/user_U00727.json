@@ -1,0 +1,14 @@
+{
+    "user_id": "U00727",
+    "name": "Chad Martinez",
+    "email": "lcooper@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09707']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Velazquez-Oneill for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

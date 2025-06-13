@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05305",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Data Analysis']",
+    "competency": "['Teamwork', 'Cybersecurity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B07064', 'B02402']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00223",
+    "name": "Ricardo Chapman",
+    "email": "jasonfuentes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05550', 'B05046', 'B02881']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Fletcher-Stephenson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02468', 'B02807', 'B00726']"
+}

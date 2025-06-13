@@ -1,0 +1,14 @@
+{
+    "user_id": "U01108",
+    "name": "Angela Bell",
+    "email": "lbryant@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00636']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Everett, Bonilla and Dawson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06372', 'B06384', 'B00465', 'B03750']"
+}

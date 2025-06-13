@@ -1,0 +1,14 @@
+{
+    "user_id": "U01735",
+    "name": "Susan Harvey",
+    "email": "kaylabrooks@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06553', 'B08771', 'B05851']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Snyder, Ward and Kemp for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09949', 'B01095']"
+}

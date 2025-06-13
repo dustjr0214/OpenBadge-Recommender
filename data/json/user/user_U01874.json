@@ -1,0 +1,14 @@
+{
+    "user_id": "U01874",
+    "name": "David Johnson",
+    "email": "cmcclain@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09840', 'B04088', 'B01550']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Munoz-Beck for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02800', 'B05778', 'B04271', 'B01828']"
+}

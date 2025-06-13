@@ -1,0 +1,14 @@
+{
+    "user_id": "U00534",
+    "name": "Jonathan Huerta",
+    "email": "coxbenjamin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09290', 'B00034']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Glenn, Gilbert and Hill for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

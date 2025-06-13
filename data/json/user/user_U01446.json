@@ -1,0 +1,14 @@
+{
+    "user_id": "U01446",
+    "name": "Cynthia Carroll",
+    "email": "ncosta@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07753']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Lewis, Hayes and Elliott for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07588', 'B09366', 'B09989', 'B00089', 'B06666']"
+}

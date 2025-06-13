@@ -1,0 +1,14 @@
+{
+    "user_id": "U01525",
+    "name": "Wendy Frank",
+    "email": "holiver@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04810', 'B07691']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Jones Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08034', 'B05490', 'B00460', 'B05258']"
+}

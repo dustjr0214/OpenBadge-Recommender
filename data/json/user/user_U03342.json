@@ -1,0 +1,14 @@
+{
+    "user_id": "U03342",
+    "name": "Steven Morales",
+    "email": "gabriela00@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04657', 'B03654', 'B09728', 'B04235']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Miller-Knox for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06356', 'B09385']"
+}

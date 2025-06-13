@@ -1,0 +1,14 @@
+{
+    "user_id": "U04918",
+    "name": "John Crawford",
+    "email": "adam26@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Allen, Santana and Williams for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05690', 'B07551', 'B07735', 'B07139']"
+}

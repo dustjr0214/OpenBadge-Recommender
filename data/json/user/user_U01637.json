@@ -1,0 +1,14 @@
+{
+    "user_id": "U01637",
+    "name": "James Velasquez",
+    "email": "markmccullough@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07401', 'B07000', 'B00907', 'B03072']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Jones, Johnson and Booker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08420', 'B08286', 'B00250', 'B07960']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08134",
+    "name": "Paul Skinner",
+    "email": "stephenjohnson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06226', 'B09134', 'B04123']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Morris-Sanders for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00140', 'B04087', 'B08634', 'B00714']"
+}

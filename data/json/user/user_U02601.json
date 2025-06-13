@@ -1,0 +1,14 @@
+{
+    "user_id": "U02601",
+    "name": "Janice Perry",
+    "email": "paul80@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00420', 'B03119', 'B02193', 'B05969']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Rivas-Herrera for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

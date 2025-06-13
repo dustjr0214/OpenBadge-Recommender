@@ -1,0 +1,14 @@
+{
+    "user_id": "U08515",
+    "name": "Robert Lewis",
+    "email": "dellis@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09727', 'B02651']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Powell-Johnson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

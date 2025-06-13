@@ -1,0 +1,14 @@
+{
+    "user_id": "U01748",
+    "name": "Trevor Holland",
+    "email": "randyosborne@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05920', 'B00117', 'B07802', 'B00335']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Newman-Le for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01677', 'B09156', 'B06924']"
+}

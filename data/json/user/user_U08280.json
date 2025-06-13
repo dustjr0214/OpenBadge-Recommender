@@ -1,0 +1,14 @@
+{
+    "user_id": "U08280",
+    "name": "James Atkinson",
+    "email": "rbarron@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00973', 'B07353', 'B07024', 'B07356']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Green, Wilkerson and Munoz for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04807', 'B01256']"
+}

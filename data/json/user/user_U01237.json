@@ -1,0 +1,14 @@
+{
+    "user_id": "U01237",
+    "name": "Jennifer Brown",
+    "email": "qbridges@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08940', 'B09033', 'B02158', 'B06089', 'B01622']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Baldwin Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01862', 'B03750', 'B02321', 'B03436', 'B05173']"
+}

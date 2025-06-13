@@ -1,0 +1,14 @@
+{
+    "user_id": "U05230",
+    "name": "Anna Russell",
+    "email": "katherine50@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06913']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Faulkner, Allen and Stokes for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07615', 'B04381', 'B09486', 'B05352']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08063",
+    "name": "Michael Beasley",
+    "email": "jennifer21@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02270', 'B06795', 'B09487']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Griffith-Perez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

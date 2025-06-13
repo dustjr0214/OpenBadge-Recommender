@@ -1,0 +1,14 @@
+{
+    "user_id": "U05473",
+    "name": "Sherry Roberts",
+    "email": "hernandezsylvia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08582', 'B00559', 'B03114', 'B01691']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Moody, Hernandez and Lozano for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09414', 'B03828', 'B04088', 'B07237']"
+}

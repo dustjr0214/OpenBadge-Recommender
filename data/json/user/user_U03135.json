@@ -1,0 +1,14 @@
+{
+    "user_id": "U03135",
+    "name": "Heather Garcia",
+    "email": "michelletaylor@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00298', 'B00800', 'B04007', 'B01560']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Rodriguez, Estrada and Vasquez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04681', 'B04231']"
+}

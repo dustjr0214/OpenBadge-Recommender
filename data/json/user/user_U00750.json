@@ -1,0 +1,14 @@
+{
+    "user_id": "U00750",
+    "name": "Steven Cruz",
+    "email": "catherine25@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06908', 'B07693', 'B05604']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Carter-Thomas for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09692']"
+}

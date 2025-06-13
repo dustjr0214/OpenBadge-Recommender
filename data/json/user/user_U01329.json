@@ -1,0 +1,14 @@
+{
+    "user_id": "U01329",
+    "name": "Gloria Monroe",
+    "email": "rebecca00@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04132']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Wallace Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06495']"
+}

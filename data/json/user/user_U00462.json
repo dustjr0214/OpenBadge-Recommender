@@ -1,0 +1,14 @@
+{
+    "user_id": "U00462",
+    "name": "Rebecca Glover",
+    "email": "zgonzalez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00826', 'B06712', 'B06410', 'B06290', 'B03659']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Brown, Mcclure and Wolfe for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07870', 'B08169', 'B07621', 'B04252']"
+}

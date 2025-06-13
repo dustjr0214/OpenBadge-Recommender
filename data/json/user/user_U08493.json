@@ -1,0 +1,14 @@
+{
+    "user_id": "U08493",
+    "name": "Steven Robles DDS",
+    "email": "michael95@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05616', 'B02767', 'B00668', 'B07538']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Williams, Terry and Baker for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08718', 'B04533', 'B09764', 'B08200', 'B03042']"
+}

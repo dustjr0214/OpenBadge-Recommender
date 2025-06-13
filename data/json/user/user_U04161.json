@@ -1,0 +1,14 @@
+{
+    "user_id": "U04161",
+    "name": "John Duke",
+    "email": "hendersonjennifer@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01609', 'B08685', 'B01187', 'B00960']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Farley-Garner for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03066', 'B00110', 'B08325', 'B01105', 'B04488']"
+}

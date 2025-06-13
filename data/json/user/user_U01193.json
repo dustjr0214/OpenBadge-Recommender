@@ -1,0 +1,14 @@
+{
+    "user_id": "U01193",
+    "name": "Joshua Cook",
+    "email": "cristinaholt@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05377', 'B09364']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Huffman PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03717', 'B07123', 'B07163', 'B02941', 'B07152']"
+}

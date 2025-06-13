@@ -1,0 +1,14 @@
+{
+    "user_id": "U02987",
+    "name": "Gregory Rodriguez",
+    "email": "jamesbell@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06242', 'B08592', 'B07659', 'B01625']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Cortez PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04219', 'B06957', 'B07989', 'B01006']"
+}

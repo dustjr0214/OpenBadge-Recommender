@@ -1,0 +1,14 @@
+{
+    "user_id": "U01712",
+    "name": "Isaac Jacobs",
+    "email": "wmack@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07936']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Patrick and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02332', 'B07322', 'B03345', 'B00851']"
+}

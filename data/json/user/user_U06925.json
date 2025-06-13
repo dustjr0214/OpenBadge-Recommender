@@ -1,0 +1,14 @@
+{
+    "user_id": "U06925",
+    "name": "Jackson Jones",
+    "email": "murrayadam@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00946', 'B02424', 'B01799', 'B07936', 'B09248']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Bauer and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03125', 'B02904', 'B08302', 'B09353', 'B00083']"
+}

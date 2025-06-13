@@ -1,0 +1,14 @@
+{
+    "user_id": "U02037",
+    "name": "Michelle Robinson",
+    "email": "mcdowellroberto@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06731', 'B09151', 'B08104', 'B06632']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Lindsey PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

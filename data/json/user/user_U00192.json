@@ -1,0 +1,14 @@
+{
+    "user_id": "U00192",
+    "name": "Michael Gilbert",
+    "email": "johncaldwell@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03211', 'B00785']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Flores, French and Woods for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06891', 'B06179', 'B03364', 'B09710', 'B09165']"
+}

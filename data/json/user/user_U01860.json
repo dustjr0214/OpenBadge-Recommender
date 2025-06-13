@@ -1,0 +1,14 @@
+{
+    "user_id": "U01860",
+    "name": "Elizabeth Caldwell",
+    "email": "moodytom@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Charles-Martinez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09131', 'B03696']"
+}

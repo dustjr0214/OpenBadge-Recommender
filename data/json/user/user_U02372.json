@@ -1,0 +1,14 @@
+{
+    "user_id": "U02372",
+    "name": "Madison Richards",
+    "email": "oburke@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07788', 'B06149', 'B08009', 'B04196']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Banks-Padilla for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07801', 'B02388', 'B08059', 'B06595']"
+}

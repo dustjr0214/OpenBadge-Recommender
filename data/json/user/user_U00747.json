@@ -1,0 +1,14 @@
+{
+    "user_id": "U00747",
+    "name": "Christina Knight",
+    "email": "adrian75@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05652', 'B05050', 'B07967']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Melton Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04176', 'B03721', 'B01957', 'B08757', 'B00458']"
+}

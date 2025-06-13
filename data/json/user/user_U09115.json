@@ -1,0 +1,14 @@
+{
+    "user_id": "U09115",
+    "name": "Jessica Lane",
+    "email": "nestrada@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08266']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Fisher-Gonzales for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02865', 'B08206', 'B03767', 'B03127']"
+}

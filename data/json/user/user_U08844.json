@@ -1,0 +1,14 @@
+{
+    "user_id": "U08844",
+    "name": "Maureen Yang",
+    "email": "davisthomas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08492', 'B07216']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Berg Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04140', 'B09959']"
+}

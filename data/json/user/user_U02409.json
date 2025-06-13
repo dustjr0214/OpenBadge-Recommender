@@ -1,0 +1,14 @@
+{
+    "user_id": "U02409",
+    "name": "Jennifer Kent",
+    "email": "kelliecox@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03658']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Sawyer, Manning and Estrada for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

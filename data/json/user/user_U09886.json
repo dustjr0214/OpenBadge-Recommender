@@ -1,0 +1,14 @@
+{
+    "user_id": "U09886",
+    "name": "Ronald Russell",
+    "email": "meyerskathleen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08857', 'B02300', 'B05125', 'B00888', 'B02392']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Brown, Hoffman and King for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05718', 'B07231', 'B01424', 'B06308']"
+}

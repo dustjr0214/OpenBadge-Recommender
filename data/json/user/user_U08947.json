@@ -1,0 +1,14 @@
+{
+    "user_id": "U08947",
+    "name": "Brandon Richardson",
+    "email": "davidturner@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06068', 'B01682']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Kidd and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04360', 'B07170']"
+}

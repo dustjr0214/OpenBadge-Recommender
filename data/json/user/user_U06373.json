@@ -1,0 +1,14 @@
+{
+    "user_id": "U06373",
+    "name": "Casey Middleton",
+    "email": "derek87@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00820', 'B06717', 'B06121']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at James Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03411', 'B05618', 'B01143', 'B07566', 'B08792']"
+}

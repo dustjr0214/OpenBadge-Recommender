@@ -1,0 +1,14 @@
+{
+    "user_id": "U02551",
+    "name": "Duane Hart",
+    "email": "bradleydaniel@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01303', 'B05938', 'B05129']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Dixon, Hernandez and Suarez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02537', 'B03181', 'B00084']"
+}

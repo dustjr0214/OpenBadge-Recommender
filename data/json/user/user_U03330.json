@@ -1,0 +1,14 @@
+{
+    "user_id": "U03330",
+    "name": "Nicole Barker",
+    "email": "jane78@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09738', 'B05911']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Stevens, Jarvis and Larson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00038']"
+}

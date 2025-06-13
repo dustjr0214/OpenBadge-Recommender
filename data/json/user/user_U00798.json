@@ -1,0 +1,14 @@
+{
+    "user_id": "U00798",
+    "name": "Lance Thomas",
+    "email": "cohenjillian@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05180']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Macias-Olson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01350', 'B07714', 'B01348', 'B06013']"
+}

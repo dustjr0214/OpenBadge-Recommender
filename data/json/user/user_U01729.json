@@ -1,0 +1,14 @@
+{
+    "user_id": "U01729",
+    "name": "Crystal Jones",
+    "email": "cartertony@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04662', 'B04885', 'B07566', 'B04423']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Duffy-White for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02250']"
+}

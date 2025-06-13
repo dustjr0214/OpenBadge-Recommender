@@ -1,0 +1,14 @@
+{
+    "user_id": "U07986",
+    "name": "John Ball",
+    "email": "stonetimothy@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05439', 'B09054']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Holden, Delgado and Jones for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04282', 'B02304', 'B01141', 'B09375']"
+}

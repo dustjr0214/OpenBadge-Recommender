@@ -1,0 +1,14 @@
+{
+    "user_id": "U08905",
+    "name": "Paul West",
+    "email": "kelleyjacob@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03267']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Wilson Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02912', 'B05440', 'B06253', 'B03534']"
+}

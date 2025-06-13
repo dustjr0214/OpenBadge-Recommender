@@ -1,0 +1,14 @@
+{
+    "user_id": "U06452",
+    "name": "Tammy Yang",
+    "email": "dharrell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02858', 'B06066', 'B09721', 'B09454']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Ward, Alexander and Lang for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08680']"
+}

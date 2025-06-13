@@ -1,0 +1,14 @@
+{
+    "user_id": "U09533",
+    "name": "Aaron Payne",
+    "email": "crichards@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00424', 'B06701', 'B06843']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Tucker-Wilson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08928']"
+}

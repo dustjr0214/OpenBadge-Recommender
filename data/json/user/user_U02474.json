@@ -1,0 +1,14 @@
+{
+    "user_id": "U02474",
+    "name": "Alexandra Arroyo",
+    "email": "ddavis@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09864', 'B00749']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Holder and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08579', 'B03615', 'B04323']"
+}

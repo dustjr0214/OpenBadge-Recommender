@@ -1,0 +1,14 @@
+{
+    "user_id": "U05363",
+    "name": "Barbara Mendez",
+    "email": "samanthashaw@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09167', 'B00947', 'B06078', 'B08010']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Guzman Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02026', 'B09257', 'B01221', 'B08899', 'B09224']"
+}

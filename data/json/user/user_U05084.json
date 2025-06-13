@@ -1,0 +1,14 @@
+{
+    "user_id": "U05084",
+    "name": "Virginia Norris",
+    "email": "lorisimon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04196', 'B03327']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Johnson-Adams for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03095', 'B08320', 'B06838', 'B08855', 'B06631']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03572",
+    "name": "James Williams",
+    "email": "zbryant@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07766', 'B00933', 'B07201', 'B06110', 'B00028']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Fuller Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00283', 'B07701']"
+}

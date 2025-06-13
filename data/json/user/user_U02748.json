@@ -1,0 +1,14 @@
+{
+    "user_id": "U02748",
+    "name": "Corey Gibson",
+    "email": "lisabaker@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05022', 'B02005', 'B02566']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Riley and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01484', 'B04251', 'B09355', 'B08900', 'B05487']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08734",
+    "name": "Joe Gonzalez",
+    "email": "mark13@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05287', 'B02727', 'B09418', 'B07863']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hart, Hayes and Wilson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04959', 'B01623']"
+}

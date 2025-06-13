@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04491",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python']",
+    "competency": "['Creativity', 'SQL', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B02841']"
+}

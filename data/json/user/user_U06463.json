@@ -1,0 +1,14 @@
+{
+    "user_id": "U06463",
+    "name": "Arthur Myers",
+    "email": "emily35@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01605', 'B05010', 'B00198', 'B04709']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Mccall-Richardson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09107']"
+}

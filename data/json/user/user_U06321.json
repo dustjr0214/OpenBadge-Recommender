@@ -1,0 +1,14 @@
+{
+    "user_id": "U06321",
+    "name": "Teresa Wilson",
+    "email": "kgiles@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00302', 'B03150', 'B03687', 'B00742', 'B03772']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Daugherty, Harding and Gray for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04136', 'B04544', 'B08267', 'B03102', 'B07409']"
+}

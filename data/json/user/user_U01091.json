@@ -1,0 +1,14 @@
+{
+    "user_id": "U01091",
+    "name": "Nathan Jones",
+    "email": "nicholascannon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06200', 'B01535', 'B04390', 'B08920', 'B07271']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Nielsen, Baldwin and Garza for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07115', 'B01054', 'B01086']"
+}

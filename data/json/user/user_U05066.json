@@ -1,0 +1,14 @@
+{
+    "user_id": "U05066",
+    "name": "Amanda Miller",
+    "email": "jerry34@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01093']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Smith PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05969']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05460",
+    "name": "Brittany Choi",
+    "email": "lisarobinson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00693']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Jenkins LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00382', 'B05654', 'B08328']"
+}

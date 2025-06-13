@@ -1,0 +1,14 @@
+{
+    "user_id": "U00946",
+    "name": "Joseph Shaffer",
+    "email": "diana25@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03685', 'B04582', 'B03955', 'B07694', 'B04179']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Bishop Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09162', 'B03530']"
+}

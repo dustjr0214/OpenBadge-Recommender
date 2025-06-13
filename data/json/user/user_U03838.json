@@ -1,0 +1,14 @@
+{
+    "user_id": "U03838",
+    "name": "Carrie Gomez",
+    "email": "willismichael@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01233', 'B06971', 'B01734', 'B09465']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Myers, Reynolds and Wise for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02214', 'B02431', 'B03261', 'B07026', 'B08442']"
+}

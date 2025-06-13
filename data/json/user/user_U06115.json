@@ -1,0 +1,14 @@
+{
+    "user_id": "U06115",
+    "name": "Shawn Daniels",
+    "email": "amy20@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01110', 'B08810']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Martin Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09610', 'B05679']"
+}

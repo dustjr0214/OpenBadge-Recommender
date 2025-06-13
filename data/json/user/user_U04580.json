@@ -1,0 +1,14 @@
+{
+    "user_id": "U04580",
+    "name": "Jordan Price",
+    "email": "allenclaire@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09819', 'B08887', 'B06463', 'B05268', 'B00645']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Kent-Reeves for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06166', 'B09041', 'B00773', 'B03360', 'B02196']"
+}

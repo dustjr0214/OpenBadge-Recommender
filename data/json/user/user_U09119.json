@@ -1,0 +1,14 @@
+{
+    "user_id": "U09119",
+    "name": "Alexandra Hanson",
+    "email": "emily82@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09667', 'B09124', 'B06132', 'B03179']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Mejia-Mathis for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05803']"
+}

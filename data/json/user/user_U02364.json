@@ -1,0 +1,14 @@
+{
+    "user_id": "U02364",
+    "name": "John Gaines",
+    "email": "tracy74@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06154', 'B06374', 'B08606', 'B05772', 'B08746']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Castillo, Gonzalez and Gray for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07556', 'B07152', 'B01705']"
+}

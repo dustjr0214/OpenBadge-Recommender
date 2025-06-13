@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03228",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Data Analysis', 'Teamwork', 'Problem Solving']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06678', 'B01955']"
+}

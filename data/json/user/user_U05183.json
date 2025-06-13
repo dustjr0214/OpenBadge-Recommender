@@ -1,0 +1,14 @@
+{
+    "user_id": "U05183",
+    "name": "Vicki Thompson",
+    "email": "patricia38@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07317', 'B00590', 'B03443', 'B08450']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Edwards-Black for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08102', 'B01969', 'B01277', 'B07599']"
+}

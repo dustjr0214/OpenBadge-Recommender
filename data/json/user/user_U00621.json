@@ -1,0 +1,14 @@
+{
+    "user_id": "U00621",
+    "name": "Joseph Gray",
+    "email": "xsparks@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02458']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Jackson LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07662', 'B00354', 'B01477', 'B02567', 'B00329']"
+}

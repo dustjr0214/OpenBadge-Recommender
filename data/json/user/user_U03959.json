@@ -1,0 +1,14 @@
+{
+    "user_id": "U03959",
+    "name": "Shawna Anderson",
+    "email": "david05@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04339', 'B06195', 'B09510', 'B00011', 'B06970']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Wilson Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01359', 'B03782', 'B07573']"
+}

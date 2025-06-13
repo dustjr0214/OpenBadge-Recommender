@@ -1,0 +1,14 @@
+{
+    "user_id": "U03352",
+    "name": "Michael Rose",
+    "email": "davisjasmine@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05889', 'B04009', 'B08054']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Thompson, Peck and Lane for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05608', 'B07433', 'B04905', 'B07974', 'B08084']"
+}

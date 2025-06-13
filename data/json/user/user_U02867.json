@@ -1,0 +1,14 @@
+{
+    "user_id": "U02867",
+    "name": "James Smith",
+    "email": "qwright@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00411', 'B04966', 'B04356', 'B03737', 'B08976']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Lyons-Smith for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05066', 'B08653', 'B01304', 'B08362']"
+}

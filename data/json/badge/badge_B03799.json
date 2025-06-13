@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03799",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis', 'Cybersecurity', 'Python']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

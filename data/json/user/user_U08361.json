@@ -1,0 +1,14 @@
+{
+    "user_id": "U08361",
+    "name": "Sara Johnston",
+    "email": "littlekirk@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01260', 'B08591', 'B02746', 'B07562', 'B09553']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Goodman LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09964', 'B03760', 'B00889', 'B05794', 'B03810']"
+}

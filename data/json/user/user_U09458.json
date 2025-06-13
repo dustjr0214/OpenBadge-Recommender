@@ -1,0 +1,14 @@
+{
+    "user_id": "U09458",
+    "name": "Brooke Castillo",
+    "email": "michael89@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03703', 'B00597', 'B02332', 'B06726', 'B08015']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Thomas-Huynh for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01502', 'B05294', 'B08690']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03833",
+    "name": "Robert Carroll",
+    "email": "lwilliamson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07320', 'B08448', 'B08345', 'B03466', 'B09805']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Mcintyre LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02151']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06003",
+    "name": "Jose Fleming",
+    "email": "timothy46@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06081', 'B07818', 'B00258', 'B08035', 'B09978']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Warner-Day for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02186', 'B03577', 'B06110', 'B00235', 'B08366']"
+}

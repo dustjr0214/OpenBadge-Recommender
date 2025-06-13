@@ -1,0 +1,14 @@
+{
+    "user_id": "U05685",
+    "name": "Derrick Braun",
+    "email": "dstevens@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05374', 'B08772', 'B09298', 'B01840', 'B09090']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Patel and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04702', 'B09918']"
+}

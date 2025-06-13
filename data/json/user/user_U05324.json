@@ -1,0 +1,14 @@
+{
+    "user_id": "U05324",
+    "name": "Antonio Wright",
+    "email": "davidsullivan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07826', 'B01981', 'B05480', 'B05157', 'B08666']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Williamson, Sampson and Johnson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06905', 'B00749', 'B04448']"
+}

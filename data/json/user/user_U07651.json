@@ -1,0 +1,14 @@
+{
+    "user_id": "U07651",
+    "name": "Cynthia Brown",
+    "email": "timingram@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02474', 'B06363', 'B03521', 'B04439']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Patterson, Ramirez and Garcia for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06780', 'B02149', 'B08799']"
+}

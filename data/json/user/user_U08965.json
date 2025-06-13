@@ -1,0 +1,14 @@
+{
+    "user_id": "U08965",
+    "name": "Mark Turner",
+    "email": "shelby41@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04868', 'B09850', 'B02243', 'B00430', 'B02684']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Owen, Henry and Baker for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03456",
+    "name": "Dr. Molly Nash",
+    "email": "scottholt@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02516', 'B09847']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Gonzalez and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06469', 'B04096', 'B08345', 'B02962', 'B04725']"
+}

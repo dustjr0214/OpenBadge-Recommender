@@ -1,0 +1,14 @@
+{
+    "user_id": "U02816",
+    "name": "Lynn Lynch",
+    "email": "wwashington@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06886', 'B08718', 'B08123', 'B00413', 'B00111']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Mcdaniel-Douglas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04420', 'B02600', 'B05459', 'B01999']"
+}

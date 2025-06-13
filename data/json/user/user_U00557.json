@@ -1,0 +1,14 @@
+{
+    "user_id": "U00557",
+    "name": "Kathryn Collins",
+    "email": "anne32@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hernandez-Hill for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05257', 'B01733', 'B06887', 'B05309', 'B04340']"
+}

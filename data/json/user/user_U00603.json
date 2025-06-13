@@ -1,0 +1,14 @@
+{
+    "user_id": "U00603",
+    "name": "Kendra Gomez",
+    "email": "pmaldonado@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04737', 'B02078', 'B04729']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Sims Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07834', 'B03566']"
+}

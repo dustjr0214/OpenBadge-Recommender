@@ -1,0 +1,14 @@
+{
+    "user_id": "U01889",
+    "name": "Candice Mathis",
+    "email": "kara83@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09237']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Munoz-Spencer for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01788', 'B07723', 'B03660', 'B03611']"
+}

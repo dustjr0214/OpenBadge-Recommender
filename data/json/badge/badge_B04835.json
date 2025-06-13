@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04835",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps', 'Deep Learning']",
+    "competency": "['Data Analysis', 'Teamwork']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01588",
+    "name": "Jeffery Kelly",
+    "email": "omarmoody@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05131']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Bruce Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07004']"
+}

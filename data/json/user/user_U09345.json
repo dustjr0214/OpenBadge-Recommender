@@ -1,0 +1,14 @@
+{
+    "user_id": "U09345",
+    "name": "Melanie Adams",
+    "email": "arios@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09081', 'B05389', 'B03615', 'B08678']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Pittman, Warner and Lawson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07697', 'B07651', 'B03821', 'B03722']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09049",
+    "name": "Christopher Graham",
+    "email": "marybrown@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04063', 'B07977', 'B07186', 'B00787']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Curtis-Gonzalez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03488', 'B07437']"
+}

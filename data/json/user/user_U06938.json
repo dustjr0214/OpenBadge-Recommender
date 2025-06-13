@@ -1,0 +1,14 @@
+{
+    "user_id": "U06938",
+    "name": "Melinda Barnett",
+    "email": "michael04@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06547', 'B06235']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Hammond, Benjamin and Woods for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00642', 'B03726', 'B01271']"
+}

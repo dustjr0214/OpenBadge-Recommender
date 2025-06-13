@@ -1,0 +1,14 @@
+{
+    "user_id": "U08033",
+    "name": "Rebecca James",
+    "email": "weberdawn@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01296', 'B00583']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Rivera Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

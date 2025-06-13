@@ -1,0 +1,14 @@
+{
+    "user_id": "U05286",
+    "name": "Dylan Sanchez",
+    "email": "allennicholas@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09632']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Fischer-Newton for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00759', 'B08062', 'B00660', 'B06721']"
+}

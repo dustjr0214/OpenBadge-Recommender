@@ -1,0 +1,14 @@
+{
+    "user_id": "U05694",
+    "name": "Joseph Andrade",
+    "email": "nsimmons@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09001', 'B08637']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Day-Hernandez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05601', 'B02079', 'B01985', 'B06654', 'B04388']"
+}

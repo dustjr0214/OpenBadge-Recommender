@@ -1,0 +1,14 @@
+{
+    "user_id": "U00552",
+    "name": "Mr. James Henry Jr.",
+    "email": "edwardsashley@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09249', 'B07896']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Frank-Nicholson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01598', 'B05812']"
+}

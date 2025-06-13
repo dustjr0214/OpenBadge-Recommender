@@ -1,0 +1,14 @@
+{
+    "user_id": "U06540",
+    "name": "Charles Dillon",
+    "email": "emccoy@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09693', 'B00178']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Bowman, Elliott and Wells for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07871']"
+}

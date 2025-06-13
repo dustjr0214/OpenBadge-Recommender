@@ -1,0 +1,14 @@
+{
+    "user_id": "U02087",
+    "name": "Michael Diaz",
+    "email": "murraykelly@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00608', 'B05487', 'B00011']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Stuart Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04744', 'B03541', 'B00958']"
+}

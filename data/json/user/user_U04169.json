@@ -1,0 +1,14 @@
+{
+    "user_id": "U04169",
+    "name": "Amy Munoz",
+    "email": "xshea@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03835', 'B08494', 'B02004']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Shannon, Adams and Love for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03900', 'B07899', 'B02404', 'B00064', 'B07176']"
+}

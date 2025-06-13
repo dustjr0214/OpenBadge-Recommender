@@ -1,0 +1,14 @@
+{
+    "user_id": "U03478",
+    "name": "Patricia Oneal",
+    "email": "james36@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04508', 'B05869']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Duncan-Morales for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01591', 'B05509']"
+}

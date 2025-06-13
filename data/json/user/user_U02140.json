@@ -1,0 +1,14 @@
+{
+    "user_id": "U02140",
+    "name": "Gabriel Duffy",
+    "email": "nelsonamber@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04207', 'B05324', 'B03529', 'B05041', 'B05491']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Castillo Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08699', 'B02820', 'B05959']"
+}

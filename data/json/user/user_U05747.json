@@ -1,0 +1,14 @@
+{
+    "user_id": "U05747",
+    "name": "Jose Ibarra",
+    "email": "garciahannah@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00774', 'B07683', 'B09028', 'B06992']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Galvan Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00396', 'B08446', 'B06126', 'B07774']"
+}

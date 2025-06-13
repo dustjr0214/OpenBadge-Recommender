@@ -1,0 +1,14 @@
+{
+    "user_id": "U07611",
+    "name": "Jennifer Hunter",
+    "email": "garzajamie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00075', 'B08028', 'B02295', 'B04292', 'B05075']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hernandez Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05831', 'B05446', 'B09826', 'B09259', 'B06880']"
+}

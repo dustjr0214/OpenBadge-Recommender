@@ -1,0 +1,14 @@
+{
+    "user_id": "U02352",
+    "name": "Tyler Nguyen",
+    "email": "davidchapman@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03874', 'B09594', 'B09188', 'B03854', 'B09814']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Castaneda-Heath for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06248', 'B06239']"
+}

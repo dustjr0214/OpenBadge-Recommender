@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06268",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'DevOps', 'UI/UX']",
+    "competency": "['Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08828', 'B04661']"
+}

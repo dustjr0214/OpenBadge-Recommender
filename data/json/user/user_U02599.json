@@ -1,0 +1,14 @@
+{
+    "user_id": "U02599",
+    "name": "Veronica Case",
+    "email": "westcarol@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07417', 'B08711', 'B06205', 'B01780']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Pollard-Miller for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02670', 'B06266', 'B01143', 'B02285']"
+}

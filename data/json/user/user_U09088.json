@@ -1,0 +1,14 @@
+{
+    "user_id": "U09088",
+    "name": "Ian James",
+    "email": "aalvarez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00642', 'B08110', 'B07336', 'B08290']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Brown-Brennan for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09597', 'B05322', 'B08855', 'B01021']"
+}

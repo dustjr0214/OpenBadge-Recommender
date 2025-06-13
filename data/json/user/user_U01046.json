@@ -1,0 +1,14 @@
+{
+    "user_id": "U01046",
+    "name": "Kathryn Ross",
+    "email": "ewhite@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07282', 'B08252', 'B09000']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Snyder-Price for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03362']"
+}

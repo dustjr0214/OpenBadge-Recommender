@@ -1,0 +1,14 @@
+{
+    "user_id": "U09750",
+    "name": "Mrs. Gina Morales",
+    "email": "jeremy89@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08723', 'B07306', 'B07638']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Jenkins, Garcia and Conner for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09500']"
+}

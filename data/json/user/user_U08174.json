@@ -1,0 +1,14 @@
+{
+    "user_id": "U08174",
+    "name": "Steven Ortiz",
+    "email": "lewisnicholas@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01355']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Baird and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07412', 'B02721', 'B01369', 'B01085', 'B00615']"
+}

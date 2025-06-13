@@ -1,0 +1,14 @@
+{
+    "user_id": "U08149",
+    "name": "John English",
+    "email": "eyoung@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02676', 'B07567']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Anderson-Keller for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00321', 'B04074', 'B03306']"
+}

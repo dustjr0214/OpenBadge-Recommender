@@ -1,0 +1,14 @@
+{
+    "user_id": "U06842",
+    "name": "Scott Carpenter",
+    "email": "kpitts@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07172', 'B04688', 'B05154', 'B03084']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Macias-Lopez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04102', 'B05185', 'B09763', 'B06622']"
+}

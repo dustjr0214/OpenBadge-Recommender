@@ -1,0 +1,14 @@
+{
+    "user_id": "U09697",
+    "name": "Jeffrey Johnson",
+    "email": "richardpierce@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04173', 'B02654', 'B03282', 'B04898', 'B04183']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Nelson-Hunter for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00141', 'B05301', 'B04209']"
+}

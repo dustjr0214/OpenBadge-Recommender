@@ -1,0 +1,14 @@
+{
+    "user_id": "U02879",
+    "name": "Amanda Roberts",
+    "email": "larry08@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Mcgee, Myers and Thomas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07787', 'B04032']"
+}

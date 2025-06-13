@@ -1,0 +1,14 @@
+{
+    "user_id": "U00119",
+    "name": "Matthew Mcpherson",
+    "email": "kyleyork@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01008', 'B09466']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Thompson-Miles for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05435', 'B08649']"
+}

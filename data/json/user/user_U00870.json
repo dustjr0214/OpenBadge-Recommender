@@ -1,0 +1,14 @@
+{
+    "user_id": "U00870",
+    "name": "Thomas Andrews",
+    "email": "benjaminsnyder@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08926']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rodriguez-Wallace for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00218', 'B08504', 'B02297']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01254",
+    "name": "John Poole",
+    "email": "robert62@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Tapia, Bridges and Beasley for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08236', 'B09279', 'B02850', 'B00952']"
+}

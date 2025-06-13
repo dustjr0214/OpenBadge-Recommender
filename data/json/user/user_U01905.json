@@ -1,0 +1,14 @@
+{
+    "user_id": "U01905",
+    "name": "Gary Snyder",
+    "email": "joshuastephens@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09942', 'B08644', 'B07428']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Cochran-Herrera for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03123",
+    "name": "Joel Blackwell",
+    "email": "smithalison@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04917', 'B08239']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Miller-Sullivan for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00784', 'B05603', 'B01781']"
+}

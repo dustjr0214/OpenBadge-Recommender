@@ -1,0 +1,14 @@
+{
+    "user_id": "U06707",
+    "name": "Mary Jones",
+    "email": "adamwalker@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03238', 'B04326', 'B01766', 'B07306']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Johnson, Hawkins and Hernandez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05820', 'B04957', 'B07827', 'B05769', 'B03879']"
+}

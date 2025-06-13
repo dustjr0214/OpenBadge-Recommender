@@ -1,0 +1,14 @@
+{
+    "user_id": "U07040",
+    "name": "Cheryl Ward",
+    "email": "rthomas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01314', 'B02430', 'B08851']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Welch-Mahoney for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06951', 'B06167', 'B00719']"
+}

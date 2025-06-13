@@ -1,0 +1,14 @@
+{
+    "user_id": "U01429",
+    "name": "Jeffrey Foster",
+    "email": "swilliams@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03959', 'B04578', 'B00282', 'B06101']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Boyd, Wilson and Robinson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00876', 'B06123', 'B06198', 'B07304']"
+}

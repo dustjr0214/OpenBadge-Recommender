@@ -1,0 +1,14 @@
+{
+    "user_id": "U01462",
+    "name": "Debra Gregory",
+    "email": "blackmary@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08976', 'B08842']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Butler Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02309', 'B04811']"
+}

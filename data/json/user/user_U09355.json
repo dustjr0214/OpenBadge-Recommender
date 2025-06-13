@@ -1,0 +1,14 @@
+{
+    "user_id": "U09355",
+    "name": "Ashley Cuevas",
+    "email": "tdunn@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06422', 'B04695', 'B00030', 'B08287']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at White-Miller for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09497', 'B02715', 'B07539']"
+}

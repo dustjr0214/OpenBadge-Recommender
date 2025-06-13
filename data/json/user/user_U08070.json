@@ -1,0 +1,14 @@
+{
+    "user_id": "U08070",
+    "name": "Candice Garrison",
+    "email": "stephanie29@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05034', 'B02181', 'B02602', 'B01210', 'B06307']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Henry-Gomez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04718', 'B05156', 'B05617']"
+}

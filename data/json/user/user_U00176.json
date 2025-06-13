@@ -1,0 +1,14 @@
+{
+    "user_id": "U00176",
+    "name": "Juan Bush DDS",
+    "email": "misty10@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Soto, Summers and Oneal for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08971', 'B03095', 'B08651', 'B01784', 'B06568']"
+}

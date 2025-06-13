@@ -1,0 +1,14 @@
+{
+    "user_id": "U00364",
+    "name": "George Robinson",
+    "email": "juliesantos@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Peck and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09190', 'B08053', 'B00956', 'B00257', 'B07052']"
+}

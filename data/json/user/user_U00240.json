@@ -1,0 +1,14 @@
+{
+    "user_id": "U00240",
+    "name": "Beth Elliott",
+    "email": "opeters@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09325', 'B08139', 'B01757', 'B06414']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Jones LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09717', 'B05124', 'B07373', 'B06243', 'B09915']"
+}

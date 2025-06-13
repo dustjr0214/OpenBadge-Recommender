@@ -1,0 +1,14 @@
+{
+    "user_id": "U09622",
+    "name": "William Garcia",
+    "email": "timothykelly@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00761', 'B02906', 'B08429', 'B08885']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Barton, Nichols and Lynch for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03165', 'B09282']"
+}

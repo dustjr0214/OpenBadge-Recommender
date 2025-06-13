@@ -1,0 +1,14 @@
+{
+    "user_id": "U00674",
+    "name": "Marisa Davis",
+    "email": "john71@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08694', 'B01233']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Scott, Scott and Richardson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06324']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07441",
+    "name": "Theresa Gonzalez",
+    "email": "zruiz@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08934']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Vargas-Wells for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07918']"
+}

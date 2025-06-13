@@ -1,0 +1,14 @@
+{
+    "user_id": "U08784",
+    "name": "Kevin Acosta",
+    "email": "alvaradocourtney@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01242', 'B06132', 'B06293', 'B00392', 'B03901']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Garcia-Cooley for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09268', 'B04489', 'B01474', 'B05959']"
+}

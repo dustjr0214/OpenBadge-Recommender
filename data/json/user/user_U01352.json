@@ -1,0 +1,14 @@
+{
+    "user_id": "U01352",
+    "name": "Nancy Stevens",
+    "email": "swilson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07635', 'B06791']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Stephens-Bell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06902', 'B02456']"
+}

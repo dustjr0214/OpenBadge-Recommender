@@ -1,0 +1,14 @@
+{
+    "user_id": "U07123",
+    "name": "Angela Green",
+    "email": "ashley27@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01386', 'B03242', 'B08366', 'B04681', 'B08215']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Howard, Campbell and Maxwell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00049']"
+}

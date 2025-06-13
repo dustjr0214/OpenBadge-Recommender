@@ -1,0 +1,14 @@
+{
+    "user_id": "U06025",
+    "name": "Maureen Wagner",
+    "email": "salexander@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03339', 'B04547', 'B09440', 'B05586']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Hernandez, Parker and Morales for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00937', 'B03522']"
+}

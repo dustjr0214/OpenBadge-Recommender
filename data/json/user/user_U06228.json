@@ -1,0 +1,14 @@
+{
+    "user_id": "U06228",
+    "name": "Crystal Vasquez",
+    "email": "droberts@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03512']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Russell LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09869', 'B08601', 'B03434', 'B02385']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03895",
+    "name": "Taylor Wagner",
+    "email": "wyattdaniel@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06480', 'B03878', 'B02671', 'B01378', 'B01456']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Alvarez, Jones and Kim for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09231']"
+}

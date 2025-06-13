@@ -1,0 +1,14 @@
+{
+    "user_id": "U01914",
+    "name": "Joshua Hood",
+    "email": "uhall@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01503', 'B09122', 'B01616', 'B05181', 'B02311']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Nolan-Hoffman for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

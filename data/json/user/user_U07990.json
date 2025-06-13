@@ -1,0 +1,14 @@
+{
+    "user_id": "U07990",
+    "name": "Terri Payne",
+    "email": "jason20@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02241', 'B03676', 'B08378', 'B00641']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Guerra-Nelson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06973', 'B07208', 'B03847', 'B05464', 'B04865']"
+}

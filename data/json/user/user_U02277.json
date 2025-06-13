@@ -1,0 +1,14 @@
+{
+    "user_id": "U02277",
+    "name": "Karen Williams",
+    "email": "pamela32@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07818', 'B01466', 'B08911']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Poole-White for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03210', 'B05751', 'B01524']"
+}

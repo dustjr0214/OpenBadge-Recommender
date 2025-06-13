@@ -1,0 +1,14 @@
+{
+    "user_id": "U08996",
+    "name": "Randy Martin",
+    "email": "tranpatricia@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08903', 'B04994', 'B09984', 'B04832', 'B05898']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Clark Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06444', 'B07566', 'B09701', 'B02337', 'B04376']"
+}

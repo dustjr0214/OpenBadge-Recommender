@@ -1,0 +1,14 @@
+{
+    "user_id": "U07479",
+    "name": "Katherine Gomez",
+    "email": "castromelanie@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03249', 'B06190', 'B08253', 'B01349']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Coleman-Clark for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03924', 'B01167', 'B02176']"
+}

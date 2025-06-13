@@ -1,0 +1,14 @@
+{
+    "user_id": "U06161",
+    "name": "Brandi Jackson",
+    "email": "kbrown@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09793', 'B07948', 'B06248']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Smith, Nguyen and Gonzalez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00278', 'B07472', 'B06908', 'B08084', 'B07565']"
+}

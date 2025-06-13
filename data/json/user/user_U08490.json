@@ -1,0 +1,14 @@
+{
+    "user_id": "U08490",
+    "name": "Kimberly Morgan",
+    "email": "kathyyoung@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07665']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Campos, Lewis and Nguyen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02551', 'B05933', 'B01249', 'B01030']"
+}

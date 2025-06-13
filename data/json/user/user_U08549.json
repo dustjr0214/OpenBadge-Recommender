@@ -1,0 +1,14 @@
+{
+    "user_id": "U08549",
+    "name": "Brittany Brandt",
+    "email": "crystalramirez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05729', 'B03456', 'B09112']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Rangel, Williams and Brown for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04087', 'B04842']"
+}

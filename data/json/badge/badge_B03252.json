@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03252",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['UI/UX', 'Machine Learning', 'Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08708']"
+}

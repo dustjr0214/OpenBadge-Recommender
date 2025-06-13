@@ -1,0 +1,14 @@
+{
+    "user_id": "U00839",
+    "name": "Charles Williams",
+    "email": "stuartrandall@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03081']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Walker-Finley for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09179']"
+}

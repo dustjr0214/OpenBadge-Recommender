@@ -1,0 +1,14 @@
+{
+    "user_id": "U04149",
+    "name": "Amber Ingram",
+    "email": "mary96@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06451', 'B06406']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mckinney PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06856', 'B05166', 'B06558', 'B09435', 'B01855']"
+}

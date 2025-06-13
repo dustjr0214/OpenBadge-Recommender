@@ -1,0 +1,14 @@
+{
+    "user_id": "U03647",
+    "name": "Natalie Collier",
+    "email": "armstrongcurtis@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04561', 'B02290', 'B02346', 'B01793', 'B09035']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Williams LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01367', 'B07750', 'B02413', 'B07806']"
+}

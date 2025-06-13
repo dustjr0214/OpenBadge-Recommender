@@ -1,0 +1,14 @@
+{
+    "user_id": "U09120",
+    "name": "Sheila Smith",
+    "email": "tanner77@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05120', 'B08066', 'B08153', 'B00227']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Robinson Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06480', 'B04853', 'B02679', 'B03468']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00599",
+    "name": "Samuel Wilson MD",
+    "email": "sarahnichols@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Oneill Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05798', 'B08736', 'B01018', 'B09604']"
+}

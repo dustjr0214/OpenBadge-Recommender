@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04723",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Data Analysis']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04693']"
+}

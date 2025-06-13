@@ -1,0 +1,14 @@
+{
+    "user_id": "U00024",
+    "name": "Kayla Smith",
+    "email": "ricky13@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Fox Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01681', 'B04969', 'B02495', 'B04852']"
+}

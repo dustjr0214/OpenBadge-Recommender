@@ -1,0 +1,14 @@
+{
+    "user_id": "U06164",
+    "name": "Jeremy West",
+    "email": "anthony58@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00619', 'B05536']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hayden, Patterson and Walker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01240']"
+}

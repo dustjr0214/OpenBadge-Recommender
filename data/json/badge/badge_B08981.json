@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08981",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Data Analysis']",
+    "competency": "['Data Analysis', 'Cybersecurity', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04315', 'B01990']"
+}

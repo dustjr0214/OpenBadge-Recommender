@@ -1,0 +1,14 @@
+{
+    "user_id": "U08503",
+    "name": "Kelly Brown",
+    "email": "qstewart@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02051', 'B05408', 'B01850']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wagner-Johnson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07029', 'B08164', 'B06724', 'B06843']"
+}

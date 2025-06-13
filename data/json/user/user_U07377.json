@@ -1,0 +1,14 @@
+{
+    "user_id": "U07377",
+    "name": "Steven Harvey",
+    "email": "alyssa29@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01265']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Andrews, Walker and Williams for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04136', 'B02537', 'B00421']"
+}

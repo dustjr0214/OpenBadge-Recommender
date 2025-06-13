@@ -1,0 +1,14 @@
+{
+    "user_id": "U06968",
+    "name": "Randy Miller",
+    "email": "buckalice@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09112', 'B01946', 'B00620', 'B00333', 'B06355']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Davila-Olson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03826']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01598",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Deep Learning', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04887', 'B03111']"
+}

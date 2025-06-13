@@ -1,0 +1,14 @@
+{
+    "user_id": "U00390",
+    "name": "James Boyd",
+    "email": "jack52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01405', 'B05716', 'B06599', 'B07991', 'B08757']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Savage, Caldwell and Morris for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02352', 'B00825', 'B07549']"
+}

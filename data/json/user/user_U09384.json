@@ -1,0 +1,14 @@
+{
+    "user_id": "U09384",
+    "name": "Kara Perez",
+    "email": "udean@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02623', 'B09450']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Franklin Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07679']"
+}

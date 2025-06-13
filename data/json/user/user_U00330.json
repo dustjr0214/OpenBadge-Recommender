@@ -1,0 +1,14 @@
+{
+    "user_id": "U00330",
+    "name": "Todd Acevedo",
+    "email": "danny31@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05377', 'B01491', 'B04318', 'B04942']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Mann and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06620', 'B07303', 'B04422', 'B03912']"
+}

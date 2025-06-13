@@ -1,0 +1,14 @@
+{
+    "user_id": "U07129",
+    "name": "Clifford Anderson",
+    "email": "scott07@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08458', 'B01308']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Chapman LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07297', 'B05874', 'B02925', 'B01439', 'B09854']"
+}

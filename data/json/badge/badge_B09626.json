@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09626",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04027', 'B05714']"
+}

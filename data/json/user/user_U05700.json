@@ -1,0 +1,14 @@
+{
+    "user_id": "U05700",
+    "name": "Jason Kennedy",
+    "email": "nelsontiffany@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00349', 'B04882', 'B09712', 'B06412']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Guerrero PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03883']"
+}

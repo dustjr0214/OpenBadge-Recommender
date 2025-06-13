@@ -1,0 +1,14 @@
+{
+    "user_id": "U00504",
+    "name": "Victoria Diaz",
+    "email": "ffarmer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00535', 'B04147', 'B00125']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Dunn-Marks for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07539']"
+}

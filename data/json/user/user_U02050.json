@@ -1,0 +1,14 @@
+{
+    "user_id": "U02050",
+    "name": "Holly Mathis",
+    "email": "timothy29@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08443', 'B03156', 'B08709', 'B07790']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Butler Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04935', 'B03549']"
+}

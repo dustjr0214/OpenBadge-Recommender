@@ -1,0 +1,14 @@
+{
+    "user_id": "U08322",
+    "name": "Robin Mcdonald",
+    "email": "pattersonmichael@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02064', 'B06334', 'B05529', 'B01875', 'B02887']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Smith, Pena and Baldwin for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08028']"
+}

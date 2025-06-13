@@ -1,0 +1,14 @@
+{
+    "user_id": "U08167",
+    "name": "Debra Owens",
+    "email": "meltonlindsay@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01968', 'B08923']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Walker and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01876', 'B09339', 'B01699']"
+}

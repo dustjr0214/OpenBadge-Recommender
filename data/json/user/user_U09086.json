@@ -1,0 +1,14 @@
+{
+    "user_id": "U09086",
+    "name": "David Velasquez",
+    "email": "anthonygilbert@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09120', 'B07305', 'B05742', 'B09457']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Taylor, Gregory and Conway for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08645', 'B05386']"
+}

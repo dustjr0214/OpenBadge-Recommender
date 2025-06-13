@@ -1,0 +1,14 @@
+{
+    "user_id": "U09748",
+    "name": "David Thomas",
+    "email": "xnorris@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07711', 'B02502', 'B03450', 'B01868', 'B09770']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Johnson, Graves and Andrews for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00602', 'B02642', 'B08920', 'B07034']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05646",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09440']"
+}

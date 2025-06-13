@@ -1,0 +1,14 @@
+{
+    "user_id": "U02870",
+    "name": "Patrick Huber",
+    "email": "jimlawson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01427', 'B01910', 'B05867', 'B00020', 'B02553']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Moore-Bennett for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07068']"
+}

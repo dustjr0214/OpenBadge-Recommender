@@ -1,0 +1,14 @@
+{
+    "user_id": "U04977",
+    "name": "Austin Ballard",
+    "email": "william40@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09760', 'B04289', 'B09033', 'B00891']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Love PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02773']"
+}

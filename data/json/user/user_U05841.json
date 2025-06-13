@@ -1,0 +1,14 @@
+{
+    "user_id": "U05841",
+    "name": "Rick Nguyen",
+    "email": "bmcintosh@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07195', 'B05149', 'B07613']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Harvey, Jefferson and Allen for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

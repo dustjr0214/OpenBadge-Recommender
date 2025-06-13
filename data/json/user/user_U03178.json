@@ -1,0 +1,14 @@
+{
+    "user_id": "U03178",
+    "name": "Spencer Bradford",
+    "email": "nmalone@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09464', 'B05590', 'B08361']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hicks, Ferguson and Holloway for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05801', 'B07556', 'B05545']"
+}

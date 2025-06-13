@@ -1,0 +1,14 @@
+{
+    "user_id": "U03924",
+    "name": "Gina Roberts",
+    "email": "zmartin@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05923', 'B08848', 'B02784']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Jones Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06491', 'B05967', 'B05419', 'B00767', 'B04907']"
+}

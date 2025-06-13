@@ -1,0 +1,14 @@
+{
+    "user_id": "U03005",
+    "name": "Denise Thompson",
+    "email": "amy37@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08091']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Perez-Walker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06415', 'B03398', 'B01630']"
+}

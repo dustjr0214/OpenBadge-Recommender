@@ -1,0 +1,14 @@
+{
+    "user_id": "U08731",
+    "name": "James Montoya",
+    "email": "twhite@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01185', 'B06572', 'B04967', 'B08050', 'B03263']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Torres Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

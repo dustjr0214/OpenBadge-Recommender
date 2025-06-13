@@ -1,0 +1,14 @@
+{
+    "user_id": "U02268",
+    "name": "Kelsey Grant",
+    "email": "clivingston@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05688', 'B05920', 'B02999', 'B02126']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Gould and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00548', 'B08998', 'B01271', 'B04965', 'B00815']"
+}

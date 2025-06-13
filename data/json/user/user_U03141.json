@@ -1,0 +1,14 @@
+{
+    "user_id": "U03141",
+    "name": "Linda Lopez",
+    "email": "bbridges@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00084']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Thornton, Green and Avery for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07410', 'B08757', 'B08265', 'B05292']"
+}

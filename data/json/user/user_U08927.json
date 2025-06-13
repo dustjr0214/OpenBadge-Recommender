@@ -1,0 +1,14 @@
+{
+    "user_id": "U08927",
+    "name": "Adrienne Rogers",
+    "email": "carol07@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09289', 'B09427', 'B00499']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Turner-Campbell for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02630', 'B08736', 'B03304', 'B00359', 'B06059']"
+}

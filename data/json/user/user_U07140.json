@@ -1,0 +1,14 @@
+{
+    "user_id": "U07140",
+    "name": "Amy Lindsey",
+    "email": "gtorres@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08618']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Williams-Levy for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02769', 'B00972', 'B03971']"
+}

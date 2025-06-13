@@ -1,0 +1,14 @@
+{
+    "user_id": "U01301",
+    "name": "Damon Greene",
+    "email": "bmatthews@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00164', 'B03983', 'B06216']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Wright-Brown for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08981']"
+}

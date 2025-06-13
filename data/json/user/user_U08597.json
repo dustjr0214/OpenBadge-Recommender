@@ -1,0 +1,14 @@
+{
+    "user_id": "U08597",
+    "name": "Jeffery Huffman",
+    "email": "jane70@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04424', 'B02369', 'B07830']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Michael PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04514', 'B05034', 'B00953', 'B02580']"
+}

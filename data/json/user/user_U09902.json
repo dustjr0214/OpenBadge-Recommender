@@ -1,0 +1,14 @@
+{
+    "user_id": "U09902",
+    "name": "Tyler Rodriguez",
+    "email": "isanders@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09657', 'B01430']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Park, Bowen and Rhodes for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08187', 'B05018', 'B06215', 'B02945', 'B04396']"
+}

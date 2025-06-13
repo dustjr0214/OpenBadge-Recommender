@@ -1,0 +1,14 @@
+{
+    "user_id": "U02062",
+    "name": "Thomas Harris",
+    "email": "travis91@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08624', 'B01520', 'B06622', 'B06751', 'B06742']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Peck PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

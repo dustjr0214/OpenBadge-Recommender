@@ -1,0 +1,14 @@
+{
+    "user_id": "U05988",
+    "name": "Thomas Ramirez",
+    "email": "quinnaustin@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07793', 'B07436']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Collins-Vasquez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08110', 'B05721', 'B01307', 'B03239']"
+}

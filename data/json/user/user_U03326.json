@@ -1,0 +1,14 @@
+{
+    "user_id": "U03326",
+    "name": "Justin Cross",
+    "email": "ashley54@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Robinson, Jones and Horton for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02703', 'B09663', 'B03961']"
+}

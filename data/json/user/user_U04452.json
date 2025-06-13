@@ -1,0 +1,14 @@
+{
+    "user_id": "U04452",
+    "name": "Dr. Carolyn Miller",
+    "email": "halejennifer@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Henderson, Stone and Thomas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03285', 'B06841', 'B02229', 'B05773']"
+}

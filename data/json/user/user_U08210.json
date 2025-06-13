@@ -1,0 +1,14 @@
+{
+    "user_id": "U08210",
+    "name": "Daniel Hughes",
+    "email": "woodrobert@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09483', 'B07696', 'B02188', 'B06108', 'B00877']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Patel, Romero and Burke for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07767', 'B03046']"
+}

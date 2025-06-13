@@ -1,0 +1,14 @@
+{
+    "user_id": "U04655",
+    "name": "Jeffrey Reyes",
+    "email": "jeffthompson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01787', 'B09745']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Luna-Martin for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07958', 'B04551', 'B07737']"
+}

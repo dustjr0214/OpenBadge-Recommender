@@ -1,0 +1,14 @@
+{
+    "user_id": "U04625",
+    "name": "Rebecca Craig",
+    "email": "wolfjames@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09387', 'B00758']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Hubbard-Williams for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

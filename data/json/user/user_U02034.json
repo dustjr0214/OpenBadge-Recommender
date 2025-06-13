@@ -1,0 +1,14 @@
+{
+    "user_id": "U02034",
+    "name": "Robin Johnson",
+    "email": "hardingjake@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03488', 'B07558', 'B09747', 'B06479', 'B02062']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Gray-Rios for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09976']"
+}

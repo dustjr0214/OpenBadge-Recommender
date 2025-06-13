@@ -1,0 +1,14 @@
+{
+    "user_id": "U06862",
+    "name": "Lori Ford",
+    "email": "nancyklein@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08127', 'B02559', 'B05997']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Romero-Brown for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05831']"
+}

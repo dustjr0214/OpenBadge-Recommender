@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07318",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Analytical Skills', 'Problem Solving', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

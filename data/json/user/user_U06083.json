@@ -1,0 +1,14 @@
+{
+    "user_id": "U06083",
+    "name": "Jason May",
+    "email": "barbararichmond@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03555', 'B09914', 'B02223']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Reyes PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07689', 'B09703', 'B06447', 'B04177', 'B02822']"
+}

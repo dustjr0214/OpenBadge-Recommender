@@ -1,0 +1,14 @@
+{
+    "user_id": "U05497",
+    "name": "Benjamin Acevedo",
+    "email": "donaldguzman@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00227', 'B08273', 'B08002']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Perez-Lin for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06137', 'B07875', 'B03316']"
+}

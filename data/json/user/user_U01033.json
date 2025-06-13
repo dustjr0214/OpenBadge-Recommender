@@ -1,0 +1,14 @@
+{
+    "user_id": "U01033",
+    "name": "Emily Brown",
+    "email": "amanda62@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08636']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Price Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07825', 'B06826']"
+}

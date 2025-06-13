@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00093",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'Machine Learning', 'SQL']",
+    "competency": "['Cloud Computing', 'Teamwork', 'Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B04979', 'B02899']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07822",
+    "name": "Alexis Hernandez",
+    "email": "blairrobert@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06707', 'B04220', 'B04010']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Richardson-Le for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09199', 'B09828', 'B03401']"
+}

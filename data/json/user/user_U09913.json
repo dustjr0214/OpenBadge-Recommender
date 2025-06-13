@@ -1,0 +1,14 @@
+{
+    "user_id": "U09913",
+    "name": "Traci Lee",
+    "email": "jeremy20@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Nelson, Brown and Johnson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05251']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08059",
+    "name": "Jim Armstrong",
+    "email": "zhester@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06662', 'B06539', 'B08125', 'B01690']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Perez-Jones for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09812', 'B00409', 'B06804']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00814",
+    "name": "Donna Harris",
+    "email": "anawalker@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03184', 'B08039', 'B00101', 'B02850', 'B09028']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Wilson-Daniels for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01873', 'B04953', 'B06800']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09932",
+    "name": "Mark Padilla",
+    "email": "lynchmarc@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01648', 'B00731']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Ruiz-Smith for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08206', 'B01285']"
+}

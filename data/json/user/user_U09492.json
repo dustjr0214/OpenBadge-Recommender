@@ -1,0 +1,14 @@
+{
+    "user_id": "U09492",
+    "name": "Anna Smith",
+    "email": "dukegregory@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01689', 'B01325', 'B01938', 'B02437']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Harmon-Lang for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07874', 'B08000']"
+}

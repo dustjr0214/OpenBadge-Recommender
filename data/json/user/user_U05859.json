@@ -1,0 +1,14 @@
+{
+    "user_id": "U05859",
+    "name": "Kenneth Mills",
+    "email": "xhiggins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06763']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Lara PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05873', 'B01283', 'B01772']"
+}

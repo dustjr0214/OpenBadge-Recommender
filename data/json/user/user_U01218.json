@@ -1,0 +1,14 @@
+{
+    "user_id": "U01218",
+    "name": "Daniel Brown",
+    "email": "clinegregory@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Smith Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01094', 'B03908', 'B08538', 'B07997', 'B01635']"
+}

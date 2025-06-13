@@ -1,0 +1,14 @@
+{
+    "user_id": "U01110",
+    "name": "Katrina Carr",
+    "email": "leefranklin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03745']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Simmons, Poole and Thompson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00910', 'B05436', 'B02994', 'B07768', 'B09185']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07824",
+    "name": "Ashley Terry",
+    "email": "gutierrezanthony@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07511']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Moore, Smith and Barnett for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09526', 'B02312', 'B02485', 'B04974', 'B06012']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02732",
+    "name": "Jeffrey Roberts",
+    "email": "theresaharris@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00241', 'B01213', 'B05964', 'B08183', 'B09075']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Perez, Mccarthy and Callahan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

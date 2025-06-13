@@ -1,0 +1,14 @@
+{
+    "user_id": "U04352",
+    "name": "Pam Hill",
+    "email": "james51@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00730', 'B07705', 'B01146', 'B00181', 'B02791']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Castro-Cortez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02686', 'B01414', 'B09563', 'B03764']"
+}

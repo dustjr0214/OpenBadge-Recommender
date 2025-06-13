@@ -1,0 +1,14 @@
+{
+    "user_id": "U03631",
+    "name": "Jeremy Phillips",
+    "email": "xpowell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08957', 'B08732', 'B05588']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Moss-Alexander for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06193', 'B04071', 'B09827']"
+}

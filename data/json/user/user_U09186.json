@@ -1,0 +1,14 @@
+{
+    "user_id": "U09186",
+    "name": "John Perkins",
+    "email": "peter85@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01245', 'B06815', 'B00422']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Chang, Martin and Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03110', 'B01272', 'B01259', 'B08591', 'B08564']"
+}

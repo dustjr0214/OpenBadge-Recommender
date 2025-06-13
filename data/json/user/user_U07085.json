@@ -1,0 +1,14 @@
+{
+    "user_id": "U07085",
+    "name": "Morgan Snyder",
+    "email": "michaelmckinney@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03730']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Taylor LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08401', 'B04825', 'B00074', 'B05212']"
+}

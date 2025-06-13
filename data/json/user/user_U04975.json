@@ -1,0 +1,14 @@
+{
+    "user_id": "U04975",
+    "name": "Jamie Gilbert",
+    "email": "manningdustin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05152']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Allen-Serrano for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

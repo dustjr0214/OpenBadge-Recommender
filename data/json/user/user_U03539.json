@@ -1,0 +1,14 @@
+{
+    "user_id": "U03539",
+    "name": "Cheryl Robinson",
+    "email": "kevinchoi@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04681', 'B02655', 'B07653']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Glover, Atkins and Johnson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

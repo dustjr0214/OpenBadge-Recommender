@@ -1,0 +1,14 @@
+{
+    "user_id": "U08770",
+    "name": "Lisa Garcia",
+    "email": "lisajohnson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01570', 'B08190', 'B02728']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Cohen-Collins for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03931']"
+}

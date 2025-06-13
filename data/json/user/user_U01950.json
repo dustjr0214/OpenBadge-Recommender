@@ -1,0 +1,14 @@
+{
+    "user_id": "U01950",
+    "name": "Nina Bryant",
+    "email": "amy71@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08201', 'B08499', 'B04575']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Krause, Peterson and Simpson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03978', 'B01174']"
+}

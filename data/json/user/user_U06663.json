@@ -1,0 +1,14 @@
+{
+    "user_id": "U06663",
+    "name": "Mrs. Amber James",
+    "email": "qanderson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02324', 'B09020']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Bailey-Scott for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04062', 'B00755', 'B01804', 'B06262']"
+}

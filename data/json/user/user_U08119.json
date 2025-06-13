@@ -1,0 +1,14 @@
+{
+    "user_id": "U08119",
+    "name": "Theresa Williams",
+    "email": "plowe@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06272', 'B02402', 'B07529', 'B06571']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Higgins PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02632', 'B00881']"
+}

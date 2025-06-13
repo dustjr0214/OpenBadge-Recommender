@@ -1,0 +1,14 @@
+{
+    "user_id": "U00746",
+    "name": "Jeffrey Franklin",
+    "email": "kayla05@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06739', 'B00895', 'B01768']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Maxwell Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00492', 'B06155', 'B00736', 'B09444', 'B04995']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06180",
+    "name": "UI/UX Designer",
+    "issuer": "Coursera",
+    "description": "UI/UX Designer badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'SQL']",
+    "competency": "['Data Analysis', 'Python', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07465']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03400",
+    "name": "Jose Hess",
+    "email": "michaelmonroe@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Miller, Franklin and Smith for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09214']"
+}

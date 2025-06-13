@@ -1,0 +1,14 @@
+{
+    "user_id": "U01992",
+    "name": "Paul Jones",
+    "email": "nataliemolina@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06737']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ford, Ryan and Mitchell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00526']"
+}

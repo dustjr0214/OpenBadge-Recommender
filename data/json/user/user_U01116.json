@@ -1,0 +1,14 @@
+{
+    "user_id": "U01116",
+    "name": "Kristen Jones",
+    "email": "afitzpatrick@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02185']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Valenzuela-Wong for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04309', 'B09049', 'B01151', 'B03498', 'B01282']"
+}

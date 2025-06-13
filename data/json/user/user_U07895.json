@@ -1,0 +1,14 @@
+{
+    "user_id": "U07895",
+    "name": "Nathan White",
+    "email": "alexreese@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06109', 'B02064', 'B03571', 'B01227']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Valencia-Hammond for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05699']"
+}

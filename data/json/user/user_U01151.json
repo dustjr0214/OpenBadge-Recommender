@@ -1,0 +1,14 @@
+{
+    "user_id": "U01151",
+    "name": "Kathleen Friedman",
+    "email": "umarshall@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08989', 'B01695', 'B09132', 'B00395', 'B07476']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Smith, Thornton and Klein for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07473', 'B03805', 'B03231', 'B07917', 'B06756']"
+}

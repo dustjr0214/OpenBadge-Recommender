@@ -1,0 +1,14 @@
+{
+    "user_id": "U00299",
+    "name": "Leroy Valdez",
+    "email": "duncanmallory@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Hines-Fitzgerald for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02284', 'B03993', 'B00246', 'B08519']"
+}

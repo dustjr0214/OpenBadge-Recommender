@@ -1,0 +1,14 @@
+{
+    "user_id": "U06848",
+    "name": "Marie Vang",
+    "email": "liukatherine@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01262', 'B00521', 'B00355']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Charles, Ward and Murphy for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03747', 'B02476']"
+}

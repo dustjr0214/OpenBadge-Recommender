@@ -1,0 +1,14 @@
+{
+    "user_id": "U01515",
+    "name": "Lynn Moran",
+    "email": "acarpenter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03508', 'B00200', 'B06015']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Goodwin-Cox for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04346']"
+}

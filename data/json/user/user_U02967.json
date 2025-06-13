@@ -1,0 +1,14 @@
+{
+    "user_id": "U02967",
+    "name": "Daniel Lopez",
+    "email": "morrowshawn@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07693', 'B05153', 'B09932', 'B08544', 'B02620']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Anderson Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09225', 'B04946', 'B05572']"
+}

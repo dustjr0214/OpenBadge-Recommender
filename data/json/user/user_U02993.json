@@ -1,0 +1,14 @@
+{
+    "user_id": "U02993",
+    "name": "Matthew Morgan",
+    "email": "qsweeney@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07187', 'B03678', 'B04125', 'B07910']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Foster-Williams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08063', 'B09936', 'B07959', 'B01374', 'B03860']"
+}

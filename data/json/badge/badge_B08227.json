@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08227",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency": "['Deep Learning', 'Leadership', 'UI/UX']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05630', 'B07531']"
+}

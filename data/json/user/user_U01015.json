@@ -1,0 +1,14 @@
+{
+    "user_id": "U01015",
+    "name": "Carol Kelley",
+    "email": "wellscindy@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06824', 'B05786', 'B07404']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ruiz-Cain for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

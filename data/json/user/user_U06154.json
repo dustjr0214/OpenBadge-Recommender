@@ -1,0 +1,14 @@
+{
+    "user_id": "U06154",
+    "name": "Michael Deleon",
+    "email": "aaronfisher@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07732']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at King-Patterson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

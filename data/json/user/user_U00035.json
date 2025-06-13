@@ -1,0 +1,14 @@
+{
+    "user_id": "U00035",
+    "name": "Jason Hancock",
+    "email": "laura52@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07738', 'B05347', 'B03757', 'B05707']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Wilkins Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03824', 'B04646', 'B08082']"
+}

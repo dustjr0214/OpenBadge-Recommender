@@ -1,0 +1,14 @@
+{
+    "user_id": "U06955",
+    "name": "Matthew Ramsey",
+    "email": "smithdavid@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01972']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Powers-Chavez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06997', 'B02507']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01582",
+    "name": "Jessica Graham",
+    "email": "shanemartinez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08340', 'B00851', 'B09364']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Riley, Cline and Mclean for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07228",
+    "name": "Larry French",
+    "email": "allisonwilson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04865', 'B03817', 'B04284']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Evans, Ibarra and Vasquez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08260', 'B00721', 'B07477']"
+}

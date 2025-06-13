@@ -1,0 +1,14 @@
+{
+    "user_id": "U01265",
+    "name": "Tiffany Smith",
+    "email": "benjamin64@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07294']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Franklin Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08043', 'B04467', 'B05493', 'B02948', 'B07176']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05111",
+    "name": "Carol Lopez",
+    "email": "timothy78@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02176']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Gibson, Lyons and Santos for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02488', 'B03162', 'B07758', 'B03615']"
+}

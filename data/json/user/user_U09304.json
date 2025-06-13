@@ -1,0 +1,14 @@
+{
+    "user_id": "U09304",
+    "name": "Monica Johnson",
+    "email": "johnsonrichard@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03883', 'B00616', 'B05047', 'B01807', 'B00270']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Holland-Hood for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07039",
+    "name": "Sydney Bennett",
+    "email": "elizabeth41@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00020', 'B03042', 'B03496', 'B07346', 'B09778']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Morgan, Hughes and Tran for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01493', 'B01700', 'B03873']"
+}

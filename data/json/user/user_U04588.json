@@ -1,0 +1,14 @@
+{
+    "user_id": "U04588",
+    "name": "Carol Preston",
+    "email": "kayla37@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09593', 'B07244']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Bowman, Bowen and Maxwell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09576']"
+}

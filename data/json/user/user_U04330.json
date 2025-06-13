@@ -1,0 +1,14 @@
+{
+    "user_id": "U04330",
+    "name": "Christian Wood",
+    "email": "fstanton@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08090', 'B09913', 'B09748']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Martinez-Warren for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02270', 'B04433', 'B03342', 'B04839', 'B03270']"
+}

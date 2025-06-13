@@ -1,0 +1,14 @@
+{
+    "user_id": "U05732",
+    "name": "Alyssa Barnes",
+    "email": "jennifer13@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00952', 'B07829', 'B06417']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Patrick Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06679', 'B08413', 'B00295']"
+}

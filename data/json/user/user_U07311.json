@@ -1,0 +1,14 @@
+{
+    "user_id": "U07311",
+    "name": "Ann Brown",
+    "email": "jonathanwilliams@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Peck, Franklin and Rice for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

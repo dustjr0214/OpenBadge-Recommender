@@ -1,0 +1,14 @@
+{
+    "user_id": "U04997",
+    "name": "Nicole White",
+    "email": "harrisronald@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00344', 'B01047']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Lopez-Allen for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00091', 'B00428']"
+}

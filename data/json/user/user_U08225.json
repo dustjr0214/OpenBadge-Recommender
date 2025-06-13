@@ -1,0 +1,14 @@
+{
+    "user_id": "U08225",
+    "name": "Jamie Morton",
+    "email": "amberhamilton@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07272', 'B09034']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Long Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03236', 'B08350', 'B00238', 'B02349', 'B04070']"
+}

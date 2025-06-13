@@ -1,0 +1,14 @@
+{
+    "user_id": "U08072",
+    "name": "Chad French",
+    "email": "bwilson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06642', 'B08737', 'B06463', 'B01307']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Huynh Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07630', 'B05400']"
+}

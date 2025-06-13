@@ -1,0 +1,14 @@
+{
+    "user_id": "U04980",
+    "name": "Jesse Hodges",
+    "email": "valerie64@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03426', 'B07870', 'B04223', 'B05508', 'B03186']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Cuevas PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04496', 'B01034', 'B09170']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08991",
+    "name": "Megan Fischer",
+    "email": "christian93@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05968', 'B04459', 'B07565', 'B07380']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Cox LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03482', 'B08824']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00968",
+    "name": "Kimberly Hutchinson",
+    "email": "blackbrenda@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03219']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Forbes Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09992']"
+}

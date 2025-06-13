@@ -1,0 +1,14 @@
+{
+    "user_id": "U03208",
+    "name": "Kelly Chambers",
+    "email": "robert82@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06485', 'B00009', 'B01214', 'B07128', 'B09012']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Smith-Barker for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08913', 'B01873', 'B00011', 'B07361', 'B08887']"
+}

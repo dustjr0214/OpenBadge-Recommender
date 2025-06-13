@@ -1,0 +1,14 @@
+{
+    "user_id": "U09712",
+    "name": "Douglas West",
+    "email": "sarah67@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05769', 'B06828', 'B08996']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at King Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

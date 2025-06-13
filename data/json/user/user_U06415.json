@@ -1,0 +1,14 @@
+{
+    "user_id": "U06415",
+    "name": "Jennifer Henderson",
+    "email": "lcox@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Gillespie, Clark and Jackson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02523', 'B03168', 'B03446', 'B08128']"
+}

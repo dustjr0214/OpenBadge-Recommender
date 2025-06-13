@@ -1,0 +1,14 @@
+{
+    "user_id": "U04559",
+    "name": "Jennifer Lopez",
+    "email": "jonesnatalie@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Thompson, Deleon and Ruiz for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06479', 'B05457', 'B06300', 'B00441']"
+}

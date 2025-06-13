@@ -1,0 +1,14 @@
+{
+    "user_id": "U08115",
+    "name": "Kyle Everett",
+    "email": "garciadavid@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04335', 'B01337', 'B04943', 'B02315']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Pearson, English and Bruce for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04877', 'B01665', 'B03348']"
+}

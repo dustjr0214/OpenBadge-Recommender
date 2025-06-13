@@ -1,0 +1,14 @@
+{
+    "user_id": "U06237",
+    "name": "Sean Lamb",
+    "email": "smartinez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00155', 'B03718', 'B08619']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Perry Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05275', 'B02871', 'B07618']"
+}

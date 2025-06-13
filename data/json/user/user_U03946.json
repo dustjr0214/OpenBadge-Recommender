@@ -1,0 +1,14 @@
+{
+    "user_id": "U03946",
+    "name": "Connie Meyer",
+    "email": "imooney@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01985', 'B03679', 'B04975', 'B07225']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Scott LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08014']"
+}

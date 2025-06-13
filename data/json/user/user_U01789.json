@@ -1,0 +1,14 @@
+{
+    "user_id": "U01789",
+    "name": "Michael West",
+    "email": "robert95@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01416', 'B04646', 'B01534', 'B01321']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Martin, Wallace and Johnston for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02506', 'B06960', 'B09440']"
+}

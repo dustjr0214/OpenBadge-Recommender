@@ -1,0 +1,14 @@
+{
+    "user_id": "U03338",
+    "name": "Christopher Mitchell",
+    "email": "felicia90@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05310', 'B07968', 'B09151', 'B09204', 'B09258']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Kim, Hernandez and Alexander for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09477', 'B09858', 'B09989', 'B03237']"
+}

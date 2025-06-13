@@ -1,0 +1,14 @@
+{
+    "user_id": "U05909",
+    "name": "Amy Atkins",
+    "email": "nicholas51@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00037', 'B06833']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Lester-Martin for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01013']"
+}

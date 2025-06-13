@@ -1,0 +1,14 @@
+{
+    "user_id": "U04690",
+    "name": "Robert Guzman",
+    "email": "kyledavis@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03571', 'B02520']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Pennington, Gibbs and Wagner for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

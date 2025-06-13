@@ -1,0 +1,14 @@
+{
+    "user_id": "U09491",
+    "name": "Katherine Garcia",
+    "email": "eric64@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07168', 'B06330', 'B03598', 'B04579', 'B04146']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Mendez, Meyer and Elliott for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06289', 'B04236', 'B04884', 'B02039', 'B01563']"
+}

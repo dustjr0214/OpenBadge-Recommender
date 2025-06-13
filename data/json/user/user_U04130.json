@@ -1,0 +1,14 @@
+{
+    "user_id": "U04130",
+    "name": "Cody Hahn",
+    "email": "fbrewer@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01969', 'B03776', 'B07327', 'B03654', 'B05652']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Cooke, Silva and Smith for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01519', 'B00952']"
+}

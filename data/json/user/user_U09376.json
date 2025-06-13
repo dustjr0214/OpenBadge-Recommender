@@ -1,0 +1,14 @@
+{
+    "user_id": "U09376",
+    "name": "Nicole Reed",
+    "email": "sthomas@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09721']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Fox-Santos for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07150', 'B08392', 'B06779', 'B05407']"
+}

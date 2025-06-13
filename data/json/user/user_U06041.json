@@ -1,0 +1,14 @@
+{
+    "user_id": "U06041",
+    "name": "Stephen Miranda",
+    "email": "thompsonchristopher@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09134']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mccall, Parker and Mckenzie for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02542', 'B04904', 'B04105', 'B07999', 'B06005']"
+}

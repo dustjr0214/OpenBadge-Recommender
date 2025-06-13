@@ -1,0 +1,14 @@
+{
+    "user_id": "U08462",
+    "name": "Brad Gentry",
+    "email": "wellssamantha@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04328', 'B00393', 'B03752', 'B00225']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Moreno, Pitts and Davis for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03448']"
+}

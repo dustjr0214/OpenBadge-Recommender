@@ -1,0 +1,14 @@
+{
+    "user_id": "U01432",
+    "name": "Courtney Jenkins",
+    "email": "ytyler@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09485', 'B01316', 'B08436']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gross, Knight and Mccoy for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02289', 'B03667', 'B02487']"
+}

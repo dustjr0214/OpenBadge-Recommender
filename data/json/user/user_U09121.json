@@ -1,0 +1,14 @@
+{
+    "user_id": "U09121",
+    "name": "Tammy Nguyen",
+    "email": "andersonerin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05704', 'B07334', 'B03051', 'B06873', 'B06511']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Berry-Ellis for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08396', 'B06724', 'B06648']"
+}

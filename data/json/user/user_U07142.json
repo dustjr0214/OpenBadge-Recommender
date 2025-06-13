@@ -1,0 +1,14 @@
+{
+    "user_id": "U07142",
+    "name": "Samantha Ward",
+    "email": "elizabethdiaz@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09937']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Page-Maxwell for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01629', 'B05509']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04818",
+    "name": "Gary Woodard",
+    "email": "frankbenjamin@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08229', 'B01084', 'B08314', 'B08030', 'B05409']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Rogers, Peterson and Watson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07816', 'B09970', 'B07961', 'B07069']"
+}

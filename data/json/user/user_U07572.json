@@ -1,0 +1,14 @@
+{
+    "user_id": "U07572",
+    "name": "Andrea Patel",
+    "email": "vpatel@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07901', 'B08786', 'B06507', 'B00295']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Rodriguez Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04952', 'B02678', 'B01361', 'B01730', 'B08130']"
+}

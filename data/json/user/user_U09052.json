@@ -1,0 +1,14 @@
+{
+    "user_id": "U09052",
+    "name": "Jonathan Patterson",
+    "email": "darrellflores@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Santana and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05400', 'B07923', 'B08819', 'B03736']"
+}

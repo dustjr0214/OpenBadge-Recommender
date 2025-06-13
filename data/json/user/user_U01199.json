@@ -1,0 +1,14 @@
+{
+    "user_id": "U01199",
+    "name": "Jared Holmes",
+    "email": "amanda47@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08392', 'B06278', 'B03332', 'B07560', 'B09308']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Scott and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03681']"
+}

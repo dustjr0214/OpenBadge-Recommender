@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03370",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Cybersecurity', 'Analytical Skills', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

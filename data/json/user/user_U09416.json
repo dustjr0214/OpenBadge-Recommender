@@ -1,0 +1,14 @@
+{
+    "user_id": "U09416",
+    "name": "Ann Medina",
+    "email": "vwilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03369', 'B01916']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Parker-Webb for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03389', 'B09380', 'B05408', 'B05153', 'B09940']"
+}

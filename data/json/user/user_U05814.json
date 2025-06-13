@@ -1,0 +1,14 @@
+{
+    "user_id": "U05814",
+    "name": "Edward Keller",
+    "email": "richardsonnathan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06296', 'B04862', 'B08548', 'B04234']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Summers Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

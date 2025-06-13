@@ -1,0 +1,14 @@
+{
+    "user_id": "U03885",
+    "name": "Jill Johnson",
+    "email": "kathleen98@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01772', 'B04091', 'B08660']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Andrade Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04402', 'B07177', 'B05279']"
+}

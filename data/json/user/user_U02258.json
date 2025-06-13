@@ -1,0 +1,14 @@
+{
+    "user_id": "U02258",
+    "name": "Rachel Espinoza",
+    "email": "samuelsims@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04603', 'B03700', 'B06858', 'B01959', 'B04709']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Lyons-Wright for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08654', 'B01460', 'B01474', 'B09636']"
+}

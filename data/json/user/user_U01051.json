@@ -1,0 +1,14 @@
+{
+    "user_id": "U01051",
+    "name": "Elizabeth Moran",
+    "email": "amyallen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04635', 'B00008', 'B03695']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Randolph PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09629', 'B03747', 'B02486']"
+}

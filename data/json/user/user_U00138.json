@@ -1,0 +1,14 @@
+{
+    "user_id": "U00138",
+    "name": "Sandra Lambert",
+    "email": "xmitchell@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04919', 'B03029', 'B09921']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Jones Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

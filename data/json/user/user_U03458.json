@@ -1,0 +1,14 @@
+{
+    "user_id": "U03458",
+    "name": "Ryan Acosta",
+    "email": "april30@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02625', 'B00053', 'B02392', 'B08861']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Armstrong-Nguyen for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02194', 'B07412', 'B01797', 'B08180']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01554",
+    "name": "John Shepard",
+    "email": "churchanthony@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Diaz-Garcia for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06215']"
+}

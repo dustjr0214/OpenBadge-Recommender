@@ -1,0 +1,14 @@
+{
+    "user_id": "U09557",
+    "name": "Jennifer Drake",
+    "email": "laurie10@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07127', 'B06689']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Allen-Taylor for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02202', 'B09082', 'B01855', 'B02914']"
+}

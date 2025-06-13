@@ -1,0 +1,14 @@
+{
+    "user_id": "U08959",
+    "name": "April Caldwell",
+    "email": "olopez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05556', 'B06824']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Wood-Garcia for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06885', 'B03601']"
+}

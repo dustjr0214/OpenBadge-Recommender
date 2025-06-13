@@ -1,0 +1,14 @@
+{
+    "user_id": "U03542",
+    "name": "Patricia Warren",
+    "email": "ronniesosa@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07636', 'B04468', 'B03450', 'B07329', 'B00030']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Velazquez, Roman and Huynh for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09248",
+    "name": "Jacqueline Reilly",
+    "email": "snydertroy@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09272', 'B01111']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Porter-Smith for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05733', 'B01506', 'B05312', 'B03289']"
+}

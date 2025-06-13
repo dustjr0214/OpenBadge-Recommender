@@ -1,0 +1,14 @@
+{
+    "user_id": "U05916",
+    "name": "Aaron Wilkinson",
+    "email": "pdawson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05095', 'B09733']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Thomas, Huynh and Morrison for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03200', 'B02020', 'B02993', 'B03381', 'B06265']"
+}

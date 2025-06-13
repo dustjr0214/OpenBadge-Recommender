@@ -1,0 +1,14 @@
+{
+    "user_id": "U02744",
+    "name": "Scott Chambers",
+    "email": "zpham@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03998', 'B05223', 'B07224', 'B03843']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brewer-Murphy for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08322', 'B07693', 'B03726', 'B04951']"
+}

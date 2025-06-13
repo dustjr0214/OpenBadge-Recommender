@@ -1,0 +1,14 @@
+{
+    "user_id": "U08160",
+    "name": "Andrew Snyder",
+    "email": "timothy01@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00903']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ryan-Brown for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07795', 'B03762']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07455",
+    "name": "Steven Hunter",
+    "email": "robinsonlaura@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01137', 'B05764', 'B04990', 'B09815', 'B08302']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Mason, Boyd and Ramirez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09012', 'B06111', 'B05528']"
+}

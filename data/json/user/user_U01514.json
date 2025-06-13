@@ -1,0 +1,14 @@
+{
+    "user_id": "U01514",
+    "name": "Franklin Caldwell",
+    "email": "mejiasusan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08928', 'B08574', 'B05058']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Flores, Richards and Peterson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09007', 'B06263', 'B02377']"
+}

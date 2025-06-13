@@ -1,0 +1,14 @@
+{
+    "user_id": "U02585",
+    "name": "Maria Bauer",
+    "email": "tracy80@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07661', 'B06568', 'B06044', 'B04486']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Orr and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00570']"
+}

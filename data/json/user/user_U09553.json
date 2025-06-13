@@ -1,0 +1,14 @@
+{
+    "user_id": "U09553",
+    "name": "Aaron Hensley",
+    "email": "kthomas@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05372']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Mendez-Medina for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

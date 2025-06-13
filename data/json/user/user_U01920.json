@@ -1,0 +1,14 @@
+{
+    "user_id": "U01920",
+    "name": "Lisa Walton",
+    "email": "sancheznicholas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09036', 'B09344', 'B09251']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Thompson PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03687', 'B01840', 'B08832', 'B07049']"
+}

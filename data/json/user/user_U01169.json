@@ -1,0 +1,14 @@
+{
+    "user_id": "U01169",
+    "name": "Dana Bryan",
+    "email": "michael15@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04783', 'B07954', 'B09310', 'B03052']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Rodriguez-Martinez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05775', 'B04624', 'B07276', 'B07162', 'B01634']"
+}

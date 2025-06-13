@@ -1,0 +1,14 @@
+{
+    "user_id": "U03899",
+    "name": "Terri Grimes",
+    "email": "geoffreybush@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Gallagher, Cooper and Chapman for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08960', 'B04048', 'B08084']"
+}

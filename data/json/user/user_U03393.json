@@ -1,0 +1,14 @@
+{
+    "user_id": "U03393",
+    "name": "Teresa Levine",
+    "email": "xburns@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01909', 'B03288', 'B02022', 'B06012']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Green, Roy and Fitzgerald for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04133']"
+}

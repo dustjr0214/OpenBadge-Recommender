@@ -1,0 +1,14 @@
+{
+    "user_id": "U05102",
+    "name": "Tommy Wheeler",
+    "email": "sgill@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00984', 'B03095']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Williams, Smith and Anderson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08969', 'B00179']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04665",
+    "name": "Jimmy Beard",
+    "email": "boydmary@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09475', 'B04558', 'B01012']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wagner, Johnson and Sanchez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06279', 'B04125', 'B07911', 'B03088']"
+}

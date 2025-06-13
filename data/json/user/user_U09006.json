@@ -1,0 +1,14 @@
+{
+    "user_id": "U09006",
+    "name": "Tammy Martinez",
+    "email": "stricklandtim@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00542', 'B08463', 'B09815', 'B04238', 'B00435']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Marquez Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06205', 'B08029', 'B07867']"
+}

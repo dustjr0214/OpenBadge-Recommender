@@ -1,0 +1,14 @@
+{
+    "user_id": "U09634",
+    "name": "Christopher Williams",
+    "email": "gpotter@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03072', 'B02041', 'B06314', 'B07092', 'B04882']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Hall, Roberts and King for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

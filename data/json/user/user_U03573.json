@@ -1,0 +1,14 @@
+{
+    "user_id": "U03573",
+    "name": "Beth Harris",
+    "email": "daviskathy@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03362', 'B02905']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Campbell LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06859', 'B07956', 'B05665', 'B03770', 'B00954']"
+}

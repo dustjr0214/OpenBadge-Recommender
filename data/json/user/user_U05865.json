@@ -1,0 +1,14 @@
+{
+    "user_id": "U05865",
+    "name": "David Barnes",
+    "email": "spadilla@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02027', 'B04103']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Lee, Hancock and Wells for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08578', 'B09389', 'B05923', 'B08328', 'B07070']"
+}

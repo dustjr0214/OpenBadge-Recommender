@@ -1,0 +1,14 @@
+{
+    "user_id": "U02826",
+    "name": "Joshua Warren",
+    "email": "carsonnicholas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08809', 'B01369', 'B06778', 'B06142']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Henson LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09779', 'B00089', 'B07277']"
+}

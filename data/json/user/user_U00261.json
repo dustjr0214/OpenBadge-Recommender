@@ -1,0 +1,14 @@
+{
+    "user_id": "U00261",
+    "name": "Jonathan Andersen",
+    "email": "gregvillegas@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06121', 'B03962', 'B09095']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Roberts, Johnson and Pena for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02766', 'B05369', 'B03503', 'B02173', 'B00694']"
+}

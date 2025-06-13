@@ -1,0 +1,14 @@
+{
+    "user_id": "U05433",
+    "name": "Andre Turner",
+    "email": "jessica86@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00166', 'B09510', 'B09122']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Henson-Ward for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02461', 'B03099', 'B00912', 'B05383', 'B08214']"
+}

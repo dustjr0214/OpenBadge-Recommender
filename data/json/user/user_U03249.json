@@ -1,0 +1,14 @@
+{
+    "user_id": "U03249",
+    "name": "Monica Johnson",
+    "email": "martinrichard@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08416', 'B03552', 'B01471', 'B05572']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Richard-Brown for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05224', 'B00616', 'B04017', 'B01475', 'B07631']"
+}

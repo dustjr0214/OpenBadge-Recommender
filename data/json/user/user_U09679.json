@@ -1,0 +1,14 @@
+{
+    "user_id": "U09679",
+    "name": "Ashley Hughes",
+    "email": "orodriguez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04746', 'B05891', 'B04103']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Garcia, Jimenez and Morris for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04107', 'B08308', 'B05924', 'B04139']"
+}

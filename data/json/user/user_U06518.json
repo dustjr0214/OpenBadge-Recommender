@@ -1,0 +1,14 @@
+{
+    "user_id": "U06518",
+    "name": "Patricia Cook",
+    "email": "laurenblack@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Lewis-Romero for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05360', 'B08021', 'B00747', 'B06573', 'B04718']"
+}

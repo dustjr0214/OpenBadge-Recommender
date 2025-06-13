@@ -1,0 +1,14 @@
+{
+    "user_id": "U03596",
+    "name": "Teresa Rodgers",
+    "email": "johnblevins@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02754', 'B07238']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Carpenter PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00587', 'B01416', 'B02691']"
+}

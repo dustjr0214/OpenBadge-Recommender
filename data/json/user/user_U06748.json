@@ -1,0 +1,14 @@
+{
+    "user_id": "U06748",
+    "name": "Mr. Douglas Wilson",
+    "email": "erinayala@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05552', 'B01572', 'B03826', 'B03003', 'B04609']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Williams, Hinton and Martinez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05800', 'B03460']"
+}

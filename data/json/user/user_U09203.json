@@ -1,0 +1,14 @@
+{
+    "user_id": "U09203",
+    "name": "Mark Flores",
+    "email": "devinbond@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02823', 'B01821', 'B05626', 'B07145']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Barajas, Carr and Walls for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06005', 'B08315', 'B08404']"
+}

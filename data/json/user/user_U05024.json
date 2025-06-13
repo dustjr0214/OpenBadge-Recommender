@@ -1,0 +1,14 @@
+{
+    "user_id": "U05024",
+    "name": "Amanda Camacho",
+    "email": "anthonykelley@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01258', 'B07410']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Alexander, Jennings and Hunt for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00950', 'B04118', 'B07225', 'B09085', 'B03324']"
+}

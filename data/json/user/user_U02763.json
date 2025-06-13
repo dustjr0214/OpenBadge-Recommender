@@ -1,0 +1,14 @@
+{
+    "user_id": "U02763",
+    "name": "Jorge Miller",
+    "email": "zperez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04836', 'B04933']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rivera-Johnson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09956', 'B08529', 'B05106']"
+}

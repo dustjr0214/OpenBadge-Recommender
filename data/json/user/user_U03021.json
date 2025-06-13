@@ -1,0 +1,14 @@
+{
+    "user_id": "U03021",
+    "name": "Joseph Martin",
+    "email": "josephgonzalez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07265', 'B04888', 'B07114', 'B09817']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Garrison-Burke for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

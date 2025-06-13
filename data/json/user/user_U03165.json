@@ -1,0 +1,14 @@
+{
+    "user_id": "U03165",
+    "name": "Charles Page",
+    "email": "aaron66@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04068']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Bishop, Galloway and Kirby for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03012', 'B04106']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01455",
+    "name": "Terri Young",
+    "email": "calhounbrianna@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00106', 'B04996', 'B09176']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Smith-Richardson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08975']"
+}

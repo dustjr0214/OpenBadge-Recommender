@@ -1,0 +1,14 @@
+{
+    "user_id": "U08617",
+    "name": "Shelby Kennedy",
+    "email": "qharris@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01540']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Palmer-Gonzalez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02974', 'B03223', 'B00241', 'B06241']"
+}

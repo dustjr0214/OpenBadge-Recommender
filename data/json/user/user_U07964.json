@@ -1,0 +1,14 @@
+{
+    "user_id": "U07964",
+    "name": "Ruth Jones",
+    "email": "eduardosimon@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Smith-Johnson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03203', 'B05963', 'B04560', 'B03255', 'B07365']"
+}

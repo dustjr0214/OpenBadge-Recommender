@@ -1,0 +1,14 @@
+{
+    "user_id": "U00523",
+    "name": "Thomas Green",
+    "email": "collinssheila@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09456', 'B08462']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Brown, Olson and Wall for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01188', 'B02074']"
+}

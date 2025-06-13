@@ -1,0 +1,14 @@
+{
+    "user_id": "U01327",
+    "name": "Eric Skinner MD",
+    "email": "stonedale@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Anderson Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05953', 'B03277', 'B07876', 'B03169', 'B02781']"
+}

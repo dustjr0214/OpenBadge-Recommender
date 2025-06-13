@@ -1,0 +1,14 @@
+{
+    "user_id": "U00780",
+    "name": "Jon Cunningham",
+    "email": "ehamilton@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08899', 'B04287', 'B05011', 'B03188', 'B07103']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Griffin Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07407', 'B04882', 'B00545']"
+}

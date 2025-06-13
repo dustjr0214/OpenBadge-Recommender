@@ -1,0 +1,14 @@
+{
+    "user_id": "U01381",
+    "name": "Mr. Jeffery Guerrero",
+    "email": "hardinmatthew@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08706', 'B06930', 'B05672']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Edwards, Garcia and Robinson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09994', 'B04526', 'B02547', 'B03600', 'B08951']"
+}

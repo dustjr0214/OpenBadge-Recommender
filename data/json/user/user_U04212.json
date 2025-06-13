@@ -1,0 +1,14 @@
+{
+    "user_id": "U04212",
+    "name": "Robert Hogan",
+    "email": "kyliemcpherson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04631', 'B03886', 'B09752']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Le, Sharp and Bowen for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03541', 'B01657', 'B04272']"
+}

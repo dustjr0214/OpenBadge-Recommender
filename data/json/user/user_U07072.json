@@ -1,0 +1,14 @@
+{
+    "user_id": "U07072",
+    "name": "Robyn Bautista",
+    "email": "zsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03905', 'B07916']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Mann-Smith for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01814', 'B01989', 'B04854', 'B07757']"
+}

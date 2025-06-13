@@ -1,0 +1,14 @@
+{
+    "user_id": "U00275",
+    "name": "Brittany Rogers",
+    "email": "qnichols@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05489', 'B08627', 'B05090']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Barnes-Morrow for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02359', 'B03819', 'B07740', 'B04268']"
+}

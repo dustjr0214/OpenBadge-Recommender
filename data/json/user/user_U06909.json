@@ -1,0 +1,14 @@
+{
+    "user_id": "U06909",
+    "name": "Jennifer Reed",
+    "email": "asmith@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Macdonald-Gomez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01741']"
+}

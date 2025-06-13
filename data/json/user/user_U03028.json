@@ -1,0 +1,14 @@
+{
+    "user_id": "U03028",
+    "name": "Dr. Sherri Obrien MD",
+    "email": "xjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03201', 'B03675', 'B00493']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Carpenter Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

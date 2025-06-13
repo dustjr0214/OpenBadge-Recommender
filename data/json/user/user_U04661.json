@@ -1,0 +1,14 @@
+{
+    "user_id": "U04661",
+    "name": "Karen Jones",
+    "email": "valerie91@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04723', 'B06990']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Harrison-Tucker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06961', 'B04077', 'B04575']"
+}

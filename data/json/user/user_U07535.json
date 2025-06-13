@@ -1,0 +1,14 @@
+{
+    "user_id": "U07535",
+    "name": "Elizabeth Lee",
+    "email": "dawn12@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03567', 'B05567', 'B03885', 'B02721', 'B07125']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Henry-Ochoa for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

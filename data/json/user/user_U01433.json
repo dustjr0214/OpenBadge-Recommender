@@ -1,0 +1,14 @@
+{
+    "user_id": "U01433",
+    "name": "Brian Ramirez",
+    "email": "larsensara@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09446', 'B02256', 'B01349', 'B03512']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Jackson Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05220', 'B05340', 'B08542']"
+}

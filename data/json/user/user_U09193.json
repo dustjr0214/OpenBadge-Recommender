@@ -1,0 +1,14 @@
+{
+    "user_id": "U09193",
+    "name": "Kimberly Ramirez",
+    "email": "jaimewells@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04803', 'B02342', 'B07174', 'B03969']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Walsh-Williams for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09519', 'B03085', 'B02797', 'B06914', 'B07299']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09549",
+    "name": "Cody Moyer",
+    "email": "boylejessica@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02543', 'B03725', 'B06068', 'B01266']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Martinez-Marshall for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08539', 'B01648', 'B09959', 'B08574']"
+}

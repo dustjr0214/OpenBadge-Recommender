@@ -1,0 +1,14 @@
+{
+    "user_id": "U05305",
+    "name": "Joseph Lin",
+    "email": "joycediaz@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03216', 'B09208', 'B04917', 'B07162', 'B02266']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Wall, Gould and Boyd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06643', 'B00124', 'B08149', 'B00948', 'B00452']"
+}

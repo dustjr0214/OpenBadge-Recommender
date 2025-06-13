@@ -1,0 +1,14 @@
+{
+    "user_id": "U03237",
+    "name": "Lisa Graves",
+    "email": "paul21@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01983', 'B05800', 'B06689', 'B08645', 'B06175']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Daniel, Rose and Joseph for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03604', 'B05222', 'B07758', 'B08103', 'B01916']"
+}

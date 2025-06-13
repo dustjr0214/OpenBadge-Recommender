@@ -1,0 +1,14 @@
+{
+    "user_id": "U04516",
+    "name": "Kristin Perkins",
+    "email": "natalie48@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04246', 'B09748', 'B06955', 'B08604', 'B06655']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Wilson-Randall for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03769', 'B06314', 'B07820', 'B01354', 'B04039']"
+}

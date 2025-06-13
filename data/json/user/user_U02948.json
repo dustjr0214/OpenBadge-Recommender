@@ -1,0 +1,14 @@
+{
+    "user_id": "U02948",
+    "name": "Melissa Myers",
+    "email": "jeremy00@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01616', 'B02025', 'B05518', 'B05766']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Howell Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04239']"
+}

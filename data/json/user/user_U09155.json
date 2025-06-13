@@ -1,0 +1,14 @@
+{
+    "user_id": "U09155",
+    "name": "Peter Johnson",
+    "email": "nbailey@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05073', 'B05533', 'B07078']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Jones, Cross and Brown for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05457', 'B08269', 'B07137', 'B09594', 'B08225']"
+}

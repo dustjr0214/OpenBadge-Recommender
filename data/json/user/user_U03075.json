@@ -1,0 +1,14 @@
+{
+    "user_id": "U03075",
+    "name": "David Wade",
+    "email": "dianecooper@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05096', 'B01074', 'B09764', 'B01448', 'B03278']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Jones-Camacho for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03371', 'B08677', 'B09406', 'B04781']"
+}

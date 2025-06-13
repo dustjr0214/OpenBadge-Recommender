@@ -1,0 +1,14 @@
+{
+    "user_id": "U07145",
+    "name": "Amber Garcia",
+    "email": "kevincortez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09853', 'B04713']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Stewart-Wheeler for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04470', 'B00376', 'B06838', 'B06491', 'B09677']"
+}

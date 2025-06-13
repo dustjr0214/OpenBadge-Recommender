@@ -1,0 +1,14 @@
+{
+    "user_id": "U01832",
+    "name": "Kathy Spears",
+    "email": "jonesamanda@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06221', 'B04872', 'B06981']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Grant, Cochran and Mcguire for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09896']"
+}

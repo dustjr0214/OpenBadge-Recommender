@@ -1,0 +1,14 @@
+{
+    "user_id": "U04634",
+    "name": "Crystal Freeman",
+    "email": "john64@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03226', 'B01392', 'B04995']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Callahan-Mccarty for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05419', 'B01515', 'B07164']"
+}

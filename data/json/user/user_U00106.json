@@ -1,0 +1,14 @@
+{
+    "user_id": "U00106",
+    "name": "Tammy Branch",
+    "email": "amygarcia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05231']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Martinez, Cobb and Edwards for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04486', 'B03621', 'B04395']"
+}

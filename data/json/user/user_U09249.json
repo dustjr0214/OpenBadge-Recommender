@@ -1,0 +1,14 @@
+{
+    "user_id": "U09249",
+    "name": "Daniel Green",
+    "email": "normankelly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09357', 'B07705']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hancock and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06826', 'B01079', 'B02988', 'B03658', 'B01453']"
+}

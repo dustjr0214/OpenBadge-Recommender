@@ -1,0 +1,14 @@
+{
+    "user_id": "U03870",
+    "name": "Megan Parker",
+    "email": "charles11@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06838', 'B01485', 'B06861', 'B02893', 'B01120']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gregory Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06436', 'B05672']"
+}

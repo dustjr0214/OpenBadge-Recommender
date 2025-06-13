@@ -1,0 +1,14 @@
+{
+    "user_id": "U06018",
+    "name": "Valerie Sanchez",
+    "email": "elawrence@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Obrien-Perez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00328', 'B00645', 'B04234', 'B09837']"
+}

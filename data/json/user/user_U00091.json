@@ -1,0 +1,14 @@
+{
+    "user_id": "U00091",
+    "name": "Kathleen Holder",
+    "email": "hwilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09806', 'B03812']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Taylor Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

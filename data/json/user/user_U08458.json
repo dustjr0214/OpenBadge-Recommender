@@ -1,0 +1,14 @@
+{
+    "user_id": "U08458",
+    "name": "Stephen Ortega",
+    "email": "daniel98@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05982', 'B09524', 'B05331', 'B09611']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at George, Duke and Floyd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09934', 'B03377', 'B08423']"
+}

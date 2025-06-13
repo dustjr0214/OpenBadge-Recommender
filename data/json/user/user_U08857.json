@@ -1,0 +1,14 @@
+{
+    "user_id": "U08857",
+    "name": "Ashley Huffman",
+    "email": "erin04@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03391', 'B09768']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Maldonado, Lutz and Martin for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04881']"
+}

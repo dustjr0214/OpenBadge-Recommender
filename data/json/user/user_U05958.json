@@ -1,0 +1,14 @@
+{
+    "user_id": "U05958",
+    "name": "Tonya Thomas",
+    "email": "mmills@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04039', 'B00655', 'B04644', 'B04449', 'B00718']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Stone, Parker and Dean for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03043', 'B04275', 'B00994']"
+}

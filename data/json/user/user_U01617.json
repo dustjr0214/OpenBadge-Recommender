@@ -1,0 +1,14 @@
+{
+    "user_id": "U01617",
+    "name": "John Harvey",
+    "email": "michael11@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01980', 'B01891']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Perkins, Holloway and Beck for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03159']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09198",
+    "name": "Anthony Goodwin",
+    "email": "isandoval@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05759', 'B09641', 'B04185']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Moore, Tran and Thomas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

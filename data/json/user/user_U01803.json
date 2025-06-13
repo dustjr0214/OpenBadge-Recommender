@@ -1,0 +1,14 @@
+{
+    "user_id": "U01803",
+    "name": "Anne Coffey",
+    "email": "trevor19@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07439', 'B06526', 'B05269']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Levine-Mejia for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02692",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'Cybersecurity', 'Python']",
+    "competency": "['Cybersecurity', 'Problem Solving', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08086']"
+}

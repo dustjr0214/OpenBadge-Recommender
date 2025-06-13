@@ -1,0 +1,14 @@
+{
+    "user_id": "U08847",
+    "name": "Joseph Smith",
+    "email": "parkersanchez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08647']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Terry-Hill for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08438', 'B05214', 'B07438', 'B00055', 'B08499']"
+}

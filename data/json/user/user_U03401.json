@@ -1,0 +1,14 @@
+{
+    "user_id": "U03401",
+    "name": "Michael Grant",
+    "email": "tiffanylong@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02261', 'B04504', 'B00616', 'B04398']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Brown, Kane and Taylor for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07439', 'B07587']"
+}

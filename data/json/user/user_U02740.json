@@ -1,0 +1,14 @@
+{
+    "user_id": "U02740",
+    "name": "Amanda Pitts",
+    "email": "alambert@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Harrell PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03790', 'B00764', 'B05187', 'B04084']"
+}

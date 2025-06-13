@@ -1,0 +1,14 @@
+{
+    "user_id": "U01278",
+    "name": "Rachel Knapp",
+    "email": "callahancaroline@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08064', 'B08521']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Owens-Patton for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08626', 'B00560']"
+}

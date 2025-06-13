@@ -1,0 +1,14 @@
+{
+    "user_id": "U06105",
+    "name": "James Nicholson",
+    "email": "amanda77@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04832', 'B07792', 'B00124', 'B03327', 'B04605']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Lane, Walker and Williams for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

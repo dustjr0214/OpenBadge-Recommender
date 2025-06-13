@@ -1,0 +1,14 @@
+{
+    "user_id": "U00072",
+    "name": "Samantha Martinez",
+    "email": "ismith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09463']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Garcia-Cummings for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09238', 'B04533', 'B01531']"
+}

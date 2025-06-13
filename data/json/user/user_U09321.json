@@ -1,0 +1,14 @@
+{
+    "user_id": "U09321",
+    "name": "Joshua Warren",
+    "email": "clayton90@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07186', 'B05123', 'B01457']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Kirk, Williams and Diaz for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04929', 'B03100', 'B04627']"
+}

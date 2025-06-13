@@ -1,0 +1,14 @@
+{
+    "user_id": "U01915",
+    "name": "Janet Daniel",
+    "email": "codyperkins@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00321']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Anderson, Snyder and Thompson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07831', 'B03700', 'B04882', 'B07876', 'B06778']"
+}

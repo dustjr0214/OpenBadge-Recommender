@@ -1,0 +1,14 @@
+{
+    "user_id": "U05470",
+    "name": "Roy Parker",
+    "email": "shawn73@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05510', 'B01607']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Mccarthy, Davis and Tucker for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06401', 'B00824']"
+}

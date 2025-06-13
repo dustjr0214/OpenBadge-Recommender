@@ -1,0 +1,14 @@
+{
+    "user_id": "U00153",
+    "name": "Anthony Parks",
+    "email": "vgarcia@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06067', 'B05593', 'B04485', 'B02298', 'B03344']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Skinner, Powell and Norris for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06257', 'B03576', 'B02893', 'B04764']"
+}

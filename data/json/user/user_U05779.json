@@ -1,0 +1,14 @@
+{
+    "user_id": "U05779",
+    "name": "Deborah Vega",
+    "email": "ballardjoy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01354', 'B06330', 'B05049']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hunter-Alvarez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02350', 'B05003', 'B07552', 'B06528', 'B00304']"
+}

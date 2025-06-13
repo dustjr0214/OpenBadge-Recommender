@@ -1,0 +1,14 @@
+{
+    "user_id": "U03696",
+    "name": "Kelly Valentine",
+    "email": "hicksgregory@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02163', 'B05815', 'B03536']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Murray Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08192', 'B00156', 'B02487']"
+}

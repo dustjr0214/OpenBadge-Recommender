@@ -1,0 +1,14 @@
+{
+    "user_id": "U06388",
+    "name": "Lisa Webster",
+    "email": "eugene62@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Mack and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03631', 'B00870', 'B02500', 'B09492']"
+}

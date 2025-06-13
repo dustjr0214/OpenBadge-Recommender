@@ -1,0 +1,14 @@
+{
+    "user_id": "U04762",
+    "name": "Brian Washington",
+    "email": "edwinmiller@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02395', 'B07542', 'B03302', 'B01526', 'B09406']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Smith-Nichols for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03737', 'B07737', 'B03711']"
+}

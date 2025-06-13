@@ -1,0 +1,14 @@
+{
+    "user_id": "U03175",
+    "name": "Susan Allen",
+    "email": "asmith@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05668', 'B01000', 'B08960', 'B04923', 'B02943']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Padilla Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09728', 'B05674', 'B05903', 'B00428']"
+}

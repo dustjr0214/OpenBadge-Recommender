@@ -1,0 +1,14 @@
+{
+    "user_id": "U05510",
+    "name": "Charles Stewart",
+    "email": "michael86@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02744', 'B00159', 'B07748']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith, Lee and Pugh for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08860', 'B01158', 'B01203', 'B03634']"
+}

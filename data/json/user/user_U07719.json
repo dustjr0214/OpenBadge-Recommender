@@ -1,0 +1,14 @@
+{
+    "user_id": "U07719",
+    "name": "Steven Martinez",
+    "email": "janderson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03594', 'B09040']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Diaz-Davidson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00819', 'B03897', 'B03237', 'B06852']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00436",
+    "name": "Christopher Moran",
+    "email": "floresjessica@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04125', 'B04255', 'B03620', 'B06468']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Haynes-Cooper for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03573', 'B02020']"
+}

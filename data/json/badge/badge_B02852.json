@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02852",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['SQL']",
+    "competency": "['Data Analysis', 'Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01234', 'B07492']"
+}

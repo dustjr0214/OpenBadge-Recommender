@@ -1,0 +1,14 @@
+{
+    "user_id": "U02733",
+    "name": "Leslie Brown MD",
+    "email": "paulbrennan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05636', 'B06804']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Elliott-Martin for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09042', 'B01422', 'B09330']"
+}

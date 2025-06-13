@@ -1,0 +1,14 @@
+{
+    "user_id": "U01591",
+    "name": "Steven Weaver",
+    "email": "mcleanjeffery@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00468', 'B03427', 'B00701', 'B07294']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Franklin-Stout for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00354', 'B03288', 'B08512', 'B08988', 'B03767']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06733",
+    "name": "Tiffany Hernandez MD",
+    "email": "linda42@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04077', 'B05948', 'B00211', 'B03682', 'B07629']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Hawkins LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09154', 'B05104', 'B00331']"
+}

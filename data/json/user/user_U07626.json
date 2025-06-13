@@ -1,0 +1,14 @@
+{
+    "user_id": "U07626",
+    "name": "David Fisher",
+    "email": "valeriewilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07155', 'B07417']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Warner, Garner and Garcia for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02005', 'B02775', 'B06813']"
+}

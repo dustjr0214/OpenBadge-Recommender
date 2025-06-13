@@ -1,0 +1,14 @@
+{
+    "user_id": "U05131",
+    "name": "Kimberly Bell",
+    "email": "kimberly90@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01621', 'B01854', 'B01532', 'B08301', 'B01256']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Turner PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05423', 'B00686', 'B02330']"
+}

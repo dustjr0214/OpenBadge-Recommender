@@ -1,0 +1,14 @@
+{
+    "user_id": "U09657",
+    "name": "David Lee",
+    "email": "sandranguyen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08607', 'B02923']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Morris Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00251', 'B02521', 'B06667']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03613",
+    "name": "Machine Learning Pro",
+    "issuer": "Udacity",
+    "description": "Machine Learning Pro badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Cybersecurity', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B05189', 'B05627']"
+}

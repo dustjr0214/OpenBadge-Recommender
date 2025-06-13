@@ -1,0 +1,14 @@
+{
+    "user_id": "U02751",
+    "name": "Christian Thompson",
+    "email": "anielsen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08445', 'B04348', 'B04274', 'B08344', 'B06482']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at York-Moss for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08626', 'B03142', 'B05365', 'B02096', 'B07959']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09630",
+    "name": "Ricky Frederick",
+    "email": "amanda92@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02617', 'B07705', 'B01632']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Green and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06179', 'B09405']"
+}

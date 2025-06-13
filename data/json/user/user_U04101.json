@@ -1,0 +1,14 @@
+{
+    "user_id": "U04101",
+    "name": "Patricia Doyle",
+    "email": "brookebarnes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01510', 'B08921', 'B06632', 'B03041']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Jacobson, Johnson and Carter for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03051', 'B08669', 'B03695', 'B07802']"
+}

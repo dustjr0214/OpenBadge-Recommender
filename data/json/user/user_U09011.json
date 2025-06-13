@@ -1,0 +1,14 @@
+{
+    "user_id": "U09011",
+    "name": "Anthony Lopez",
+    "email": "ryan16@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00951', 'B06466', 'B07641', 'B03004', 'B05020']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Roberts, Novak and James for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07433', 'B07557', 'B04143']"
+}

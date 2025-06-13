@@ -1,0 +1,14 @@
+{
+    "user_id": "U03509",
+    "name": "Andrew Vaughan",
+    "email": "zmiller@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Sparks Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02012', 'B01262', 'B07103']"
+}

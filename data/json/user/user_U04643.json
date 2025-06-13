@@ -1,0 +1,14 @@
+{
+    "user_id": "U04643",
+    "name": "Adam French MD",
+    "email": "millerdouglas@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08703', 'B02850', 'B07940']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Allen-Hurst for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06520', 'B04570']"
+}

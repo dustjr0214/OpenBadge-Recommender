@@ -1,0 +1,14 @@
+{
+    "user_id": "U03559",
+    "name": "Kevin Harding",
+    "email": "opadilla@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03069', 'B04380', 'B07781', 'B00155', 'B01279']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Acevedo Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09063', 'B05011', 'B06014']"
+}

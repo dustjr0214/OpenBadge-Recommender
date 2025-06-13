@@ -1,0 +1,14 @@
+{
+    "user_id": "U06442",
+    "name": "Jessica Norris",
+    "email": "franciscojohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02583', 'B09314', 'B09980']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Wiley, Zamora and Garcia for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05845', 'B02713', 'B05063', 'B07278', 'B04917']"
+}

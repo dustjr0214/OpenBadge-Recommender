@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08667",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['SQL', 'UI/UX']",
+    "competency": "['SQL', 'Analytical Skills', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

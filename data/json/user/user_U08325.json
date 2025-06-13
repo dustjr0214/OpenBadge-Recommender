@@ -1,0 +1,14 @@
+{
+    "user_id": "U08325",
+    "name": "Larry Jones",
+    "email": "vstrickland@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07200', 'B00906', 'B09223', 'B06320', 'B00453']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Byrd-Grant for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00791', 'B05469', 'B02918', 'B09917', 'B03697']"
+}

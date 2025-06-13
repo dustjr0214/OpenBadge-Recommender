@@ -1,0 +1,14 @@
+{
+    "user_id": "U04249",
+    "name": "Denise Lopez",
+    "email": "craighunter@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03265', 'B09001', 'B09429', 'B04370']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Shields LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05767']"
+}

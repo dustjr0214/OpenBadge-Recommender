@@ -1,0 +1,14 @@
+{
+    "user_id": "U09626",
+    "name": "Kathy Martinez",
+    "email": "garciadebra@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Miller Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05857', 'B02501', 'B08185', 'B04378', 'B09285']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02177",
+    "name": "Jose Cox",
+    "email": "monique33@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09896']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Chambers, Rivera and Hawkins for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08570', 'B09752']"
+}

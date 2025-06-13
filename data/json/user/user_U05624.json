@@ -1,0 +1,14 @@
+{
+    "user_id": "U05624",
+    "name": "Paul Hughes MD",
+    "email": "rrogers@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07691', 'B07953', 'B04675', 'B02015', 'B01173']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Mendez-Wallace for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09502', 'B02359', 'B05143', 'B07333']"
+}

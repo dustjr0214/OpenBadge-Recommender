@@ -1,0 +1,14 @@
+{
+    "user_id": "U07940",
+    "name": "Matthew Carlson",
+    "email": "kmorales@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00991', 'B06029']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Kennedy-James for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

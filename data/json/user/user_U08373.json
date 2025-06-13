@@ -1,0 +1,14 @@
+{
+    "user_id": "U08373",
+    "name": "Angela Jackson",
+    "email": "claytonconnie@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05172', 'B05119', 'B06657']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Robinson-Moore for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09516']"
+}

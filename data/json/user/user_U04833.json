@@ -1,0 +1,14 @@
+{
+    "user_id": "U04833",
+    "name": "Thomas Dalton",
+    "email": "ryan36@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Sherman-Riley for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02559', 'B02549', 'B00022', 'B06793', 'B01906']"
+}

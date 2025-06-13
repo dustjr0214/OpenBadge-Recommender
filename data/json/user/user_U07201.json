@@ -1,0 +1,14 @@
+{
+    "user_id": "U07201",
+    "name": "David Vargas",
+    "email": "wallsemily@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Wilkerson-Hill for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08607', 'B00805']"
+}

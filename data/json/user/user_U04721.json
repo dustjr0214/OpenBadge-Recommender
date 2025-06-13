@@ -1,0 +1,14 @@
+{
+    "user_id": "U04721",
+    "name": "Rebecca Middleton",
+    "email": "sandersjon@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05804', 'B04350', 'B00009', 'B04093', 'B08593']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Stout, Harmon and Kim for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00684', 'B03424', 'B08332', 'B03476', 'B06358']"
+}

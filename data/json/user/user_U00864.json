@@ -1,0 +1,14 @@
+{
+    "user_id": "U00864",
+    "name": "Jack Edwards",
+    "email": "tracyrodriguez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09835', 'B05716', 'B05939']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Gonzalez LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08884', 'B00102', 'B03409', 'B08172']"
+}

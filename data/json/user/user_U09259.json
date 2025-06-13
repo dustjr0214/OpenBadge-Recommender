@@ -1,0 +1,14 @@
+{
+    "user_id": "U09259",
+    "name": "Jeffrey Davis",
+    "email": "uosborne@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07544']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Diaz Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06201']"
+}

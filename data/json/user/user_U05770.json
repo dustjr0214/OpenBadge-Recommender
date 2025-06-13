@@ -1,0 +1,14 @@
+{
+    "user_id": "U05770",
+    "name": "Emma Melton",
+    "email": "amykelly@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09421', 'B03728', 'B01857', 'B08144', 'B02556']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Palmer, Martin and Mata for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05310', 'B03037', 'B08281']"
+}

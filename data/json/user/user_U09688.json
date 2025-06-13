@@ -1,0 +1,14 @@
+{
+    "user_id": "U09688",
+    "name": "Amy Robinson",
+    "email": "theresamiller@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Ruiz, Bryant and Moore for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03743', 'B09963', 'B05185', 'B02579', 'B07378']"
+}

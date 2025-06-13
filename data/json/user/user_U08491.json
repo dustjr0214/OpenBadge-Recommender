@@ -1,0 +1,14 @@
+{
+    "user_id": "U08491",
+    "name": "Michael Smith",
+    "email": "modonnell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04436']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Gonzalez, Robinson and Hendrix for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06100']"
+}

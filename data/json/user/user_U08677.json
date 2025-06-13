@@ -1,0 +1,14 @@
+{
+    "user_id": "U08677",
+    "name": "Alex Shaw",
+    "email": "nroberts@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06292', 'B03125', 'B04577', 'B04710', 'B04795']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Black, Johnson and Williams for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00539', 'B02809', 'B02829', 'B08688', 'B01893']"
+}

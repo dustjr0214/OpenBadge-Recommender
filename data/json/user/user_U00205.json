@@ -1,0 +1,14 @@
+{
+    "user_id": "U00205",
+    "name": "Ryan Adams",
+    "email": "ricardo06@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03503', 'B04170']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Obrien-Jordan for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03573', 'B00699', 'B07294', 'B04814']"
+}

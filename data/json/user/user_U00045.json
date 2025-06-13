@@ -1,0 +1,14 @@
+{
+    "user_id": "U00045",
+    "name": "William Nelson",
+    "email": "cathy53@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00095', 'B06162', 'B08598']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Burnett Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09322', 'B01685', 'B01261', 'B09330']"
+}

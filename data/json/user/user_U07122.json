@@ -1,0 +1,14 @@
+{
+    "user_id": "U07122",
+    "name": "Sarah Ford",
+    "email": "john47@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04653', 'B07004', 'B08100', 'B08112', 'B00706']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Velasquez, Taylor and Morse for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03171', 'B05294', 'B09077', 'B08343']"
+}

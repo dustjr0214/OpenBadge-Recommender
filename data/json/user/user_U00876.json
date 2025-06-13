@@ -1,0 +1,14 @@
+{
+    "user_id": "U00876",
+    "name": "Jennifer Jackson",
+    "email": "veronica69@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09532', 'B05711', 'B08558']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Adams-Fisher for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04146', 'B07955', 'B06028', 'B07018', 'B04266']"
+}

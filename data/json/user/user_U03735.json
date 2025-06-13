@@ -1,0 +1,14 @@
+{
+    "user_id": "U03735",
+    "name": "Steven Peters",
+    "email": "rickynorman@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06627', 'B06595', 'B02507']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Taylor and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05637', 'B08704', 'B06585', 'B09991']"
+}

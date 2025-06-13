@@ -1,0 +1,14 @@
+{
+    "user_id": "U07193",
+    "name": "Micheal Thompson",
+    "email": "vargaschristopher@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05491', 'B08337', 'B04317', 'B08739']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Adkins Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00574', 'B08266', 'B07688', 'B00701', 'B02506']"
+}

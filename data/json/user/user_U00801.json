@@ -1,0 +1,14 @@
+{
+    "user_id": "U00801",
+    "name": "Mark Lopez",
+    "email": "alyssasmith@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Hall Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03841', 'B07412']"
+}

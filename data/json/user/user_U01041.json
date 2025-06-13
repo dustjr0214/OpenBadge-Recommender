@@ -1,0 +1,14 @@
+{
+    "user_id": "U01041",
+    "name": "Amy Sanders",
+    "email": "christophermartinez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05679', 'B07079', 'B02877']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at King Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09531', 'B01322']"
+}

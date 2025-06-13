@@ -1,0 +1,14 @@
+{
+    "user_id": "U09209",
+    "name": "Dylan Wilson",
+    "email": "thomasdennis@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03162', 'B05329', 'B05533']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Brooks-Bailey for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05095']"
+}

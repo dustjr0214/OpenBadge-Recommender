@@ -1,0 +1,14 @@
+{
+    "user_id": "U05021",
+    "name": "Bradley Price",
+    "email": "josephromero@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01540', 'B07192', 'B04186']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Bowman, Vaughn and Johnson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08822', 'B02134', 'B03415', 'B00102', 'B09256']"
+}

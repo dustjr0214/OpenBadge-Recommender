@@ -1,0 +1,14 @@
+{
+    "user_id": "U09841",
+    "name": "Bridget Hicks",
+    "email": "huntmatthew@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06601']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Wilson-Figueroa for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05378']"
+}

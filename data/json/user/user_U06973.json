@@ -1,0 +1,14 @@
+{
+    "user_id": "U06973",
+    "name": "Michelle Lewis",
+    "email": "rose85@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08598', 'B02573', 'B02318']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Campos, Malone and Ferguson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04528', 'B07118']"
+}

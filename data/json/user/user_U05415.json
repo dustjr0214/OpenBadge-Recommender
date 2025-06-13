@@ -1,0 +1,14 @@
+{
+    "user_id": "U05415",
+    "name": "Scott Carr",
+    "email": "michelestafford@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Lee Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07673",
+    "name": "Kevin Vargas",
+    "email": "gtran@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00936', 'B07401', 'B01875', 'B06414']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Briggs-Simpson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09252', 'B04887', 'B06888', 'B09952', 'B03547']"
+}

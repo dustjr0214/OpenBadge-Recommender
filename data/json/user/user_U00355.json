@@ -1,0 +1,14 @@
+{
+    "user_id": "U00355",
+    "name": "Danny Landry",
+    "email": "kwoodard@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04887', 'B03205', 'B04195', 'B09047', 'B07201']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Lewis-Valenzuela for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09063', 'B05739']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01540",
+    "name": "Deanna Graham",
+    "email": "tiffany93@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09959']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Richard, Barton and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02737']"
+}

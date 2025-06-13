@@ -1,0 +1,14 @@
+{
+    "user_id": "U09499",
+    "name": "Calvin Wong",
+    "email": "vsmith@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08739', 'B09178', 'B07711']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Morgan and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06665",
+    "name": "Ashley Smith",
+    "email": "vwilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05662', 'B05906']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Brown-Little for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04769', 'B07773']"
+}

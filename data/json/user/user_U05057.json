@@ -1,0 +1,14 @@
+{
+    "user_id": "U05057",
+    "name": "Steven Hamilton",
+    "email": "justinbird@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00974']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Montgomery Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03589', 'B07967', 'B03909']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08759",
+    "name": "Nancy Smith",
+    "email": "campbellcourtney@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00134', 'B04481', 'B04738', 'B07344']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Cummings Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08980', 'B02340', 'B08661']"
+}

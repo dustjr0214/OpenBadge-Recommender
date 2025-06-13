@@ -1,0 +1,14 @@
+{
+    "user_id": "U05764",
+    "name": "Caitlin Gonzalez",
+    "email": "sandovallisa@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04403', 'B06084', 'B08574', 'B03567']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Mcdaniel-Austin for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08113', 'B03229', 'B05880', 'B00311']"
+}

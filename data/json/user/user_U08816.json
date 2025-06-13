@@ -1,0 +1,14 @@
+{
+    "user_id": "U08816",
+    "name": "Kristin Brown",
+    "email": "barrerarachael@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09372', 'B02948', 'B02541', 'B05295']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Wong, Wong and Perry for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00403', 'B06545', 'B04444', 'B05729', 'B09377']"
+}

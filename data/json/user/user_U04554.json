@@ -1,0 +1,14 @@
+{
+    "user_id": "U04554",
+    "name": "Ashley Johnson",
+    "email": "jason19@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08460', 'B06932', 'B09208']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Nolan-Gonzalez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02485', 'B04715']"
+}

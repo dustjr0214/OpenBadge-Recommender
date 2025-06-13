@@ -1,0 +1,14 @@
+{
+    "user_id": "U00063",
+    "name": "Christopher Johnson",
+    "email": "lisasmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02413', 'B08807', 'B03559', 'B03122', 'B06684']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Simmons-Sanchez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09497']"
+}

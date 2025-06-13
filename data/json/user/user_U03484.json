@@ -1,0 +1,14 @@
+{
+    "user_id": "U03484",
+    "name": "Joseph Thomas",
+    "email": "reidrobert@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03237', 'B02728', 'B01500']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Dodson Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06064', 'B07798', 'B06074']"
+}

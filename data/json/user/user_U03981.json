@@ -1,0 +1,14 @@
+{
+    "user_id": "U03981",
+    "name": "Justin Powell",
+    "email": "bryantodd@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07781']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Solomon, Barnes and Cabrera for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07536', 'B03007', 'B00791', 'B05654', 'B05763']"
+}

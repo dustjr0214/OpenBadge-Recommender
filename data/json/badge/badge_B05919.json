@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05919",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Python']",
+    "competency": "['SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09208', 'B00457']"
+}

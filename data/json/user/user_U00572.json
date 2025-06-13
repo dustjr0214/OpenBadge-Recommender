@@ -1,0 +1,14 @@
+{
+    "user_id": "U00572",
+    "name": "Bradley Arnold",
+    "email": "kathrynsmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08250', 'B04584', 'B07576', 'B09978']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Morton Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08708', 'B06544', 'B06400', 'B02330']"
+}

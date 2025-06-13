@@ -1,0 +1,14 @@
+{
+    "user_id": "U03245",
+    "name": "Maria Williams",
+    "email": "cindypowers@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06708']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Cline PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04467', 'B04593', 'B06756', 'B01389', 'B09799']"
+}

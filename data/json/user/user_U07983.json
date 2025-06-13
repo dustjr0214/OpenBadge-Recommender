@@ -1,0 +1,14 @@
+{
+    "user_id": "U07983",
+    "name": "Sarah Cowan",
+    "email": "noahsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09516', 'B00269']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Le-Wright for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04999', 'B06857', 'B04634']"
+}

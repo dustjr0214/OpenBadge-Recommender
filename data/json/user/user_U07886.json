@@ -1,0 +1,14 @@
+{
+    "user_id": "U07886",
+    "name": "Thomas Osborne",
+    "email": "william47@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05561', 'B07087']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Grimes, Cordova and Kim for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04060', 'B04786', 'B00502']"
+}

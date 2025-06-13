@@ -1,0 +1,14 @@
+{
+    "user_id": "U09819",
+    "name": "Alexis Roberts",
+    "email": "melissa76@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09193', 'B03933', 'B08793', 'B02436']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Aguirre, Hanson and Ramirez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04840', 'B06250', 'B03576', 'B03073']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03666",
+    "name": "James Allen",
+    "email": "thomaserin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08836', 'B02709', 'B07438', 'B09409']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Mccullough LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09950']"
+}

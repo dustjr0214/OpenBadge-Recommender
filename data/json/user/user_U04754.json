@@ -1,0 +1,14 @@
+{
+    "user_id": "U04754",
+    "name": "Jack Torres",
+    "email": "bensoncassie@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04545', 'B09981']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Ochoa, Johnson and Willis for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03773', 'B02411', 'B07370']"
+}

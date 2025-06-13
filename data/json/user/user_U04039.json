@@ -1,0 +1,14 @@
+{
+    "user_id": "U04039",
+    "name": "John Delgado",
+    "email": "wsmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08695', 'B00523', 'B01066', 'B04409', 'B07431']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Leblanc-Russell for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

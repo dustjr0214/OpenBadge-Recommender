@@ -1,0 +1,14 @@
+{
+    "user_id": "U09515",
+    "name": "Michelle Gonzalez",
+    "email": "moorephillip@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08845', 'B00891', 'B02322', 'B09253', 'B00733']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Callahan-May for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03938', 'B00264']"
+}

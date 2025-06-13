@@ -1,0 +1,14 @@
+{
+    "user_id": "U08088",
+    "name": "Cheyenne Morris",
+    "email": "ereyes@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08928', 'B04433', 'B00140']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Orr Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00779', 'B00843', 'B03507']"
+}

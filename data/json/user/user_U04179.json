@@ -1,0 +1,14 @@
+{
+    "user_id": "U04179",
+    "name": "Sarah Miles",
+    "email": "smiller@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09655', 'B00123', 'B08300', 'B01873']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Bryant-Mcconnell for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06351', 'B09952']"
+}

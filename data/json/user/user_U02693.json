@@ -1,0 +1,14 @@
+{
+    "user_id": "U02693",
+    "name": "Shawn Smith",
+    "email": "ralexander@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09683', 'B04363', 'B06574', 'B05668', 'B00479']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at King Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02549', 'B05314']"
+}

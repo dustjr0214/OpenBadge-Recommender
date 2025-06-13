@@ -1,0 +1,14 @@
+{
+    "user_id": "U04293",
+    "name": "William Mccullough",
+    "email": "joshuahunter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05160']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hatfield and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03594', 'B06538', 'B00251', 'B09072', 'B01922']"
+}

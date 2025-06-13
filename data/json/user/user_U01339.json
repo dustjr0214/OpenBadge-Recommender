@@ -1,0 +1,14 @@
+{
+    "user_id": "U01339",
+    "name": "William Jordan",
+    "email": "lwalker@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03179']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brooks-Watson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00143', 'B06113', 'B08157']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08373",
+    "name": "UI/UX Designer",
+    "issuer": "Coursera",
+    "description": "UI/UX Designer badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Machine Learning', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B07269', 'B04506']"
+}

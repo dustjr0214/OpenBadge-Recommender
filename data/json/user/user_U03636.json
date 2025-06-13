@@ -1,0 +1,14 @@
+{
+    "user_id": "U03636",
+    "name": "Thomas Cruz",
+    "email": "jillcannon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02605']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Ford, Jimenez and Knight for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03416', 'B05272', 'B03913']"
+}

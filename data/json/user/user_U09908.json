@@ -1,0 +1,14 @@
+{
+    "user_id": "U09908",
+    "name": "Christy Mcmahon",
+    "email": "scott78@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Vargas Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07054', 'B05404', 'B06514']"
+}

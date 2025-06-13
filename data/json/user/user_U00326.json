@@ -1,0 +1,14 @@
+{
+    "user_id": "U00326",
+    "name": "Jonathan Garcia",
+    "email": "jessicasmith@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08221', 'B08589', 'B00070', 'B04645']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Cook, Benton and Estrada for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08473', 'B08683', 'B05464']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01814",
+    "name": "Jessica Baker",
+    "email": "danielleneal@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09583', 'B05958', 'B08097', 'B05922']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Walker, Thomas and Martinez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08513', 'B06252', 'B09741']"
+}

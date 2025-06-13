@@ -1,0 +1,14 @@
+{
+    "user_id": "U04116",
+    "name": "Teresa Gonzales",
+    "email": "solomonkelly@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Wright and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09283', 'B04464', 'B03059']"
+}

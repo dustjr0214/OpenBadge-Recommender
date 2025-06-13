@@ -1,0 +1,14 @@
+{
+    "user_id": "U07756",
+    "name": "Jonathan Palmer",
+    "email": "yhopkins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07534', 'B05331']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Berry, Thompson and Swanson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08902', 'B00815', 'B08155']"
+}

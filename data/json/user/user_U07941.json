@@ -1,0 +1,14 @@
+{
+    "user_id": "U07941",
+    "name": "Jonathan Collins",
+    "email": "igill@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05742', 'B05147']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Johnston, Anderson and Hernandez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07122', 'B00399', 'B04498', 'B01545', 'B05657']"
+}

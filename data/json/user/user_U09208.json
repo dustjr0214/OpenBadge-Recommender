@@ -1,0 +1,14 @@
+{
+    "user_id": "U09208",
+    "name": "Lisa Brown",
+    "email": "forddarlene@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05187', 'B09410', 'B06494', 'B09527']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Johnson Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08080']"
+}

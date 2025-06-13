@@ -1,0 +1,14 @@
+{
+    "user_id": "U00828",
+    "name": "James Horn",
+    "email": "tuckercheryl@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03014', 'B02264', 'B03122']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Freeman, Mcintyre and Hill for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09556', 'B00333', 'B09379']"
+}

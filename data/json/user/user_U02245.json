@@ -1,0 +1,14 @@
+{
+    "user_id": "U02245",
+    "name": "Douglas Hardin",
+    "email": "perezjerry@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08667', 'B08826', 'B08344']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Nelson Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06229', 'B08774', 'B06143', 'B01486']"
+}

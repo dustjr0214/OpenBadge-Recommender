@@ -1,0 +1,14 @@
+{
+    "user_id": "U08261",
+    "name": "Robert Mcintyre",
+    "email": "janicejoseph@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01087', 'B01723', 'B06502']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Marquez-Owens for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04695', 'B00572']"
+}

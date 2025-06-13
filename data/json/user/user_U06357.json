@@ -1,0 +1,14 @@
+{
+    "user_id": "U06357",
+    "name": "David Wong",
+    "email": "johnsonjoe@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08737', 'B00997', 'B04127', 'B06636', 'B07589']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Wagner Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01740', 'B03352', 'B02666', 'B06087', 'B02835']"
+}

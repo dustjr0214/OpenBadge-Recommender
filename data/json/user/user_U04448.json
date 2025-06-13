@@ -1,0 +1,14 @@
+{
+    "user_id": "U04448",
+    "name": "William Reed",
+    "email": "nancychavez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04377', 'B05020', 'B04562']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Howard, Rodriguez and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06313', 'B04591', 'B06287', 'B02251', 'B02914']"
+}

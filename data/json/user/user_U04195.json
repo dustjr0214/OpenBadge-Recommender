@@ -1,0 +1,14 @@
+{
+    "user_id": "U04195",
+    "name": "Stephanie Dixon",
+    "email": "mathewstaylor@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02103', 'B00904', 'B02935', 'B05568']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Smith, Morrison and Olson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00235', 'B00779']"
+}

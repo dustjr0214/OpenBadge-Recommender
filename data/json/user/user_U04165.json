@@ -1,0 +1,14 @@
+{
+    "user_id": "U04165",
+    "name": "Robert Maxwell",
+    "email": "roberto74@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Davenport-Wolfe for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09786', 'B03940', 'B07567', 'B08549', 'B01945']"
+}

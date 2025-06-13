@@ -1,0 +1,14 @@
+{
+    "user_id": "U04465",
+    "name": "Nicole Patrick",
+    "email": "hstokes@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01987', 'B09007', 'B07745', 'B01546', 'B03384']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Garcia, Prince and Garcia for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04856', 'B01161']"
+}

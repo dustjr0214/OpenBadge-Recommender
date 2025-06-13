@@ -1,0 +1,14 @@
+{
+    "user_id": "U04205",
+    "name": "Robert Holt",
+    "email": "deborah58@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03258', 'B08054']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Lopez LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02029', 'B00033', 'B00804']"
+}

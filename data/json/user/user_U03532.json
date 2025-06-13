@@ -1,0 +1,14 @@
+{
+    "user_id": "U03532",
+    "name": "Carrie Caldwell",
+    "email": "milesrebecca@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03611', 'B05036', 'B01261', 'B03665']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Smith-Brown for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06261', 'B05283']"
+}

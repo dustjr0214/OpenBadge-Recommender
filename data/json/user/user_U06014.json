@@ -1,0 +1,14 @@
+{
+    "user_id": "U06014",
+    "name": "David Cantrell",
+    "email": "erowe@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03634', 'B05464', 'B01473', 'B00829', 'B06558']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Thomas, Young and Hill for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03285', 'B02630', 'B07336', 'B04971']"
+}

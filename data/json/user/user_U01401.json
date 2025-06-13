@@ -1,0 +1,14 @@
+{
+    "user_id": "U01401",
+    "name": "Jessica Johnson",
+    "email": "jacksonweiss@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09834', 'B05215', 'B02812', 'B09772']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Henderson-Tate for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07405']"
+}

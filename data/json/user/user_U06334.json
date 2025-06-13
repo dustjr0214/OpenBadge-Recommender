@@ -1,0 +1,14 @@
+{
+    "user_id": "U06334",
+    "name": "Jessica Stewart",
+    "email": "christopher83@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01521', 'B06985']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Ortega-Holmes for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03821', 'B03866', 'B00681']"
+}

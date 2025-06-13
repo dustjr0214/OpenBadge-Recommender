@@ -1,0 +1,14 @@
+{
+    "user_id": "U02323",
+    "name": "Tyler Walter",
+    "email": "victoria40@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06522', 'B09261', 'B08333']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Carter Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

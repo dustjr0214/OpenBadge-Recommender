@@ -1,0 +1,14 @@
+{
+    "user_id": "U03661",
+    "name": "William Payne",
+    "email": "cgallagher@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02233']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Petty PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06600', 'B02577']"
+}

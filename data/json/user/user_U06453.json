@@ -1,0 +1,14 @@
+{
+    "user_id": "U06453",
+    "name": "Daniel Yang",
+    "email": "jennifertaylor@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00284', 'B06197', 'B08718', 'B06403', 'B06826']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Nelson-Lindsey for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04062', 'B00373', 'B06406', 'B00821']"
+}

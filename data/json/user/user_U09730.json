@@ -1,0 +1,14 @@
+{
+    "user_id": "U09730",
+    "name": "Tony Parker",
+    "email": "tbrown@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02802', 'B09668', 'B09735', 'B08100']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Scott Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06118', 'B01120', 'B00021', 'B07624']"
+}

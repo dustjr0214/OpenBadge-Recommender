@@ -1,0 +1,14 @@
+{
+    "user_id": "U02869",
+    "name": "Benjamin Smith",
+    "email": "michellefrederick@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05944', 'B01209', 'B06143', 'B09150']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hensley-Salinas for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02225']"
+}

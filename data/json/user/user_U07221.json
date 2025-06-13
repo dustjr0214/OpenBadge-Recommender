@@ -1,0 +1,14 @@
+{
+    "user_id": "U07221",
+    "name": "Kim Smith",
+    "email": "amandamoon@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04087', 'B08796']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Shelton, Sweeney and Lambert for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09430', 'B07352']"
+}

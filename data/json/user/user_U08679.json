@@ -1,0 +1,14 @@
+{
+    "user_id": "U08679",
+    "name": "Stephanie Osborne",
+    "email": "james94@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06633', 'B06937', 'B05234']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mitchell-White for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09575', 'B01958', 'B02326']"
+}

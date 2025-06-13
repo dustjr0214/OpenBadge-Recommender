@@ -1,0 +1,14 @@
+{
+    "user_id": "U03037",
+    "name": "David Gutierrez",
+    "email": "derek80@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06427', 'B05933', 'B06700', 'B02403', 'B08028']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Bell Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

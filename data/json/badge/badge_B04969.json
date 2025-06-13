@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04969",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity']",
+    "competency": "['Python', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09399', 'B06651']"
+}

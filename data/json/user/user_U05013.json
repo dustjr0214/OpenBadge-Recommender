@@ -1,0 +1,14 @@
+{
+    "user_id": "U05013",
+    "name": "Craig Gomez",
+    "email": "donaldmedina@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04653', 'B00429']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gamble, Mueller and Mills for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08804', 'B07014', 'B09756', 'B01800', 'B04048']"
+}

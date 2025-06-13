@@ -1,0 +1,14 @@
+{
+    "user_id": "U03054",
+    "name": "Diane Maddox",
+    "email": "donnajimenez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02733', 'B05472']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Rice LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03760', 'B08958', 'B01230', 'B02379']"
+}

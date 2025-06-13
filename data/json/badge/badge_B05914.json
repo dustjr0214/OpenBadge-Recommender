@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05914",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Cybersecurity']",
+    "competency": "['Deep Learning', 'Teamwork', 'DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01575', 'B08484']"
+}

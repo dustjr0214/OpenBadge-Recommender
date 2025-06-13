@@ -1,0 +1,14 @@
+{
+    "user_id": "U09647",
+    "name": "Mr. Richard Martin MD",
+    "email": "zgonzalez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08765', 'B09236', 'B01505']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Hess-Costa for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01267', 'B06877', 'B05292']"
+}

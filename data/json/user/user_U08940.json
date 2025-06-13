@@ -1,0 +1,14 @@
+{
+    "user_id": "U08940",
+    "name": "Mary Hodge",
+    "email": "jcantu@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04329', 'B04057', 'B00270', 'B08009', 'B00292']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Delgado-Young for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08341', 'B06234']"
+}

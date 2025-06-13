@@ -1,0 +1,14 @@
+{
+    "user_id": "U05047",
+    "name": "Michael Bennett",
+    "email": "donna56@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08392', 'B04609', 'B06182', 'B02921']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Roberts-Patterson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01705', 'B02764', 'B00537', 'B03439', 'B04093']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02936",
+    "name": "Tina Donovan",
+    "email": "gomezkevin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01155', 'B09618']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Henderson, Marks and Gallagher for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08224', 'B02899', 'B07677']"
+}

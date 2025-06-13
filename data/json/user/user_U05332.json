@@ -1,0 +1,14 @@
+{
+    "user_id": "U05332",
+    "name": "Christina Anderson",
+    "email": "christopher37@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02548', 'B03145', 'B05453', 'B09266', 'B03814']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Collins-Price for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00160', 'B08741', 'B09852', 'B05575', 'B04395']"
+}

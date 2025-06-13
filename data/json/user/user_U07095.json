@@ -1,0 +1,14 @@
+{
+    "user_id": "U07095",
+    "name": "Michael Freeman",
+    "email": "frederickpittman@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03719', 'B06905', 'B05411', 'B04064']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Nelson-Roth for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06183', 'B03330']"
+}

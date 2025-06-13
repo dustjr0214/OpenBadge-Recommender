@@ -1,0 +1,14 @@
+{
+    "user_id": "U02337",
+    "name": "Geoffrey Morgan",
+    "email": "katelyngilbert@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00777', 'B07879', 'B00695', 'B01812', 'B09358']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Moore, Jackson and Rodriguez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04275']"
+}

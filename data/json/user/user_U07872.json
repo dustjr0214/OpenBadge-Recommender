@@ -1,0 +1,14 @@
+{
+    "user_id": "U07872",
+    "name": "Heather Steele",
+    "email": "vevans@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00979', 'B08137', 'B05945', 'B00498']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Gonzalez Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02648', 'B01736', 'B03356']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01907",
+    "name": "Emily Clark",
+    "email": "jamessmith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05706', 'B00160', 'B04672', 'B01614', 'B04702']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Griffith, Johnson and Koch for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00375']"
+}

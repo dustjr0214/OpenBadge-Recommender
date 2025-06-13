@@ -1,0 +1,14 @@
+{
+    "user_id": "U09802",
+    "name": "Norma Booker",
+    "email": "jensensteve@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09525']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Banks Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

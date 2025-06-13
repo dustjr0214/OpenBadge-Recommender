@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02351",
+    "name": "UI/UX Designer",
+    "issuer": "Coursera",
+    "description": "UI/UX Designer badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Analytical Skills', 'DevOps', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02551', 'B01981']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01531",
+    "name": "Sheena Davis",
+    "email": "lopezpamela@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05241']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Mccormick Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07173']"
+}

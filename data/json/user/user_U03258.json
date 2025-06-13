@@ -1,0 +1,14 @@
+{
+    "user_id": "U03258",
+    "name": "Jamie Dodson",
+    "email": "kathleen29@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07692', 'B05865', 'B06278', 'B08430']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Freeman, Ortiz and Oliver for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

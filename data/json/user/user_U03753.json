@@ -1,0 +1,14 @@
+{
+    "user_id": "U03753",
+    "name": "Henry Perez",
+    "email": "marycarter@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06690', 'B02388', 'B05749', 'B07306']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Stewart LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07125', 'B07413', 'B01408', 'B00754', 'B01748']"
+}

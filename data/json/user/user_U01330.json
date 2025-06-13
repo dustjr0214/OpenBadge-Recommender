@@ -1,0 +1,14 @@
+{
+    "user_id": "U01330",
+    "name": "Sandra Edwards",
+    "email": "cody21@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09370', 'B05979', 'B05116', 'B07482']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Sharp PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04236', 'B02954', 'B01690']"
+}

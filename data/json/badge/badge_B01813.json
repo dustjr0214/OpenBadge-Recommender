@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01813",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency": "['Cloud Computing', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B00861']"
+}

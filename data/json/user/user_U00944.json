@@ -1,0 +1,14 @@
+{
+    "user_id": "U00944",
+    "name": "James Burns",
+    "email": "williamsemma@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06812', 'B08271', 'B09996']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Curtis Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

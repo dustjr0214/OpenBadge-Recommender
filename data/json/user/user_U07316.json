@@ -1,0 +1,14 @@
+{
+    "user_id": "U07316",
+    "name": "Erin Carter",
+    "email": "fowlergregory@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00073', 'B01772']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Hall, Foster and Dixon for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03270', 'B02889', 'B07295', 'B05883', 'B04338']"
+}

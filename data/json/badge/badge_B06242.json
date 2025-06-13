@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06242",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Cybersecurity', 'Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01871', 'B06147']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01505",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'UI/UX']",
+    "competency": "['SQL', 'Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09971",
+    "name": "Brenda Cox",
+    "email": "davidmarshall@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08164', 'B08259', 'B04813', 'B02512', 'B05931']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Huber and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00988', 'B06249', 'B07091', 'B06570', 'B04586']"
+}

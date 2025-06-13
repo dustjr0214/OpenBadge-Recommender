@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04382",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency": "['Leadership', 'Problem Solving', 'UI/UX']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B01989', 'B06683']"
+}

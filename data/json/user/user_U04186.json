@@ -1,0 +1,14 @@
+{
+    "user_id": "U04186",
+    "name": "Kevin Velasquez",
+    "email": "marioadams@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07783', 'B06907', 'B08163']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Bradley and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03006",
+    "name": "Sara Jackson",
+    "email": "fosterkatherine@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09039', 'B08384', 'B07612', 'B00539']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Castro PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04942', 'B03080', 'B07356', 'B04117', 'B06579']"
+}

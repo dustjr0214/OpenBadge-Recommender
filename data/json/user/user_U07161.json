@@ -1,0 +1,14 @@
+{
+    "user_id": "U07161",
+    "name": "Ronnie Black",
+    "email": "umolina@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03517', 'B02527', 'B00488', 'B06358', 'B04911']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Jones-Bryan for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00570']"
+}

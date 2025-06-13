@@ -1,0 +1,14 @@
+{
+    "user_id": "U01210",
+    "name": "Sara Edwards",
+    "email": "vmiller@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01865']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Mckenzie, Hall and Weeks for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07002",
+    "name": "Nicholas Cole",
+    "email": "williamsralph@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00921', 'B07343', 'B07518', 'B05068', 'B07496']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Parker-Thomas for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

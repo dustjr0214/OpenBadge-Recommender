@@ -1,0 +1,14 @@
+{
+    "user_id": "U01017",
+    "name": "Dorothy Frey",
+    "email": "xgarcia@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00820', 'B06795', 'B06981']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gomez, Hill and Bailey for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08410', 'B03871', 'B01999', 'B00710']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04056",
+    "name": "Lauren Ferguson",
+    "email": "johnjohnson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01567']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Gibson, Watson and Hall for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02675', 'B04667']"
+}

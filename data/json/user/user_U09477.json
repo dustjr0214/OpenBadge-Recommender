@@ -1,0 +1,14 @@
+{
+    "user_id": "U09477",
+    "name": "Sandra Hartman DVM",
+    "email": "reynoldsjonathan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03501', 'B08050', 'B06008', 'B05777']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Thornton and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00847', 'B03263', 'B01326', 'B06440', 'B05776']"
+}

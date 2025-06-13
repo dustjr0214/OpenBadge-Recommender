@@ -1,0 +1,14 @@
+{
+    "user_id": "U01711",
+    "name": "William Keller",
+    "email": "njones@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08322', 'B07165', 'B07844', 'B00501', 'B09307']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ellis-Miller for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00972', 'B00809', 'B07761', 'B04556', 'B01532']"
+}

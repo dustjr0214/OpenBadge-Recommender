@@ -1,0 +1,14 @@
+{
+    "user_id": "U03762",
+    "name": "Cody Cannon",
+    "email": "millerjessica@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01865', 'B02426', 'B05776', 'B01267']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Moore Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04365', 'B07976', 'B04078']"
+}

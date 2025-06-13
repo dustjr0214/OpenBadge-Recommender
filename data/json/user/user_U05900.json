@@ -1,0 +1,14 @@
+{
+    "user_id": "U05900",
+    "name": "Michael Ho",
+    "email": "lisa79@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06491', 'B04926', 'B04730', 'B05187', 'B06499']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Kelly, Miller and Taylor for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01607']"
+}

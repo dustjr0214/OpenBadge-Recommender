@@ -1,0 +1,14 @@
+{
+    "user_id": "U04424",
+    "name": "Tiffany Alvarado",
+    "email": "daniellejohnson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00883', 'B02088', 'B06639', 'B00663', 'B01930']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Love, Burton and Elliott for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03646', 'B09967', 'B09824']"
+}

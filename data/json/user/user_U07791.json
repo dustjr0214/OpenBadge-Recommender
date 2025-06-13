@@ -1,0 +1,14 @@
+{
+    "user_id": "U07791",
+    "name": "Jason Brown",
+    "email": "hthomas@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06843', 'B00965', 'B07098', 'B05928', 'B04673']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Marquez-Wu for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06296', 'B05031', 'B06531']"
+}

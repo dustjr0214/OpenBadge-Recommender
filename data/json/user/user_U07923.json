@@ -1,0 +1,14 @@
+{
+    "user_id": "U07923",
+    "name": "Micheal Benson",
+    "email": "zsimpson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00751', 'B05389', 'B06081', 'B03952', 'B01962']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Dean, Harris and Morrison for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04709']"
+}

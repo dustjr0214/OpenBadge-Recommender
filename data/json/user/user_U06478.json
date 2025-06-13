@@ -1,0 +1,14 @@
+{
+    "user_id": "U06478",
+    "name": "Marcus Nguyen",
+    "email": "jacksonheidi@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06575']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Macdonald, Griffin and Gay for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00140",
+    "name": "Kevin Berry",
+    "email": "john24@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07552', 'B09574']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Brown and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01106', 'B05417', 'B05193', 'B08614', 'B01612']"
+}

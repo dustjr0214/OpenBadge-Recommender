@@ -1,0 +1,14 @@
+{
+    "user_id": "U09736",
+    "name": "Tyler Sawyer",
+    "email": "donna87@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08647', 'B05156', 'B06005', 'B03231']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Crawford, Reed and Neal for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03821', 'B05278', 'B05392', 'B04418']"
+}

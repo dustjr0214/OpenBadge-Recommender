@@ -1,0 +1,14 @@
+{
+    "user_id": "U04389",
+    "name": "Andrew Green",
+    "email": "sellerssharon@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09544']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Myers Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06822",
+    "name": "Scott Bowers",
+    "email": "lori87@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04067', 'B02966', 'B03312', 'B07469', 'B06770']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Ford-Manning for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02088', 'B07934']"
+}

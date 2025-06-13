@@ -1,0 +1,14 @@
+{
+    "user_id": "U07803",
+    "name": "Christina Morris",
+    "email": "mshaffer@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08811', 'B08454', 'B08271', 'B01813']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Smith-Barrett for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05373', 'B04568']"
+}

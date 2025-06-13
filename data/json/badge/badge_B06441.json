@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06441",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'DevOps']",
+    "competency": "['Teamwork', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B00860', 'B01470']"
+}

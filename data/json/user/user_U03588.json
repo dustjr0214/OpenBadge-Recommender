@@ -1,0 +1,14 @@
+{
+    "user_id": "U03588",
+    "name": "Danny Newman",
+    "email": "debra03@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04607', 'B03389']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Walton-Prince for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02479', 'B04450', 'B08484']"
+}

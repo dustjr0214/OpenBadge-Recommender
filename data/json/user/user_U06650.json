@@ -1,0 +1,14 @@
+{
+    "user_id": "U06650",
+    "name": "Jo Bryant",
+    "email": "eric64@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05789']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Vasquez, Sullivan and Williams for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05000', 'B05892']"
+}

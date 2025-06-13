@@ -1,0 +1,14 @@
+{
+    "user_id": "U06121",
+    "name": "Robert Anderson",
+    "email": "ballardmegan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03871', 'B06463']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Jones-Castillo for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02598', 'B08446']"
+}

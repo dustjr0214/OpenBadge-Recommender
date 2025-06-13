@@ -1,0 +1,14 @@
+{
+    "user_id": "U00248",
+    "name": "Stephanie Martinez",
+    "email": "lovedonna@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Meza Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03039', 'B01493', 'B04814']"
+}

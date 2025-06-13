@@ -1,0 +1,14 @@
+{
+    "user_id": "U02806",
+    "name": "David Stephens PhD",
+    "email": "brandon85@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Clark Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07060', 'B08741', 'B03703', 'B02693', 'B00623']"
+}

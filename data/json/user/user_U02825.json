@@ -1,0 +1,14 @@
+{
+    "user_id": "U02825",
+    "name": "Laura Cabrera",
+    "email": "mckeechristopher@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01443', 'B09672', 'B08177']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Lawrence-Patrick for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04046', 'B03509']"
+}

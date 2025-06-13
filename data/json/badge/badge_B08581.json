@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08581",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['UI/UX', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B07910']"
+}

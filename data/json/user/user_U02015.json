@@ -1,0 +1,14 @@
+{
+    "user_id": "U02015",
+    "name": "Kathryn Hess",
+    "email": "davisjustin@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09721', 'B03737']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Welch Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00112', 'B02315', 'B00045', 'B02581', 'B02409']"
+}

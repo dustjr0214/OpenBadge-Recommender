@@ -1,0 +1,14 @@
+{
+    "user_id": "U01576",
+    "name": "Mrs. Stephanie Russell",
+    "email": "rollinselizabeth@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04867', 'B08753', 'B00740', 'B04493', 'B06513']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Chen-Cook for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00559']"
+}

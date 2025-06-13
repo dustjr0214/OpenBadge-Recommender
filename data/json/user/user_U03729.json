@@ -1,0 +1,14 @@
+{
+    "user_id": "U03729",
+    "name": "William Norris",
+    "email": "vanessahodges@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06073', 'B09502']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Wilson-Little for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09824']"
+}

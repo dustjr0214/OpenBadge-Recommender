@@ -1,0 +1,14 @@
+{
+    "user_id": "U08888",
+    "name": "John Elliott",
+    "email": "riveramatthew@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Mclaughlin, Watts and Collins for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05911', 'B01307', 'B08614', 'B06242']"
+}

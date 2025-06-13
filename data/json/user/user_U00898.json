@@ -1,0 +1,14 @@
+{
+    "user_id": "U00898",
+    "name": "Lee Goodwin",
+    "email": "sandymorrison@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09490']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Nelson, Barnes and Diaz for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05595', 'B09618', 'B04990', 'B05836']"
+}

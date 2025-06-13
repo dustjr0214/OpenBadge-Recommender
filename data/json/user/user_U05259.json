@@ -1,0 +1,14 @@
+{
+    "user_id": "U05259",
+    "name": "Michael Gregory",
+    "email": "millercarol@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04867', 'B05883']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at White Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

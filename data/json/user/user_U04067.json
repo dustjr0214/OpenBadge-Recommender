@@ -1,0 +1,14 @@
+{
+    "user_id": "U04067",
+    "name": "Amanda Garrett",
+    "email": "hodonnell@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06134', 'B08580', 'B03910', 'B01129', 'B08939']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Howard Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

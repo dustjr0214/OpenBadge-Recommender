@@ -1,0 +1,14 @@
+{
+    "user_id": "U02482",
+    "name": "Wendy Marsh",
+    "email": "hardingamy@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06920']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Smith Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09544', 'B02032', 'B06817']"
+}

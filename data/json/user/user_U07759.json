@@ -1,0 +1,14 @@
+{
+    "user_id": "U07759",
+    "name": "Joseph Baker",
+    "email": "matthew67@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09317', 'B00529', 'B02807']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Blackburn, Powell and Hall for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03723', 'B07268', 'B04662']"
+}

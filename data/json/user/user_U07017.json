@@ -1,0 +1,14 @@
+{
+    "user_id": "U07017",
+    "name": "Cynthia Evans",
+    "email": "staylor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07070', 'B02397']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Gross Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05290']"
+}

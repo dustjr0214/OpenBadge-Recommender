@@ -1,0 +1,14 @@
+{
+    "user_id": "U08040",
+    "name": "Carlos Martinez",
+    "email": "wbutler@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05124', 'B03945', 'B08291', 'B08290']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Brown-Bryant for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00638', 'B00612', 'B05676', 'B05814', 'B07645']"
+}

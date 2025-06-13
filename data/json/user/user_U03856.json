@@ -1,0 +1,14 @@
+{
+    "user_id": "U03856",
+    "name": "Teresa Harper",
+    "email": "adkinsjoseph@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05959', 'B09376', 'B09916']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Flynn, Tran and King for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05908', 'B03805', 'B04446']"
+}

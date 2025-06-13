@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05158",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity']",
+    "competency": "['Cloud Computing', 'Cybersecurity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

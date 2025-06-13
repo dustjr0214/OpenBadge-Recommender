@@ -1,0 +1,14 @@
+{
+    "user_id": "U06826",
+    "name": "Frederick Patterson",
+    "email": "mgreen@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05827', 'B06688', 'B02115', 'B05966', 'B04126']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Huffman, Mccormick and Dorsey for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06701', 'B06865', 'B01489', 'B00186']"
+}

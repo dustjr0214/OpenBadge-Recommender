@@ -1,0 +1,14 @@
+{
+    "user_id": "U08932",
+    "name": "Olivia Montoya DVM",
+    "email": "allisonmarshall@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06325', 'B02010', 'B05538', 'B09451', 'B01677']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Lindsey-Chandler for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00920', 'B03833', 'B08329', 'B08785']"
+}

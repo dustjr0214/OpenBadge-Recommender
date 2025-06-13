@@ -1,0 +1,14 @@
+{
+    "user_id": "U01269",
+    "name": "Ethan Wiggins",
+    "email": "briancosta@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00074', 'B01586', 'B01058', 'B01488']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Howard Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05238']"
+}

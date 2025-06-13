@@ -1,0 +1,14 @@
+{
+    "user_id": "U08129",
+    "name": "Scott Oconnell",
+    "email": "etaylor@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09432', 'B07555']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Huffman and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05512', 'B03578', 'B08462', 'B06750', 'B05800']"
+}

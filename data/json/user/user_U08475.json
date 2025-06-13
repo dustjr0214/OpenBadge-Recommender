@@ -1,0 +1,14 @@
+{
+    "user_id": "U08475",
+    "name": "Michelle Garcia",
+    "email": "alexandrawoods@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06571', 'B04504', 'B09536']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Eaton-Gibson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08147', 'B01732', 'B08936', 'B01937', 'B04480']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05620",
+    "name": "Walter Munoz",
+    "email": "herreraashley@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03406', 'B00856', 'B04038', 'B09448', 'B01451']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Freeman PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08806']"
+}

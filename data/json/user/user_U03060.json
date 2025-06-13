@@ -1,0 +1,14 @@
+{
+    "user_id": "U03060",
+    "name": "Chad May",
+    "email": "stephaniemays@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00735', 'B06613', 'B03539', 'B03580', 'B03128']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Johnson and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02896', 'B02860', 'B05135']"
+}

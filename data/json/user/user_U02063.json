@@ -1,0 +1,14 @@
+{
+    "user_id": "U02063",
+    "name": "Jacob Barrett",
+    "email": "donaldhodges@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08386']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Johnson-Baker for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

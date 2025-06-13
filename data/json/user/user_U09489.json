@@ -1,0 +1,14 @@
+{
+    "user_id": "U09489",
+    "name": "Julie White",
+    "email": "elizabethporter@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04760', 'B01690']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Mitchell, Baker and Lynch for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09662', 'B07524', 'B07627', 'B04815', 'B04413']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07144",
+    "name": "Benjamin Taylor",
+    "email": "kirbyscott@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00801']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Friedman-Diaz for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09651', 'B09260', 'B09045', 'B05258', 'B01979']"
+}

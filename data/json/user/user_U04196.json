@@ -1,0 +1,14 @@
+{
+    "user_id": "U04196",
+    "name": "Bryan Cruz",
+    "email": "charlesmckinney@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06238', 'B09148']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Turner, Brown and Hansen for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04948', 'B08811']"
+}

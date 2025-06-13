@@ -1,0 +1,14 @@
+{
+    "user_id": "U09299",
+    "name": "Samantha Allen",
+    "email": "ogarcia@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05294', 'B07716', 'B08295']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ortega and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04537', 'B06418', 'B07496', 'B05326']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09105",
+    "name": "Jessica Torres",
+    "email": "perezlinda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05270', 'B07796', 'B01086', 'B02696']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Gaines, Davis and Burch for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09632', 'B02702', 'B01935', 'B08299', 'B06434']"
+}

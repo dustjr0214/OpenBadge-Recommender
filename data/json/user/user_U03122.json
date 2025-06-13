@@ -1,0 +1,14 @@
+{
+    "user_id": "U03122",
+    "name": "Michele Johnson",
+    "email": "carrjason@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Vance-Melton for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08229', 'B04112', 'B00188', 'B05741', 'B08278']"
+}

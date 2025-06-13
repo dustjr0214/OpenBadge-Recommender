@@ -1,0 +1,14 @@
+{
+    "user_id": "U09014",
+    "name": "Rebecca Oliver",
+    "email": "ortegadylan@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08236', 'B01498']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Brown and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08556', 'B04161']"
+}

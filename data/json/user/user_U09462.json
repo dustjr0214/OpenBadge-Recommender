@@ -1,0 +1,14 @@
+{
+    "user_id": "U09462",
+    "name": "Cory Moore DVM",
+    "email": "vobrien@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05761', 'B04384']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Watkins, Myers and Dixon for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06905', 'B04666', 'B00395', 'B04848']"
+}

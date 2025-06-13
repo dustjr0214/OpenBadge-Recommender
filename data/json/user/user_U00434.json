@@ -1,0 +1,14 @@
+{
+    "user_id": "U00434",
+    "name": "Sarah Weiss",
+    "email": "millercraig@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06422', 'B09735']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Torres, Adams and Sanders for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02323', 'B00682']"
+}

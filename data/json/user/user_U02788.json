@@ -1,0 +1,14 @@
+{
+    "user_id": "U02788",
+    "name": "Brittany Hart",
+    "email": "davidcook@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01128']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Howard, Chen and Levy for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07087', 'B05205', 'B03206']"
+}

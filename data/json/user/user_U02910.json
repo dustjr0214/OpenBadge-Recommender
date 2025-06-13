@@ -1,0 +1,14 @@
+{
+    "user_id": "U02910",
+    "name": "Robert Munoz",
+    "email": "steinpatricia@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01804', 'B04145']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Young-Stewart for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09264', 'B02505']"
+}

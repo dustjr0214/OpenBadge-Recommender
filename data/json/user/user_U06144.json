@@ -1,0 +1,14 @@
+{
+    "user_id": "U06144",
+    "name": "Shelby Smith",
+    "email": "millerkelly@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04319', 'B05343', 'B04526', 'B07859']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Marquez, Sandoval and Daniels for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07479', 'B05253', 'B01285', 'B07809', 'B07824']"
+}

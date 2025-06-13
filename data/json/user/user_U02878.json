@@ -1,0 +1,14 @@
+{
+    "user_id": "U02878",
+    "name": "Dawn Nelson",
+    "email": "sclark@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07065', 'B06636', 'B03285', 'B03026', 'B05409']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rodriguez, Mcgee and Anderson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02637', 'B02402', 'B02508', 'B08861']"
+}

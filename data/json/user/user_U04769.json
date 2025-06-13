@@ -1,0 +1,14 @@
+{
+    "user_id": "U04769",
+    "name": "Robert Campbell",
+    "email": "andrea18@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07175', 'B00966', 'B00339']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hunt, Johnson and Wilson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

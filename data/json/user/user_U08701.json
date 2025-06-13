@@ -1,0 +1,14 @@
+{
+    "user_id": "U08701",
+    "name": "Jason Miller",
+    "email": "xstewart@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02916', 'B02483', 'B04381', 'B06641']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Anderson Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07020', 'B09137', 'B05496', 'B08333', 'B04779']"
+}

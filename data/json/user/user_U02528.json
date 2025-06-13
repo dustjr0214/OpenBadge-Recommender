@@ -1,0 +1,14 @@
+{
+    "user_id": "U02528",
+    "name": "Tom Meyers",
+    "email": "rodriguezrobert@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09505', 'B07799']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Martin-Benton for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02564', 'B02694', 'B06451', 'B01198', 'B01967']"
+}

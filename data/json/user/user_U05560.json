@@ -1,0 +1,14 @@
+{
+    "user_id": "U05560",
+    "name": "Anthony Jackson",
+    "email": "coxgregory@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05810', 'B03481', 'B07238']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Watson-Norris for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05663', 'B00133', 'B00706']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05707",
+    "name": "Lisa Foster",
+    "email": "robert52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03534', 'B08349', 'B08638', 'B05561']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Griffin-Grant for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02013', 'B05016', 'B06084']"
+}

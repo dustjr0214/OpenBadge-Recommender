@@ -1,0 +1,14 @@
+{
+    "user_id": "U07496",
+    "name": "Danielle Kennedy",
+    "email": "kristensimmons@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Jackson Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03520', 'B07411', 'B00887', 'B04630']"
+}

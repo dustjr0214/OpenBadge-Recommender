@@ -1,0 +1,14 @@
+{
+    "user_id": "U02668",
+    "name": "Blake Harrington",
+    "email": "jsolomon@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01407', 'B02346', 'B03856', 'B00099', 'B08160']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Allen-Daniel for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03187', 'B06034', 'B01837', 'B00825']"
+}

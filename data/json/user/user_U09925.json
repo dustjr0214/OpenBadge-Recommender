@@ -1,0 +1,14 @@
+{
+    "user_id": "U09925",
+    "name": "Kevin Clark",
+    "email": "stefanie96@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08956', 'B05517', 'B07845']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Richards, Rivera and Taylor for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01598', 'B01898', 'B04523', 'B00156', 'B07356']"
+}

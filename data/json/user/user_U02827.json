@@ -1,0 +1,14 @@
+{
+    "user_id": "U02827",
+    "name": "Douglas Santana",
+    "email": "ryan22@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Knight, Brown and Anderson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05980', 'B04752', 'B00172']"
+}

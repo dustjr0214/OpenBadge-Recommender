@@ -1,0 +1,14 @@
+{
+    "user_id": "U01782",
+    "name": "Briana Daniels",
+    "email": "stevenreid@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05295', 'B04842', 'B01227']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Collins-Martin for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03597', 'B04671', 'B02382']"
+}

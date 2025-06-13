@@ -1,0 +1,14 @@
+{
+    "user_id": "U02250",
+    "name": "Melissa Smith",
+    "email": "timothyroberts@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06914', 'B00186', 'B02950']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Jones Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04687', 'B00432', 'B00717', 'B08718', 'B04489']"
+}

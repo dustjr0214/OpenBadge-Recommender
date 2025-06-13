@@ -1,0 +1,14 @@
+{
+    "user_id": "U08021",
+    "name": "Pamela Stuart",
+    "email": "fwoods@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03451', 'B09640']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Stein Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00962', 'B06836', 'B09039']"
+}

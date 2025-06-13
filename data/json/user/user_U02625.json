@@ -1,0 +1,14 @@
+{
+    "user_id": "U02625",
+    "name": "Joanna Stephens",
+    "email": "maydanielle@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07848']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Hensley LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

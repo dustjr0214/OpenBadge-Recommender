@@ -1,0 +1,14 @@
+{
+    "user_id": "U03721",
+    "name": "Steven Miller",
+    "email": "leeamanda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08260', 'B09993', 'B00841']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Griffin-Hammond for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09418', 'B08874', 'B08902', 'B03445']"
+}

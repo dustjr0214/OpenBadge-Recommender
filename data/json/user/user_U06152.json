@@ -1,0 +1,14 @@
+{
+    "user_id": "U06152",
+    "name": "Kevin Schultz",
+    "email": "osbornechristian@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05356', 'B00907', 'B08761', 'B03173']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Mcgee PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

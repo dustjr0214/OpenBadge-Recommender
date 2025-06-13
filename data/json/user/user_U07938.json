@@ -1,0 +1,14 @@
+{
+    "user_id": "U07938",
+    "name": "Keith Sanchez",
+    "email": "rsmith@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08567', 'B02534', 'B05169']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Miller-Sweeney for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06185', 'B04891', 'B09501']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01268",
+    "name": "Connor Berry",
+    "email": "mpadilla@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06617', 'B03813', 'B03301', 'B00740', 'B09023']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Harmon-Williamson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03953",
+    "name": "Anita Moreno",
+    "email": "thomaspatricia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01358', 'B09873']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Holmes, Davis and Rogers for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06571', 'B09123']"
+}

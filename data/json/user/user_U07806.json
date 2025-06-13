@@ -1,0 +1,14 @@
+{
+    "user_id": "U07806",
+    "name": "Sandra Ward",
+    "email": "roberthoward@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05152', 'B00252', 'B01827', 'B08011']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Rivas-Payne for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08833']"
+}

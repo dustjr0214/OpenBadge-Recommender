@@ -1,0 +1,14 @@
+{
+    "user_id": "U00724",
+    "name": "Jacob Johnson",
+    "email": "patrick79@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09894', 'B04906', 'B07708']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Bridges-Barnes for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05243', 'B00407', 'B06841', 'B07114', 'B07468']"
+}

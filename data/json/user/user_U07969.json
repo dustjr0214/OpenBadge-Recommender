@@ -1,0 +1,14 @@
+{
+    "user_id": "U07969",
+    "name": "Elizabeth Richardson",
+    "email": "osantos@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04144']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Luna and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

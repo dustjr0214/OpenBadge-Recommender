@@ -1,0 +1,14 @@
+{
+    "user_id": "U00066",
+    "name": "Julie Richardson",
+    "email": "qwolfe@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07630', 'B06254', 'B09893', 'B00305']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Watts-Bell for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02705",
+    "name": "Thomas Lopez",
+    "email": "sjohnson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01106', 'B03734', 'B03113', 'B09205']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Mendez-Morgan for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

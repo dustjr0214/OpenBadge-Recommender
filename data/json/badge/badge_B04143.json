@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04143",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'Cloud Computing', 'SQL']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B02330', 'B08218']"
+}

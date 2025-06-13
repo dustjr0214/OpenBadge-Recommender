@@ -1,0 +1,14 @@
+{
+    "user_id": "U03913",
+    "name": "Justin Jones",
+    "email": "bjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Miller PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06304', 'B03040', 'B05365', 'B08151']"
+}

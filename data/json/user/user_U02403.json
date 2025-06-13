@@ -1,0 +1,14 @@
+{
+    "user_id": "U02403",
+    "name": "Michael Smith",
+    "email": "catherinerivera@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02307', 'B06044', 'B06678', 'B05944', 'B03093']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Rogers-Ochoa for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06417",
+    "name": "Laura Burch",
+    "email": "lhenderson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07787', 'B07101', 'B08492']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hartman-Newman for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00918']"
+}

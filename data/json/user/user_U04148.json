@@ -1,0 +1,14 @@
+{
+    "user_id": "U04148",
+    "name": "Stephanie Porter",
+    "email": "odavis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07520', 'B04287', 'B07163', 'B09677']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Serrano, Atkinson and Daniel for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00679', 'B08310', 'B06149']"
+}

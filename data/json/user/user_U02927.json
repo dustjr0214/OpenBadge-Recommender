@@ -1,0 +1,14 @@
+{
+    "user_id": "U02927",
+    "name": "Miguel Scott",
+    "email": "aroberts@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04799', 'B00759', 'B07290', 'B09446', 'B01630']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Haynes, Robinson and Tran for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

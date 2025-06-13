@@ -1,0 +1,14 @@
+{
+    "user_id": "U04676",
+    "name": "Joanne Johnson",
+    "email": "ophillips@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05640']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Welch Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04188', 'B05960']"
+}

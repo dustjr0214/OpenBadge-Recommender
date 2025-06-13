@@ -1,0 +1,14 @@
+{
+    "user_id": "U02391",
+    "name": "Sharon Williams",
+    "email": "rebeccahicks@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06994', 'B06906', 'B07185', 'B07695']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Osborne, Stewart and Miller for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01559', 'B03222', 'B00574', 'B02666', 'B07199']"
+}

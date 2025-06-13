@@ -1,0 +1,14 @@
+{
+    "user_id": "U04439",
+    "name": "John Ochoa",
+    "email": "lisa99@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09157', 'B03409', 'B02244', 'B08242']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Stevens LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04102', 'B01433', 'B07455', 'B07683', 'B01980']"
+}

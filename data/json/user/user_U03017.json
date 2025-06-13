@@ -1,0 +1,14 @@
+{
+    "user_id": "U03017",
+    "name": "Julie Flynn",
+    "email": "mfrancis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05900', 'B03612', 'B04127', 'B01181']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Owens-Lee for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04346', 'B09210', 'B06254']"
+}

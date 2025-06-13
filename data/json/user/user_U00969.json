@@ -1,0 +1,14 @@
+{
+    "user_id": "U00969",
+    "name": "Charles Burton",
+    "email": "zgrant@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07439']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Bradshaw-Sawyer for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09147', 'B00591', 'B09003', 'B04106']"
+}

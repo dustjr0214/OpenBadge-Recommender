@@ -1,0 +1,14 @@
+{
+    "user_id": "U00583",
+    "name": "Rhonda Pitts",
+    "email": "dferguson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07838', 'B09111', 'B03895', 'B03006']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Mccoy-Gordon for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02335', 'B00972', 'B05108']"
+}

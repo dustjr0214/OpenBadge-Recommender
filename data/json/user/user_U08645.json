@@ -1,0 +1,14 @@
+{
+    "user_id": "U08645",
+    "name": "Cassidy Johnson",
+    "email": "joshua56@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05815', 'B00013', 'B07839', 'B02071', 'B02427']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Parker Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08226', 'B01977', 'B08015', 'B08763', 'B06078']"
+}

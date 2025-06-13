@@ -1,0 +1,14 @@
+{
+    "user_id": "U08366",
+    "name": "Andrew Moore",
+    "email": "iblanchard@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03955', 'B06422', 'B01159']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lam-Mendoza for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07258",
+    "name": "Benjamin Smith",
+    "email": "craigmatthew@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00211', 'B07090', 'B08908', 'B01901']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Watkins Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09008",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['UI/UX', 'Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01669']"
+}

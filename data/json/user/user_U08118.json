@@ -1,0 +1,14 @@
+{
+    "user_id": "U08118",
+    "name": "Lori Fitzgerald",
+    "email": "evelyn51@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09241']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Herring-Brown for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03452', 'B00337', 'B02508']"
+}

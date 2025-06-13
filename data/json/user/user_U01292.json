@@ -1,0 +1,14 @@
+{
+    "user_id": "U01292",
+    "name": "Angel Hardy",
+    "email": "josephchaney@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04677', 'B04250']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Morgan, Howard and Lewis for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06937']"
+}

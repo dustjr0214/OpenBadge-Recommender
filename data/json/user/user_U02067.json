@@ -1,0 +1,14 @@
+{
+    "user_id": "U02067",
+    "name": "Brian Wilson",
+    "email": "ericajohnson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04711', 'B03550', 'B09775', 'B03134', 'B08560']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Ryan Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04463', 'B02238', 'B06450', 'B05243', 'B04160']"
+}

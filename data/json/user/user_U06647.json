@@ -1,0 +1,14 @@
+{
+    "user_id": "U06647",
+    "name": "Jason Mitchell",
+    "email": "billy82@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Brennan, Davila and Stewart for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05315', 'B07806']"
+}

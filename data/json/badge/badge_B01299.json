@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01299",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Problem Solving', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

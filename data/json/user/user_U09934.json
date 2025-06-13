@@ -1,0 +1,14 @@
+{
+    "user_id": "U09934",
+    "name": "Kyle Mason",
+    "email": "smithsusan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05862']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Flynn Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

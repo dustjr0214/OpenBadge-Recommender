@@ -1,0 +1,14 @@
+{
+    "user_id": "U08232",
+    "name": "Mr. Bryan Garza",
+    "email": "campbelljennifer@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02518', 'B07743', 'B09402', 'B04203', 'B05114']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Williams LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09988', 'B07988', 'B01579', 'B00747', 'B07953']"
+}

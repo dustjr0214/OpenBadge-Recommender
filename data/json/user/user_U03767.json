@@ -1,0 +1,14 @@
+{
+    "user_id": "U03767",
+    "name": "Robert Baker",
+    "email": "austin09@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09735', 'B08090', 'B07001']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Weaver Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09682', 'B00046', 'B02624']"
+}

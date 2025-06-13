@@ -1,0 +1,14 @@
+{
+    "user_id": "U07281",
+    "name": "Julia Farrell",
+    "email": "johnkim@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Tucker, Green and King for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09927', 'B04992', 'B06531']"
+}

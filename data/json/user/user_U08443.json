@@ -1,0 +1,14 @@
+{
+    "user_id": "U08443",
+    "name": "Pamela Gibbs",
+    "email": "teresa02@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04183', 'B03539', 'B08970', 'B01591']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Shaffer-Willis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01023']"
+}

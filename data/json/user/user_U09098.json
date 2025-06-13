@@ -1,0 +1,14 @@
+{
+    "user_id": "U09098",
+    "name": "Olivia Newton",
+    "email": "martinezricardo@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03235', 'B03471']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Beard LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00346', 'B00335']"
+}

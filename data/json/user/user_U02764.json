@@ -1,0 +1,14 @@
+{
+    "user_id": "U02764",
+    "name": "Amanda Warren",
+    "email": "brandongarcia@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00141', 'B08143', 'B06911', 'B03353']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Moore-Gilmore for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05212', 'B02826', 'B04541', 'B00441', 'B00621']"
+}

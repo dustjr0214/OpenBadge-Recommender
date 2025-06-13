@@ -1,0 +1,14 @@
+{
+    "user_id": "U08264",
+    "name": "Tiffany Tanner",
+    "email": "robinsonkimberly@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03535', 'B08096', 'B01335', 'B03292']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wu-Gallagher for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06418']"
+}

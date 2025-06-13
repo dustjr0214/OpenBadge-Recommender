@@ -1,0 +1,14 @@
+{
+    "user_id": "U09658",
+    "name": "Ana Robinson",
+    "email": "monicarodriguez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00321', 'B08362', 'B05613', 'B06100', 'B02020']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hodges-Cole for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07107']"
+}

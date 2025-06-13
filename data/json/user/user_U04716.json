@@ -1,0 +1,14 @@
+{
+    "user_id": "U04716",
+    "name": "Julie Wolfe",
+    "email": "blakedaniels@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06662']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Jarvis Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09987', 'B02460']"
+}

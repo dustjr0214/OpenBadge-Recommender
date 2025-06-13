@@ -1,0 +1,14 @@
+{
+    "user_id": "U07595",
+    "name": "Andrea Smith",
+    "email": "smitheric@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01920', 'B02690', 'B01134', 'B03260']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Ford-Oliver for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01341']"
+}

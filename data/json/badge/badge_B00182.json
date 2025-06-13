@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00182",
+    "name": "DevOps Engineer",
+    "issuer": "Coursera",
+    "description": "DevOps Engineer badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'Python', 'Cybersecurity']",
+    "competency": "['UI/UX', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B04313', 'B07093']"
+}

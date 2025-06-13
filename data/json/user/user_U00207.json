@@ -1,0 +1,14 @@
+{
+    "user_id": "U00207",
+    "name": "Marie Hart",
+    "email": "figueroalauren@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08397', 'B09012', 'B07712']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Hull, Jensen and Moore for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

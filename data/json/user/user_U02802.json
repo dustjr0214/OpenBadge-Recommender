@@ -1,0 +1,14 @@
+{
+    "user_id": "U02802",
+    "name": "John Morgan",
+    "email": "tpineda@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08891', 'B00423']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Williams-Hamilton for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04895', 'B04176', 'B05031']"
+}

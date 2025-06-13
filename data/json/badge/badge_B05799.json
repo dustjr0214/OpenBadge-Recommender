@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05799",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Deep Learning']",
+    "competency": "['Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04315",
+    "name": "Joshua Bates",
+    "email": "cruzbeverly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05633', 'B05047', 'B03575']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Mueller-Bridges for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08078', 'B00186', 'B06134', 'B08693', 'B03034']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03381",
+    "name": "Denise Jenkins",
+    "email": "cvance@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06187', 'B08921']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Day Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06156']"
+}

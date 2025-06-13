@@ -1,0 +1,14 @@
+{
+    "user_id": "U00589",
+    "name": "Bruce Brock",
+    "email": "glawson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Weaver, Meza and Gibbs for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05474', 'B01497', 'B01444', 'B03828', 'B05735']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04981",
+    "name": "Nicole Roberts",
+    "email": "darrenbryan@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01441']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Schneider-Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04899",
+    "name": "Kevin Li",
+    "email": "tpeterson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05279', 'B07962', 'B00955', 'B06248']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Jones LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09176', 'B03536', 'B07989']"
+}

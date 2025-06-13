@@ -1,0 +1,14 @@
+{
+    "user_id": "U02190",
+    "name": "Amy Walton",
+    "email": "lauren80@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07656', 'B09327', 'B04586']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Scott-Delacruz for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02435', 'B06425']"
+}

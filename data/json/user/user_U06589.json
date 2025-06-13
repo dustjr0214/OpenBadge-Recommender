@@ -1,0 +1,14 @@
+{
+    "user_id": "U06589",
+    "name": "Douglas Mccarthy",
+    "email": "longjason@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08685']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Kelly Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09431', 'B09235', 'B02566']"
+}

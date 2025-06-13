@@ -1,0 +1,14 @@
+{
+    "user_id": "U09787",
+    "name": "Emma Kim",
+    "email": "robert32@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00613', 'B00284']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Rodriguez, Alexander and Harmon for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06054']"
+}

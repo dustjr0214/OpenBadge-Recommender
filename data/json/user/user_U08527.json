@@ -1,0 +1,14 @@
+{
+    "user_id": "U08527",
+    "name": "Brianna Nguyen",
+    "email": "heather54@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08282']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Rice and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04354', 'B00239', 'B03049']"
+}

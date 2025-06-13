@@ -1,0 +1,14 @@
+{
+    "user_id": "U00653",
+    "name": "Melissa Wolfe",
+    "email": "stevenryan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07913', 'B03543', 'B08797', 'B05648']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Moon-Mitchell for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08023', 'B04899', 'B06320', 'B08013']"
+}

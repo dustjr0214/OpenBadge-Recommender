@@ -1,0 +1,14 @@
+{
+    "user_id": "U00055",
+    "name": "Jocelyn Bennett",
+    "email": "jacksonjerry@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08297', 'B09508', 'B02256']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Campbell, Fisher and Robbins for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05341', 'B01146']"
+}

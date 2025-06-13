@@ -1,0 +1,14 @@
+{
+    "user_id": "U00277",
+    "name": "Fernando Wood",
+    "email": "fostermatthew@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04780']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Jackson, Obrien and Rodriguez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00160', 'B03413']"
+}

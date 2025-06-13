@@ -1,0 +1,14 @@
+{
+    "user_id": "U05411",
+    "name": "Carol Sanchez",
+    "email": "michaelrobinson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00844', 'B04096', 'B01586', 'B04940', 'B09557']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Cummings, Price and Fox for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08674', 'B08237', 'B05169', 'B06182', 'B03800']"
+}

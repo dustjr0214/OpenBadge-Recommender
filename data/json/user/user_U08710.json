@@ -1,0 +1,14 @@
+{
+    "user_id": "U08710",
+    "name": "Bruce Cruz",
+    "email": "mendozaamanda@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03461']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Garcia-Fox for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06333', 'B09975']"
+}

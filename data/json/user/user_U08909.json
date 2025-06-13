@@ -1,0 +1,14 @@
+{
+    "user_id": "U08909",
+    "name": "Tyler Miller",
+    "email": "melissawalters@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08594', 'B02167', 'B06943', 'B05070']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Hawkins-Buck for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02008', 'B03722', 'B04304', 'B04346', 'B09156']"
+}

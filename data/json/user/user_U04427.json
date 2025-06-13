@@ -1,0 +1,14 @@
+{
+    "user_id": "U04427",
+    "name": "Jennifer Santos",
+    "email": "rosarioerika@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01135', 'B06130', 'B00764', 'B09069']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Johnson-Collins for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05122', 'B03180']"
+}

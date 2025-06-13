@@ -1,0 +1,14 @@
+{
+    "user_id": "U09623",
+    "name": "Amy Gilbert",
+    "email": "gabriellehumphrey@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07141', 'B08732', 'B08060', 'B03762']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Gonzalez, George and Hernandez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00500', 'B01615', 'B05638', 'B04823']"
+}

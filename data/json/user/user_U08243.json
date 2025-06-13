@@ -1,0 +1,14 @@
+{
+    "user_id": "U08243",
+    "name": "Danielle Williams",
+    "email": "laurieharris@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09977', 'B06801', 'B07396', 'B09627', 'B08151']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Lewis and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02294', 'B05035']"
+}

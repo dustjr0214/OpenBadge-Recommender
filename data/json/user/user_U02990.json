@@ -1,0 +1,14 @@
+{
+    "user_id": "U02990",
+    "name": "Kristin Reynolds",
+    "email": "lindabeard@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01953', 'B06552', 'B01401', 'B03832']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Lopez PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05543', 'B08475', 'B07188', 'B02990']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07286",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'Deep Learning']",
+    "competency": "['UI/UX', 'Python', 'SQL']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B01290']"
+}

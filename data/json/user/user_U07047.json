@@ -1,0 +1,14 @@
+{
+    "user_id": "U07047",
+    "name": "Jennifer Farmer",
+    "email": "williamskellie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01095', 'B04051', 'B02975']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Rice-Moore for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07039', 'B04008', 'B02849']"
+}

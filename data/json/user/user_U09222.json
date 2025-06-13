@@ -1,0 +1,14 @@
+{
+    "user_id": "U09222",
+    "name": "Sharon Davidson",
+    "email": "johnsonashley@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01843']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Brown Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08437', 'B03892', 'B05843', 'B02343', 'B06603']"
+}

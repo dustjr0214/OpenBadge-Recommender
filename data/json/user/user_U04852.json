@@ -1,0 +1,14 @@
+{
+    "user_id": "U04852",
+    "name": "Jill Garcia",
+    "email": "bwatson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07970', 'B08997', 'B03080']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Lee LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

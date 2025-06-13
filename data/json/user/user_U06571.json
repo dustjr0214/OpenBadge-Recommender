@@ -1,0 +1,14 @@
+{
+    "user_id": "U06571",
+    "name": "Zachary Kennedy",
+    "email": "mmartinez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00452', 'B08788', 'B07826', 'B04158', 'B00046']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith, Andrews and Walls for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07963', 'B00592', 'B03213', 'B02504']"
+}

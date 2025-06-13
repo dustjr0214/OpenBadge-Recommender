@@ -1,0 +1,14 @@
+{
+    "user_id": "U02655",
+    "name": "Jennifer Hoffman",
+    "email": "dbruce@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01114', 'B08837', 'B00200']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Hernandez, Morgan and Holland for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05769']"
+}

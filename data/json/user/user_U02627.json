@@ -1,0 +1,14 @@
+{
+    "user_id": "U02627",
+    "name": "Danielle Harris",
+    "email": "aaronharris@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05098', 'B03595', 'B00767', 'B09170', 'B07634']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Craig, Franco and Arnold for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03942', 'B02725']"
+}

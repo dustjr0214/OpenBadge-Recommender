@@ -1,0 +1,14 @@
+{
+    "user_id": "U01245",
+    "name": "Allison Brooks",
+    "email": "barrychristopher@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04118', 'B05088', 'B03368']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Evans Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01109', 'B04734']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04120",
+    "name": "Raymond Chambers",
+    "email": "mathisnatalie@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02884']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Lowe, Shepherd and Rice for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00970', 'B07706']"
+}

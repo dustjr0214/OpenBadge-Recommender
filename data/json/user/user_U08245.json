@@ -1,0 +1,14 @@
+{
+    "user_id": "U08245",
+    "name": "Eric Martinez",
+    "email": "heather79@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08074']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Vaughn Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04566', 'B08743', 'B05964', 'B05528', 'B01631']"
+}

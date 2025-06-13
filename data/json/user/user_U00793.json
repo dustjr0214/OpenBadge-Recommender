@@ -1,0 +1,14 @@
+{
+    "user_id": "U00793",
+    "name": "Kayla Mack",
+    "email": "qmartin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06993', 'B02900', 'B08453']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Jordan-Friedman for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00876']"
+}

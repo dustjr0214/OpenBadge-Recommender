@@ -1,0 +1,14 @@
+{
+    "user_id": "U00574",
+    "name": "Amber Roman",
+    "email": "imckinney@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05101', 'B08971', 'B02188']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Garrett Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02655', 'B08073']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02969",
+    "name": "James Bryant",
+    "email": "jennifer65@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09518', 'B07816', 'B02668', 'B00561']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Jacobson-Cruz for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09356', 'B09433', 'B05560']"
+}

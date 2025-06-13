@@ -1,0 +1,14 @@
+{
+    "user_id": "U09531",
+    "name": "Lisa Christian",
+    "email": "heatheroneal@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Brooks LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06528', 'B05423', 'B02074']"
+}

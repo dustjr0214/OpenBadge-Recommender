@@ -1,0 +1,14 @@
+{
+    "user_id": "U00515",
+    "name": "Alan Matthews",
+    "email": "lisa78@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09339', 'B09611', 'B00935', 'B09555']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Hernandez-Peterson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08156', 'B03942', 'B08316']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07031",
+    "name": "John Harrison",
+    "email": "richardharris@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03470', 'B03943']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Contreras Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08308']"
+}

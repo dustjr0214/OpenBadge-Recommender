@@ -1,0 +1,14 @@
+{
+    "user_id": "U07894",
+    "name": "Jennifer Hart",
+    "email": "adennis@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08257', 'B06526']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Newton, Martin and Lyons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05394', 'B04493', 'B00040', 'B01733']"
+}

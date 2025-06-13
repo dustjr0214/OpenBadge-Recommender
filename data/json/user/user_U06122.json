@@ -1,0 +1,14 @@
+{
+    "user_id": "U06122",
+    "name": "Peter Perry",
+    "email": "hansonmelanie@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08021']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Mckinney-Jones for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08632', 'B05468', 'B04654', 'B02554']"
+}

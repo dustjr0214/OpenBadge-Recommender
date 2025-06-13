@@ -1,0 +1,14 @@
+{
+    "user_id": "U00303",
+    "name": "Elizabeth Graham",
+    "email": "choijoshua@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04166', 'B05895']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Duncan-Leach for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06758', 'B04705', 'B03039', 'B08522']"
+}

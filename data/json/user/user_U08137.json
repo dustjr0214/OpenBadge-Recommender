@@ -1,0 +1,14 @@
+{
+    "user_id": "U08137",
+    "name": "John Contreras",
+    "email": "catherinerodriguez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04476', 'B01737']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Ross, Ferguson and Lopez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09627', 'B06680']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06734",
+    "name": "Albert Obrien",
+    "email": "jonesbradley@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04331', 'B03814', 'B01445', 'B09860', 'B01682']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Montoya LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02523', 'B04149']"
+}

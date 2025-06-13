@@ -1,0 +1,14 @@
+{
+    "user_id": "U01772",
+    "name": "Daniel Pierce",
+    "email": "igregory@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00734', 'B08694']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Wright LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05352', 'B02133']"
+}

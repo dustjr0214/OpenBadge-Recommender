@@ -1,0 +1,14 @@
+{
+    "user_id": "U09124",
+    "name": "Brian Johnson",
+    "email": "melissa33@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04919', 'B08299', 'B06070']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Martinez, Dodson and Moreno for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07415', 'B00694', 'B06061', 'B07069', 'B09139']"
+}

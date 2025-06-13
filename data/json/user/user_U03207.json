@@ -1,0 +1,14 @@
+{
+    "user_id": "U03207",
+    "name": "Ana Nelson",
+    "email": "desireemiller@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08281', 'B02801', 'B01315']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Wood PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

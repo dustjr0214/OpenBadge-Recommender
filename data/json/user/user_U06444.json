@@ -1,0 +1,14 @@
+{
+    "user_id": "U06444",
+    "name": "Craig Martin",
+    "email": "khanmarco@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00894', 'B08639', 'B00658', 'B06032', 'B05833']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Williams-Patel for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03639', 'B02258', 'B02450']"
+}

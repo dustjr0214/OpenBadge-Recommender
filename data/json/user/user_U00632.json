@@ -1,0 +1,14 @@
+{
+    "user_id": "U00632",
+    "name": "Joshua Cooper",
+    "email": "robertpaul@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02051', 'B08413', 'B05003', 'B02381', 'B01098']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Joseph-Olson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

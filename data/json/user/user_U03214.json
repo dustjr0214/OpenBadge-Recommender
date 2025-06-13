@@ -1,0 +1,14 @@
+{
+    "user_id": "U03214",
+    "name": "William Perry",
+    "email": "dmiller@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05035', 'B07748', 'B03783']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lewis, Leonard and Crosby for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05421', 'B08577']"
+}

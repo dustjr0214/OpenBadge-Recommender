@@ -1,0 +1,14 @@
+{
+    "user_id": "U03611",
+    "name": "Carmen Massey",
+    "email": "carolynmartinez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06343', 'B00658']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Russell LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00176', 'B00265', 'B07501', 'B05764', 'B04460']"
+}

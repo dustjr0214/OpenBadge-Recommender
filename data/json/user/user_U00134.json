@@ -1,0 +1,14 @@
+{
+    "user_id": "U00134",
+    "name": "Sandra Davis",
+    "email": "jesse05@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02435', 'B02453', 'B02749']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Wolfe-Cordova for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

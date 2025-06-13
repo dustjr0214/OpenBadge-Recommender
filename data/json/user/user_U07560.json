@@ -1,0 +1,14 @@
+{
+    "user_id": "U07560",
+    "name": "Brian Hernandez",
+    "email": "yfranklin@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09556']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Mcconnell and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06121', 'B01442', 'B09100']"
+}

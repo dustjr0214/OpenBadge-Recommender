@@ -1,0 +1,14 @@
+{
+    "user_id": "U01884",
+    "name": "Jennifer Jenkins",
+    "email": "lori15@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07476', 'B05469']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Barton Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08687', 'B08861']"
+}

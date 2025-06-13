@@ -1,0 +1,14 @@
+{
+    "user_id": "U08818",
+    "name": "Ian Long",
+    "email": "swoods@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03225', 'B01744', 'B07215', 'B09568']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Barton-Santos for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

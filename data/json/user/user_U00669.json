@@ -1,0 +1,14 @@
+{
+    "user_id": "U00669",
+    "name": "Mitchell Douglas",
+    "email": "williamramos@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01381', 'B04712', 'B03838']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Phillips, Burns and Webb for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09135', 'B07687', 'B02421', 'B04486', 'B09120']"
+}

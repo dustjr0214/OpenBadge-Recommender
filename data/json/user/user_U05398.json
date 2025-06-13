@@ -1,0 +1,14 @@
+{
+    "user_id": "U05398",
+    "name": "Julia Davis",
+    "email": "ericahampton@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07199', 'B07404', 'B09308', 'B09797']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Nixon-Mclean for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04309', 'B07385', 'B06906']"
+}

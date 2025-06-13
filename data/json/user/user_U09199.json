@@ -1,0 +1,14 @@
+{
+    "user_id": "U09199",
+    "name": "Gary Brady",
+    "email": "hhill@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05218', 'B00903', 'B02543', 'B01551']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Barrett-Curry for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02908', 'B06635', 'B00509', 'B05295', 'B06524']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07799",
+    "name": "Elizabeth Parker",
+    "email": "ktucker@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04149', 'B06126', 'B05412']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Harvey, Lee and Robinson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00439', 'B08884', 'B06364', 'B02405']"
+}

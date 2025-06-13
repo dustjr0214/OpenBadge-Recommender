@@ -1,0 +1,14 @@
+{
+    "user_id": "U09035",
+    "name": "Angela Wheeler",
+    "email": "christine38@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04818', 'B06807', 'B01897', 'B07413']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Davis-Kent for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07279']"
+}

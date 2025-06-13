@@ -1,0 +1,14 @@
+{
+    "user_id": "U09038",
+    "name": "Nancy White",
+    "email": "dereklewis@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00201', 'B06988', 'B05420', 'B01751']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Decker-Krueger for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

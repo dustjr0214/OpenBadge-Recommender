@@ -1,0 +1,14 @@
+{
+    "user_id": "U02527",
+    "name": "Rhonda Zhang",
+    "email": "ppacheco@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05980', 'B03708', 'B05938', 'B07616', 'B05246']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Soto-Bennett for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03405']"
+}

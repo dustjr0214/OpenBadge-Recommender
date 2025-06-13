@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00649",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Python', 'DevOps']",
+    "competency": "['Analytical Skills']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

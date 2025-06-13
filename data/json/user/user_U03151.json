@@ -1,0 +1,14 @@
+{
+    "user_id": "U03151",
+    "name": "Michael Mccarty",
+    "email": "pbrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03075', 'B02431', 'B08892']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Duran-Potts for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02743', 'B09022', 'B03640', 'B06542']"
+}

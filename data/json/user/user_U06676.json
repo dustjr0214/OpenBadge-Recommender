@@ -1,0 +1,14 @@
+{
+    "user_id": "U06676",
+    "name": "Brian Tate",
+    "email": "fergusonchelsea@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00978', 'B08022', 'B02570']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Velazquez-Harper for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04544', 'B08113', 'B06524']"
+}

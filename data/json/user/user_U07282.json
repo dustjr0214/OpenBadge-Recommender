@@ -1,0 +1,14 @@
+{
+    "user_id": "U07282",
+    "name": "John Andrade",
+    "email": "morgan61@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lynch-Harvey for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04279', 'B03974']"
+}

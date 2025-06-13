@@ -1,0 +1,14 @@
+{
+    "user_id": "U06953",
+    "name": "Christine Foster",
+    "email": "zruiz@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09715', 'B09085', 'B07013']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Brooks Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05041']"
+}

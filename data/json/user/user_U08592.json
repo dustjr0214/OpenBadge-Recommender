@@ -1,0 +1,14 @@
+{
+    "user_id": "U08592",
+    "name": "Judith Levine",
+    "email": "umann@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07646', 'B03176']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hanson Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00436', 'B04170', 'B06459']"
+}

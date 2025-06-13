@@ -1,0 +1,14 @@
+{
+    "user_id": "U05954",
+    "name": "Devin Peterson",
+    "email": "jenniferparsons@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02625', 'B03047', 'B06006', 'B05562']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Baker, Gardner and Chambers for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03355', 'B01916']"
+}

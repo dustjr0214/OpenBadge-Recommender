@@ -1,0 +1,14 @@
+{
+    "user_id": "U02328",
+    "name": "Elizabeth Barnett",
+    "email": "reyeskara@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02492', 'B05098', 'B08613', 'B07823']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Ramirez, Shaw and Rojas for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00958', 'B02851', 'B08157']"
+}

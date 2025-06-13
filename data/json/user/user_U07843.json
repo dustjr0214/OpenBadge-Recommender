@@ -1,0 +1,14 @@
+{
+    "user_id": "U07843",
+    "name": "Peter Jones",
+    "email": "whitneywolf@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01432', 'B04769', 'B05158']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Howard, Anderson and Green for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02223', 'B03370', 'B09152']"
+}

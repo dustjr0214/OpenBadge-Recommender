@@ -1,0 +1,14 @@
+{
+    "user_id": "U02338",
+    "name": "Richard Garcia",
+    "email": "ortizelizabeth@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03269', 'B01546']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Hayden-Myers for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03024', 'B00487', 'B07219', 'B00483', 'B04968']"
+}

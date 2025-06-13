@@ -1,0 +1,14 @@
+{
+    "user_id": "U01532",
+    "name": "William Barton",
+    "email": "tsanchez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07296', 'B07419', 'B06131', 'B01464']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Martin, Hale and Hamilton for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04965']"
+}

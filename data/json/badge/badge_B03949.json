@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03949",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Python', 'Cloud Computing', 'Cybersecurity']",
+    "competency": "['Problem Solving']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

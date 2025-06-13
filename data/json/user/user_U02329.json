@@ -1,0 +1,14 @@
+{
+    "user_id": "U02329",
+    "name": "Michelle Daugherty",
+    "email": "kingrobyn@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02779']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Henry, Briggs and Osborn for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02744', 'B06725']"
+}

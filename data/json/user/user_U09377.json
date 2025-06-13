@@ -1,0 +1,14 @@
+{
+    "user_id": "U09377",
+    "name": "Daniel Douglas",
+    "email": "sean15@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02396', 'B06203', 'B09440']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Davis-Garrison for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08351', 'B02254', 'B07059']"
+}

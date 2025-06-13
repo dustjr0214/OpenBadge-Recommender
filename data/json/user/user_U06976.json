@@ -1,0 +1,14 @@
+{
+    "user_id": "U06976",
+    "name": "Jennifer Higgins",
+    "email": "richardrhodes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Arnold, Harper and Guzman for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01234', 'B08368', 'B03148', 'B05398', 'B05243']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03340",
+    "name": "Dana Myers",
+    "email": "williamssharon@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00358', 'B03441', 'B02619']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Guzman Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01755']"
+}

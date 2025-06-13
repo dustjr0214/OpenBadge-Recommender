@@ -1,0 +1,14 @@
+{
+    "user_id": "U07829",
+    "name": "Michael Fitzpatrick",
+    "email": "swood@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06381', 'B07822']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Hines LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02641']"
+}

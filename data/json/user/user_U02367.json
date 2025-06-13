@@ -1,0 +1,14 @@
+{
+    "user_id": "U02367",
+    "name": "Marcus Browning",
+    "email": "goodtanya@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'SQL', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09527', 'B05389']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Ali, Munoz and Rodriguez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06054', 'B00155', 'B02438']"
+}

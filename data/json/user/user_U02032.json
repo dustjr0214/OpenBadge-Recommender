@@ -1,0 +1,14 @@
+{
+    "user_id": "U02032",
+    "name": "Sarah Grant",
+    "email": "bonnie27@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07290', 'B01580', 'B06301']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Fernandez LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00261', 'B02402', 'B06767', 'B09502']"
+}

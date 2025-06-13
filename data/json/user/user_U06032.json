@@ -1,0 +1,14 @@
+{
+    "user_id": "U06032",
+    "name": "Christopher Warren",
+    "email": "stephanie81@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02082', 'B00721', 'B03231', 'B02163', 'B03196']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Weaver-Romero for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02878', 'B09247']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01366",
+    "name": "Amy Strickland",
+    "email": "jennifer96@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04025', 'B00762', 'B02678', 'B04622']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Larson, Holt and Simmons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04934', 'B03825', 'B05592', 'B08933', 'B07213']"
+}

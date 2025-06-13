@@ -1,0 +1,14 @@
+{
+    "user_id": "U06202",
+    "name": "Jose Schroeder",
+    "email": "sjohns@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09753', 'B09881']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Velazquez, Briggs and Harris for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

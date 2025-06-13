@@ -1,0 +1,14 @@
+{
+    "user_id": "U06135",
+    "name": "Carol Erickson",
+    "email": "jonespatricia@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Bates-Stuart for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

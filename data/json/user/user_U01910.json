@@ -1,0 +1,14 @@
+{
+    "user_id": "U01910",
+    "name": "Shannon Glenn",
+    "email": "alan18@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08757', 'B02912', 'B07103']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Wade-Mendoza for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05795', 'B06092']"
+}

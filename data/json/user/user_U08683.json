@@ -1,0 +1,14 @@
+{
+    "user_id": "U08683",
+    "name": "Billy Gibson",
+    "email": "catherinegreen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07921']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Aguilar LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00572', 'B02614', 'B06850', 'B02137', 'B02794']"
+}

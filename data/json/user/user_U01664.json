@@ -1,0 +1,14 @@
+{
+    "user_id": "U01664",
+    "name": "Robert Jones",
+    "email": "victoria20@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05488', 'B02677', 'B02457']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Sanders-Smith for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06311', 'B08079', 'B00083', 'B00187', 'B07619']"
+}

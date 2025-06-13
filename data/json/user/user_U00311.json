@@ -1,0 +1,14 @@
+{
+    "user_id": "U00311",
+    "name": "Teresa Ibarra",
+    "email": "dustinbriggs@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06648', 'B04333']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Thomas, Richards and Downs for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06852', 'B00722', 'B07621', 'B01684', 'B00706']"
+}

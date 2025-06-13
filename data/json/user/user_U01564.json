@@ -1,0 +1,14 @@
+{
+    "user_id": "U01564",
+    "name": "Timothy Norris",
+    "email": "pbeck@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08570', 'B05813']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Everett, Fitzpatrick and George for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09714', 'B08542', 'B08225', 'B04646']"
+}

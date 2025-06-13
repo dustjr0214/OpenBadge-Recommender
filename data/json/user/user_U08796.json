@@ -1,0 +1,14 @@
+{
+    "user_id": "U08796",
+    "name": "Daniel Jones",
+    "email": "njenkins@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03213', 'B06213', 'B07113', 'B02203']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Richard-Payne for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06117', 'B09988', 'B06157']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09943",
+    "name": "Anna Reid",
+    "email": "rreid@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01814', 'B01240', 'B02492', 'B03750', 'B03630']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Espinoza, Torres and Morse for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03201', 'B01392', 'B01687']"
+}

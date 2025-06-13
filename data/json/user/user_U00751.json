@@ -1,0 +1,14 @@
+{
+    "user_id": "U00751",
+    "name": "Lisa Jenkins",
+    "email": "kevinwalker@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07519', 'B02035', 'B01354', 'B04561']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Koch LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05390', 'B09367']"
+}

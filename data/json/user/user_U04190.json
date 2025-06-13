@@ -1,0 +1,14 @@
+{
+    "user_id": "U04190",
+    "name": "Christopher Todd",
+    "email": "elizabethsilva@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03182', 'B01309']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Arnold-Watts for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07387', 'B03661', 'B06669']"
+}

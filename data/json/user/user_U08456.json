@@ -1,0 +1,14 @@
+{
+    "user_id": "U08456",
+    "name": "Desiree Smith",
+    "email": "shannonjordan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00742', 'B08167', 'B06165', 'B05209', 'B00733']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Liu LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00089', 'B01301', 'B06008']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00054",
+    "name": "Nicholas Freeman",
+    "email": "zbryant@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04104', 'B05419', 'B04199', 'B08526', 'B05972']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Weeks, Allen and Mcdonald for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

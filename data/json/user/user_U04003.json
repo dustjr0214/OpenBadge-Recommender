@@ -1,0 +1,14 @@
+{
+    "user_id": "U04003",
+    "name": "Anna Roberts",
+    "email": "sue78@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09216', 'B04414', 'B02659', 'B01929']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Thomas, Cooper and Browning for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04831', 'B01090']"
+}

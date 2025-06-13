@@ -1,0 +1,14 @@
+{
+    "user_id": "U08188",
+    "name": "Joshua Long",
+    "email": "samuelcochran@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04198', 'B07247', 'B07551', 'B02375']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hines-Carpenter for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07876', 'B00910', 'B05695', 'B09748', 'B07467']"
+}

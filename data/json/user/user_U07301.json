@@ -1,0 +1,14 @@
+{
+    "user_id": "U07301",
+    "name": "Richard Reyes",
+    "email": "thomasyang@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07476', 'B04080', 'B08093', 'B02642', 'B05074']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Jones-Becker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

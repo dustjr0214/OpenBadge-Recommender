@@ -1,0 +1,14 @@
+{
+    "user_id": "U09169",
+    "name": "Ms. Erika Diaz",
+    "email": "paula87@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02762', 'B01777', 'B03993']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Perkins-Nguyen for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07926']"
+}

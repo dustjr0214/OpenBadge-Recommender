@@ -1,0 +1,14 @@
+{
+    "user_id": "U07825",
+    "name": "Sharon Brooks",
+    "email": "smitheric@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04222', 'B02925', 'B07975', 'B03646']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Lewis, Drake and Simon for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08676', 'B08741']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02424",
+    "name": "Carrie Williams",
+    "email": "alicia86@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07017', 'B04923', 'B01853', 'B00128', 'B06090']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Brown-Gomez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04122', 'B01910']"
+}

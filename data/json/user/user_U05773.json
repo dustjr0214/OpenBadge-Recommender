@@ -1,0 +1,14 @@
+{
+    "user_id": "U05773",
+    "name": "Pamela Meza",
+    "email": "pedro17@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06604', 'B03488', 'B06265', 'B08113', 'B07427']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Mills Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00689', 'B04792', 'B02464', 'B00488']"
+}

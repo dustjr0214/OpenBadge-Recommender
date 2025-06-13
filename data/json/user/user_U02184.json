@@ -1,0 +1,14 @@
+{
+    "user_id": "U02184",
+    "name": "Gregg Horne",
+    "email": "jblake@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00788', 'B04547', 'B05559', 'B08056', 'B09519']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Weeks Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04255', 'B05416', 'B01685', 'B03479']"
+}

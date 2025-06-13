@@ -1,0 +1,14 @@
+{
+    "user_id": "U08378",
+    "name": "Emily Melton",
+    "email": "alisonmorales@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05656', 'B03523', 'B07213', 'B07329']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Small LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

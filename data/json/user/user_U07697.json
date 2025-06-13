@@ -1,0 +1,14 @@
+{
+    "user_id": "U07697",
+    "name": "Sandra Ramsey",
+    "email": "oanderson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03244']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Ewing-Sanchez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

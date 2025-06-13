@@ -1,0 +1,14 @@
+{
+    "user_id": "U08543",
+    "name": "Emily Fuller",
+    "email": "angelamanning@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04724', 'B00347', 'B07066']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Alvarez Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

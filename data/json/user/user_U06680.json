@@ -1,0 +1,14 @@
+{
+    "user_id": "U06680",
+    "name": "Jeffrey Taylor",
+    "email": "jackie87@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09245']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Perez LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06188', 'B02554', 'B01912']"
+}

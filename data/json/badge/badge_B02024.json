@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02024",
+    "name": "Machine Learning Pro",
+    "issuer": "Coursera",
+    "description": "Machine Learning Pro badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Machine Learning']",
+    "competency": "['SQL', 'Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

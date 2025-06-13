@@ -1,0 +1,14 @@
+{
+    "user_id": "U05908",
+    "name": "Christopher Garcia",
+    "email": "tabitharobinson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05687', 'B07049']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rivers Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02730', 'B08924', 'B00108', 'B09884', 'B04114']"
+}

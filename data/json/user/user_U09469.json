@@ -1,0 +1,14 @@
+{
+    "user_id": "U09469",
+    "name": "Monica Martin",
+    "email": "yperry@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09065']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Moreno, Swanson and Carpenter for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09470', 'B09600', 'B02926', 'B03863', 'B05514']"
+}

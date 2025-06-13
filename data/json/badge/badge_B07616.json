@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07616",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis', 'Cloud Computing', 'Machine Learning']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B05748', 'B09401']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01507",
+    "name": "David Lewis",
+    "email": "brian48@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07290', 'B01685', 'B04076']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Dennis, Huff and Webb for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05383', 'B02708', 'B01061']"
+}

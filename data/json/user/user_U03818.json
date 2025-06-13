@@ -1,0 +1,14 @@
+{
+    "user_id": "U03818",
+    "name": "Michelle Morales",
+    "email": "wgraham@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00133', 'B06964', 'B00013']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Murphy, Dixon and Armstrong for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06287', 'B00955', 'B04600']"
+}

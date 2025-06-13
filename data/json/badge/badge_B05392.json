@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05392",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Python', 'DevOps']",
+    "competency": "['Cybersecurity', 'Python', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09298']"
+}

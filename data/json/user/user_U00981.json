@@ -1,0 +1,14 @@
+{
+    "user_id": "U00981",
+    "name": "Jennifer Powers",
+    "email": "thomasjames@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06243', 'B07099', 'B08790', 'B09932']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Mendez, Wright and Bridges for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04707', 'B02655', 'B00008', 'B09739']"
+}

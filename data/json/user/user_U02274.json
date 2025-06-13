@@ -1,0 +1,14 @@
+{
+    "user_id": "U02274",
+    "name": "Karen Scott",
+    "email": "philip40@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01435', 'B05723', 'B09216', 'B06669', 'B07909']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Garcia, Johnson and Huber for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

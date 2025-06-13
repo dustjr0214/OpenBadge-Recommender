@@ -1,0 +1,14 @@
+{
+    "user_id": "U07094",
+    "name": "Linda Petty",
+    "email": "josephmorrison@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Johnson PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04411', 'B07430', 'B08306', 'B00982']"
+}

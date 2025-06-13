@@ -1,0 +1,14 @@
+{
+    "user_id": "U08727",
+    "name": "Emily Collins DDS",
+    "email": "russell36@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08696', 'B06906']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Bauer, Herring and Harris for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03807', 'B02515', 'B07423', 'B02077']"
+}

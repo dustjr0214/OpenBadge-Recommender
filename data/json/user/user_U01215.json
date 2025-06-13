@@ -1,0 +1,14 @@
+{
+    "user_id": "U01215",
+    "name": "Christine Skinner",
+    "email": "sean24@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05721', 'B00246', 'B03386']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Hood Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00357', 'B03475', 'B06220', 'B01054', 'B07645']"
+}

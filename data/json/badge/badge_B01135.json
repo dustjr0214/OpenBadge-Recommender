@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01135",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Data Analysis', 'Python', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00173', 'B08092']"
+}

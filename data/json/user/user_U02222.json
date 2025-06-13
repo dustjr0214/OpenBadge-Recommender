@@ -1,0 +1,14 @@
+{
+    "user_id": "U02222",
+    "name": "Rodney Edwards",
+    "email": "brandonlyons@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07578', 'B04953', 'B01763', 'B09589', 'B01458']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Stafford Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09992', 'B00957', 'B06943', 'B03318', 'B01646']"
+}

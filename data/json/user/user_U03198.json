@@ -1,0 +1,14 @@
+{
+    "user_id": "U03198",
+    "name": "David Koch",
+    "email": "glorialittle@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04659', 'B07139', 'B05417']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Evans-Brooks for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08068', 'B04586', 'B06712']"
+}

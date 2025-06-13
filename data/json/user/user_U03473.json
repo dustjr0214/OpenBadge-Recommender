@@ -1,0 +1,14 @@
+{
+    "user_id": "U03473",
+    "name": "Ryan Davis",
+    "email": "nicholasramos@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08048']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Torres Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00029', 'B07099', 'B05346', 'B08424', 'B06058']"
+}

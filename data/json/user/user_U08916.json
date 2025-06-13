@@ -1,0 +1,14 @@
+{
+    "user_id": "U08916",
+    "name": "Roberta Sexton",
+    "email": "forbescynthia@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Burns-Torres for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03089', 'B04317']"
+}

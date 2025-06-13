@@ -1,0 +1,14 @@
+{
+    "user_id": "U07807",
+    "name": "Julie Price",
+    "email": "mark14@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01533', 'B02188', 'B04839', 'B03716', 'B04183']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Aguilar, Hernandez and Jordan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06129', 'B08070', 'B00596']"
+}

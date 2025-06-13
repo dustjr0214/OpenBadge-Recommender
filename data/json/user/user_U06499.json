@@ -1,0 +1,14 @@
+{
+    "user_id": "U06499",
+    "name": "Jillian Williamson",
+    "email": "curtis67@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04857', 'B03213']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Love, Phillips and Allen for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00453', 'B09295', 'B00082']"
+}

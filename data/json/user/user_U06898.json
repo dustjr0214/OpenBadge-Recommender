@@ -1,0 +1,14 @@
+{
+    "user_id": "U06898",
+    "name": "James Baxter",
+    "email": "eric32@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05753']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cook, Singleton and Fitzpatrick for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07464', 'B03631', 'B07814', 'B05224']"
+}

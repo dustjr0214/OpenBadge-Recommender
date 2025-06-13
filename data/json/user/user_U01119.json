@@ -1,0 +1,14 @@
+{
+    "user_id": "U01119",
+    "name": "Brian Johnson",
+    "email": "hallsusan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07959', 'B02243', 'B06368', 'B03627']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Rice-Cooper for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07442']"
+}

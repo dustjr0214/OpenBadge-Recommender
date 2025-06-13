@@ -1,0 +1,14 @@
+{
+    "user_id": "U08241",
+    "name": "Randy Pena",
+    "email": "billy87@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Cardenas, Austin and Evans for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08515', 'B06781']"
+}

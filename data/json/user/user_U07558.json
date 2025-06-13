@@ -1,0 +1,14 @@
+{
+    "user_id": "U07558",
+    "name": "John Mitchell",
+    "email": "smithkristen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06990', 'B02846', 'B01438', 'B09374', 'B03825']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Turner, Barker and Gonzalez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02020', 'B08459', 'B04529', 'B03833', 'B02710']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01421",
+    "name": "Madison Holt",
+    "email": "roger12@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05024', 'B06780', 'B05708']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Barker PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

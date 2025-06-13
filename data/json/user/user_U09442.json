@@ -1,0 +1,14 @@
+{
+    "user_id": "U09442",
+    "name": "Sean Knight",
+    "email": "veronicajones@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04346']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Washington-Brown for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03114', 'B05423', 'B09626']"
+}

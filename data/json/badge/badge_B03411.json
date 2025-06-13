@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03411",
+    "name": "Cloud Computing Guru",
+    "issuer": "edX",
+    "description": "Cloud Computing Guru badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'UI/UX', 'Deep Learning']",
+    "competency": "['Data Analysis', 'Problem Solving', 'Cloud Computing']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03372', 'B08850']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08551",
+    "name": "Jonathan Kim",
+    "email": "susanrichardson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00744']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Durham, Ramirez and Johnson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09806']"
+}

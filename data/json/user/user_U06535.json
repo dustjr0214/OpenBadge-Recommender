@@ -1,0 +1,14 @@
+{
+    "user_id": "U06535",
+    "name": "Dustin Savage",
+    "email": "porterlee@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00508', 'B05926']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Taylor, Brown and James for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04594', 'B00314']"
+}

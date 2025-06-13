@@ -1,0 +1,14 @@
+{
+    "user_id": "U08339",
+    "name": "Timothy Rivera",
+    "email": "leedonald@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06301', 'B03373', 'B05021', 'B04496']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Parker-Davis for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04284', 'B06247', 'B00645']"
+}

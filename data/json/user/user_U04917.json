@@ -1,0 +1,14 @@
+{
+    "user_id": "U04917",
+    "name": "Steven Ryan",
+    "email": "peggywatts@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05367']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Gardner-Silva for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

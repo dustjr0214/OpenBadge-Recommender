@@ -1,0 +1,14 @@
+{
+    "user_id": "U02976",
+    "name": "Tristan Patterson",
+    "email": "jayers@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00599', 'B00195', 'B06477', 'B05560']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Blake-Ford for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06307', 'B05027', 'B03638']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08618",
+    "name": "Michelle White",
+    "email": "gallegosryan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07374', 'B09117']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Garcia-Anderson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01613', 'B02000', 'B03959', 'B02152', 'B09919']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01632",
+    "name": "Tina Campbell",
+    "email": "james71@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07326']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Matthews Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03369', 'B03457', 'B08349', 'B00399', 'B02752']"
+}

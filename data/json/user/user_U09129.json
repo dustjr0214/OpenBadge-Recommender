@@ -1,0 +1,14 @@
+{
+    "user_id": "U09129",
+    "name": "Melissa Collins",
+    "email": "wserrano@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03364', 'B07927', 'B02939', 'B03401']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Martin LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04939', 'B07502', 'B07155', 'B09427', 'B06717']"
+}

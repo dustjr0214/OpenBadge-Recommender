@@ -1,0 +1,14 @@
+{
+    "user_id": "U08993",
+    "name": "Christopher Green",
+    "email": "meyerjulie@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Copeland-Mcdaniel for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00903', 'B01867', 'B05503', 'B02755']"
+}

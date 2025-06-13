@@ -1,0 +1,14 @@
+{
+    "user_id": "U07542",
+    "name": "Luke Nguyen",
+    "email": "brandon77@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02807', 'B06352']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Johnson-Cooper for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04212']"
+}

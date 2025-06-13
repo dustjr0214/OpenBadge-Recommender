@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00089",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'UI/UX']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07782', 'B08196']"
+}

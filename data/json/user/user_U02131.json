@@ -1,0 +1,14 @@
+{
+    "user_id": "U02131",
+    "name": "Danielle Robinson",
+    "email": "michaelsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07975', 'B09333', 'B02143']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at King, Orr and Russell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05951', 'B05810', 'B04669', 'B08529']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01100",
+    "name": "Melissa Perez",
+    "email": "ohaynes@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03119', 'B03741', 'B04546', 'B06049', 'B00923']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Robinson, Garcia and Welch for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03601', 'B04499', 'B04314', 'B01214', 'B06367']"
+}

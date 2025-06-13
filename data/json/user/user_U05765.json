@@ -1,0 +1,14 @@
+{
+    "user_id": "U05765",
+    "name": "Alexander Bishop",
+    "email": "yvonne56@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02829', 'B04630', 'B05302', 'B03812', 'B03296']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Robinson, Weiss and Lewis for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07817', 'B08534', 'B06195', 'B06215', 'B00952']"
+}

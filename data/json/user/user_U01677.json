@@ -1,0 +1,14 @@
+{
+    "user_id": "U01677",
+    "name": "Steven Davis",
+    "email": "tylerwilson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09151', 'B04305', 'B09291', 'B09707']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Martinez, Martin and Morgan for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08676', 'B08947', 'B09022', 'B07111']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07927",
+    "name": "Hunter Williams",
+    "email": "rebeccaedwards@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07858', 'B08337', 'B04246', 'B07188', 'B06376']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Martin-Rogers for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01053', 'B07720', 'B07256', 'B04772', 'B02675']"
+}

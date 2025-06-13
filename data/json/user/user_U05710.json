@@ -1,0 +1,14 @@
+{
+    "user_id": "U05710",
+    "name": "Randy Jackson",
+    "email": "douglas06@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06216', 'B03587', 'B05169', 'B02836', 'B06303']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Johnson-Michael for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03554', 'B02245', 'B04031', 'B07485', 'B04215']"
+}

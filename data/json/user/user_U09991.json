@@ -1,0 +1,14 @@
+{
+    "user_id": "U09991",
+    "name": "Megan Schmitt",
+    "email": "gcrawford@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03463', 'B04848', 'B09549', 'B05841', 'B08154']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Miller-Cunningham for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02632', 'B07175', 'B08641', 'B03048']"
+}

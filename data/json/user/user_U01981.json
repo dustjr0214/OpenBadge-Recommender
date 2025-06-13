@@ -1,0 +1,14 @@
+{
+    "user_id": "U01981",
+    "name": "Deborah Harris",
+    "email": "mfisher@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09209']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Campbell, Blake and Huynh for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05734', 'B09664', 'B00111', 'B07755', 'B03275']"
+}

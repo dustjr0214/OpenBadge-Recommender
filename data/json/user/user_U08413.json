@@ -1,0 +1,14 @@
+{
+    "user_id": "U08413",
+    "name": "Amy Hickman",
+    "email": "steven71@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04342']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Lewis Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08167']"
+}

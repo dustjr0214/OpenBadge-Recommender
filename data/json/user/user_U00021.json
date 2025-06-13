@@ -1,0 +1,14 @@
+{
+    "user_id": "U00021",
+    "name": "Sarah Chen",
+    "email": "ncruz@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04483', 'B01780', 'B06156']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Harris PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05778', 'B01953', 'B02195', 'B02409', 'B07398']"
+}

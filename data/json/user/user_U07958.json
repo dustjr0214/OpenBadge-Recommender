@@ -1,0 +1,14 @@
+{
+    "user_id": "U07958",
+    "name": "Elizabeth Pittman",
+    "email": "scottsean@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00425', 'B05313', 'B05227', 'B09549']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Hawkins, Garcia and Neal for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07678', 'B07737', 'B02822', 'B04496']"
+}

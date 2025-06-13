@@ -1,0 +1,14 @@
+{
+    "user_id": "U03972",
+    "name": "Angela Moyer",
+    "email": "austin12@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Hernandez, Brown and Stewart for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06428', 'B07147', 'B01967', 'B02479', 'B02651']"
+}

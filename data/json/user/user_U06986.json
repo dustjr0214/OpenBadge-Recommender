@@ -1,0 +1,14 @@
+{
+    "user_id": "U06986",
+    "name": "Sean Martinez",
+    "email": "melissa89@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03552', 'B01530', 'B02639']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05751', 'B08523', 'B00086', 'B03200', 'B01158']"
+}

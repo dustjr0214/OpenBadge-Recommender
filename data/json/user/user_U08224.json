@@ -1,0 +1,14 @@
+{
+    "user_id": "U08224",
+    "name": "Joseph Davis",
+    "email": "michaelstevens@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09012', 'B03846', 'B04078', 'B02089']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Beltran-Hayes for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01093', 'B04149', 'B04952', 'B00048', 'B05575']"
+}

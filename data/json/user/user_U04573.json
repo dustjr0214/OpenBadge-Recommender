@@ -1,0 +1,14 @@
+{
+    "user_id": "U04573",
+    "name": "Jamie Gibson",
+    "email": "adam08@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06337']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Santos-Gardner for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03095', 'B08453']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03892",
+    "name": "Aaron Davis",
+    "email": "marywilliams@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07686', 'B05270', 'B03512', 'B08356', 'B04967']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Campbell Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04696']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00866",
+    "name": "Kyle Williams",
+    "email": "pcarroll@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01968', 'B04671', 'B02018']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Taylor-Perez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04917', 'B08354', 'B00980']"
+}

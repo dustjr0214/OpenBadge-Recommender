@@ -1,0 +1,14 @@
+{
+    "user_id": "U06834",
+    "name": "Tonya Singh",
+    "email": "wchristensen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06768', 'B00546']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Johnson PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06687', 'B05479']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09909",
+    "name": "Donna Mills",
+    "email": "robertgrimes@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Sutton, Chandler and Medina for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07653', 'B05075', 'B06038', 'B04811', 'B03410']"
+}

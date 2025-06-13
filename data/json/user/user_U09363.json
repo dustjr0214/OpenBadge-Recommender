@@ -1,0 +1,14 @@
+{
+    "user_id": "U09363",
+    "name": "Kenneth Fields",
+    "email": "stevenbecker@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03274', 'B07414', 'B09088', 'B02194']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Davis, Fuller and Klein for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02347', 'B02034', 'B08083', 'B09723']"
+}

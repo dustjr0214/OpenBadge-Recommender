@@ -1,0 +1,14 @@
+{
+    "user_id": "U02358",
+    "name": "Hannah Glass",
+    "email": "robinscott@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08240', 'B00081']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Fletcher Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02214', 'B09742', 'B03474', 'B08611', 'B04228']"
+}

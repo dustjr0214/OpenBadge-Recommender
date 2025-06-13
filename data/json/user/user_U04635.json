@@ -1,0 +1,14 @@
+{
+    "user_id": "U04635",
+    "name": "Jennifer Williams",
+    "email": "shawnlee@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05407', 'B01321', 'B05142', 'B08662']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Thompson-Murray for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

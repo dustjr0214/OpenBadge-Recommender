@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01855",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07110']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02886",
+    "name": "Patricia Turner",
+    "email": "coopergloria@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02101', 'B00643', 'B09251', 'B01326', 'B08239']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Fritz, Stokes and Flynn for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02038']"
+}

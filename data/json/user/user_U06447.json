@@ -1,0 +1,14 @@
+{
+    "user_id": "U06447",
+    "name": "Scott Romero",
+    "email": "monteskathleen@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03023', 'B00454']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Boyle, Hartman and George for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08258', 'B05158', 'B05894', 'B03713']"
+}

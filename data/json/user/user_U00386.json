@@ -1,0 +1,14 @@
+{
+    "user_id": "U00386",
+    "name": "Paul Payne",
+    "email": "lisa61@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08696', 'B04975', 'B05306', 'B00049']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Wright, Davis and Hale for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03484', 'B02990']"
+}

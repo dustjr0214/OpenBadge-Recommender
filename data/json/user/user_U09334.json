@@ -1,0 +1,14 @@
+{
+    "user_id": "U09334",
+    "name": "Sandra Gay",
+    "email": "emily82@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01066', 'B08012', 'B02219', 'B06541', 'B05814']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Sullivan, Villarreal and Hicks for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02613', 'B02301', 'B08058', 'B07531', 'B05380']"
+}

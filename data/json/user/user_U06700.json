@@ -1,0 +1,14 @@
+{
+    "user_id": "U06700",
+    "name": "Dustin Wells",
+    "email": "andrewjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06732', 'B02208', 'B01382']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Osborn Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07498', 'B00743']"
+}

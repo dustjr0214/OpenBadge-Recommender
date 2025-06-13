@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01909",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B03892', 'B05708']"
+}

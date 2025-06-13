@@ -1,0 +1,14 @@
+{
+    "user_id": "U09386",
+    "name": "Maria Sullivan",
+    "email": "collinsjordan@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06371', 'B04805', 'B02795', 'B02077']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at James-Hall for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04259",
+    "name": "Patricia Cooper",
+    "email": "rsimmons@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07040', 'B08344']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Parker, Garcia and Chaney for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

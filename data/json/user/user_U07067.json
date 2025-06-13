@@ -1,0 +1,14 @@
+{
+    "user_id": "U07067",
+    "name": "Chase White",
+    "email": "bneal@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01472', 'B09833', 'B07022', 'B03498']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Freeman, Martin and Bell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04213']"
+}

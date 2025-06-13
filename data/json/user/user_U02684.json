@@ -1,0 +1,14 @@
+{
+    "user_id": "U02684",
+    "name": "Daniel Hill",
+    "email": "ashleyscott@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03560', 'B00855', 'B04853']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Cortez and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02420']"
+}

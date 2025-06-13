@@ -1,0 +1,14 @@
+{
+    "user_id": "U03973",
+    "name": "Renee Velasquez",
+    "email": "prusso@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05574']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Mejia, Ramirez and Nelson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05833', 'B05718', 'B04189', 'B01397']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00913",
+    "name": "Tamara Becker",
+    "email": "fkoch@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05562', 'B07303']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Baker, Ali and Ross for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02003', 'B08762', 'B07762']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02821",
+    "name": "Julia Goodman",
+    "email": "xmiller@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07188', 'B03095', 'B03865']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Miller PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01740', 'B06755']"
+}

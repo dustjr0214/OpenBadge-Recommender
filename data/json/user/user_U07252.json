@@ -1,0 +1,14 @@
+{
+    "user_id": "U07252",
+    "name": "Victor Cantrell",
+    "email": "atkinsonmicheal@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09384']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hanson, Mccoy and Barnett for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02092', 'B05523', 'B08139', 'B02521']"
+}

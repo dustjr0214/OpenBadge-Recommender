@@ -1,0 +1,14 @@
+{
+    "user_id": "U09017",
+    "name": "James Silva",
+    "email": "suzanne46@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02532']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Carter-Garcia for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04468', 'B02453', 'B09144']"
+}

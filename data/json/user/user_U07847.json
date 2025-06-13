@@ -1,0 +1,14 @@
+{
+    "user_id": "U07847",
+    "name": "Tammy Oliver",
+    "email": "jbridges@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07946', 'B03980', 'B05533', 'B06005', 'B00422']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Henderson PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07458', 'B04504', 'B02356']"
+}

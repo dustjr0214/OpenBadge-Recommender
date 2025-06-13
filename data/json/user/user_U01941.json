@@ -1,0 +1,14 @@
+{
+    "user_id": "U01941",
+    "name": "Hannah Silva",
+    "email": "cameronmiller@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00582']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Torres, Barnett and Lopez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07041', 'B05613', 'B06350']"
+}

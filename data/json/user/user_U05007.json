@@ -1,0 +1,14 @@
+{
+    "user_id": "U05007",
+    "name": "Kristine James",
+    "email": "vhansen@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04290', 'B00234', 'B02677', 'B03517', 'B04882']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Daniel LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

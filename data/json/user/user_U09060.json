@@ -1,0 +1,14 @@
+{
+    "user_id": "U09060",
+    "name": "Brandon Hurst",
+    "email": "idavidson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07596', 'B00665', 'B03671', 'B09668']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Fleming, Walters and Leach for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07507', 'B09787', 'B04693']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02649",
+    "name": "Amanda Johnson",
+    "email": "amy75@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00815', 'B07687', 'B09350', 'B00654']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Sullivan Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05740']"
+}

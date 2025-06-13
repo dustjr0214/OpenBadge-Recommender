@@ -1,0 +1,14 @@
+{
+    "user_id": "U09577",
+    "name": "Abigail Fowler",
+    "email": "wjones@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03674']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Barrett, Walker and Reese for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01057', 'B02929', 'B09763', 'B03731', 'B06251']"
+}

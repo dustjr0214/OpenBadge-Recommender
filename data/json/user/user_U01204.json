@@ -1,0 +1,14 @@
+{
+    "user_id": "U01204",
+    "name": "William Perkins",
+    "email": "dgonzalez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01417', 'B08056']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Perez Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

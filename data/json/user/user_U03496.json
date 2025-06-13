@@ -1,0 +1,14 @@
+{
+    "user_id": "U03496",
+    "name": "Megan Zamora",
+    "email": "krista59@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01339', 'B02840', 'B08639', 'B09989']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Harris Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07761', 'B06319', 'B00164', 'B03269', 'B04671']"
+}

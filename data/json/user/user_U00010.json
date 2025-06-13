@@ -1,0 +1,14 @@
+{
+    "user_id": "U00010",
+    "name": "Duane Smith",
+    "email": "gilbertthomas@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09590', 'B08152', 'B02998', 'B06620', 'B00393']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Reed-Armstrong for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03962']"
+}

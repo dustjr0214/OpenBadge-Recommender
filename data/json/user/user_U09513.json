@@ -1,0 +1,14 @@
+{
+    "user_id": "U09513",
+    "name": "Manuel Bush",
+    "email": "xaustin@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09421', 'B02057', 'B02505', 'B02716']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Huang, Vasquez and Chavez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04155', 'B09847', 'B06717', 'B01843', 'B08416']"
+}

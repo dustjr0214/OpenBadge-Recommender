@@ -1,0 +1,14 @@
+{
+    "user_id": "U08692",
+    "name": "Scott Schmidt",
+    "email": "alex00@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08921']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Hall-Duncan for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08736', 'B02888']"
+}

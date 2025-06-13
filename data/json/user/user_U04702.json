@@ -1,0 +1,14 @@
+{
+    "user_id": "U04702",
+    "name": "Michael Scott",
+    "email": "lflowers@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00969']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Dean, Adams and Flores for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08924', 'B04035', 'B03594', 'B03406', 'B04043']"
+}

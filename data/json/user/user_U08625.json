@@ -1,0 +1,14 @@
+{
+    "user_id": "U08625",
+    "name": "Emily Murphy",
+    "email": "paulaholt@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03104', 'B06492', 'B07725', 'B03883', 'B00437']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cruz, Lane and Harrell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07773']"
+}

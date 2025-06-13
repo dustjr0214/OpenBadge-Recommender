@@ -1,0 +1,14 @@
+{
+    "user_id": "U03615",
+    "name": "Maria Fox",
+    "email": "petersonthomas@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05318', 'B01267', 'B07037', 'B06029', 'B02360']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Garza-Martin for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

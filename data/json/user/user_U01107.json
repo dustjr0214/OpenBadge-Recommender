@@ -1,0 +1,14 @@
+{
+    "user_id": "U01107",
+    "name": "Erica Cardenas",
+    "email": "luisporter@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03345', 'B04026', 'B03971']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Sullivan, Roberts and Davidson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03132']"
+}

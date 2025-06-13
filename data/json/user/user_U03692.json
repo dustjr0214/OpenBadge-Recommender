@@ -1,0 +1,14 @@
+{
+    "user_id": "U03692",
+    "name": "Mario Johns",
+    "email": "davisnicole@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06169']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Anderson-Ortega for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

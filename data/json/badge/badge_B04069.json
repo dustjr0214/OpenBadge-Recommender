@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04069",
+    "name": "UI/UX Designer",
+    "issuer": "Coursera",
+    "description": "UI/UX Designer badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B09897', 'B06127']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02105",
+    "name": "Vincent Buck",
+    "email": "lori58@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08945', 'B02083', 'B04115', 'B00288', 'B02712']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Ramirez, Williams and Hill for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03943']"
+}

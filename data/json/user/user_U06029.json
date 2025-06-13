@@ -1,0 +1,14 @@
+{
+    "user_id": "U06029",
+    "name": "Angela Barton",
+    "email": "rebeccadavis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08571', 'B02386', 'B08934', 'B09046']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hawkins-Mosley for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08283', 'B03701', 'B09034', 'B09378']"
+}

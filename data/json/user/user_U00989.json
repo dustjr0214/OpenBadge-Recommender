@@ -1,0 +1,14 @@
+{
+    "user_id": "U00989",
+    "name": "Jessica Williams",
+    "email": "acollins@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05008']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Evans Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08041']"
+}

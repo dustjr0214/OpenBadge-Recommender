@@ -1,0 +1,14 @@
+{
+    "user_id": "U09180",
+    "name": "Jacqueline Lambert",
+    "email": "brandonmoyer@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08063']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Gallegos, Smith and Young for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03774', 'B03903', 'B03236']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07540",
+    "name": "April White",
+    "email": "laurabrewer@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09337', 'B07426', 'B06483', 'B06137']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Carr PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06946', 'B00477', 'B06320', 'B09199']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04657",
+    "name": "Kayla Lopez",
+    "email": "amanda22@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04964']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Kent Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04913', 'B06834']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00034",
+    "name": "Amanda Cruz",
+    "email": "lejohn@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08477', 'B05359', 'B01366']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Reynolds, Wilson and Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09263', 'B08774', 'B05399']"
+}

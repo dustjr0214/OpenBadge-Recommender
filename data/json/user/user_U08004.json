@@ -1,0 +1,14 @@
+{
+    "user_id": "U08004",
+    "name": "Dr. Tara Simon DDS",
+    "email": "wrightcathy@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07755', 'B01331', 'B07477', 'B07995']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Sanders-Gonzales for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02823']"
+}

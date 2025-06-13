@@ -1,0 +1,14 @@
+{
+    "user_id": "U00238",
+    "name": "Carol Rasmussen",
+    "email": "mark28@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05584']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Miller Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07745', 'B05497', 'B00239', 'B06046', 'B06782']"
+}

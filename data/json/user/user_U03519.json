@@ -1,0 +1,14 @@
+{
+    "user_id": "U03519",
+    "name": "James Wheeler",
+    "email": "idrake@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03017']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at White-Black for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00492', 'B00286', 'B05551', 'B07157', 'B03604']"
+}

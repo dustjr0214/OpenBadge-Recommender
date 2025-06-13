@@ -1,0 +1,14 @@
+{
+    "user_id": "U04372",
+    "name": "Linda Mckenzie",
+    "email": "kristinabowen@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08957', 'B09815', 'B02492', 'B06425', 'B07717']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Peterson, Wilson and Barron for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00100', 'B04805', 'B02146']"
+}

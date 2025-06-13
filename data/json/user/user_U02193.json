@@ -1,0 +1,14 @@
+{
+    "user_id": "U02193",
+    "name": "Dr. Melissa Garcia",
+    "email": "zfrazier@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03289', 'B06004']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Barnes, Lewis and Smith for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02549', 'B01960', 'B08849', 'B00685', 'B04279']"
+}

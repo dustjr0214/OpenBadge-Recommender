@@ -1,0 +1,14 @@
+{
+    "user_id": "U02794",
+    "name": "Kenneth Thompson",
+    "email": "dominguezjorge@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Bolton, Gray and Owens for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09119', 'B02552', 'B03005', 'B08897', 'B00663']"
+}

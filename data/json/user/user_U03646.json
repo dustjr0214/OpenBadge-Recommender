@@ -1,0 +1,14 @@
+{
+    "user_id": "U03646",
+    "name": "Carol Moore",
+    "email": "padillaoscar@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00318', 'B06062']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Castillo-Thomas for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02858', 'B03191', 'B09611', 'B02128']"
+}

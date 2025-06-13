@@ -1,0 +1,14 @@
+{
+    "user_id": "U09722",
+    "name": "James Woods",
+    "email": "catherine21@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06579', 'B09051', 'B07663']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Martinez-Herring for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05659', 'B04242', 'B08950', 'B00325', 'B08309']"
+}

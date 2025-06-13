@@ -1,0 +1,14 @@
+{
+    "user_id": "U02962",
+    "name": "Judith Vasquez",
+    "email": "lewismegan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08885', 'B07237', 'B06585']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Robinson-Williams for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06782', 'B04906', 'B04818', 'B03034', 'B02073']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02857",
+    "name": "Cindy Richmond",
+    "email": "lweber@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02866', 'B05382']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Matthews-Mathis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05898', 'B01085', 'B02457']"
+}

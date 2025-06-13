@@ -1,0 +1,14 @@
+{
+    "user_id": "U00354",
+    "name": "Peter Lawson",
+    "email": "matthew79@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00377']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Russo, Holland and Sanchez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04763', 'B00114', 'B02997', 'B04113', 'B01579']"
+}

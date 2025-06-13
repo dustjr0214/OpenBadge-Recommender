@@ -1,0 +1,14 @@
+{
+    "user_id": "U01504",
+    "name": "Benjamin Thompson",
+    "email": "davidhuffman@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04356']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Bean Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04234']"
+}

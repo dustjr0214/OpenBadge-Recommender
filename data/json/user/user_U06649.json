@@ -1,0 +1,14 @@
+{
+    "user_id": "U06649",
+    "name": "Carol Williams",
+    "email": "erichartman@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08025', 'B03079', 'B09780']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Payne, Jackson and Finley for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07680']"
+}

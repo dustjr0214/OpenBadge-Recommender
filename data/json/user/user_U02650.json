@@ -1,0 +1,14 @@
+{
+    "user_id": "U02650",
+    "name": "Caitlin Pham",
+    "email": "ryan91@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03869', 'B09862', 'B03693', 'B08910', 'B00703']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Moody-Gross for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03645', 'B07715', 'B04910']"
+}

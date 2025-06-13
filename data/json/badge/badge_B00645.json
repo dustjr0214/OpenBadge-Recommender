@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00645",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Machine Learning']",
+    "competency": "['Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B01473']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06812",
+    "name": "Kathryn Decker",
+    "email": "lyonsjeffrey@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02319', 'B06338', 'B09659']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Gutierrez, Hall and Shelton for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05681', 'B00767', 'B03797', 'B08620', 'B05652']"
+}

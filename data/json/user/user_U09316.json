@@ -1,0 +1,14 @@
+{
+    "user_id": "U09316",
+    "name": "Abigail Hill",
+    "email": "michelle36@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02275', 'B07563', 'B07272', 'B07489', 'B02064']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Stafford-Williams for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08942', 'B06123', 'B06780', 'B08758', 'B09359']"
+}

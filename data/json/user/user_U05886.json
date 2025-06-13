@@ -1,0 +1,14 @@
+{
+    "user_id": "U05886",
+    "name": "Keith Robinson",
+    "email": "ovazquez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03730', 'B05377', 'B09518', 'B09105']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Oneill PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03890', 'B03401', 'B02486', 'B08570']"
+}

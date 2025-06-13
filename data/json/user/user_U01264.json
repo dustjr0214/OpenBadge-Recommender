@@ -1,0 +1,14 @@
+{
+    "user_id": "U01264",
+    "name": "Patrick Adams",
+    "email": "rachel69@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05714', 'B07084', 'B00251', 'B05954']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Lewis and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

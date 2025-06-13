@@ -1,0 +1,14 @@
+{
+    "user_id": "U01621",
+    "name": "Jennifer Lee",
+    "email": "fyoung@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05454', 'B00867', 'B04629', 'B03691', 'B06962']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Lewis, Estrada and Carter for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06755']"
+}

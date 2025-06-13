@@ -1,0 +1,14 @@
+{
+    "user_id": "U01372",
+    "name": "Elizabeth Edwards",
+    "email": "aguilaralisha@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07689', 'B08834', 'B01684', 'B07557', 'B00938']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Martin-Henry for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06945', 'B09693', 'B06853', 'B05659']"
+}

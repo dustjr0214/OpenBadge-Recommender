@@ -1,0 +1,14 @@
+{
+    "user_id": "U03110",
+    "name": "Nathan Nelson",
+    "email": "mark52@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00254', 'B08804']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Spencer-Kim for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02013']"
+}

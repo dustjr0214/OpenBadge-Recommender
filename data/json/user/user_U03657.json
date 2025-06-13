@@ -1,0 +1,14 @@
+{
+    "user_id": "U03657",
+    "name": "Brandon Peck",
+    "email": "williamdeleon@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04063', 'B07041']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Andrade Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05786']"
+}

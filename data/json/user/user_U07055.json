@@ -1,0 +1,14 @@
+{
+    "user_id": "U07055",
+    "name": "Brianna Robinson DVM",
+    "email": "michele18@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02061']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hayes LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07571', 'B09921', 'B04605']"
+}

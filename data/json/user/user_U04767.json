@@ -1,0 +1,14 @@
+{
+    "user_id": "U04767",
+    "name": "Wayne Harris",
+    "email": "ubell@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06601', 'B04581']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wheeler and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03012', 'B01464', 'B00582', 'B05192', 'B08703']"
+}

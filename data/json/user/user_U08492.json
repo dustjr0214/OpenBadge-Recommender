@@ -1,0 +1,14 @@
+{
+    "user_id": "U08492",
+    "name": "Jorge Stephenson",
+    "email": "cantrelllarry@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09974', 'B03963', 'B00712', 'B04553', 'B04032']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Garrett, Lane and Dennis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02957",
+    "name": "John Becker",
+    "email": "raymondmyers@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04223', 'B09970']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Smith-Clark for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06631', 'B06693', 'B03584', 'B03962']"
+}

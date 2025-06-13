@@ -1,0 +1,14 @@
+{
+    "user_id": "U06134",
+    "name": "Deborah Brown",
+    "email": "westmary@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06954', 'B06712', 'B02299']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Chang-Mueller for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03341', 'B04604', 'B06192', 'B09881', 'B07029']"
+}

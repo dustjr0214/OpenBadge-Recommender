@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01465",
+    "name": "UI/UX Designer",
+    "issuer": "Google",
+    "description": "UI/UX Designer badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency": "['Machine Learning', 'Leadership', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04280', 'B03805']"
+}

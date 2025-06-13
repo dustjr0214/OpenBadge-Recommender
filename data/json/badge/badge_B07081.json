@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07081",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'DevOps']",
+    "competency": "['Leadership', 'Deep Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06426']"
+}

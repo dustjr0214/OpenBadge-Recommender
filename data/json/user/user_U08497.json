@@ -1,0 +1,14 @@
+{
+    "user_id": "U08497",
+    "name": "Lisa Jones",
+    "email": "jennathompson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04942', 'B03306', 'B01616', 'B01659', 'B08847']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Montgomery, Byrd and Gibson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08520', 'B03029', 'B07252']"
+}

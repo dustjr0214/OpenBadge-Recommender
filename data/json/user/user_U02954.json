@@ -1,0 +1,14 @@
+{
+    "user_id": "U02954",
+    "name": "Jason Clark",
+    "email": "morrisonchristina@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03489', 'B02311']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Smith, Kelly and Blake for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01592']"
+}

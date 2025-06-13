@@ -1,0 +1,14 @@
+{
+    "user_id": "U08034",
+    "name": "Carol Shepard",
+    "email": "mtorres@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02817', 'B07141', 'B03942']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Vaughan, Sanchez and Lopez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

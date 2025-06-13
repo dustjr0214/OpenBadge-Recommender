@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04912",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis', 'Python']",
+    "competency": "['Data Analysis', 'Analytical Skills', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B09026', 'B09912']"
+}

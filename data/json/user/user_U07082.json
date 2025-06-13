@@ -1,0 +1,14 @@
+{
+    "user_id": "U07082",
+    "name": "Tanya Wiley",
+    "email": "sallymartinez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03049', 'B03792', 'B02826', 'B04061']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Monroe PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03798', 'B02083', 'B08050', 'B03428']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08292",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Deep Learning']",
+    "competency": "['Teamwork', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08384', 'B08363']"
+}

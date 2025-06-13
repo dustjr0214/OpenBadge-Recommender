@@ -1,0 +1,14 @@
+{
+    "user_id": "U09389",
+    "name": "Brandon Gibson",
+    "email": "jholloway@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00578', 'B01594']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at West-Arnold for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09505', 'B00050']"
+}

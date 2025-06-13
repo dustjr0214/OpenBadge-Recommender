@@ -1,0 +1,14 @@
+{
+    "user_id": "U05548",
+    "name": "Teresa Jones",
+    "email": "david17@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05519', 'B06560', 'B05184']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Rogers-Ryan for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

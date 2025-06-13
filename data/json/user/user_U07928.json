@@ -1,0 +1,14 @@
+{
+    "user_id": "U07928",
+    "name": "Brandon Melendez",
+    "email": "thomasolson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05198', 'B02634', 'B00330', 'B03239', 'B00069']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Jones-Coleman for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03457', 'B01401']"
+}

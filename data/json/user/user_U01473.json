@@ -1,0 +1,14 @@
+{
+    "user_id": "U01473",
+    "name": "Tasha Smith",
+    "email": "ksmith@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03431', 'B07338', 'B02296']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Pennington and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01103', 'B05396', 'B09557', 'B04499']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08199",
+    "name": "Wanda Frank",
+    "email": "rfrank@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02825', 'B03509']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Conner-Gallegos for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07999', 'B02821', 'B05731', 'B03171']"
+}

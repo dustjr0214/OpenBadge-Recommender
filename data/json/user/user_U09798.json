@@ -1,0 +1,14 @@
+{
+    "user_id": "U09798",
+    "name": "Patricia Johnson",
+    "email": "pmcdonald@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09071']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Lane, Evans and Taylor for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06992']"
+}

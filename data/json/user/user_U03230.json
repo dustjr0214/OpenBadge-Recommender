@@ -1,0 +1,14 @@
+{
+    "user_id": "U03230",
+    "name": "Kevin Jackson",
+    "email": "wochoa@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05066', 'B07154', 'B08425', 'B05136', 'B09358']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Anderson-Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05546', 'B06818', 'B04268']"
+}

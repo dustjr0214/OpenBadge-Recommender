@@ -1,0 +1,14 @@
+{
+    "user_id": "U03368",
+    "name": "Lindsay Higgins",
+    "email": "fordamanda@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00061']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Donaldson, Little and Rose for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03561', 'B02018', 'B05851', 'B04419', 'B01640']"
+}

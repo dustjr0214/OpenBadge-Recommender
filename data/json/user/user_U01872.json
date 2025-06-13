@@ -1,0 +1,14 @@
+{
+    "user_id": "U01872",
+    "name": "Andrew Barnes",
+    "email": "amy84@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04494', 'B00320']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Parker-Brown for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00954', 'B09994', 'B06996']"
+}

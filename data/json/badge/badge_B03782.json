@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03782",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'DevOps', 'Cybersecurity']",
+    "competency": "['Machine Learning', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06847', 'B08993']"
+}

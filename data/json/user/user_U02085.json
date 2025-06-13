@@ -1,0 +1,14 @@
+{
+    "user_id": "U02085",
+    "name": "Megan West",
+    "email": "reynoldstimothy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01212', 'B05678']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Jones-Huber for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02084', 'B04025', 'B01254']"
+}

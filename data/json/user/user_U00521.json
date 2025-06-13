@@ -1,0 +1,14 @@
+{
+    "user_id": "U00521",
+    "name": "Amanda Maldonado",
+    "email": "danny10@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04670']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Berger-Reed for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02230', 'B01195', 'B04049', 'B05309', 'B04668']"
+}

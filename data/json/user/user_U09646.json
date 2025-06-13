@@ -1,0 +1,14 @@
+{
+    "user_id": "U09646",
+    "name": "Donald Smith",
+    "email": "caitlinnorris@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01243', 'B02908', 'B09463', 'B06560']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Smith-Alvarado for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04638', 'B08670', 'B05509', 'B03943']"
+}

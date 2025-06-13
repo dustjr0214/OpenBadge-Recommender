@@ -1,0 +1,14 @@
+{
+    "user_id": "U00997",
+    "name": "Shane Winters",
+    "email": "jnelson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09477', 'B04766', 'B03457', 'B05459', 'B02762']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mccoy-Miller for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02074', 'B05581', 'B08466', 'B03269', 'B04463']"
+}

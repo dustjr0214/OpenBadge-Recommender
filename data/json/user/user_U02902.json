@@ -1,0 +1,14 @@
+{
+    "user_id": "U02902",
+    "name": "Julie Myers",
+    "email": "clarkwilliam@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05564']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Ray, Rose and Perez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

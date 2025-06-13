@@ -1,0 +1,14 @@
+{
+    "user_id": "U04486",
+    "name": "Teresa Foley",
+    "email": "michael77@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05989', 'B02617', 'B00990', 'B09421', 'B05420']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rodriguez-Spears for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

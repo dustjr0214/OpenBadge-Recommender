@@ -1,0 +1,14 @@
+{
+    "user_id": "U09123",
+    "name": "Carla Lane",
+    "email": "mercerzoe@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06382', 'B07030', 'B04981', 'B02310', 'B07350']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Murphy PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00259', 'B08945', 'B08936', 'B05728']"
+}

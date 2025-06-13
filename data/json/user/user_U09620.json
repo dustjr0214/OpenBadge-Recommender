@@ -1,0 +1,14 @@
+{
+    "user_id": "U09620",
+    "name": "Jacob Hardy",
+    "email": "bvargas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07505', 'B01959', 'B02285', 'B01589']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Ryan, Burns and Smith for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02311', 'B09368', 'B08557', 'B06743']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08178",
+    "name": "Jenny Lowery",
+    "email": "sshaw@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03525', 'B09329', 'B03412', 'B07052']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Morales LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04938', 'B05013', 'B08147', 'B09574']"
+}

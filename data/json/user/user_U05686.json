@@ -1,0 +1,14 @@
+{
+    "user_id": "U05686",
+    "name": "Erik Kelly",
+    "email": "sgallegos@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05604', 'B09953']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Kemp, Martin and Brown for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04833']"
+}

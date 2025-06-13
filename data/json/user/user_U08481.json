@@ -1,0 +1,14 @@
+{
+    "user_id": "U08481",
+    "name": "Cheryl Burch",
+    "email": "carolwiley@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07522', 'B02963', 'B07471']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Strickland-Johnson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01661', 'B01584', 'B02827']"
+}

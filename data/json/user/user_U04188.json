@@ -1,0 +1,14 @@
+{
+    "user_id": "U04188",
+    "name": "Mark Allen",
+    "email": "bradleybarnes@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02483', 'B04644', 'B05162', 'B04631']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Olson-Glover for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06711', 'B08044', 'B00022']"
+}

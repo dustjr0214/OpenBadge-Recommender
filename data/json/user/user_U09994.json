@@ -1,0 +1,14 @@
+{
+    "user_id": "U09994",
+    "name": "David Cantu",
+    "email": "ckennedy@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04879', 'B03446']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Sanchez-Thompson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02529', 'B04692', 'B00697', 'B07252', 'B06112']"
+}

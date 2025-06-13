@@ -1,0 +1,14 @@
+{
+    "user_id": "U07524",
+    "name": "Ethan Burke",
+    "email": "gabriel49@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04895', 'B06713', 'B07751', 'B08749']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Bradley, Jones and Lewis for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02310', 'B06994', 'B07334', 'B07212']"
+}

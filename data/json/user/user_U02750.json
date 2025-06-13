@@ -1,0 +1,14 @@
+{
+    "user_id": "U02750",
+    "name": "Dr. William Atkins",
+    "email": "johnpalmer@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02783']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Wright, Johnson and Lambert for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00707', 'B03570']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07351",
+    "name": "Derek Rivera",
+    "email": "adamsjesse@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05569', 'B04871', 'B09551', 'B06599', 'B08755']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Roberts-Malone for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06607', 'B03895', 'B08701']"
+}

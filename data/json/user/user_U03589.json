@@ -1,0 +1,14 @@
+{
+    "user_id": "U03589",
+    "name": "David Chapman",
+    "email": "ramirezemily@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06956', 'B05872', 'B02503', 'B07359', 'B08448']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Turner LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07455']"
+}

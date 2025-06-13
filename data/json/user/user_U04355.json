@@ -1,0 +1,14 @@
+{
+    "user_id": "U04355",
+    "name": "Nathaniel Brown",
+    "email": "eray@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04335', 'B01065', 'B03112', 'B09095', 'B07313']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Perez-Hansen for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07020', 'B01814', 'B00130', 'B06731']"
+}

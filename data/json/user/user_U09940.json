@@ -1,0 +1,14 @@
+{
+    "user_id": "U09940",
+    "name": "Alicia Burns",
+    "email": "qgregory@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Williams PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00291', 'B00882', 'B00446', 'B06470']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03590",
+    "name": "John Tyler",
+    "email": "phamkevin@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Jones-Moore for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05284', 'B06860']"
+}

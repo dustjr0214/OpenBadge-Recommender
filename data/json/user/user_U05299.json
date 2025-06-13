@@ -1,0 +1,14 @@
+{
+    "user_id": "U05299",
+    "name": "Diane Edwards",
+    "email": "matthewmoreno@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05857', 'B01724', 'B06940', 'B09544']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Waller Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06018', 'B02540', 'B08191']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05606",
+    "name": "Erik Richard",
+    "email": "davidross@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06587', 'B06449', 'B09016']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hale-Hall for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09137', 'B05884', 'B08940', 'B00279', 'B08862']"
+}

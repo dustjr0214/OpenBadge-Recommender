@@ -1,0 +1,14 @@
+{
+    "user_id": "U05905",
+    "name": "Kimberly Callahan",
+    "email": "katherine35@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04240', 'B07960', 'B07579', 'B03281', 'B02352']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Robertson, Robinson and Lopez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09891', 'B04453', 'B02230', 'B04885', 'B06623']"
+}

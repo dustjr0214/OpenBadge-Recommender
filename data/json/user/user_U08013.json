@@ -1,0 +1,14 @@
+{
+    "user_id": "U08013",
+    "name": "Natasha Pope",
+    "email": "allen66@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06211', 'B08776']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Williams, Villarreal and Fleming for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03495', 'B07229', 'B01464', 'B03241', 'B04894']"
+}

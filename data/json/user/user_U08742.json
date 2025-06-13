@@ -1,0 +1,14 @@
+{
+    "user_id": "U08742",
+    "name": "Ashley Ferguson",
+    "email": "tmoore@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09608', 'B06516', 'B05421', 'B03478']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Dyer, Parks and West for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09305', 'B09505', 'B02954', 'B08983', 'B08540']"
+}

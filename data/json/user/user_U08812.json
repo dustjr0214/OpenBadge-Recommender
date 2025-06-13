@@ -1,0 +1,14 @@
+{
+    "user_id": "U08812",
+    "name": "Jessica Phillips",
+    "email": "carriemata@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06348', 'B00481', 'B06645', 'B02292', 'B03094']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lewis and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01273', 'B04636']"
+}

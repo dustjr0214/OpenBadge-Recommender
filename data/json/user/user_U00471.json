@@ -1,0 +1,14 @@
+{
+    "user_id": "U00471",
+    "name": "Chelsea Garcia",
+    "email": "davidsullivan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01945', 'B04284']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Ali, Jones and Murray for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02105']"
+}

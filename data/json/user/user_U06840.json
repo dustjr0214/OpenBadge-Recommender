@@ -1,0 +1,14 @@
+{
+    "user_id": "U06840",
+    "name": "Tiffany Garcia",
+    "email": "patriciamartin@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08877', 'B08182']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wilcox LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01852']"
+}

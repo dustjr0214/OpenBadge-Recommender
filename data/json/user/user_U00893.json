@@ -1,0 +1,14 @@
+{
+    "user_id": "U00893",
+    "name": "Jessica Raymond",
+    "email": "leenicholas@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06630', 'B01561', 'B09102', 'B05818']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Harris, Collins and Patel for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04259', 'B02665', 'B09548']"
+}

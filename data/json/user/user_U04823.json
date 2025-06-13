@@ -1,0 +1,14 @@
+{
+    "user_id": "U04823",
+    "name": "Mr. Patrick Robinson",
+    "email": "btorres@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06492', 'B04658', 'B02135', 'B06912']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cannon-Good for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09444', 'B08278', 'B09227']"
+}

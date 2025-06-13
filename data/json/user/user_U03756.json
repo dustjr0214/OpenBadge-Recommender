@@ -1,0 +1,14 @@
+{
+    "user_id": "U03756",
+    "name": "Kimberly Ross",
+    "email": "abigail24@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08041']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Marks, Black and Good for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07774', 'B07203']"
+}

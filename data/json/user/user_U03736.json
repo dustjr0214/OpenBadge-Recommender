@@ -1,0 +1,14 @@
+{
+    "user_id": "U03736",
+    "name": "William Franklin",
+    "email": "amandaodonnell@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01645', 'B06762']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Ramirez-Porter for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03160', 'B07414', 'B08326']"
+}

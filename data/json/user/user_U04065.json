@@ -1,0 +1,14 @@
+{
+    "user_id": "U04065",
+    "name": "Gary Wu",
+    "email": "mward@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09975', 'B03400']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Ray PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02803']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06431",
+    "name": "Jose Greer",
+    "email": "jamie80@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02116', 'B03767', 'B04878', 'B08838', 'B07983']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Wood PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

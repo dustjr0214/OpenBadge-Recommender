@@ -1,0 +1,14 @@
+{
+    "user_id": "U07565",
+    "name": "Devin Simmons",
+    "email": "ksanders@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01941']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ferguson-Hernandez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07180', 'B03600']"
+}

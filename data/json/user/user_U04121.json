@@ -1,0 +1,14 @@
+{
+    "user_id": "U04121",
+    "name": "Tracy Soto",
+    "email": "vtrevino@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Williams, Cruz and Sanchez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00994', 'B02208']"
+}

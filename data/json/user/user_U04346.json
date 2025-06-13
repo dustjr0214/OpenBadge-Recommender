@@ -1,0 +1,14 @@
+{
+    "user_id": "U04346",
+    "name": "Lisa Decker",
+    "email": "vswanson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01411', 'B03701', 'B05316', 'B02481', 'B02330']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Lopez, Robinson and Martin for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05351', 'B06729']"
+}

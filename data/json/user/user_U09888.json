@@ -1,0 +1,14 @@
+{
+    "user_id": "U09888",
+    "name": "Joseph Wallace",
+    "email": "tthomas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Kim LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09203', 'B07219', 'B07879', 'B02074', 'B09564']"
+}

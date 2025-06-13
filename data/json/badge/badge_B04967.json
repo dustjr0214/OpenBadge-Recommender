@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04967",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['SQL', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09533', 'B01228']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00263",
+    "name": "Robert Perry",
+    "email": "emily71@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02944', 'B08242', 'B01851', 'B01425', 'B07116']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Elliott Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07143', 'B06774', 'B09231']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00481",
+    "name": "Luis Romero",
+    "email": "ashleymurphy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02059']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Mcpherson, Jones and Johnson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

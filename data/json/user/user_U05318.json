@@ -1,0 +1,14 @@
+{
+    "user_id": "U05318",
+    "name": "Jenna Powers",
+    "email": "justin26@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07995', 'B03974', 'B06061', 'B00618', 'B01804']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Hoffman-Cunningham for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07469', 'B05819', 'B00860', 'B05103', 'B00098']"
+}

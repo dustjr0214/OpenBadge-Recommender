@@ -1,0 +1,14 @@
+{
+    "user_id": "U02832",
+    "name": "Trevor Campbell",
+    "email": "christensenteresa@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03000', 'B04180', 'B04053', 'B00363', 'B04227']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Becker, Porter and Taylor for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

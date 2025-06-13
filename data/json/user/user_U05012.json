@@ -1,0 +1,14 @@
+{
+    "user_id": "U05012",
+    "name": "Jordan Austin",
+    "email": "zvincent@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01296', 'B08400']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Campbell, Mckay and Smith for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02938', 'B09835', 'B01124', 'B07441', 'B06817']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05093",
+    "name": "Kathleen Harris",
+    "email": "hayeswendy@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08305']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Holloway-Jennings for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01999', 'B02297', 'B05568']"
+}

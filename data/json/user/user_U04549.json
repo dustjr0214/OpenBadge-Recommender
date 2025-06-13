@@ -1,0 +1,14 @@
+{
+    "user_id": "U04549",
+    "name": "William Payne",
+    "email": "kstokes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00182']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Lane Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03259', 'B04554', 'B00331', 'B08266', 'B06733']"
+}

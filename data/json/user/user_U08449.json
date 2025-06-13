@@ -1,0 +1,14 @@
+{
+    "user_id": "U08449",
+    "name": "Dustin Matthews",
+    "email": "smithtaylor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Weber, Yang and Randall for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00126', 'B04710']"
+}

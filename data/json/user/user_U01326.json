@@ -1,0 +1,14 @@
+{
+    "user_id": "U01326",
+    "name": "Christine Frederick",
+    "email": "justin93@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05349']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Sanchez Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03051', 'B03923', 'B05190', 'B03473', 'B00828']"
+}

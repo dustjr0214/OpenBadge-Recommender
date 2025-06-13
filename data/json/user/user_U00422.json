@@ -1,0 +1,14 @@
+{
+    "user_id": "U00422",
+    "name": "Amanda Smith",
+    "email": "danielgonzalez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06236']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Williams and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00075', 'B05547', 'B05545', 'B09104', 'B00811']"
+}

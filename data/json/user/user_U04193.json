@@ -1,0 +1,14 @@
+{
+    "user_id": "U04193",
+    "name": "Melissa Brown",
+    "email": "craigwong@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01438', 'B03037', 'B03590']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Nelson Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06295', 'B07760', 'B08746', 'B03909']"
+}

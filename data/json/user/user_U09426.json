@@ -1,0 +1,14 @@
+{
+    "user_id": "U09426",
+    "name": "Ariana Smith",
+    "email": "danielle42@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06539', 'B04328']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Lopez PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05905', 'B08341', 'B00207', 'B02185']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01623",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Machine Learning']",
+    "competency": "['Deep Learning', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08115', 'B00784']"
+}

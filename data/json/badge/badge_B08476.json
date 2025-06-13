@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08476",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency": "['Deep Learning', 'DevOps', 'Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

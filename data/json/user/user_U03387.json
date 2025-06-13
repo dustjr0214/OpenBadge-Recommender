@@ -1,0 +1,14 @@
+{
+    "user_id": "U03387",
+    "name": "Jamie Schroeder",
+    "email": "jimenezmaria@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rodriguez, Clark and Perez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05845', 'B08318']"
+}

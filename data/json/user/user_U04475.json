@@ -1,0 +1,14 @@
+{
+    "user_id": "U04475",
+    "name": "Angela Wilkinson",
+    "email": "lukepace@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01230', 'B02252', 'B07049']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Simpson-Terry for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06540']"
+}

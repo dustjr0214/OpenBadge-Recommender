@@ -1,0 +1,14 @@
+{
+    "user_id": "U08709",
+    "name": "Mary Coffey",
+    "email": "laura46@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08919', 'B05946', 'B00477', 'B07235', 'B04353']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Bowers Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04822', 'B00220', 'B08737', 'B01681', 'B04283']"
+}

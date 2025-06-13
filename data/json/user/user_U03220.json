@@ -1,0 +1,14 @@
+{
+    "user_id": "U03220",
+    "name": "Matthew Ellis",
+    "email": "jonathan27@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02809', 'B01600']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Stanley, Burns and Frey for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09640']"
+}

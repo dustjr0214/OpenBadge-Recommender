@@ -1,0 +1,14 @@
+{
+    "user_id": "U08559",
+    "name": "Jenna Weiss",
+    "email": "zsantiago@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00881', 'B03832', 'B08749', 'B03620', 'B04184']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at James, George and Martin for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07113', 'B05731']"
+}

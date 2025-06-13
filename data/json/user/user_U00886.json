@@ -1,0 +1,14 @@
+{
+    "user_id": "U00886",
+    "name": "Randy Anderson",
+    "email": "mallen@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00510']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Thomas-May for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07064', 'B08892', 'B09037', 'B03969']"
+}

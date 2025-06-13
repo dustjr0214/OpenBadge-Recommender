@@ -1,0 +1,14 @@
+{
+    "user_id": "U00220",
+    "name": "Timothy Gibson",
+    "email": "stephanie36@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02822', 'B09107']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Taylor-Sanchez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00546', 'B03277', 'B00261', 'B05515']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02618",
+    "name": "Craig Rivera",
+    "email": "valerie61@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03905', 'B08144', 'B03881']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Foster, Lowe and Webster for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02047', 'B06533', 'B04404']"
+}

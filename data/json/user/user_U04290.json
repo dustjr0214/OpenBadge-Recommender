@@ -1,0 +1,14 @@
+{
+    "user_id": "U04290",
+    "name": "Michael Hernandez",
+    "email": "aliciahunt@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00617', 'B08961']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Campbell-Savage for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08201', 'B01225', 'B09868', 'B07374', 'B05609']"
+}

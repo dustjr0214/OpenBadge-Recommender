@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07076",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity', 'Deep Learning']",
+    "competency": "['Cloud Computing', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

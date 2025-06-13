@@ -1,0 +1,14 @@
+{
+    "user_id": "U09938",
+    "name": "Jonathan Miller",
+    "email": "williamsmatthew@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02996']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Romero-Baker for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00895', 'B09542', 'B06837', 'B03151', 'B03256']"
+}

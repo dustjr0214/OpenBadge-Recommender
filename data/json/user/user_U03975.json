@@ -1,0 +1,14 @@
+{
+    "user_id": "U03975",
+    "name": "Stephanie Porter",
+    "email": "garzamarc@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07230']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Ramos-Foley for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00441', 'B02322', 'B09917', 'B01758']"
+}

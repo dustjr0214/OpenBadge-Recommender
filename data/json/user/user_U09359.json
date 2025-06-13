@@ -1,0 +1,14 @@
+{
+    "user_id": "U09359",
+    "name": "Jonathon Wilkins",
+    "email": "wrodriguez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06125']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Copeland Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

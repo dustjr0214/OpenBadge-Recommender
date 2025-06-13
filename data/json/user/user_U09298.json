@@ -1,0 +1,14 @@
+{
+    "user_id": "U09298",
+    "name": "Tina Robinson",
+    "email": "michelle63@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01325', 'B02249', 'B08828', 'B01544', 'B07604']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Kirby, Gomez and Blair for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08134', 'B09945', 'B07259', 'B06511', 'B03841']"
+}

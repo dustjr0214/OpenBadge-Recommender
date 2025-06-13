@@ -1,0 +1,14 @@
+{
+    "user_id": "U00251",
+    "name": "Jeffrey Phillips",
+    "email": "kevinhensley@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05291']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Mendez-Freeman for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07223', 'B06131', 'B06484']"
+}

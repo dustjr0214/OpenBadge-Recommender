@@ -1,0 +1,14 @@
+{
+    "user_id": "U09289",
+    "name": "Samantha Pierce",
+    "email": "ryanthomas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08509', 'B05505']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Powell, Roberts and Thomas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03782', 'B00351', 'B05450', 'B03035', 'B07178']"
+}

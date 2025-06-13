@@ -1,0 +1,14 @@
+{
+    "user_id": "U02013",
+    "name": "Christine Boyle",
+    "email": "stewartjohn@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07035', 'B00739', 'B05208', 'B00786']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Brown Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09289', 'B03541', 'B03929', 'B03597']"
+}

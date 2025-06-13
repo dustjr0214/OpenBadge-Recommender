@@ -1,0 +1,14 @@
+{
+    "user_id": "U07672",
+    "name": "Kenneth Wilson",
+    "email": "anthony31@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02769', 'B08478', 'B07197']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Knapp, Bennett and Freeman for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07390', 'B05642']"
+}

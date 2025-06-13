@@ -1,0 +1,14 @@
+{
+    "user_id": "U02829",
+    "name": "James Bradshaw",
+    "email": "smithjeffrey@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hart Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03080']"
+}

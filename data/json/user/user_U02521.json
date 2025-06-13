@@ -1,0 +1,14 @@
+{
+    "user_id": "U02521",
+    "name": "Austin Moss",
+    "email": "ywilson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09782', 'B07614', 'B02129', 'B06901', 'B06748']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Anderson Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08170', 'B00987', 'B03802']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02926",
+    "name": "Ashley Valencia",
+    "email": "johnperez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06582', 'B08696', 'B00182']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Roberts, Glass and Gibson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05045', 'B07251', 'B09268', 'B08341', 'B05876']"
+}

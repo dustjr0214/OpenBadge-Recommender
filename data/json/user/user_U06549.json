@@ -1,0 +1,14 @@
+{
+    "user_id": "U06549",
+    "name": "Jason Nichols",
+    "email": "john15@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04562']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mosley, Mata and Hanson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05849', 'B04445', 'B04697', 'B00244', 'B00429']"
+}

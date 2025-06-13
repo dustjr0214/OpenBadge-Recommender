@@ -1,0 +1,14 @@
+{
+    "user_id": "U05663",
+    "name": "Krista Cook",
+    "email": "karensanders@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01498']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Perkins, Hayes and Hill for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04778']"
+}

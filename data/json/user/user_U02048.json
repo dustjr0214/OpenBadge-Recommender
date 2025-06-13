@@ -1,0 +1,14 @@
+{
+    "user_id": "U02048",
+    "name": "Charles Callahan",
+    "email": "rachel60@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03311', 'B00467', 'B08684']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cooper-Gonzales for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09856', 'B00172', 'B04999']"
+}

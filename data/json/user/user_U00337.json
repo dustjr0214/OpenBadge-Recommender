@@ -1,0 +1,14 @@
+{
+    "user_id": "U00337",
+    "name": "Ryan Garcia",
+    "email": "micheleconner@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00846', 'B03474', 'B08517', 'B06853', 'B02220']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Baker-May for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07318', 'B06214', 'B01471']"
+}

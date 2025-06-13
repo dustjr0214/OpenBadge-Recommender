@@ -1,0 +1,14 @@
+{
+    "user_id": "U09693",
+    "name": "Jennifer Stanley",
+    "email": "kristin04@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08881', 'B05356']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Jones, Cole and Cooper for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03572', 'B00225', 'B08516', 'B06925', 'B05686']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04960",
+    "name": "Mrs. Jennifer Gonzales",
+    "email": "gmorton@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05309']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Osborne-Acosta for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01906', 'B08902']"
+}

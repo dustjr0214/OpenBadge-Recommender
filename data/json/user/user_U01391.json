@@ -1,0 +1,14 @@
+{
+    "user_id": "U01391",
+    "name": "Phillip Nguyen",
+    "email": "daviskyle@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01678', 'B04860', 'B04818', 'B06235', 'B07661']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Conner-Boone for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00184', 'B04275', 'B05429', 'B04876', 'B04087']"
+}

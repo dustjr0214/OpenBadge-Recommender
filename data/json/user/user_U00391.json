@@ -1,0 +1,14 @@
+{
+    "user_id": "U00391",
+    "name": "Eric Avila",
+    "email": "wuabigail@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06230', 'B08719']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hall and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05402', 'B04004', 'B04644', 'B06254']"
+}

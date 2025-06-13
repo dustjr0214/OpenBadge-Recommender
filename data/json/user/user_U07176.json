@@ -1,0 +1,14 @@
+{
+    "user_id": "U07176",
+    "name": "Christopher Baker",
+    "email": "craigmyers@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Moran, Fields and Joyce for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01643', 'B01904']"
+}

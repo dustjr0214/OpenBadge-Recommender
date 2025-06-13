@@ -1,0 +1,14 @@
+{
+    "user_id": "U00571",
+    "name": "Melinda Lee",
+    "email": "jbennett@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rhodes Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05770', 'B05608', 'B01748', 'B05203', 'B02718']"
+}

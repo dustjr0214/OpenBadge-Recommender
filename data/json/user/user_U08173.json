@@ -1,0 +1,14 @@
+{
+    "user_id": "U08173",
+    "name": "Debra Martin",
+    "email": "coleerin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Fitzgerald, Brooks and Rivera for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01659', 'B05793', 'B04555', 'B01832']"
+}

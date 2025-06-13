@@ -1,0 +1,14 @@
+{
+    "user_id": "U01885",
+    "name": "Brandy Li",
+    "email": "rmiles@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02905', 'B05612', 'B01710', 'B07622', 'B05059']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Reid, Miller and Wood for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06124', 'B02441', 'B05437']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06543",
+    "name": "Ashley Nguyen",
+    "email": "cmathews@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Juarez, Cook and Holland for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07846', 'B01973']"
+}

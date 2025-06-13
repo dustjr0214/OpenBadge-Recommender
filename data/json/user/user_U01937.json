@@ -1,0 +1,14 @@
+{
+    "user_id": "U01937",
+    "name": "Samantha Rose",
+    "email": "qporter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06625']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Martinez, Banks and Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07253', 'B04343', 'B05491']"
+}

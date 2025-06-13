@@ -1,0 +1,14 @@
+{
+    "user_id": "U04326",
+    "name": "Lisa Flores",
+    "email": "ubishop@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05756', 'B06914', 'B05582', 'B09557', 'B04166']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Watkins, Bates and Mcbride for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06391', 'B01991', 'B05587', 'B05982']"
+}

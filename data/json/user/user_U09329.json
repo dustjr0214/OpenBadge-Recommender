@@ -1,0 +1,14 @@
+{
+    "user_id": "U09329",
+    "name": "Timothy Martin",
+    "email": "colehernandez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03025', 'B05748', 'B03090']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Wolfe PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

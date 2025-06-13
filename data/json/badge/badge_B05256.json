@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05256",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'DevOps']",
+    "competency": "['Analytical Skills', 'Machine Learning', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03313']"
+}

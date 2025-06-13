@@ -1,0 +1,14 @@
+{
+    "user_id": "U03733",
+    "name": "Rebecca Perkins DVM",
+    "email": "johnsonjason@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03305', 'B02101', 'B09918', 'B04433']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Burgess PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06872']"
+}

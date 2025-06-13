@@ -1,0 +1,14 @@
+{
+    "user_id": "U09464",
+    "name": "Kim Collins",
+    "email": "heathergriffin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09886', 'B08472']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Dunlap Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00084', 'B03803', 'B08857', 'B09939', 'B05458']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02876",
+    "name": "Natasha Tucker",
+    "email": "maxwell90@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01336', 'B06534']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Johnson-Hill for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

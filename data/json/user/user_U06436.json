@@ -1,0 +1,14 @@
+{
+    "user_id": "U06436",
+    "name": "Chad Robinson",
+    "email": "wperez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01153', 'B08763', 'B08935', 'B08732']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Murray, Williams and Bridges for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

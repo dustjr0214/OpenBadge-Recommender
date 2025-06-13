@@ -1,0 +1,14 @@
+{
+    "user_id": "U07049",
+    "name": "Jessica Lewis",
+    "email": "robinsmith@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09489', 'B04975', 'B06059']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Wood-Reese for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

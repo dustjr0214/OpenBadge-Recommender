@@ -1,0 +1,14 @@
+{
+    "user_id": "U03194",
+    "name": "Virginia Rose",
+    "email": "samanthasilva@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00362', 'B04146', 'B07720', 'B07609', 'B08080']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Herring, Boyer and Wilson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

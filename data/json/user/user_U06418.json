@@ -1,0 +1,14 @@
+{
+    "user_id": "U06418",
+    "name": "Troy Malone",
+    "email": "landryeric@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06966', 'B03284', 'B05613']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Sullivan, Mckenzie and Obrien for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08088', 'B02747', 'B01264']"
+}

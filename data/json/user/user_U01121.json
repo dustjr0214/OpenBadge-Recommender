@@ -1,0 +1,14 @@
+{
+    "user_id": "U01121",
+    "name": "Lisa Jones",
+    "email": "larry20@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at James, Mejia and Davis for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07912', 'B04009', 'B01821', 'B03255']"
+}

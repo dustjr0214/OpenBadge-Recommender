@@ -1,0 +1,14 @@
+{
+    "user_id": "U02708",
+    "name": "William Moore",
+    "email": "maryflores@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09767', 'B09874', 'B09338', 'B05945', 'B03591']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Fox Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01908', 'B09486']"
+}

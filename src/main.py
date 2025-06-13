@@ -12,7 +12,10 @@ app = FastAPI(
 # CORS 설정
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # 실제 운영 환경에서는 특정 도메인만 허용하도록 수정
+    allow_origins=["http://localhost:3000",
+                   "http://localhost:8000",
+                   "https://openbadgesyu.web.app/",
+                   "https://openbadgesyu.firebaseapp.com/"],  # 실제 운영 환경에서는 특정 도메인만 허용하도록 수정
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

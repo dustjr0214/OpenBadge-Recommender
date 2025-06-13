@@ -1,0 +1,14 @@
+{
+    "user_id": "U05483",
+    "name": "Daniel Roberson",
+    "email": "austinsparks@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05709', 'B02770', 'B03229', 'B00204']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Williams-Moon for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06138', 'B01163', 'B05914', 'B06329']"
+}

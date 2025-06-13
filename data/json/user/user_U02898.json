@@ -1,0 +1,14 @@
+{
+    "user_id": "U02898",
+    "name": "John Hopkins",
+    "email": "eric48@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07899', 'B02057', 'B09214', 'B07027', 'B09267']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Henderson, Bell and Taylor for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04909', 'B05866', 'B05747', 'B01323']"
+}

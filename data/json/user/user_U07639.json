@@ -1,0 +1,14 @@
+{
+    "user_id": "U07639",
+    "name": "Connor Ramirez",
+    "email": "jillthompson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01829', 'B08037']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Reese LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02414', 'B08802', 'B01984', 'B06674']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02608",
+    "name": "Melissa James",
+    "email": "john67@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02765', 'B00931', 'B01026', 'B01387']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Huber-Shaw for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08993', 'B01868', 'B05097']"
+}

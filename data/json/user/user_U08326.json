@@ -1,0 +1,14 @@
+{
+    "user_id": "U08326",
+    "name": "James Edwards",
+    "email": "davisterri@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01896', 'B08309', 'B00224']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cross-Thompson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

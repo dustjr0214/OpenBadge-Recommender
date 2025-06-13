@@ -1,0 +1,14 @@
+{
+    "user_id": "U06011",
+    "name": "Albert Chang",
+    "email": "alexa19@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04811']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wright LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04817', 'B07694']"
+}

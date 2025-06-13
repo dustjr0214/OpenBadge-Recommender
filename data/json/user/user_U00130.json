@@ -1,0 +1,14 @@
+{
+    "user_id": "U00130",
+    "name": "Gail Lee",
+    "email": "hrodgers@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07350', 'B06556', 'B03878']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Boyer PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07305', 'B03180', 'B00860']"
+}

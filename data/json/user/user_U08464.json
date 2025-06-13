@@ -1,0 +1,14 @@
+{
+    "user_id": "U08464",
+    "name": "Joseph Park",
+    "email": "debra14@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00155', 'B05845', 'B02942', 'B06054', 'B08606']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Smith, Mooney and Lang for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09530', 'B07668', 'B09384', 'B01043']"
+}

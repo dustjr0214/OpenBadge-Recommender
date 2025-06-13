@@ -1,0 +1,14 @@
+{
+    "user_id": "U01439",
+    "name": "Eric Fletcher",
+    "email": "richardescobar@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08364', 'B09767', 'B02319']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Johnson-Sullivan for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02174', 'B00578', 'B05193']"
+}

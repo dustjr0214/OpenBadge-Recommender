@@ -1,0 +1,14 @@
+{
+    "user_id": "U01549",
+    "name": "Logan Nguyen",
+    "email": "amandahurst@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01632', 'B03594', 'B02771']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Reed, Montgomery and Chang for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04520', 'B06215']"
+}

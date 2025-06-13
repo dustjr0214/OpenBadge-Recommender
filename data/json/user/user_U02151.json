@@ -1,0 +1,14 @@
+{
+    "user_id": "U02151",
+    "name": "Victor Richardson",
+    "email": "joshua74@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04446', 'B04531', 'B01669', 'B02750']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Ross Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08878', 'B09879', 'B05695', 'B05582', 'B06025']"
+}

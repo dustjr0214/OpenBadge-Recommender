@@ -1,0 +1,14 @@
+{
+    "user_id": "U07579",
+    "name": "Nancy Campbell",
+    "email": "veronica70@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Dalton LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07172', 'B08899']"
+}

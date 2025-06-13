@@ -1,0 +1,14 @@
+{
+    "user_id": "U00887",
+    "name": "Alexander Johnston",
+    "email": "kendra92@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04603', 'B01838', 'B04872', 'B05953']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Hodges, Carson and Vasquez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03176', 'B06503', 'B08527', 'B07106']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06236",
+    "name": "George Harris",
+    "email": "jamiegaines@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03839']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Maldonado-Carter for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05038']"
+}

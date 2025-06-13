@@ -1,0 +1,14 @@
+{
+    "user_id": "U03286",
+    "name": "Jacob Johnson",
+    "email": "jill90@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07715', 'B01617', 'B06185', 'B00426']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Reed, Williams and Beltran for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06292', 'B07380', 'B01683', 'B08426', 'B08796']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06402",
+    "name": "Valerie Douglas",
+    "email": "natasharios@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07740', 'B07848', 'B04400']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Taylor, Freeman and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

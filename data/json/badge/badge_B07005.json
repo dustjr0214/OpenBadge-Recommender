@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07005",
+    "name": "Cloud Computing Guru",
+    "issuer": "edX",
+    "description": "Cloud Computing Guru badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'Python', 'SQL']",
+    "competency": "['SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B07409']"
+}

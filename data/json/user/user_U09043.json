@@ -1,0 +1,14 @@
+{
+    "user_id": "U09043",
+    "name": "Jill Carroll",
+    "email": "lorismith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03987', 'B05042', 'B06482', 'B05328']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Brown-Conner for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01449', 'B01980', 'B03973']"
+}

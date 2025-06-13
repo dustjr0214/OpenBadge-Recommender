@@ -1,0 +1,14 @@
+{
+    "user_id": "U08359",
+    "name": "Jose Mendez",
+    "email": "tjones@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02469', 'B04518', 'B00006']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Duncan, Wheeler and Craig for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03315', 'B03290', 'B09379', 'B02152', 'B04755']"
+}

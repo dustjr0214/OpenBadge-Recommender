@@ -1,0 +1,14 @@
+{
+    "user_id": "U00985",
+    "name": "Julie Warren",
+    "email": "lopezmichael@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Spencer-King for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06901', 'B05485', 'B01047', 'B09048']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04206",
+    "name": "Randall Foster",
+    "email": "qwilson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01005']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Frost and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00665', 'B07605', 'B07292']"
+}

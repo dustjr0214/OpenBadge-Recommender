@@ -1,0 +1,14 @@
+{
+    "user_id": "U06225",
+    "name": "Cody Kim",
+    "email": "lucassarah@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09317', 'B09632']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Guerra, Owens and Oneill for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00293', 'B00606', 'B09132', 'B01843']"
+}

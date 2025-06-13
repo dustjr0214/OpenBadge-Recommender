@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03687",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency": "['Machine Learning', 'DevOps', 'Analytical Skills']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B07611', 'B05621']"
+}

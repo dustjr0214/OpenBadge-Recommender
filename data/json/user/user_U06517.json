@@ -1,0 +1,14 @@
+{
+    "user_id": "U06517",
+    "name": "Lisa Tucker",
+    "email": "jacquelinehayes@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01516', 'B01094']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Mclaughlin for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04292', 'B09979', 'B03505', 'B08446', 'B08687']"
+}

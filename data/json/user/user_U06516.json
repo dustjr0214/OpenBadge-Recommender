@@ -1,0 +1,14 @@
+{
+    "user_id": "U06516",
+    "name": "Alexander Huynh",
+    "email": "brandonsmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07365', 'B02629', 'B09162', 'B02235']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Wright-Gray for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05192', 'B00552', 'B06885', 'B04862', 'B06687']"
+}

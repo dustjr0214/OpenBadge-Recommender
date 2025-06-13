@@ -1,0 +1,14 @@
+{
+    "user_id": "U04582",
+    "name": "Elaine Wood",
+    "email": "hernandeztabitha@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04639', 'B03253', 'B08386']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Wilson, Macdonald and Fields for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05558', 'B07829', 'B06216', 'B02244']"
+}

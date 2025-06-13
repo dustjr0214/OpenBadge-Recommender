@@ -1,0 +1,14 @@
+{
+    "user_id": "U07382",
+    "name": "Larry Martinez",
+    "email": "christopherwallace@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04501', 'B07182', 'B02329', 'B09169', 'B02235']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Reynolds-Murphy for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08530', 'B06486', 'B05003', 'B08887', 'B08389']"
+}

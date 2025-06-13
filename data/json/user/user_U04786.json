@@ -1,0 +1,14 @@
+{
+    "user_id": "U04786",
+    "name": "David Davis",
+    "email": "adkinsmegan@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05779', 'B03751']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Pineda, Blake and Nguyen for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04460', 'B08266']"
+}

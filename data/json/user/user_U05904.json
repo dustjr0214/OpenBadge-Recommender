@@ -1,0 +1,14 @@
+{
+    "user_id": "U05904",
+    "name": "Christopher Marshall",
+    "email": "jill08@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07959', 'B01409', 'B02060']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Douglas and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04481', 'B05333', 'B04042', 'B06536']"
+}

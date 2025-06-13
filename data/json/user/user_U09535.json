@@ -1,0 +1,14 @@
+{
+    "user_id": "U09535",
+    "name": "Julie Martin",
+    "email": "danagriffin@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06740']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Massey-Colon for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02349', 'B05969', 'B08127', 'B05467']"
+}

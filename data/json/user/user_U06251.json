@@ -1,0 +1,14 @@
+{
+    "user_id": "U06251",
+    "name": "Thomas White",
+    "email": "whall@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01490', 'B03298', 'B04138', 'B07019', 'B02950']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Velez, Aguilar and Long for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03187', 'B02100', 'B00730']"
+}

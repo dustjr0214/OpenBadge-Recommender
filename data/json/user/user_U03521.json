@@ -1,0 +1,14 @@
+{
+    "user_id": "U03521",
+    "name": "Mark Ferguson",
+    "email": "nicoleyates@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05635', 'B01542', 'B08584']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mills PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02303', 'B07816', 'B09539', 'B01034']"
+}

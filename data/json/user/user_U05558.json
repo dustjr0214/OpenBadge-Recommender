@@ -1,0 +1,14 @@
+{
+    "user_id": "U05558",
+    "name": "Thomas Cameron",
+    "email": "bdavis@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05467']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Lin, Brown and Novak for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02543', 'B05614']"
+}

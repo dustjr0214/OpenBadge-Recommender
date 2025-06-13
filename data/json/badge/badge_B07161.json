@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07161",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing']",
+    "competency": "['Data Analysis', 'Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07747']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07245",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Creativity', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

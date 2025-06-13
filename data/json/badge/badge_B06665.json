@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06665",
+    "name": "Cybersecurity Professional",
+    "issuer": "edX",
+    "description": "Cybersecurity Professional badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL']",
+    "competency": "['Data Analysis', 'Deep Learning']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B08546']"
+}

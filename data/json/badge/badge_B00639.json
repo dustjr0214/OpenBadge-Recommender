@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00639",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'DevOps', 'Python']",
+    "competency": "['Leadership', 'Deep Learning', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04648",
+    "name": "John Moore",
+    "email": "vargasjennifer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05258', 'B00677', 'B04731', 'B08237', 'B06474']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Castillo, Barber and Ford for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02412']"
+}

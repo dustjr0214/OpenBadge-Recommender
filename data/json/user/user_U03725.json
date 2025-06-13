@@ -1,0 +1,14 @@
+{
+    "user_id": "U03725",
+    "name": "Shari Green",
+    "email": "hannah90@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08841', 'B09867', 'B04962', 'B09915']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Alexander, Murray and Hanson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08601', 'B01114', 'B04752', 'B01890', 'B06200']"
+}

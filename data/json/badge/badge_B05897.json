@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05897",
+    "name": "Cybersecurity Professional",
+    "issuer": "Google",
+    "description": "Cybersecurity Professional badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'SQL', 'UI/UX']",
+    "competency": "['Problem Solving', 'DevOps', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06297', 'B08447']"
+}

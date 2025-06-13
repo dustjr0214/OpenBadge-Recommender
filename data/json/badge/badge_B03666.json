@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03666",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency": "['SQL', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07112']"
+}

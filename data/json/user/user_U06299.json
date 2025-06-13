@@ -1,0 +1,14 @@
+{
+    "user_id": "U06299",
+    "name": "Loretta Sandoval",
+    "email": "dgregory@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05654', 'B05132']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Smith LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03586', 'B09994', 'B04672', 'B07951']"
+}

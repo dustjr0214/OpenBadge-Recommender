@@ -1,0 +1,14 @@
+{
+    "user_id": "U00719",
+    "name": "Jacqueline Rogers DVM",
+    "email": "nclayton@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02430', 'B00992', 'B01209', 'B01065', 'B01594']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wood, Hoffman and Scott for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04867', 'B03299', 'B07808', 'B00227']"
+}

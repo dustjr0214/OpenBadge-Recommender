@@ -1,0 +1,14 @@
+{
+    "user_id": "U07734",
+    "name": "Sandra Banks",
+    "email": "cannonbrad@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08010']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Roy-Lee for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

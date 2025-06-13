@@ -1,0 +1,14 @@
+{
+    "user_id": "U03079",
+    "name": "Donna Vazquez",
+    "email": "fordrachael@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05622', 'B04896', 'B03611', 'B02822']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson, Garza and Smith for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05627', 'B07569', 'B03838', 'B03107', 'B06669']"
+}

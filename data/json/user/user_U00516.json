@@ -1,0 +1,14 @@
+{
+    "user_id": "U00516",
+    "name": "Karen Hoover",
+    "email": "owensmorgan@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04766', 'B03680', 'B05662']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Ortiz Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01924']"
+}

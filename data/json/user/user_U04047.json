@@ -1,0 +1,14 @@
+{
+    "user_id": "U04047",
+    "name": "Stephanie Ross",
+    "email": "melissa27@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09957', 'B08634', 'B03647']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Jimenez-Jones for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05907', 'B03400']"
+}

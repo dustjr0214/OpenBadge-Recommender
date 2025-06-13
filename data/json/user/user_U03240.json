@@ -1,0 +1,14 @@
+{
+    "user_id": "U03240",
+    "name": "James Wells",
+    "email": "brooke75@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02179', 'B01169']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Mccullough-Cook for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05858', 'B09840', 'B06278']"
+}

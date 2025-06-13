@@ -1,0 +1,14 @@
+{
+    "user_id": "U00804",
+    "name": "Kayla Maynard",
+    "email": "stacy18@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09903', 'B04777', 'B01853', 'B00097']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Dodson-Buckley for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

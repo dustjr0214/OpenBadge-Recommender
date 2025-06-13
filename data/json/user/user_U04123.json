@@ -1,0 +1,14 @@
+{
+    "user_id": "U04123",
+    "name": "Cynthia Wilson",
+    "email": "kimberly43@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02877']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Estes-Lopez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09741', 'B03220']"
+}

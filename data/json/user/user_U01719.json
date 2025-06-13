@@ -1,0 +1,14 @@
+{
+    "user_id": "U01719",
+    "name": "Erin Medina",
+    "email": "williamsonrobert@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06186', 'B03943', 'B04758', 'B09484']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Novak and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06861', 'B02167', 'B06933', 'B01919']"
+}

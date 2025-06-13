@@ -1,0 +1,14 @@
+{
+    "user_id": "U04963",
+    "name": "Debra Smith",
+    "email": "xreyes@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09395', 'B04268', 'B05104', 'B03529', 'B08307']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Hall PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02442', 'B06810']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01395",
+    "name": "Scott Day",
+    "email": "joelaustin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03565', 'B04854', 'B07071', 'B05911']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Copeland-Estrada for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06772', 'B05180']"
+}

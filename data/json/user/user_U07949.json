@@ -1,0 +1,14 @@
+{
+    "user_id": "U07949",
+    "name": "Cole Carter",
+    "email": "ericfrank@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01837', 'B03600', 'B07290']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Davis Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01781', 'B01822', 'B04911']"
+}

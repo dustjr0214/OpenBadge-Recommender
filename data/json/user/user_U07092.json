@@ -1,0 +1,14 @@
+{
+    "user_id": "U07092",
+    "name": "Dr. Christian Rose",
+    "email": "eric59@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03137', 'B07544', 'B04711']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Peterson, Frye and Hunt for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00330', 'B08076', 'B02110', 'B01192']"
+}

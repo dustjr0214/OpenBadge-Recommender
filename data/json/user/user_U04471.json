@@ -1,0 +1,14 @@
+{
+    "user_id": "U04471",
+    "name": "Robert Hall",
+    "email": "scott57@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00029', 'B04089']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Gibson, Oconnell and Turner for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05936', 'B05102', 'B02989', 'B03878']"
+}

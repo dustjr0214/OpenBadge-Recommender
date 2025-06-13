@@ -1,0 +1,14 @@
+{
+    "user_id": "U01931",
+    "name": "Bianca Lawrence",
+    "email": "kristin54@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06758', 'B04730', 'B07588', 'B09322', 'B07567']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Anderson, Mosley and Hill for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04077', 'B04277', 'B00790', 'B06249', 'B02704']"
+}

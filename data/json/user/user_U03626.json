@@ -1,0 +1,14 @@
+{
+    "user_id": "U03626",
+    "name": "Tracy Young",
+    "email": "xzuniga@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04918', 'B01988', 'B00108']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Robinson Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07793', 'B00088', 'B06642']"
+}

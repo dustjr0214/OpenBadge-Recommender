@@ -1,0 +1,14 @@
+{
+    "user_id": "U08305",
+    "name": "Chad Hurst",
+    "email": "tsmith@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01456']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lynch-Thompson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06364', 'B09184', 'B06898', 'B02445']"
+}

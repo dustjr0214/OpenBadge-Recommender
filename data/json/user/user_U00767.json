@@ -1,0 +1,14 @@
+{
+    "user_id": "U00767",
+    "name": "Joseph Casey",
+    "email": "susan04@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01546', 'B00284', 'B03233', 'B07451', 'B04978']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Gilbert, Brooks and Francis for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04160', 'B07273', 'B02357']"
+}

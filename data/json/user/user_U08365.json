@@ -1,0 +1,14 @@
+{
+    "user_id": "U08365",
+    "name": "Daniel Bennett",
+    "email": "donna66@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09737', 'B05736', 'B05105']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Frazier-Sanchez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02354', 'B06406']"
+}

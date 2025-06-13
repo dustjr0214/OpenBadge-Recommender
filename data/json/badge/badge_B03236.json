@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03236",
+    "name": "Data Science Expert",
+    "issuer": "Udacity",
+    "description": "Data Science Expert badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'SQL', 'Data Analysis']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

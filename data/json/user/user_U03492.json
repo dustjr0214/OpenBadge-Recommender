@@ -1,0 +1,14 @@
+{
+    "user_id": "U03492",
+    "name": "Laura Reilly",
+    "email": "herberthernandez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06924', 'B09167', 'B00834']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Rivas, Madden and Warren for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03443', 'B09311', 'B01723', 'B07160', 'B02849']"
+}

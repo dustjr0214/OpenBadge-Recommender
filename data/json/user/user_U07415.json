@@ -1,0 +1,14 @@
+{
+    "user_id": "U07415",
+    "name": "Tara Mitchell",
+    "email": "mcknightjackie@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00912', 'B03130', 'B08035', 'B02209', 'B01781']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Gonzales, Price and Andrade for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00298', 'B09220', 'B03509', 'B08836', 'B03493']"
+}

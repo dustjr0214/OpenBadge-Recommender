@@ -1,0 +1,14 @@
+{
+    "user_id": "U00165",
+    "name": "Gabriel Smith",
+    "email": "fordcharles@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00444', 'B02025', 'B02534']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Blake Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07722']"
+}

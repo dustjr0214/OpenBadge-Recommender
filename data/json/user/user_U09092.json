@@ -1,0 +1,14 @@
+{
+    "user_id": "U09092",
+    "name": "Sonya Marks",
+    "email": "christophermonroe@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07239', 'B08684', 'B04327', 'B06675', 'B01517']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Pena-Adams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08338', 'B09255', 'B08313']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00940",
+    "name": "Patricia Henry",
+    "email": "vazquezcharles@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02004', 'B02167', 'B06823', 'B05592']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Goodwin, Li and Stone for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07888', 'B05066']"
+}

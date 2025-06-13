@@ -1,0 +1,14 @@
+{
+    "user_id": "U03158",
+    "name": "Joseph Smith",
+    "email": "kingmatthew@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06593', 'B02172']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Mcgrath Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09330', 'B07691', 'B09406', 'B06116', 'B09733']"
+}

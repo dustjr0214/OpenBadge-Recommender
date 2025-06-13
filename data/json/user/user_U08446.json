@@ -1,0 +1,14 @@
+{
+    "user_id": "U08446",
+    "name": "Theresa Williamson",
+    "email": "bwashington@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04351', 'B01523']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Tate Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08829', 'B02367', 'B02809', 'B00077', 'B07340']"
+}

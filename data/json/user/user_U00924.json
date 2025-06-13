@@ -1,0 +1,14 @@
+{
+    "user_id": "U00924",
+    "name": "Edwin Mccarthy",
+    "email": "yrodriguez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Smith, Taylor and Jacobson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02580', 'B01990', 'B04197']"
+}

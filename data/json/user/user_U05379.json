@@ -1,0 +1,14 @@
+{
+    "user_id": "U05379",
+    "name": "Kyle Huffman",
+    "email": "deannahudson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03155']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Murphy, Alvarado and Foster for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03904', 'B08742']"
+}

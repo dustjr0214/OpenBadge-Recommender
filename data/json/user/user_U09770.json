@@ -1,0 +1,14 @@
+{
+    "user_id": "U09770",
+    "name": "Jason Potter",
+    "email": "lunajamie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09733', 'B09380', 'B01479', 'B07942']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Silva LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01578', 'B03278', 'B02420', 'B05730']"
+}

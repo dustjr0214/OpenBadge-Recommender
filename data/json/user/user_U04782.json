@@ -1,0 +1,14 @@
+{
+    "user_id": "U04782",
+    "name": "Michael Brown",
+    "email": "vanderson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09790']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Richard and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00009', 'B04602', 'B03397', 'B05792', 'B08359']"
+}

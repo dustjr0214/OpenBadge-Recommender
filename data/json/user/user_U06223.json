@@ -1,0 +1,14 @@
+{
+    "user_id": "U06223",
+    "name": "John Long",
+    "email": "danieljason@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06991', 'B08209', 'B05666', 'B00622']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Murray Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00776', 'B00658']"
+}

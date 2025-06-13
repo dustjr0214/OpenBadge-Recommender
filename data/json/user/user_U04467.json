@@ -1,0 +1,14 @@
+{
+    "user_id": "U04467",
+    "name": "Cathy Shaw",
+    "email": "kellywilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08180', 'B09112', 'B05230', 'B05914']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Lopez, Rivas and Gibbs for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01102', 'B04967', 'B00301', 'B08814', 'B01404']"
+}

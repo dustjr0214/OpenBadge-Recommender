@@ -1,0 +1,14 @@
+{
+    "user_id": "U09521",
+    "name": "Pamela Day",
+    "email": "jenniferwilliams@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hoffman, Garcia and Gonzales for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09514', 'B07036', 'B07819']"
+}

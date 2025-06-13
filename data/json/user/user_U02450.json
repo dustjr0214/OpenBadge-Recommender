@@ -1,0 +1,14 @@
+{
+    "user_id": "U02450",
+    "name": "James Ramirez",
+    "email": "markcopeland@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09100', 'B00208', 'B03334', 'B03654', 'B07334']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Jones-Middleton for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08261', 'B04587', 'B05756']"
+}

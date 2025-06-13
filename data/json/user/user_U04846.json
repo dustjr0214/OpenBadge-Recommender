@@ -1,0 +1,14 @@
+{
+    "user_id": "U04846",
+    "name": "Erica Hooper",
+    "email": "cooleyeric@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07191', 'B09964', 'B09285']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Herrera-Andrews for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04329', 'B02301', 'B05876', 'B05765']"
+}

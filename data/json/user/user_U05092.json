@@ -1,0 +1,14 @@
+{
+    "user_id": "U05092",
+    "name": "Nicole Lloyd",
+    "email": "stevemullen@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Gutierrez, Gardner and Obrien for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05873', 'B06385', 'B09511', 'B08166']"
+}

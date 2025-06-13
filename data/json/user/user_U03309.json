@@ -1,0 +1,14 @@
+{
+    "user_id": "U03309",
+    "name": "Adam Cunningham",
+    "email": "laurencarter@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03643', 'B07880', 'B08203', 'B07406', 'B08305']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Rivas-Norris for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04283']"
+}

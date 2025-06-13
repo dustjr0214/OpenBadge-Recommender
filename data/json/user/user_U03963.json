@@ -1,0 +1,14 @@
+{
+    "user_id": "U03963",
+    "name": "Isabella Lopez",
+    "email": "jacksonrobert@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08810', 'B00880', 'B07270', 'B08901']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Mullins-Peterson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08360', 'B06494', 'B06209', 'B07679']"
+}

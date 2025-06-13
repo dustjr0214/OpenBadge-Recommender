@@ -1,0 +1,14 @@
+{
+    "user_id": "U05274",
+    "name": "Robert Garrett",
+    "email": "jessica50@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Thompson, Kramer and Horn for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05553']"
+}

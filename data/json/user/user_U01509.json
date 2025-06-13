@@ -1,0 +1,14 @@
+{
+    "user_id": "U01509",
+    "name": "Andrew Valencia",
+    "email": "john91@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05685', 'B02938', 'B04817', 'B08678']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rose, Diaz and Powell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09247', 'B07541', 'B08275']"
+}

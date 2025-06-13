@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06852",
+    "name": "AI Specialist",
+    "issuer": "IBM",
+    "description": "AI Specialist badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency": "['DevOps']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

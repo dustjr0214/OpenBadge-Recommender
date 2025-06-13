@@ -1,0 +1,14 @@
+{
+    "user_id": "U01183",
+    "name": "Robert Cameron",
+    "email": "gina46@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05499', 'B09133', 'B05165', 'B05151', 'B06970']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Williamson, Maxwell and Livingston for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06557', 'B02104', 'B09813', 'B03032']"
+}

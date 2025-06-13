@@ -1,0 +1,14 @@
+{
+    "user_id": "U06975",
+    "name": "David Smith",
+    "email": "woodjames@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07086', 'B04890', 'B02405']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Doyle-Sullivan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04898', 'B02455', 'B00827']"
+}

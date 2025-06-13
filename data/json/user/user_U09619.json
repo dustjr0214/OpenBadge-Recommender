@@ -1,0 +1,14 @@
+{
+    "user_id": "U09619",
+    "name": "Juan Walsh",
+    "email": "michaelcortez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07754', 'B08422', 'B02746', 'B07001', 'B08559']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Daniels, Tyler and Hayes for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03418', 'B04619', 'B04882', 'B00635']"
+}

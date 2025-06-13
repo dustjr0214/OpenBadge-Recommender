@@ -1,0 +1,14 @@
+{
+    "user_id": "U03396",
+    "name": "Matthew Mora",
+    "email": "kayla29@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Forbes PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04562', 'B06676', 'B03239', 'B03043', 'B00210']"
+}

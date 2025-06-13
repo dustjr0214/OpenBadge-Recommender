@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04451",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'Cybersecurity', 'Deep Learning']",
+    "competency": "['SQL', 'Teamwork', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04976']"
+}

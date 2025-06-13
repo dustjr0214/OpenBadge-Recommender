@@ -1,0 +1,14 @@
+{
+    "user_id": "U03943",
+    "name": "Michael Taylor",
+    "email": "brenda05@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04704', 'B07768', 'B05870']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Gonzalez-Walsh for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02682', 'B00616', 'B02094', 'B06036']"
+}

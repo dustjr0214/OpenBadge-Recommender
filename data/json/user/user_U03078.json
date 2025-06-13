@@ -1,0 +1,14 @@
+{
+    "user_id": "U03078",
+    "name": "Sophia Miller",
+    "email": "samuelmanning@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01887', 'B03828', 'B04480', 'B00009']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gross-Mcclure for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07392', 'B05500', 'B00830']"
+}

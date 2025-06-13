@@ -1,0 +1,14 @@
+{
+    "user_id": "U06594",
+    "name": "Christopher Jones",
+    "email": "crystalperkins@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07958', 'B09833']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Proctor-Reed for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02005', 'B07221', 'B01015', 'B06768']"
+}

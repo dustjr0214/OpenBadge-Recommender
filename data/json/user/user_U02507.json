@@ -1,0 +1,14 @@
+{
+    "user_id": "U02507",
+    "name": "Michael Carroll",
+    "email": "christopherperez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09781']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Walker, Stein and Gonzalez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01300', 'B00352']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08562",
+    "name": "Amy Miller",
+    "email": "scott88@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09325', 'B04628', 'B01423', 'B08080', 'B04496']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Norris and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

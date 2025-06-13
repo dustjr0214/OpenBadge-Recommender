@@ -1,0 +1,14 @@
+{
+    "user_id": "U08944",
+    "name": "Gregory Hall",
+    "email": "caseyreginald@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06394', 'B00864']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Bennett-Caldwell for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06107']"
+}

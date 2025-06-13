@@ -1,0 +1,14 @@
+{
+    "user_id": "U01710",
+    "name": "Jessica Bennett",
+    "email": "kbrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07165', 'B08973', 'B09684', 'B01668']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Dean, Fox and Johnson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05177', 'B03276', 'B01897', 'B05769', 'B01367']"
+}

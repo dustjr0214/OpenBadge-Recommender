@@ -1,0 +1,14 @@
+{
+    "user_id": "U05599",
+    "name": "Michael Edwards",
+    "email": "joshua84@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07806', 'B02518']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Thompson PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08738', 'B03454', 'B06302']"
+}

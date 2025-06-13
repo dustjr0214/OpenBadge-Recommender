@@ -1,0 +1,14 @@
+{
+    "user_id": "U00903",
+    "name": "Erika Garcia",
+    "email": "qturner@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00513', 'B05242', 'B03426', 'B00444']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Collins-Moore for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

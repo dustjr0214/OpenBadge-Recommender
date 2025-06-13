@@ -1,0 +1,14 @@
+{
+    "user_id": "U05094",
+    "name": "Eric Roach",
+    "email": "gregory99@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith, Miles and Joseph for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04979', 'B02556']"
+}

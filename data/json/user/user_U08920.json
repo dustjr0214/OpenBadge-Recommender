@@ -1,0 +1,14 @@
+{
+    "user_id": "U08920",
+    "name": "Steven Lloyd",
+    "email": "rhoward@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03308', 'B01574', 'B09291', 'B08078', 'B04769']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Brown, Ortiz and Olson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06965']"
+}

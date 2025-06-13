@@ -1,0 +1,14 @@
+{
+    "user_id": "U03322",
+    "name": "Andrew Dixon",
+    "email": "darrelljohnson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06418', 'B00225']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Curtis, Taylor and Nelson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02464', 'B06063', 'B09004']"
+}

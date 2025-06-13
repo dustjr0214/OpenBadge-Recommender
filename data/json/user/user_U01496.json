@@ -1,0 +1,14 @@
+{
+    "user_id": "U01496",
+    "name": "Elizabeth Gonzalez",
+    "email": "qjones@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09820', 'B00739', 'B07952', 'B03891', 'B03603']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Brooks, Hanna and Ellis for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01049', 'B03884']"
+}

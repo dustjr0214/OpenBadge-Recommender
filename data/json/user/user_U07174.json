@@ -1,0 +1,14 @@
+{
+    "user_id": "U07174",
+    "name": "Anthony Campbell",
+    "email": "edwardscrystal@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Schmidt, Jones and Sanders for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03660', 'B04694']"
+}

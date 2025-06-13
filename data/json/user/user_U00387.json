@@ -1,0 +1,14 @@
+{
+    "user_id": "U00387",
+    "name": "Lauren Walter",
+    "email": "tdavis@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Sanford Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04586', 'B06191', 'B03319', 'B02907', 'B08306']"
+}

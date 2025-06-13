@@ -1,0 +1,14 @@
+{
+    "user_id": "U07678",
+    "name": "Jason Martinez",
+    "email": "zacharyriggs@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09588', 'B04887', 'B00884']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Allen and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04635', 'B09800', 'B00868']"
+}

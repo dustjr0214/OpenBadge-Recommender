@@ -1,0 +1,14 @@
+{
+    "user_id": "U02031",
+    "name": "Aaron Howard",
+    "email": "pchristian@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01823', 'B09449', 'B01638', 'B02823', 'B09039']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Shannon LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09007', 'B06996', 'B06671', 'B00218', 'B09411']"
+}

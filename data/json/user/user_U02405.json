@@ -1,0 +1,14 @@
+{
+    "user_id": "U02405",
+    "name": "Ann Melton",
+    "email": "erika47@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04742']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Collins-Flores for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00663', 'B08578', 'B01574', 'B03436', 'B00041']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00200",
+    "name": "Kevin Dixon",
+    "email": "monicaandrews@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02771', 'B07225', 'B04306', 'B03234']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Booker, Pena and Smith for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04134']"
+}

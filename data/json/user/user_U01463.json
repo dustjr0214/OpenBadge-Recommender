@@ -1,0 +1,14 @@
+{
+    "user_id": "U01463",
+    "name": "Taylor Martin",
+    "email": "kristysmith@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07905', 'B07451', 'B05530', 'B08781']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Jones-Guzman for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08131']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08085",
+    "name": "Sabrina Jones",
+    "email": "kimberlymartinez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Davis-Hutchinson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09606', 'B06147', 'B04599', 'B05612']"
+}

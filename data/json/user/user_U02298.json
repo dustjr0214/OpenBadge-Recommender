@@ -1,0 +1,14 @@
+{
+    "user_id": "U02298",
+    "name": "Ronald Weaver",
+    "email": "williamssean@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01768', 'B00398', 'B04729', 'B00624', 'B06689']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Waters Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02910']"
+}

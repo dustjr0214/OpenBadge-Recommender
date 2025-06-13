@@ -1,0 +1,14 @@
+{
+    "user_id": "U09081",
+    "name": "Kyle Harvey",
+    "email": "david98@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04176']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Moore LLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07010', 'B07536', 'B06603', 'B06340', 'B01753']"
+}

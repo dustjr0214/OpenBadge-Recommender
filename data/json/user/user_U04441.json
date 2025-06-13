@@ -1,0 +1,14 @@
+{
+    "user_id": "U04441",
+    "name": "Denise Gibson",
+    "email": "jenniferthomas@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04226']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Powers-Kelley for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05785', 'B02059', 'B06630', 'B00238']"
+}

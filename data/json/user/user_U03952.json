@@ -1,0 +1,14 @@
+{
+    "user_id": "U03952",
+    "name": "Steve Wilson",
+    "email": "ericashaffer@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01774', 'B08775', 'B04661', 'B05444', 'B06748']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Baker, May and Stanton for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

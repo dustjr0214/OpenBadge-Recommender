@@ -1,0 +1,14 @@
+{
+    "user_id": "U09775",
+    "name": "Brent Green",
+    "email": "reginapetersen@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05769', 'B09796', 'B07237', 'B09947']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Jackson Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08467', 'B01246']"
+}

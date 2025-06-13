@@ -1,0 +1,14 @@
+{
+    "user_id": "U02194",
+    "name": "Jack Bishop",
+    "email": "ygibbs@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04492', 'B05642', 'B06597', 'B06039', 'B02787']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Lane, Alexander and Mills for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07652']"
+}

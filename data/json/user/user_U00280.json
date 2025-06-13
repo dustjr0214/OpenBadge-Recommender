@@ -1,0 +1,14 @@
+{
+    "user_id": "U00280",
+    "name": "Katrina Carlson",
+    "email": "stephaniemckee@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05169', 'B06819', 'B01988', 'B09140', 'B07782']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Lucas-Krueger for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08072', 'B05889', 'B02297', 'B05622']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00327",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'UI/UX']",
+    "competency": "['Deep Learning']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B04670']"
+}

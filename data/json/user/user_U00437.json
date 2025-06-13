@@ -1,0 +1,14 @@
+{
+    "user_id": "U00437",
+    "name": "Thomas Smith",
+    "email": "johnsontyler@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05990', 'B07388', 'B04488']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Freeman, Savage and Wade for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03592', 'B01540', 'B04140']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02841",
+    "name": "Heather Curtis",
+    "email": "schroederjames@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09862', 'B05808', 'B09578']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Alexander-Wilson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05741']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09385",
+    "name": "Randy Hendricks",
+    "email": "umartin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02405', 'B00525', 'B01019', 'B07399']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ellis, Rodriguez and Woods for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02006', 'B06645', 'B00888']"
+}

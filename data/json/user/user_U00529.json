@@ -1,0 +1,14 @@
+{
+    "user_id": "U00529",
+    "name": "Amy Owen",
+    "email": "xdaniel@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gutierrez, Rodriguez and Thomas for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04672']"
+}

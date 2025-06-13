@@ -1,0 +1,14 @@
+{
+    "user_id": "U01870",
+    "name": "Joshua Jones",
+    "email": "angelaking@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02062', 'B02183', 'B05998']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Whitaker, Gardner and Powell for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09101', 'B08153', 'B05772']"
+}

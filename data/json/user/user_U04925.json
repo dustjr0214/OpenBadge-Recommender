@@ -1,0 +1,14 @@
+{
+    "user_id": "U04925",
+    "name": "Carolyn Williams",
+    "email": "dawn04@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01122', 'B09150', 'B02995']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Ortiz Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00952', 'B02861', 'B07223', 'B09158', 'B07411']"
+}

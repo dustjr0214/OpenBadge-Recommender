@@ -1,0 +1,14 @@
+{
+    "user_id": "U07318",
+    "name": "Donald Reynolds",
+    "email": "ltaylor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08423', 'B05806', 'B08977', 'B00694', 'B01518']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Nguyen, Freeman and Bryant for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08210', 'B09238', 'B03725', 'B04532', 'B00140']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02665",
+    "name": "Jessica Harrison",
+    "email": "ugarcia@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05711', 'B09634', 'B02661', 'B00964', 'B02560']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Black LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

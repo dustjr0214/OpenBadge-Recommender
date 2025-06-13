@@ -1,0 +1,14 @@
+{
+    "user_id": "U07261",
+    "name": "Crystal Lucero",
+    "email": "goconnor@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08123', 'B09558', 'B01390', 'B02501', 'B01712']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Strickland, Mccoy and Ferguson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07318', 'B05884', 'B01937', 'B02151']"
+}

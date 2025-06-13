@@ -1,0 +1,14 @@
+{
+    "user_id": "U06213",
+    "name": "Matthew Leblanc",
+    "email": "robertshannon@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07333', 'B01474', 'B02896']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Elliott and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03241', 'B04413', 'B00914', 'B09425', 'B03466']"
+}

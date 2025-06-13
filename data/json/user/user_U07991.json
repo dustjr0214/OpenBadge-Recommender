@@ -1,0 +1,14 @@
+{
+    "user_id": "U07991",
+    "name": "April Knight",
+    "email": "paige80@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04691', 'B06453', 'B00309', 'B09585']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Boone Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05000', 'B01535', 'B02454', 'B08118']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08214",
+    "name": "Mia Martin",
+    "email": "paguirre@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05610', 'B08461']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mcgrath-Leblanc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

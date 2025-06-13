@@ -1,0 +1,14 @@
+{
+    "user_id": "U03886",
+    "name": "John Torres",
+    "email": "qgomez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08327', 'B09055', 'B04541']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Thomas, Hernandez and Olson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03325']"
+}

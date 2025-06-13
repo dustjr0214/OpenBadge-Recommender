@@ -1,0 +1,14 @@
+{
+    "user_id": "U00520",
+    "name": "Jason Brown",
+    "email": "jimmywhitaker@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05533', 'B03174', 'B02733', 'B02165', 'B09423']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Williams-Anthony for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08172', 'B06033', 'B01776', 'B01140', 'B01401']"
+}

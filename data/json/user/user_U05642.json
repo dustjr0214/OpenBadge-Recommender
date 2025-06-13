@@ -1,0 +1,14 @@
+{
+    "user_id": "U05642",
+    "name": "Erin Russell",
+    "email": "devinjackson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07132']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Williams-Carpenter for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04852']"
+}

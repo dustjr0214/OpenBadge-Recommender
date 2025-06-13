@@ -1,0 +1,14 @@
+{
+    "user_id": "U02189",
+    "name": "Paul Smith",
+    "email": "kirsten14@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06914', 'B00460']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Rojas-Baker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01239']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00304",
+    "name": "Robert Pineda",
+    "email": "mccormickholly@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04653', 'B01358', 'B09407', 'B05664', 'B05886']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Richard and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00863']"
+}

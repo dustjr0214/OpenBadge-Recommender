@@ -1,0 +1,14 @@
+{
+    "user_id": "U08823",
+    "name": "Bethany Mcguire",
+    "email": "sloandavid@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Young, Stewart and Monroe for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07537']"
+}

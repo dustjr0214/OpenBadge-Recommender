@@ -1,0 +1,14 @@
+{
+    "user_id": "U05950",
+    "name": "Austin Andrade",
+    "email": "kellyward@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09614', 'B03127', 'B06809', 'B02950', 'B00349']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Johnson-Clark for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

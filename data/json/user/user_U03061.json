@@ -1,0 +1,14 @@
+{
+    "user_id": "U03061",
+    "name": "Blake Alvarado",
+    "email": "bestrobyn@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03618', 'B01061', 'B00983', 'B05280', 'B06812']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Wood, Adkins and Schwartz for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06643",
+    "name": "Raymond Rodriguez",
+    "email": "hollyclarke@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08826', 'B03681', 'B09918']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Walker and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02556', 'B04580']"
+}

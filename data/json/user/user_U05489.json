@@ -1,0 +1,14 @@
+{
+    "user_id": "U05489",
+    "name": "David King",
+    "email": "michael53@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07162', 'B00080', 'B09570', 'B07538', 'B06487']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Newman, Santiago and Ramos for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00180', 'B03960', 'B09118']"
+}

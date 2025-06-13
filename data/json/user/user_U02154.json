@@ -1,0 +1,14 @@
+{
+    "user_id": "U02154",
+    "name": "Brittney Jackson",
+    "email": "jeffrey83@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03267', 'B09580', 'B08629']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Owens-Perkins for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06519', 'B05843', 'B04082']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01282",
+    "name": "Michael Campbell",
+    "email": "troy85@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01029', 'B03772']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Smith LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00460', 'B01402', 'B02490', 'B01413', 'B07120']"
+}

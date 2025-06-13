@@ -1,0 +1,14 @@
+{
+    "user_id": "U08642",
+    "name": "Linda Kane",
+    "email": "mahoneybrandon@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04522', 'B01564', 'B09468', 'B00072']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Cole-Gonzalez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06172', 'B05169', 'B07170']"
+}

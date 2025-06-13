@@ -1,0 +1,14 @@
+{
+    "user_id": "U00970",
+    "name": "Jon Welch",
+    "email": "duarterita@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08704', 'B05094', 'B05269']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Gaines-Peterson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09107', 'B01211', 'B05502', 'B00400']"
+}

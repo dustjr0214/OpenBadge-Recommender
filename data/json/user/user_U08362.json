@@ -1,0 +1,14 @@
+{
+    "user_id": "U08362",
+    "name": "Alex Duran",
+    "email": "donald15@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03875', 'B04091', 'B01984', 'B03882', 'B07393']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Padilla, Howard and Lopez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09096', 'B05635', 'B09298', 'B03212', 'B06437']"
+}

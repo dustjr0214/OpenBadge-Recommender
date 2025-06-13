@@ -1,0 +1,14 @@
+{
+    "user_id": "U02398",
+    "name": "Kyle Jones",
+    "email": "tricia62@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06884', 'B04535', 'B02552', 'B03643']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Fisher-Hernandez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04952', 'B08809', 'B06453', 'B04709', 'B07263']"
+}

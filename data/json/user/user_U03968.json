@@ -1,0 +1,14 @@
+{
+    "user_id": "U03968",
+    "name": "Caleb Chambers",
+    "email": "lovejoseph@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00835', 'B08996', 'B08248', 'B00280']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brown Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03204', 'B09169']"
+}

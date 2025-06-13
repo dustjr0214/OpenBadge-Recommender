@@ -1,0 +1,14 @@
+{
+    "user_id": "U03074",
+    "name": "Steven Hudson",
+    "email": "lisalopez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02317', 'B01253', 'B04506']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Miller-White for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01517",
+    "name": "James Melendez",
+    "email": "aparker@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05693', 'B05797', 'B09439']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Schneider-Rodgers for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08328', 'B05753', 'B07877', 'B06434', 'B03599']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00092",
+    "name": "Marc Thompson",
+    "email": "pooleerin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Anderson Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02308",
+    "name": "Lisa Taylor",
+    "email": "kcameron@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00193']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Brown-Bell for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07675', 'B07231', 'B03170', 'B01913', 'B03042']"
+}

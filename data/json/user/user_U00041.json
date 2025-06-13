@@ -1,0 +1,14 @@
+{
+    "user_id": "U00041",
+    "name": "Eric Martinez",
+    "email": "donnathompson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07432', 'B09698']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Ramirez, Schroeder and Allen for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03326', 'B03360', 'B06842', 'B02368', 'B06850']"
+}

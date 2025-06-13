@@ -1,0 +1,14 @@
+{
+    "user_id": "U09356",
+    "name": "Meredith Knight",
+    "email": "qsanders@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00399', 'B08773', 'B09222', 'B07618', 'B05207']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Goodman Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01482', 'B03014']"
+}

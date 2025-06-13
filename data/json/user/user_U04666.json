@@ -1,0 +1,14 @@
+{
+    "user_id": "U04666",
+    "name": "Phillip Nelson",
+    "email": "mcgeerebecca@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08126', 'B09212']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Graham LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06115', 'B06516', 'B02682']"
+}

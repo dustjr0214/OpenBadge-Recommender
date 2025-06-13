@@ -1,0 +1,14 @@
+{
+    "user_id": "U03148",
+    "name": "Breanna Bowers",
+    "email": "andrewbooth@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00385']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lewis-Hayes for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03611', 'B06820']"
+}

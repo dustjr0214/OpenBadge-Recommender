@@ -1,0 +1,14 @@
+{
+    "user_id": "U00086",
+    "name": "Jonathan Reed",
+    "email": "joseph69@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04116', 'B05866', 'B05243']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Moore LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09225', 'B07147', 'B03467', 'B07428']"
+}

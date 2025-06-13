@@ -1,0 +1,14 @@
+{
+    "user_id": "U03475",
+    "name": "Heather Butler",
+    "email": "gcastillo@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03824']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Salinas, Peters and Gilmore for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08915', 'B03602', 'B06278']"
+}

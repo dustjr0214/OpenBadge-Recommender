@@ -1,0 +1,14 @@
+{
+    "user_id": "U09344",
+    "name": "Jordan Olsen",
+    "email": "marissa94@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08512', 'B05314', 'B09730', 'B00287', 'B01915']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Nunez Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00112', 'B03208', 'B01398', 'B01339']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07992",
+    "name": "Michael Thompson",
+    "email": "mejialaura@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08568', 'B02563', 'B07415']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Foster PLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06946', 'B05356', 'B01364', 'B08137', 'B01756']"
+}

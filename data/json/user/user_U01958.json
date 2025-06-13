@@ -1,0 +1,14 @@
+{
+    "user_id": "U01958",
+    "name": "Jaime Barber",
+    "email": "zhenry@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07765']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Jones-Kelly for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08967', 'B08463', 'B00659', 'B09037', 'B07781']"
+}

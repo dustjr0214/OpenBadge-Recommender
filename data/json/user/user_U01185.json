@@ -1,0 +1,14 @@
+{
+    "user_id": "U01185",
+    "name": "Erica Bryant",
+    "email": "kimwilliams@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04487', 'B09288', 'B05722']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Sanchez, Martin and Hooper for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03583', 'B06406', 'B01961']"
+}

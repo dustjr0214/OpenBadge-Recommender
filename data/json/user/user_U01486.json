@@ -1,0 +1,14 @@
+{
+    "user_id": "U01486",
+    "name": "Diane Curry",
+    "email": "pettypatricia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07164', 'B06791', 'B00340']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Davis, Mccarty and Wilson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01515', 'B04178', 'B04829', 'B00128', 'B00739']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09786",
+    "name": "Jessica Francis",
+    "email": "jenniferchapman@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Williams, Cameron and Watson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05559', 'B09953', 'B01732']"
+}

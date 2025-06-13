@@ -1,0 +1,14 @@
+{
+    "user_id": "U07839",
+    "name": "Nathan Robinson",
+    "email": "hughesmanuel@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03756']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Edwards, Rogers and Adams for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01152', 'B09520', 'B00728']"
+}

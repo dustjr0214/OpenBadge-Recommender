@@ -1,0 +1,14 @@
+{
+    "user_id": "U00652",
+    "name": "Dr. Scott Brewer",
+    "email": "rebecca86@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Phillips, Cole and Page for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04298', 'B02210', 'B02077']"
+}

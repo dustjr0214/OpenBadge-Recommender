@@ -1,0 +1,14 @@
+{
+    "user_id": "U02086",
+    "name": "Hannah Maxwell",
+    "email": "alexanderfisher@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07917', 'B07237', 'B02024', 'B06986', 'B01566']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Guzman Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02538', 'B00525', 'B07959', 'B00754']"
+}

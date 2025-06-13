@@ -1,0 +1,14 @@
+{
+    "user_id": "U06267",
+    "name": "Jasmin Payne",
+    "email": "xwilliams@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03607', 'B00322', 'B01721', 'B01686']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Trujillo, Smith and Garcia for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08442', 'B04827']"
+}

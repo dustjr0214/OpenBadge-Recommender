@@ -1,0 +1,14 @@
+{
+    "user_id": "U07003",
+    "name": "Jason Evans",
+    "email": "beverly21@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08990', 'B04171', 'B05710']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Fisher-Dean for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05045', 'B00348', 'B00318']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03072",
+    "name": "Douglas Scott",
+    "email": "randalllee@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01124', 'B09146', 'B00076', 'B06053']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at King, Martinez and Simpson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

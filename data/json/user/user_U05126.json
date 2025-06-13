@@ -1,0 +1,14 @@
+{
+    "user_id": "U05126",
+    "name": "Barry Brock",
+    "email": "seth85@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07701', 'B08983', 'B02620', 'B00236']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Young, Reeves and Watkins for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02476', 'B09264', 'B02122', 'B01221']"
+}

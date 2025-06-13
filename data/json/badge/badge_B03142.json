@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03142",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'Cloud Computing', 'UI/UX']",
+    "competency": "['Cybersecurity', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09887', 'B06434']"
+}

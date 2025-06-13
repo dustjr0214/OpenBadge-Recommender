@@ -1,0 +1,14 @@
+{
+    "user_id": "U09139",
+    "name": "John Williams",
+    "email": "timothy09@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07663', 'B00917', 'B01899', 'B05633', 'B06888']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Gibson, Patterson and Moreno for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04048']"
+}

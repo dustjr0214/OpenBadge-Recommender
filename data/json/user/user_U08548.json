@@ -1,0 +1,14 @@
+{
+    "user_id": "U08548",
+    "name": "Lisa Holmes",
+    "email": "mpierce@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06378', 'B04788']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hoffman Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09026', 'B08690', 'B08683', 'B08842', 'B04770']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04927",
+    "name": "Melinda Gray",
+    "email": "john88@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04102', 'B08506', 'B08251', 'B06966', 'B01511']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Brown-Hill for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05127', 'B04562', 'B03046', 'B04861']"
+}

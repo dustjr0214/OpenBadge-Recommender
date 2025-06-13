@@ -1,0 +1,14 @@
+{
+    "user_id": "U04822",
+    "name": "Lynn Kennedy",
+    "email": "floresgail@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07627', 'B03413', 'B04822', 'B01974']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Ramirez-Tate for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07230', 'B04542']"
+}

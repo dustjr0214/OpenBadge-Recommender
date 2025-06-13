@@ -1,0 +1,14 @@
+{
+    "user_id": "U01580",
+    "name": "Jeanette Reed",
+    "email": "glovermichelle@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09189', 'B08849', 'B05088', 'B00923', 'B06799']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Miller LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02568', 'B04309', 'B07300', 'B05777']"
+}

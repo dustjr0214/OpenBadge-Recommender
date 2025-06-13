@@ -1,0 +1,14 @@
+{
+    "user_id": "U03654",
+    "name": "Stephen Cox",
+    "email": "jpratt@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08883', 'B08403', 'B04401', 'B06005']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Meyer, Lopez and Avila for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07608', 'B06098', 'B01996', 'B05402', 'B01726']"
+}

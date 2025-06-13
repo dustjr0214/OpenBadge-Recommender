@@ -1,0 +1,14 @@
+{
+    "user_id": "U07747",
+    "name": "Jason Beasley",
+    "email": "christopherhall@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06561', 'B01169', 'B03717', 'B02881']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Lewis Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06730', 'B09324', 'B05329']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02006",
+    "name": "Dr. Justin Sullivan",
+    "email": "bauerkaitlyn@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05243', 'B03506', 'B01100']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Williams-Weaver for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06444', 'B09607', 'B01208']"
+}

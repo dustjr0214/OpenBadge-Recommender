@@ -1,0 +1,14 @@
+{
+    "user_id": "U04302",
+    "name": "Rick Pratt",
+    "email": "kristy21@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02709', 'B01993', 'B08238']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Bonilla Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03155', 'B00739', 'B03910']"
+}

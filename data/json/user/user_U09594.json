@@ -1,0 +1,14 @@
+{
+    "user_id": "U09594",
+    "name": "Eric Shepard",
+    "email": "austinjackson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05368', 'B08344', 'B04091']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Neal, Carroll and Jackson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05666', 'B07883', 'B01862', 'B08067']"
+}

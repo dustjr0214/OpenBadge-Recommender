@@ -1,0 +1,14 @@
+{
+    "user_id": "U04885",
+    "name": "Keith Jenkins",
+    "email": "samuel32@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Miles-Sparks for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00675', 'B05883', 'B05462']"
+}

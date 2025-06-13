@@ -1,0 +1,14 @@
+{
+    "user_id": "U01935",
+    "name": "Brian Harris",
+    "email": "lauramora@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00954', 'B09198', 'B08897']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Edwards, Williams and Sanchez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07953', 'B05353', 'B04080']"
+}

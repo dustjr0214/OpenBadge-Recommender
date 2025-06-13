@@ -1,0 +1,14 @@
+{
+    "user_id": "U05869",
+    "name": "Derek Rodriguez",
+    "email": "jessica31@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00539', 'B08293', 'B00121', 'B09503']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Goodman Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00695']"
+}

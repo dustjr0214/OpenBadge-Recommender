@@ -1,0 +1,14 @@
+{
+    "user_id": "U05030",
+    "name": "Lucas Schroeder",
+    "email": "jessicavaughan@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01926', 'B00770']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Phillips-Chase for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04612', 'B06429', 'B01630']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00517",
+    "name": "Mallory Martin",
+    "email": "eric75@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04740', 'B07322', 'B09825']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Rogers, Moore and Garcia for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04502', 'B01025', 'B04805', 'B07398']"
+}

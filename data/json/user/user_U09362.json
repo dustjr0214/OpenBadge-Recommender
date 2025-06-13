@@ -1,0 +1,14 @@
+{
+    "user_id": "U09362",
+    "name": "Elizabeth Berger",
+    "email": "daniel77@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04002', 'B09084', 'B07479']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Garcia Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09059', 'B00006', 'B08222']"
+}

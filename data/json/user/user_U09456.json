@@ -1,0 +1,14 @@
+{
+    "user_id": "U09456",
+    "name": "Katherine Mcdaniel",
+    "email": "afoster@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09480']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Elliott, Hunter and Rogers for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05601', 'B08750', 'B03935', 'B04833', 'B02691']"
+}

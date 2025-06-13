@@ -1,0 +1,14 @@
+{
+    "user_id": "U08186",
+    "name": "Diana Casey",
+    "email": "kevinhoward@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07139', 'B01910', 'B03795']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Johnson, Martinez and Lewis for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04042', 'B00914']"
+}

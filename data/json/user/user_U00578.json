@@ -1,0 +1,14 @@
+{
+    "user_id": "U00578",
+    "name": "Michelle Gonzalez",
+    "email": "walkercharles@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02042', 'B07140', 'B09816', 'B06973']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Salazar LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09448', 'B04519', 'B02246']"
+}

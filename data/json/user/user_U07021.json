@@ -1,0 +1,14 @@
+{
+    "user_id": "U07021",
+    "name": "Heather Duke",
+    "email": "steven40@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08181']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Johnston-Carrillo for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09998', 'B03661', 'B07275', 'B00972', 'B06232']"
+}

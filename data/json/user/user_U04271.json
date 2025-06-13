@@ -1,0 +1,14 @@
+{
+    "user_id": "U04271",
+    "name": "Virginia Palmer",
+    "email": "wagnerpeter@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01082', 'B07423', 'B07611', 'B09276', 'B07287']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Howard Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08096', 'B01188', 'B02257', 'B00320', 'B07452']"
+}

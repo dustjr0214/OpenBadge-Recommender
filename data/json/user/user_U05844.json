@@ -1,0 +1,14 @@
+{
+    "user_id": "U05844",
+    "name": "Andre Allen",
+    "email": "stantonbobby@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04904', 'B04489']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Berry-Bennett for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07464', 'B03367', 'B07356', 'B05705']"
+}

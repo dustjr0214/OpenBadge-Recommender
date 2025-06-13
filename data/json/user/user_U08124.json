@@ -1,0 +1,14 @@
+{
+    "user_id": "U08124",
+    "name": "Lee Jones",
+    "email": "rachelkelley@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09332', 'B09669']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Anderson-Hodges for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00795', 'B05192']"
+}

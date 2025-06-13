@@ -1,0 +1,14 @@
+{
+    "user_id": "U01520",
+    "name": "Amanda Johnson",
+    "email": "veronicajones@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05340', 'B01639', 'B04912', 'B05484']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Riddle-Leon for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07032', 'B07755', 'B00975', 'B07225']"
+}

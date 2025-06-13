@@ -1,0 +1,14 @@
+{
+    "user_id": "U06758",
+    "name": "John Craig",
+    "email": "robertocampbell@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02127', 'B09027']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Gibson, Jones and Rose for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

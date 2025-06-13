@@ -1,0 +1,14 @@
+{
+    "user_id": "U08552",
+    "name": "Charles Faulkner",
+    "email": "hopkinsholly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02473', 'B09011', 'B09225']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Diaz-Cook for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09331']"
+}

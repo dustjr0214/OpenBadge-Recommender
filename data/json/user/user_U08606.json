@@ -1,0 +1,14 @@
+{
+    "user_id": "U08606",
+    "name": "Kyle Baker",
+    "email": "oblack@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07434', 'B04889', 'B08235']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Olsen, Hughes and Kelley for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03003', 'B09703', 'B00668', 'B04488']"
+}

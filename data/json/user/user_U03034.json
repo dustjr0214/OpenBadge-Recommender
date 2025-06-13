@@ -1,0 +1,14 @@
+{
+    "user_id": "U03034",
+    "name": "Samantha Wright",
+    "email": "gjohnson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09974', 'B04905']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Valdez PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01409', 'B01033', 'B00151']"
+}

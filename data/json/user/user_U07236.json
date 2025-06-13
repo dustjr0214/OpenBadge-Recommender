@@ -1,0 +1,14 @@
+{
+    "user_id": "U07236",
+    "name": "Michael Thornton",
+    "email": "amoore@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Davis, Case and Cummings for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08964', 'B07892', 'B01037']"
+}

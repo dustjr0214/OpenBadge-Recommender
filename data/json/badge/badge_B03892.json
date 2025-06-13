@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03892",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cloud Computing', 'Deep Learning', 'Python']",
+    "competency": "['Cloud Computing', 'SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03334', 'B05615']"
+}

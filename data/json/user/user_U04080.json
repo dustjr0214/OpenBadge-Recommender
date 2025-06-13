@@ -1,0 +1,14 @@
+{
+    "user_id": "U04080",
+    "name": "Jessica Newman",
+    "email": "grantmaria@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rowe-Bennett for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04437', 'B08002', 'B01370', 'B07754']"
+}

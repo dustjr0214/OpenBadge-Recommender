@@ -1,0 +1,14 @@
+{
+    "user_id": "U08773",
+    "name": "Amy Wilson",
+    "email": "billyhughes@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07511', 'B00531', 'B04764', 'B00328', 'B09308']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Brewer-Wilson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07683']"
+}

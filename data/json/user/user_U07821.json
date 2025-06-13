@@ -1,0 +1,14 @@
+{
+    "user_id": "U07821",
+    "name": "Desiree Williams",
+    "email": "matthew07@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04945', 'B02157', 'B01552', 'B05561', 'B03318']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Durham-Johnson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09415', 'B00492', 'B00994']"
+}

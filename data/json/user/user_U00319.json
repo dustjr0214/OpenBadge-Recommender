@@ -1,0 +1,14 @@
+{
+    "user_id": "U00319",
+    "name": "James French",
+    "email": "svelazquez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07773', 'B04355', 'B01503', 'B09570']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Wong-Valdez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06927', 'B07050', 'B07631', 'B03617']"
+}

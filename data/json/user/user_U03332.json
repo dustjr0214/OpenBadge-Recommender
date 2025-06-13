@@ -1,0 +1,14 @@
+{
+    "user_id": "U03332",
+    "name": "Brianna Thomas",
+    "email": "susanevans@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09265', 'B05495', 'B05812']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Jackson LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09236', 'B02141']"
+}

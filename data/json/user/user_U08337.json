@@ -1,0 +1,14 @@
+{
+    "user_id": "U08337",
+    "name": "Daniel Hinton",
+    "email": "wilkinsonshelley@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01658', 'B00315', 'B05267', 'B09040', 'B00020']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hill LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00604', 'B01753', 'B08094', 'B03759', 'B00739']"
+}

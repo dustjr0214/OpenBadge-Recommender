@@ -1,0 +1,14 @@
+{
+    "user_id": "U06066",
+    "name": "Gregory Cervantes",
+    "email": "andersondenise@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03998', 'B07241', 'B08137']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Macias and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03456', 'B04792', 'B00260', 'B06837']"
+}

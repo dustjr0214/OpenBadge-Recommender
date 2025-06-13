@@ -1,0 +1,14 @@
+{
+    "user_id": "U05555",
+    "name": "Jaime Santana",
+    "email": "danielshaw@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09153']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Fuller Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06313', 'B09045', 'B04244', 'B04005']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08157",
+    "name": "Kathleen Osborne",
+    "email": "barnesronnie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05471', 'B01544']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Anderson-Johnson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03043', 'B00487', 'B04744']"
+}

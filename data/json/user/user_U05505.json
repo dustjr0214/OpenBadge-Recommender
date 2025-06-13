@@ -1,0 +1,14 @@
+{
+    "user_id": "U05505",
+    "name": "William Adams",
+    "email": "melindasmith@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07381', 'B01191', 'B08470', 'B01049', 'B08436']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Christensen-Hopkins for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09240', 'B04798', 'B08229', 'B03408']"
+}

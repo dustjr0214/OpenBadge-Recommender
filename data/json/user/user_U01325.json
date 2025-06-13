@@ -1,0 +1,14 @@
+{
+    "user_id": "U01325",
+    "name": "John Keller",
+    "email": "pstone@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08103', 'B00974']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Yang, Walker and Knox for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06066', 'B09801', 'B04304']"
+}

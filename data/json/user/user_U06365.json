@@ -1,0 +1,14 @@
+{
+    "user_id": "U06365",
+    "name": "Tyler Cooke",
+    "email": "fullerchristina@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02277']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Fry PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09229', 'B00611']"
+}

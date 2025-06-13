@@ -1,0 +1,14 @@
+{
+    "user_id": "U04159",
+    "name": "Sally Armstrong",
+    "email": "gilmoremichelle@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00740']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Giles, Dalton and Sullivan for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00479', 'B05836', 'B06586', 'B01438']"
+}

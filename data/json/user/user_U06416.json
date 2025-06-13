@@ -1,0 +1,14 @@
+{
+    "user_id": "U06416",
+    "name": "Brandon Jones",
+    "email": "hrobinson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Carey, Butler and Garcia for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02834', 'B02887']"
+}

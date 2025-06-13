@@ -1,0 +1,14 @@
+{
+    "user_id": "U04797",
+    "name": "Jerry Zavala",
+    "email": "merrittheather@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08210', 'B00754']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Smith PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08530', 'B03238', 'B03316']"
+}

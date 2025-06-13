@@ -1,0 +1,14 @@
+{
+    "user_id": "U01138",
+    "name": "Lisa Burton",
+    "email": "rhonda52@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Cunningham, Martinez and Thomas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06681', 'B04778', 'B02029', 'B05275', 'B02825']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08017",
+    "name": "Michael Young",
+    "email": "umalone@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06677']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Bullock, Wright and Carr for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07200', 'B08697', 'B04044']"
+}

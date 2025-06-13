@@ -1,0 +1,14 @@
+{
+    "user_id": "U01957",
+    "name": "Matthew Roberts",
+    "email": "combsrobert@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07918', 'B03477', 'B09253', 'B00963', 'B00871']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Potter, Morales and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05276', 'B04237', 'B06428']"
+}

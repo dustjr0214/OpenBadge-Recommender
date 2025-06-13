@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00713",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'SQL']",
+    "competency": "['Machine Learning', 'Teamwork', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00569']"
+}

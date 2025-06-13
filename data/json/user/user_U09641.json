@@ -1,0 +1,14 @@
+{
+    "user_id": "U09641",
+    "name": "Zachary Shepherd",
+    "email": "edwardskimberly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Williams Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07398', 'B04448']"
+}

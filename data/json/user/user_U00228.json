@@ -1,0 +1,14 @@
+{
+    "user_id": "U00228",
+    "name": "Lisa Underwood",
+    "email": "kellytimothy@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06530']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Buck PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01880', 'B03055', 'B01255', 'B06740']"
+}

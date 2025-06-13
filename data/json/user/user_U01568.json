@@ -1,0 +1,14 @@
+{
+    "user_id": "U01568",
+    "name": "Trevor Williams",
+    "email": "kabbott@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01820', 'B09932', 'B09167', 'B06948']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Yoder-Russell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06509', 'B02574', 'B03732']"
+}

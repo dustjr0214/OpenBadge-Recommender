@@ -1,0 +1,14 @@
+{
+    "user_id": "U03662",
+    "name": "Maria Rose",
+    "email": "timothy35@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01663', 'B01107', 'B00193', 'B03834', 'B03285']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Miller PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

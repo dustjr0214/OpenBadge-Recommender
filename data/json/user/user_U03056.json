@@ -1,0 +1,14 @@
+{
+    "user_id": "U03056",
+    "name": "Kathy Brown",
+    "email": "russell11@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09891']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Moore, Ellis and Ellis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00676', 'B06770']"
+}

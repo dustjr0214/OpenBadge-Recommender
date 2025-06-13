@@ -1,0 +1,14 @@
+{
+    "user_id": "U09998",
+    "name": "Tyler Smith",
+    "email": "elizabeth44@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02903', 'B03255', 'B02927', 'B01161']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Baker Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05995', 'B05233', 'B05625', 'B05609']"
+}

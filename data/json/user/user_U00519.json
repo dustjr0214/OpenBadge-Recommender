@@ -1,0 +1,14 @@
+{
+    "user_id": "U00519",
+    "name": "Tiffany Henderson",
+    "email": "holly98@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01610', 'B05586', 'B05013', 'B02090']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith, Johnson and Murphy for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03255', 'B02655', 'B05376', 'B07947']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04040",
+    "name": "Gregory Bradshaw",
+    "email": "wisebilly@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07509', 'B00818', 'B02415']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Levy-Delgado for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05769', 'B09068', 'B04575', 'B06262', 'B02396']"
+}

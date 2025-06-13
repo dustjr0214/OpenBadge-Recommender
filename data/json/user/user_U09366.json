@@ -1,0 +1,14 @@
+{
+    "user_id": "U09366",
+    "name": "Erik Williams",
+    "email": "alexanderrobert@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05086', 'B01257', 'B01841']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Fox, Hamilton and Shelton for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08520']"
+}

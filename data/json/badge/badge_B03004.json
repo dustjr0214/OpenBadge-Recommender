@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03004",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Leadership', 'Cloud Computing', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B00317']"
+}

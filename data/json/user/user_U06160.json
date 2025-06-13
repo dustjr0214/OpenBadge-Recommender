@@ -1,0 +1,14 @@
+{
+    "user_id": "U06160",
+    "name": "Jill Martin",
+    "email": "foxlisa@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01875', 'B02846', 'B00653', 'B04654']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Brown-Harper for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05212', 'B08757', 'B04554']"
+}

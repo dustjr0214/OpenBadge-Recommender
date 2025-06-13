@@ -1,0 +1,14 @@
+{
+    "user_id": "U07229",
+    "name": "Christine Ortega",
+    "email": "hayesmichael@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03914', 'B04619', 'B06843']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Bolton, Olson and Wells for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00700', 'B00220', 'B04417', 'B02448']"
+}

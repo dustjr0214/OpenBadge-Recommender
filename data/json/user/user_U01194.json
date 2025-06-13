@@ -1,0 +1,14 @@
+{
+    "user_id": "U01194",
+    "name": "Jason Bowman",
+    "email": "audrey46@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07503']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Rogers PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01284', 'B04733', 'B03356']"
+}

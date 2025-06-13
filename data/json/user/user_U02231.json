@@ -1,0 +1,14 @@
+{
+    "user_id": "U02231",
+    "name": "Kevin Campbell",
+    "email": "christinagonzales@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Potter-Mitchell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08168', 'B02642']"
+}

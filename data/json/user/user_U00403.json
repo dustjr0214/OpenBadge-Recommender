@@ -1,0 +1,14 @@
+{
+    "user_id": "U00403",
+    "name": "Dennis Jacobson",
+    "email": "cathy38@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Franklin Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03748', 'B00069', 'B04151']"
+}

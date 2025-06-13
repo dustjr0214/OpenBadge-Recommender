@@ -1,0 +1,14 @@
+{
+    "user_id": "U00365",
+    "name": "Kristin Poole",
+    "email": "rodgersjanet@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Griffin Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00275', 'B00636', 'B06081']"
+}

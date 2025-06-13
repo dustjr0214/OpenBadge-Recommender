@@ -1,0 +1,14 @@
+{
+    "user_id": "U06625",
+    "name": "Anthony Stewart",
+    "email": "vdunn@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09127', 'B02697', 'B06166', 'B05402', 'B08577']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Mcgee, Williams and Manning for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

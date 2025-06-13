@@ -1,0 +1,14 @@
+{
+    "user_id": "U04476",
+    "name": "Jessica Ross",
+    "email": "holly77@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09385', 'B05729']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Olson, Lopez and Bradley for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05968', 'B08766', 'B06595']"
+}

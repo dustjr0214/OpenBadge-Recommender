@@ -1,0 +1,14 @@
+{
+    "user_id": "U03962",
+    "name": "Casey Howell",
+    "email": "tturner@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Watson, Mitchell and Mcmahon for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08922', 'B08121']"
+}

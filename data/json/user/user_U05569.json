@@ -1,0 +1,14 @@
+{
+    "user_id": "U05569",
+    "name": "Benjamin Wells",
+    "email": "karihicks@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01530', 'B06405', 'B08326', 'B02057']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Rodriguez, Potts and Thomas for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08554', 'B04579', 'B05373', 'B06778', 'B01748']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09576",
+    "name": "Arthur Anderson",
+    "email": "tcole@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08421', 'B00982', 'B03587']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Murphy, Parker and Schroeder for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05653']"
+}

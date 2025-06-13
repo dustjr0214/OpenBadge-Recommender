@@ -1,0 +1,14 @@
+{
+    "user_id": "U02679",
+    "name": "Elizabeth Davis",
+    "email": "ndunn@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00654', 'B01770', 'B01030']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Miller, Combs and Miles for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07353', 'B07197', 'B04191', 'B08012', 'B05596']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00064",
+    "name": "Nicholas Bernard",
+    "email": "billmartin@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09418', 'B08680', 'B04218', 'B07543']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Flores, Johnson and Graves for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06930', 'B07997']"
+}

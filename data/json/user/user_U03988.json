@@ -1,0 +1,14 @@
+{
+    "user_id": "U03988",
+    "name": "Shannon Proctor",
+    "email": "henryandrew@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07367', 'B09743']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Gonzalez, Skinner and Robinson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08785', 'B00920']"
+}

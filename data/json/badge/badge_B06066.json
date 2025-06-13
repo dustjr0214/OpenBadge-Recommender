@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06066",
+    "name": "AI Specialist",
+    "issuer": "Udacity",
+    "description": "AI Specialist badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX']",
+    "competency": "['Problem Solving', 'Data Analysis', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02328', 'B09788']"
+}

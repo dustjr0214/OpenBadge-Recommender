@@ -1,0 +1,14 @@
+{
+    "user_id": "U00850",
+    "name": "Ronald Hanson",
+    "email": "zhoover@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08372', 'B02292', 'B00867', 'B04298', 'B00039']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Marquez LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01895', 'B02955', 'B03056', 'B00782', 'B08263']"
+}

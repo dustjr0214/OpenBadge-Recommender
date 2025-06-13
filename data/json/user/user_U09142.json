@@ -1,0 +1,14 @@
+{
+    "user_id": "U09142",
+    "name": "Johnny Simon",
+    "email": "annette19@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07193', 'B08268', 'B00481', 'B06844', 'B07898']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Rangel for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03736', 'B03419', 'B05164']"
+}

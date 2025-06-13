@@ -1,0 +1,14 @@
+{
+    "user_id": "U09517",
+    "name": "Courtney Cruz",
+    "email": "robinfischer@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04034', 'B09855', 'B07719']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Jones LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07490', 'B06693', 'B08821', 'B05159']"
+}

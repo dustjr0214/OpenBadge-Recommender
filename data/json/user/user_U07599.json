@@ -1,0 +1,14 @@
+{
+    "user_id": "U07599",
+    "name": "Ms. Melinda Wise MD",
+    "email": "thansen@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02190', 'B03202', 'B03374', 'B05506']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Williams-Wolfe for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02396', 'B04867', 'B07847', 'B02159', 'B01621']"
+}

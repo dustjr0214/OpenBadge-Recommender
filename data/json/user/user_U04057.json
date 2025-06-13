@@ -1,0 +1,14 @@
+{
+    "user_id": "U04057",
+    "name": "Samuel Smith",
+    "email": "kristen35@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07104', 'B09143', 'B03921', 'B04776']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Forbes-Gonzalez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09796', 'B09866', 'B00295', 'B09553']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02196",
+    "name": "Jason Reid",
+    "email": "shelby08@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00913', 'B04178', 'B07763', 'B03559', 'B02511']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Whitney-Wells for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06744', 'B07601', 'B08778', 'B07129']"
+}

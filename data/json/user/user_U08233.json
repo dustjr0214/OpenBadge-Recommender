@@ -1,0 +1,14 @@
+{
+    "user_id": "U08233",
+    "name": "Casey Wade",
+    "email": "xavier48@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00220', 'B09269']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Robinson, Brown and Phillips for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08405', 'B05098', 'B05863']"
+}

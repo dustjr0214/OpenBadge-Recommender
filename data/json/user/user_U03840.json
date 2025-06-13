@@ -1,0 +1,14 @@
+{
+    "user_id": "U03840",
+    "name": "Dennis Davies",
+    "email": "corey77@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01012', 'B07641', 'B00644', 'B02048']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Gomez-Ray for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08355', 'B00239', 'B05780', 'B00898']"
+}

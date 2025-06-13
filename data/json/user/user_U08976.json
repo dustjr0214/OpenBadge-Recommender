@@ -1,0 +1,14 @@
+{
+    "user_id": "U08976",
+    "name": "Jason Boone",
+    "email": "schwartzchristina@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09049', 'B06343', 'B08153', 'B07770', 'B07985']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Osborne Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02928', 'B05088', 'B03510']"
+}

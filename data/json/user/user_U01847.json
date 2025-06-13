@@ -1,0 +1,14 @@
+{
+    "user_id": "U01847",
+    "name": "Robert Johnson",
+    "email": "hrobinson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Pierce-Jennings for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01401', 'B07503', 'B04682']"
+}

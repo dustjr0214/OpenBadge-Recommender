@@ -1,0 +1,14 @@
+{
+    "user_id": "U02213",
+    "name": "Mrs. Kathy Morales",
+    "email": "dtorres@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00019', 'B08987', 'B02613']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Williamson, Thomas and Thompson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09522']"
+}

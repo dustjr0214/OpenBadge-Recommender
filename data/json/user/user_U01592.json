@@ -1,0 +1,14 @@
+{
+    "user_id": "U01592",
+    "name": "Jennifer Joyce",
+    "email": "robertwright@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06955', 'B07203', 'B07401']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Lewis and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01558', 'B05052', 'B02826']"
+}

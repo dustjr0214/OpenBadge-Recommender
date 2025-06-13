@@ -1,0 +1,14 @@
+{
+    "user_id": "U03328",
+    "name": "William James",
+    "email": "xpatterson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08226']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Fleming, Parks and Sanchez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

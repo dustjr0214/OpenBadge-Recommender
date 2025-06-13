@@ -1,0 +1,14 @@
+{
+    "user_id": "U07086",
+    "name": "Christina Peterson MD",
+    "email": "ehudson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08726', 'B05528', 'B02949']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Garcia, Young and Bennett for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09064', 'B07166']"
+}

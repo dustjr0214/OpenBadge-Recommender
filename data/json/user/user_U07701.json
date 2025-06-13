@@ -1,0 +1,14 @@
+{
+    "user_id": "U07701",
+    "name": "Jessica Brady",
+    "email": "deborah64@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08963', 'B04312', 'B05388', 'B01315', 'B02255']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at King, Rojas and Morrison for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06075', 'B00150', 'B06445']"
+}

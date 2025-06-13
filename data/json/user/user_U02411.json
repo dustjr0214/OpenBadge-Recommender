@@ -1,0 +1,14 @@
+{
+    "user_id": "U02411",
+    "name": "Jessica Reed",
+    "email": "rthomas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01461', 'B03290', 'B08598', 'B08964', 'B05913']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Adams PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06604', 'B01318', 'B09217', 'B08490']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07214",
+    "name": "Joshua Ibarra",
+    "email": "prestonlori@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08002']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Rivera and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06597', 'B01280', 'B02596']"
+}

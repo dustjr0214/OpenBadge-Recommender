@@ -1,0 +1,14 @@
+{
+    "user_id": "U07830",
+    "name": "Angela Schmidt",
+    "email": "jerryreese@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Fitzpatrick Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02126', 'B03058', 'B02864', 'B08506']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00800",
+    "name": "Gerald Reeves",
+    "email": "scott72@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07371', 'B02970', 'B03164', 'B03900', 'B03210']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Taylor, Harrington and Pratt for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09357', 'B08742']"
+}

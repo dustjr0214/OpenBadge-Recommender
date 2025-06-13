@@ -1,0 +1,14 @@
+{
+    "user_id": "U07781",
+    "name": "Erica Martin",
+    "email": "knelson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01198', 'B07409', 'B02733', 'B07815', 'B06406']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Butler Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03417']"
+}

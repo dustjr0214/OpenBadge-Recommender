@@ -1,0 +1,14 @@
+{
+    "user_id": "U00878",
+    "name": "Jeffery Ramos",
+    "email": "ashleyevans@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06415', 'B09254']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Larson, Parker and Valentine for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05162', 'B05436']"
+}

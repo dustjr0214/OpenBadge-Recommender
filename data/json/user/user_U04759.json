@@ -1,0 +1,14 @@
+{
+    "user_id": "U04759",
+    "name": "Matthew Stevens",
+    "email": "hudsoncatherine@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09203']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Smith, Banks and Mendez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02144', 'B05217']"
+}

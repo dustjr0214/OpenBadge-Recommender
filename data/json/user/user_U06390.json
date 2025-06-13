@@ -1,0 +1,14 @@
+{
+    "user_id": "U06390",
+    "name": "Joseph Smith",
+    "email": "robert68@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08381', 'B08740', 'B03161']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Watts-Ball for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06306', 'B02317', 'B05723', 'B08770', 'B07642']"
+}

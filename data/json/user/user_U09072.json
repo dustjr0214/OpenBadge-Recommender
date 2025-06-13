@@ -1,0 +1,14 @@
+{
+    "user_id": "U09072",
+    "name": "Casey Cruz",
+    "email": "brittany30@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01629', 'B05499', 'B09013', 'B08328']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at English Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07404', 'B09217']"
+}

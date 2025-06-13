@@ -1,0 +1,14 @@
+{
+    "user_id": "U00408",
+    "name": "Thomas Hawkins",
+    "email": "michelle21@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08384', 'B01461']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Johnson PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05401']"
+}

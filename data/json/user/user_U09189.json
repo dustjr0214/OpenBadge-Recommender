@@ -1,0 +1,14 @@
+{
+    "user_id": "U09189",
+    "name": "Christopher Roy",
+    "email": "ruizdale@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08315', 'B08319', 'B09819', 'B05737', 'B05651']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Robinson-Cooper for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08346', 'B02029', 'B00937', 'B04711', 'B09964']"
+}

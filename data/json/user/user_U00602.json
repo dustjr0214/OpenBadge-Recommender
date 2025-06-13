@@ -1,0 +1,14 @@
+{
+    "user_id": "U00602",
+    "name": "Candice Abbott",
+    "email": "jamesamanda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07206', 'B04849', 'B07467']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Maxwell-Ford for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02554', 'B05881', 'B00108']"
+}

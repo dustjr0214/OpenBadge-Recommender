@@ -1,0 +1,14 @@
+{
+    "user_id": "U04938",
+    "name": "Colin Hicks",
+    "email": "ylopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04973']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Reyes LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06175', 'B08027', 'B03834', 'B05745', 'B01282']"
+}

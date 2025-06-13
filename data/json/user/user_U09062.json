@@ -1,0 +1,14 @@
+{
+    "user_id": "U09062",
+    "name": "Erica Gibson",
+    "email": "cassandraperry@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01505']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Martin, Campbell and Nelson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07809', 'B04818']"
+}

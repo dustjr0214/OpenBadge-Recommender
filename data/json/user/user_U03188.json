@@ -1,0 +1,14 @@
+{
+    "user_id": "U03188",
+    "name": "Dana Ford",
+    "email": "fernando80@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04147', 'B08340', 'B03673', 'B04521', 'B00951']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Haynes-Maddox for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00475', 'B00788']"
+}

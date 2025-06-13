@@ -1,0 +1,14 @@
+{
+    "user_id": "U04758",
+    "name": "Lee Hughes",
+    "email": "lopezwesley@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08473', 'B07408', 'B06817']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Gray-Decker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05777', 'B03831', 'B03315', 'B02068', 'B02322']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05889",
+    "name": "Jennifer Reyes",
+    "email": "egrant@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05673', 'B06020']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Moore-Shea for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07382']"
+}

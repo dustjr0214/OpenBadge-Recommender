@@ -1,0 +1,14 @@
+{
+    "user_id": "U01574",
+    "name": "Kimberly Jones",
+    "email": "robert75@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01142']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Rubio PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06803', 'B05692']"
+}

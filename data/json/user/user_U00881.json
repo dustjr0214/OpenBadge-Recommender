@@ -1,0 +1,14 @@
+{
+    "user_id": "U00881",
+    "name": "Edgar Allen Jr.",
+    "email": "ryansmith@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03270', 'B05440', 'B06860', 'B00803']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Johnston Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09577', 'B09987', 'B03460', 'B04142']"
+}

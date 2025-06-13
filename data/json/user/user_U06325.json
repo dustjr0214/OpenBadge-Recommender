@@ -1,0 +1,14 @@
+{
+    "user_id": "U06325",
+    "name": "Joyce Cortez MD",
+    "email": "anthony64@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04176', 'B02556', 'B05810', 'B01298', 'B01168']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Carpenter and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00870', 'B08135', 'B01436', 'B04861', 'B01145']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06747",
+    "name": "Jeremy Miller",
+    "email": "pnelson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01983', 'B00557', 'B02389', 'B08370']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Salinas-Braun for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

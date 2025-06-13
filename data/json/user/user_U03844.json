@@ -1,0 +1,14 @@
+{
+    "user_id": "U03844",
+    "name": "Stephanie Strickland",
+    "email": "emma55@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07267', 'B04916', 'B00073', 'B09317', 'B05460']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Wright-Goodman for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01102']"
+}

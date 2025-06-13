@@ -1,0 +1,14 @@
+{
+    "user_id": "U09901",
+    "name": "Eduardo Nichols",
+    "email": "btrevino@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07610', 'B02635', 'B04467', 'B01692']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Hart Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04924']"
+}

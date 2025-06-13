@@ -1,0 +1,14 @@
+{
+    "user_id": "U00036",
+    "name": "Wendy Sims",
+    "email": "phillip48@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05150', 'B07416', 'B07198', 'B04457']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Barrett, Schwartz and Love for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

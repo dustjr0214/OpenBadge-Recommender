@@ -1,0 +1,14 @@
+{
+    "user_id": "U00194",
+    "name": "Caroline Bridges",
+    "email": "lisa09@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02040', 'B03885', 'B07856', 'B03640', 'B04358']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Wheeler PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04825', 'B05113', 'B03042', 'B06084']"
+}

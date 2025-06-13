@@ -1,0 +1,14 @@
+{
+    "user_id": "U02526",
+    "name": "Joshua Brown",
+    "email": "washingtonamber@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03013']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Chavez, Sullivan and Warren for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04956', 'B05440']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03155",
+    "name": "Kevin Mccormick",
+    "email": "julie48@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05178', 'B02283', 'B05376']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Mitchell-Jackson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06761', 'B01903', 'B02485']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09036",
+    "name": "Christopher Campbell",
+    "email": "caitlyndrake@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08309']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Franklin Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07300', 'B03089', 'B02304', 'B06152']"
+}

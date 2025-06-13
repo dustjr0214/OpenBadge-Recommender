@@ -1,0 +1,14 @@
+{
+    "user_id": "U00961",
+    "name": "Corey Hall",
+    "email": "andersenmatthew@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01336']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Espinoza, Martinez and Boyle for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06114', 'B00568', 'B06661']"
+}

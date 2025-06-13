@@ -1,0 +1,14 @@
+{
+    "user_id": "U04220",
+    "name": "Dr. Ronald Osborne",
+    "email": "gevans@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00047', 'B05831']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Gilmore-Patel for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09398', 'B05243', 'B01287', 'B08773']"
+}

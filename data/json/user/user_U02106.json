@@ -1,0 +1,14 @@
+{
+    "user_id": "U02106",
+    "name": "Eric Schroeder",
+    "email": "ppotter@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05686', 'B08828', 'B06414', 'B02211']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hoffman-Bowman for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05860', 'B01367']"
+}

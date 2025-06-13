@@ -1,0 +1,14 @@
+{
+    "user_id": "U03724",
+    "name": "Tracy Galvan",
+    "email": "shopkins@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09656', 'B02612', 'B05055', 'B02307']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Carrillo Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

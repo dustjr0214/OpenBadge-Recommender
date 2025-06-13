@@ -1,0 +1,14 @@
+{
+    "user_id": "U06545",
+    "name": "Robert Green",
+    "email": "usmith@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03240', 'B04478', 'B09829']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Reynolds and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

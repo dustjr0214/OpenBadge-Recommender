@@ -1,0 +1,14 @@
+{
+    "user_id": "U09033",
+    "name": "Ann Huang",
+    "email": "rosekenneth@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09379', 'B03057']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Gutierrez, Burke and Spencer for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09631', 'B06268']"
+}

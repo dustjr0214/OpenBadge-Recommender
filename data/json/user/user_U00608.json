@@ -1,0 +1,14 @@
+{
+    "user_id": "U00608",
+    "name": "Angela Perez",
+    "email": "rangelpaul@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01700', 'B03177', 'B00357', 'B00912']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Saunders, Blackwell and Mcdonald for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00084', 'B06528', 'B08929', 'B03461', 'B01573']"
+}

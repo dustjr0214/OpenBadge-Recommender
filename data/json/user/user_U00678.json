@@ -1,0 +1,14 @@
+{
+    "user_id": "U00678",
+    "name": "Bryan Sandoval",
+    "email": "coledylan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Smith, Wilkins and Allison for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07874', 'B08396', 'B08291', 'B09485', 'B06063']"
+}

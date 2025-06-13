@@ -1,0 +1,14 @@
+{
+    "user_id": "U00566",
+    "name": "Juan Hahn",
+    "email": "canderson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Scott, Gibson and Rodriguez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06190', 'B07138']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00374",
+    "name": "Daniel Bowman MD",
+    "email": "gregorycraig@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01720', 'B09630', 'B06903']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Henry, Flowers and Weaver for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06722', 'B02962', 'B05252']"
+}

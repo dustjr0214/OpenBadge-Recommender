@@ -1,0 +1,14 @@
+{
+    "user_id": "U04778",
+    "name": "Dr. Rebecca Snow DDS",
+    "email": "john36@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Mcintyre Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08420', 'B09011', 'B04696', 'B03425', 'B03243']"
+}

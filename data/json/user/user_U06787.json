@@ -1,0 +1,14 @@
+{
+    "user_id": "U06787",
+    "name": "Nicholas Carpenter",
+    "email": "nicholas43@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04739', 'B07643', 'B01036', 'B09022']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Martin-Bonilla for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03705', 'B08455', 'B01604', 'B09225']"
+}

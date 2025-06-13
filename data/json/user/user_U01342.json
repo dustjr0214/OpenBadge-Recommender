@@ -1,0 +1,14 @@
+{
+    "user_id": "U01342",
+    "name": "Andrew Riley",
+    "email": "georgecraig@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02017', 'B06133', 'B09493', 'B08561', 'B00116']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Grant-Bush for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00705', 'B09794', 'B07365', 'B00893']"
+}

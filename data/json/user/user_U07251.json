@@ -1,0 +1,14 @@
+{
+    "user_id": "U07251",
+    "name": "Eric Owens",
+    "email": "rfreeman@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05313', 'B06034', 'B07838', 'B01498']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Trujillo-Martin for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00782', 'B09349', 'B04045', 'B04343']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07820",
+    "name": "Kenneth Craig",
+    "email": "arodriguez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09777', 'B08695']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Le Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00279', 'B06792', 'B02206']"
+}

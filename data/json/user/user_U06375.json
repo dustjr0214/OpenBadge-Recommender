@@ -1,0 +1,14 @@
+{
+    "user_id": "U06375",
+    "name": "Natasha Frye",
+    "email": "ischultz@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01763', 'B04402', 'B07252', 'B01018', 'B02340']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Wood-Wilkerson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01458', 'B03545', 'B03418', 'B06155']"
+}

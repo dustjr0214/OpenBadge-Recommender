@@ -1,0 +1,14 @@
+{
+    "user_id": "U00853",
+    "name": "Mary Munoz",
+    "email": "robertbernard@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05304', 'B08610']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Dudley-Bauer for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01426']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09055",
+    "name": "Jack Meyer",
+    "email": "kennedyjamie@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03047', 'B03857', 'B05078', 'B00863']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Baker PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04613', 'B01011', 'B09499', 'B02622', 'B05359']"
+}

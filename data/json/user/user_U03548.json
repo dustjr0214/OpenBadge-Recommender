@@ -1,0 +1,14 @@
+{
+    "user_id": "U03548",
+    "name": "Brenda Black",
+    "email": "cdominguez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02371', 'B06489']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Wright, Levine and Gutierrez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04238', 'B06370', 'B02217']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09776",
+    "name": "Jason Davis",
+    "email": "taylorcraig@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02730', 'B08388', 'B05562', 'B09500']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Young LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05430', 'B03553', 'B06180', 'B09333']"
+}

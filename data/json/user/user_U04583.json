@@ -1,0 +1,14 @@
+{
+    "user_id": "U04583",
+    "name": "Christopher Lawrence",
+    "email": "balvarez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00996', 'B05479', 'B06945', 'B00043', 'B07820']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hunt PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03573']"
+}

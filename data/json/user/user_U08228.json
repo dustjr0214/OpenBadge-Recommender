@@ -1,0 +1,14 @@
+{
+    "user_id": "U08228",
+    "name": "Brandon Bender",
+    "email": "danielcunningham@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06939']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Murphy Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06135', 'B01887', 'B02675', 'B03710']"
+}

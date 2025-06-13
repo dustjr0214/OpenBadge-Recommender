@@ -1,0 +1,14 @@
+{
+    "user_id": "U03128",
+    "name": "Brittany Travis",
+    "email": "kevin50@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00244', 'B09226', 'B01713']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Alexander-Mitchell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03063', 'B01079', 'B07149', 'B05213']"
+}

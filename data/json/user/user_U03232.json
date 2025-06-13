@@ -1,0 +1,14 @@
+{
+    "user_id": "U03232",
+    "name": "Susan Taylor",
+    "email": "stevensdenise@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04917', 'B02291', 'B09013', 'B01463']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Wood and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00584', 'B05701', 'B00926', 'B09862', 'B04783']"
+}

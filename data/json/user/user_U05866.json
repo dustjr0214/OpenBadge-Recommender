@@ -1,0 +1,14 @@
+{
+    "user_id": "U05866",
+    "name": "Travis Chen",
+    "email": "paul88@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00688', 'B07402']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Dunn-Sims for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04175', 'B05537']"
+}

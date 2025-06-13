@@ -1,0 +1,14 @@
+{
+    "user_id": "U03303",
+    "name": "Jeffery Bowers",
+    "email": "lacey01@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02901']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Brewer-Jacobs for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06169', 'B09513']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02304",
+    "name": "Wayne White",
+    "email": "mtran@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03399']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Lynn Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09439', 'B01199', 'B01041', 'B00393', 'B02340']"
+}

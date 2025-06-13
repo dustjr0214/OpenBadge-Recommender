@@ -1,0 +1,14 @@
+{
+    "user_id": "U05155",
+    "name": "Lisa Mitchell",
+    "email": "ismith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05022', 'B03184', 'B01062']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Medina-Nielsen for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07625', 'B04110', 'B05200']"
+}

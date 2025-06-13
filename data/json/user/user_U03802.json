@@ -1,0 +1,14 @@
+{
+    "user_id": "U03802",
+    "name": "Stacey Houston",
+    "email": "christianstevens@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06876']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Waters, Chavez and Schultz for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06757', 'B08751', 'B00001', 'B08975', 'B07160']"
+}

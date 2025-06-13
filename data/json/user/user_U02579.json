@@ -1,0 +1,14 @@
+{
+    "user_id": "U02579",
+    "name": "Karen Larsen",
+    "email": "starkangela@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04344', 'B03605', 'B02059', 'B02110', 'B06641']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Atkins PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

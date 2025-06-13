@@ -1,0 +1,14 @@
+{
+    "user_id": "U08158",
+    "name": "James Garcia",
+    "email": "qtodd@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03663', 'B00259', 'B07218', 'B08631', 'B04101']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Kirby PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07731']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07753",
+    "name": "Thomas Lucas Jr.",
+    "email": "john35@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01027']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Clarke, Torres and Richard for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06080', 'B09620']"
+}

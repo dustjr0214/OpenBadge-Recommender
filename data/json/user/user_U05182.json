@@ -1,0 +1,14 @@
+{
+    "user_id": "U05182",
+    "name": "Lindsay Brown",
+    "email": "andrea59@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09863', 'B05048', 'B00846', 'B09420', 'B04549']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Harris-Sanders for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02767', 'B05073', 'B04518', 'B01461']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07352",
+    "name": "Peter Williams",
+    "email": "ngentry@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00204', 'B03753']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Stephens PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04627', 'B06755', 'B07716']"
+}

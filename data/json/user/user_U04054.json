@@ -1,0 +1,14 @@
+{
+    "user_id": "U04054",
+    "name": "Douglas Guzman",
+    "email": "timothy70@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03143', 'B06320']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Fuller, Levine and Hood for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04221']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07254",
+    "name": "Dwayne Ross",
+    "email": "brianknight@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01140']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Stewart Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03649', 'B06130', 'B02617', 'B07196', 'B09740']"
+}

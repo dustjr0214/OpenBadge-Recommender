@@ -1,0 +1,14 @@
+{
+    "user_id": "U09584",
+    "name": "Jose Reeves",
+    "email": "kimandrea@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00429', 'B01872', 'B05135']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Jones, Rodgers and Perry for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06650', 'B02007', 'B04388', 'B01036']"
+}

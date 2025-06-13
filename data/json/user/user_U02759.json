@@ -1,0 +1,14 @@
+{
+    "user_id": "U02759",
+    "name": "Robert Phelps",
+    "email": "cperez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09490', 'B06144', 'B08436', 'B09563', 'B03471']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Richard Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02596', 'B07597', 'B01679', 'B09706']"
+}

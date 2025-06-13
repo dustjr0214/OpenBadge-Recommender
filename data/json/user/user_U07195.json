@@ -1,0 +1,14 @@
+{
+    "user_id": "U07195",
+    "name": "Carl Clark",
+    "email": "mallorycombs@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04544', 'B06836', 'B05636', 'B07366', 'B08542']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Shannon, Long and Horn for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00946', 'B01558', 'B07759', 'B05736']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04213",
+    "name": "Timothy Ramirez",
+    "email": "ilynch@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05416', 'B04350', 'B07867']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Jones Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00783",
+    "name": "William Griffith",
+    "email": "becky35@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01068', 'B09533', 'B07250', 'B01356', 'B09423']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Carroll, Blevins and Moreno for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02645', 'B00652']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05753",
+    "name": "Machine Learning Pro",
+    "issuer": "Google",
+    "description": "Machine Learning Pro badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'UI/UX']",
+    "competency": "['Python', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07832']"
+}

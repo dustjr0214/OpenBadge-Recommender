@@ -1,0 +1,14 @@
+{
+    "user_id": "U06778",
+    "name": "Christopher Stephens",
+    "email": "steelemichael@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Johnson, Smith and Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02267', 'B04411', 'B07270', 'B03345', 'B07755']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08808",
+    "name": "Kelly Jones",
+    "email": "enelson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06404', 'B09119', 'B08956', 'B09757']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Moody, Rasmussen and Watkins for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09126', 'B04260']"
+}

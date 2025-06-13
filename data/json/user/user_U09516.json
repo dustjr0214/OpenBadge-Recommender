@@ -1,0 +1,14 @@
+{
+    "user_id": "U09516",
+    "name": "Linda Taylor",
+    "email": "freemandonald@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09711', 'B01431']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Alexander, Carter and Ritter for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

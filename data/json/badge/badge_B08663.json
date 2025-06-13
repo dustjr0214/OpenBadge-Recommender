@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08663",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Analytical Skills']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03368', 'B05738']"
+}

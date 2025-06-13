@@ -1,0 +1,14 @@
+{
+    "user_id": "U08747",
+    "name": "Julie Taylor",
+    "email": "andrewdean@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02723', 'B01326', 'B04127']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Miller-Harding for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08066', 'B09225', 'B08656', 'B02695', 'B00574']"
+}

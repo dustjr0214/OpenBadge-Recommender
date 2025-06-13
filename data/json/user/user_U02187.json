@@ -1,0 +1,14 @@
+{
+    "user_id": "U02187",
+    "name": "Lisa Morris",
+    "email": "bmyers@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02283', 'B03180', 'B01887', 'B01585', 'B01399']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Preston, Blackwell and Wood for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00921', 'B01666', 'B04249', 'B09315']"
+}

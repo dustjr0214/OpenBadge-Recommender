@@ -1,0 +1,14 @@
+{
+    "user_id": "U04216",
+    "name": "Christopher Nelson",
+    "email": "elizabethsaunders@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04055', 'B01946', 'B04566', 'B00190']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Moran Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09250']"
+}

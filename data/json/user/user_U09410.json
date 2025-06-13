@@ -1,0 +1,14 @@
+{
+    "user_id": "U09410",
+    "name": "Amy Haynes",
+    "email": "bennettjeffrey@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08725']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Matthews and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06537', 'B07184', 'B01890', 'B02555', 'B06613']"
+}

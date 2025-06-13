@@ -1,0 +1,14 @@
+{
+    "user_id": "U09542",
+    "name": "Thomas Ramsey",
+    "email": "dayashley@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07723']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Russell PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06986', 'B00346', 'B02129']"
+}

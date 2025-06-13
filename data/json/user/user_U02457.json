@@ -1,0 +1,14 @@
+{
+    "user_id": "U02457",
+    "name": "Jennifer Keith",
+    "email": "tranlisa@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04035']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Warren Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03103', 'B02041', 'B08068', 'B02344', 'B08337']"
+}

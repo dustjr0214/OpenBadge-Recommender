@@ -1,0 +1,14 @@
+{
+    "user_id": "U03244",
+    "name": "Todd Mccoy",
+    "email": "michael18@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06183', 'B06802', 'B00077', 'B00674', 'B03158']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Juarez and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09566', 'B09288', 'B07839', 'B06190', 'B05551']"
+}

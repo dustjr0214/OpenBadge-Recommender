@@ -1,0 +1,14 @@
+{
+    "user_id": "U08626",
+    "name": "Jacqueline Vargas",
+    "email": "anthony60@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01651', 'B00433', 'B06437']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Simmons LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03662', 'B03501', 'B07418']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09030",
+    "name": "Douglas Turner",
+    "email": "gdavis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03026']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Harmon, Jordan and Keith for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06601', 'B05855', 'B01734']"
+}

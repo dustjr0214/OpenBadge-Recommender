@@ -1,0 +1,14 @@
+{
+    "user_id": "U08298",
+    "name": "Peter Murphy",
+    "email": "matthew47@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09165', 'B05994', 'B09223', 'B08297', 'B04660']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Jimenez-Young for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07222']"
+}

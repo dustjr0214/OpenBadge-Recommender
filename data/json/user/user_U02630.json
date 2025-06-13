@@ -1,0 +1,14 @@
+{
+    "user_id": "U02630",
+    "name": "Jessica Schroeder",
+    "email": "fcharles@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03888', 'B03465', 'B06267', 'B08528', 'B07790']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Martin-Hall for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06366']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00728",
+    "name": "Amy Smith",
+    "email": "lreeves@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09837', 'B07480', 'B02417']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Townsend-Woodard for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01698']"
+}

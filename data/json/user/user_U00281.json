@@ -1,0 +1,14 @@
+{
+    "user_id": "U00281",
+    "name": "Michael West",
+    "email": "aaronstafford@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05079', 'B04956', 'B03223', 'B01049']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Stevens, Suarez and Kennedy for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06316', 'B05837', 'B06148']"
+}

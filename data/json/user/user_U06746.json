@@ -1,0 +1,14 @@
+{
+    "user_id": "U06746",
+    "name": "Nicole Dennis",
+    "email": "porterbrianna@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09501', 'B01406', 'B04417', 'B09375', 'B07235']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Nelson-Stephens for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07383', 'B06982']"
+}

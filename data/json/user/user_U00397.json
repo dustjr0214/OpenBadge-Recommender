@@ -1,0 +1,14 @@
+{
+    "user_id": "U00397",
+    "name": "Ruben Martinez",
+    "email": "kevin64@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Rowland and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00070', 'B07282']"
+}

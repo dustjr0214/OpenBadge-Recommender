@@ -1,0 +1,14 @@
+{
+    "user_id": "U07126",
+    "name": "Kelly Sandoval",
+    "email": "smithbrianna@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Moore, Garcia and Smith for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07032']"
+}

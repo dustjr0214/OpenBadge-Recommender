@@ -1,0 +1,14 @@
+{
+    "user_id": "U09782",
+    "name": "Robert Palmer",
+    "email": "paynejennifer@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04831', 'B07550', 'B04496', 'B01727', 'B06528']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Salazar Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04356', 'B01094', 'B02434']"
+}

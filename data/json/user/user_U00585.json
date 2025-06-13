@@ -1,0 +1,14 @@
+{
+    "user_id": "U00585",
+    "name": "Andrea Sutton",
+    "email": "donna83@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05561', 'B08542', 'B00344']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Schneider, Casey and Ward for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09421",
+    "name": "Sean Oliver",
+    "email": "joseph94@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08923', 'B01319']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Burke, Merritt and Morris for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04997', 'B07146', 'B03141', 'B00189']"
+}

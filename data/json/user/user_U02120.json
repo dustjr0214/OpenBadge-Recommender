@@ -1,0 +1,14 @@
+{
+    "user_id": "U02120",
+    "name": "Nicole Lambert",
+    "email": "millerjoseph@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06551', 'B04830', 'B01887', 'B04787']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Ramos-Hanson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06494', 'B00323', 'B01020', 'B08152']"
+}

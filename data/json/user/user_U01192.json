@@ -1,0 +1,14 @@
+{
+    "user_id": "U01192",
+    "name": "Alicia Harrell",
+    "email": "whitneyhodge@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Johnson, Collins and Taylor for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04916', 'B08477', 'B02071']"
+}

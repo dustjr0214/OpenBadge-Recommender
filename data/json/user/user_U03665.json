@@ -1,0 +1,14 @@
+{
+    "user_id": "U03665",
+    "name": "Ashley Hudson",
+    "email": "thomas13@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00139', 'B04107', 'B07177', 'B07536']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Gutierrez-Rose for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08396', 'B01693', 'B08076', 'B07064', 'B06538']"
+}

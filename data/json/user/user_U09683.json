@@ -1,0 +1,14 @@
+{
+    "user_id": "U09683",
+    "name": "Brittany Washington",
+    "email": "rgallegos@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01563', 'B02291']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Castro, Ellison and Cox for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05864', 'B07491', 'B05962']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01876",
+    "name": "Matthew Herman",
+    "email": "victorcox@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04732']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Barker-Hughes for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07860', 'B02405']"
+}

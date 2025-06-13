@@ -1,0 +1,14 @@
+{
+    "user_id": "U07997",
+    "name": "Charles Downs",
+    "email": "lguerra@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08410', 'B04828', 'B06115', 'B02437']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Cummings and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08072', 'B06661', 'B02007', 'B00897', 'B01587']"
+}

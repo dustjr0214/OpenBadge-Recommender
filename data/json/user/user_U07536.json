@@ -1,0 +1,14 @@
+{
+    "user_id": "U07536",
+    "name": "Timothy Jackson",
+    "email": "echristian@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00949', 'B03964']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Day PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09621', 'B04576']"
+}

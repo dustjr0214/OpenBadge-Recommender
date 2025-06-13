@@ -1,0 +1,14 @@
+{
+    "user_id": "U09643",
+    "name": "Dr. Sara Robinson",
+    "email": "lesliehernandez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09764', 'B08524']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Miller-Jenkins for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04109', 'B05033']"
+}

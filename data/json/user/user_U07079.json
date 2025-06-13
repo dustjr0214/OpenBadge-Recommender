@@ -1,0 +1,14 @@
+{
+    "user_id": "U07079",
+    "name": "John Clark",
+    "email": "adrian66@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04906', 'B00194', 'B04583', 'B05674', 'B00173']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Pennington Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05208']"
+}

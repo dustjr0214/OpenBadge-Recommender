@@ -1,0 +1,14 @@
+{
+    "user_id": "U02027",
+    "name": "Kara Jones",
+    "email": "amanda65@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00652']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Harrison-Murray for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01999']"
+}

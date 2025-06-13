@@ -1,0 +1,14 @@
+{
+    "user_id": "U09382",
+    "name": "Anthony Scott",
+    "email": "charles21@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Cochran Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08152', 'B02746', 'B02345']"
+}

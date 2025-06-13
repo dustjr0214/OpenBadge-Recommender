@@ -1,0 +1,14 @@
+{
+    "user_id": "U06846",
+    "name": "Scott Blackburn",
+    "email": "lewisbrenda@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03227', 'B00530']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Lewis, Campos and Christensen for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05294', 'B06866', 'B08225']"
+}

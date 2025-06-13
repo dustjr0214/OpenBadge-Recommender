@@ -1,0 +1,14 @@
+{
+    "user_id": "U00234",
+    "name": "Linda Martinez",
+    "email": "jamie48@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Bell-Quinn for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05360', 'B04354']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04379",
+    "name": "Anthony Martin",
+    "email": "kevinanderson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02379', 'B08309', 'B04683', 'B05131', 'B06999']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Moss Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05241', 'B07410', 'B00363', 'B01754', 'B04582']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00483",
+    "name": "Michael Velazquez",
+    "email": "duncanvictoria@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00200', 'B05352']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Giles-Roberts for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00359']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04267",
+    "name": "Alicia Ramos",
+    "email": "smithshawn@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07132', 'B04236']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Moore PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08065', 'B02401']"
+}

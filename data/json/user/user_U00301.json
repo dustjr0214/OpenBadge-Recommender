@@ -1,0 +1,14 @@
+{
+    "user_id": "U00301",
+    "name": "Jade King",
+    "email": "pecktimothy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03104', 'B04377', 'B06897']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Davis, Drake and Jordan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00999']"
+}

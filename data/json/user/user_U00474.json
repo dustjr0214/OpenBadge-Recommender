@@ -1,0 +1,14 @@
+{
+    "user_id": "U00474",
+    "name": "Kent Newton",
+    "email": "sullivankimberly@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00710', 'B03738', 'B09611']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Adams Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08028",
+    "name": "Ashley Rodriguez",
+    "email": "ucampbell@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06849', 'B09252', 'B09711', 'B07771', 'B00759']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Massey, Pham and Cook for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07139', 'B01270', 'B01566']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07937",
+    "name": "Dr. Regina Bond MD",
+    "email": "calebwalker@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07163', 'B06506', 'B02566', 'B01836', 'B03997']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Greene and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04845', 'B02528', 'B06354', 'B07757', 'B06537']"
+}

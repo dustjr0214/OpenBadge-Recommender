@@ -1,0 +1,14 @@
+{
+    "user_id": "U04991",
+    "name": "Danielle Martinez",
+    "email": "amandacamacho@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05213', 'B01028', 'B01497', 'B03586']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Flores, Blake and Hill for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06286', 'B06753', 'B07075']"
+}

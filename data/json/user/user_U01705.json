@@ -1,0 +1,14 @@
+{
+    "user_id": "U01705",
+    "name": "Paul Mcknight",
+    "email": "joseph85@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03174']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Miller-Coleman for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09461']"
+}

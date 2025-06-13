@@ -1,0 +1,14 @@
+{
+    "user_id": "U04262",
+    "name": "Megan Terrell",
+    "email": "kimberly70@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02850', 'B04506', 'B09976', 'B09953', 'B04193']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Jones-Montoya for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04964', 'B08738', 'B02369', 'B04869']"
+}

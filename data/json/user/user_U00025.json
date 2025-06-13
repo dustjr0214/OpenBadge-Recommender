@@ -1,0 +1,14 @@
+{
+    "user_id": "U00025",
+    "name": "Tracy Shaw",
+    "email": "baileydawn@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03790', 'B09498', 'B00148', 'B05062']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Frank Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02407', 'B00426', 'B09953', 'B03349', 'B04759']"
+}

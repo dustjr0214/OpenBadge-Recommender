@@ -1,0 +1,14 @@
+{
+    "user_id": "U09066",
+    "name": "Daniel Gibson",
+    "email": "cummingstyler@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04456', 'B04899', 'B06240', 'B08743', 'B07531']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Austin Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04999', 'B08438', 'B09341']"
+}

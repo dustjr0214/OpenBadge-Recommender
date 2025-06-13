@@ -1,0 +1,14 @@
+{
+    "user_id": "U08621",
+    "name": "Thomas Spencer",
+    "email": "lisabowman@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00914']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Alexander Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02164', 'B07270', 'B01907']"
+}

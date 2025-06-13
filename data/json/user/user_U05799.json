@@ -1,0 +1,14 @@
+{
+    "user_id": "U05799",
+    "name": "John Wilson",
+    "email": "maxwellcharles@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04273', 'B08633', 'B08806', 'B07774', 'B02583']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Martin, Carpenter and Skinner for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01923', 'B09144', 'B05649', 'B05838', 'B07703']"
+}

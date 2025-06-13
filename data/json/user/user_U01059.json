@@ -1,0 +1,14 @@
+{
+    "user_id": "U01059",
+    "name": "Darlene Smith",
+    "email": "mckinneycaroline@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09355']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Howard-Lowe for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09182",
+    "name": "Brian Rodriguez",
+    "email": "ashleynelson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01948', 'B07324', 'B00464']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Kennedy-Hernandez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05999', 'B03247', 'B06454', 'B09252', 'B03851']"
+}

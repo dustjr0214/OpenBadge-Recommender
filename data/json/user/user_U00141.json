@@ -1,0 +1,14 @@
+{
+    "user_id": "U00141",
+    "name": "Kelly Caldwell",
+    "email": "julie40@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Bradford, Mason and Butler for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06908', 'B08660', 'B04400', 'B04511']"
+}

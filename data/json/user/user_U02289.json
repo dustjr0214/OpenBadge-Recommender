@@ -1,0 +1,14 @@
+{
+    "user_id": "U02289",
+    "name": "Brandy Wallace",
+    "email": "dennismary@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09967', 'B04365', 'B03380']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Benitez Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07191', 'B07064', 'B09927']"
+}

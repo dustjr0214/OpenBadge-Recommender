@@ -1,0 +1,14 @@
+{
+    "user_id": "U08802",
+    "name": "Amber Howard",
+    "email": "uking@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07956', 'B06453', 'B02675', 'B00682']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Barrera, Perez and Dunlap for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08884', 'B03148']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01802",
+    "name": "Terri Morrison",
+    "email": "ycollins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06086', 'B05087']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Nelson-Lynch for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01469', 'B09569', 'B04585', 'B00484']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02666",
+    "name": "Jessica Clark",
+    "email": "iarmstrong@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05404', 'B06144', 'B04649']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Murphy, Hernandez and Anderson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05496']"
+}

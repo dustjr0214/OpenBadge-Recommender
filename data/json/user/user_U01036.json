@@ -1,0 +1,14 @@
+{
+    "user_id": "U01036",
+    "name": "Jessica Watts",
+    "email": "megan79@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08690', 'B01479', 'B08285', 'B04027', 'B08182']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Cunningham-Ortiz for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07036']"
+}

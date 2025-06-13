@@ -1,0 +1,14 @@
+{
+    "user_id": "U01272",
+    "name": "Melissa Marshall",
+    "email": "james94@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04339', 'B07816', 'B07747', 'B06556']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Williamson-Medina for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03112', 'B04033', 'B01565', 'B00605', 'B00875']"
+}

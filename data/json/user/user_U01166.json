@@ -1,0 +1,14 @@
+{
+    "user_id": "U01166",
+    "name": "Paula Allen",
+    "email": "elizabethbrooks@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09902', 'B05935', 'B07549', 'B04551']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Barnes Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07773', 'B05808', 'B03004']"
+}

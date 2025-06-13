@@ -1,0 +1,14 @@
+{
+    "user_id": "U05360",
+    "name": "Madison Hamilton",
+    "email": "greerlisa@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09110', 'B03638', 'B02877']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Webb Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02545']"
+}

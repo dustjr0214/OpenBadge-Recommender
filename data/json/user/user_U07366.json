@@ -1,0 +1,14 @@
+{
+    "user_id": "U07366",
+    "name": "Mary Snyder",
+    "email": "rjones@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08347', 'B06414', 'B07299', 'B02387', 'B04905']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Harris, Young and Neal for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

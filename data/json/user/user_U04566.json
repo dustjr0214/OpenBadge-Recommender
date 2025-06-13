@@ -1,0 +1,14 @@
+{
+    "user_id": "U04566",
+    "name": "Timothy Mcbride",
+    "email": "catherine95@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07791', 'B05047', 'B04364']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Silva LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04270', 'B05107', 'B02848', 'B02943']"
+}

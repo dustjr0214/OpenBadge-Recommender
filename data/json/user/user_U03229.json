@@ -1,0 +1,14 @@
+{
+    "user_id": "U03229",
+    "name": "Melissa Bray",
+    "email": "wjackson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09213', 'B08197', 'B04007', 'B01134']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Zuniga, Jefferson and White for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07155']"
+}

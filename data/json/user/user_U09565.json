@@ -1,0 +1,14 @@
+{
+    "user_id": "U09565",
+    "name": "Russell Johnson",
+    "email": "mary30@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04430', 'B08544', 'B08009', 'B09545', 'B06924']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Abbott, Watson and Valdez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04571', 'B01933', 'B00814', 'B07287', 'B07831']"
+}

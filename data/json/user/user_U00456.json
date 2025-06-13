@@ -1,0 +1,14 @@
+{
+    "user_id": "U00456",
+    "name": "Jose Peterson",
+    "email": "rosstamara@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08780', 'B01613', 'B05193', 'B06914', 'B02532']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Reyes, Williams and Ross for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08661', 'B07110', 'B08984']"
+}

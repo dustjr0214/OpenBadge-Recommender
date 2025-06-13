@@ -1,0 +1,14 @@
+{
+    "user_id": "U05781",
+    "name": "Ricky Brown",
+    "email": "mackdeanna@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04354', 'B02088']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Gonzalez-Wright for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00024', 'B06230', 'B07273', 'B03978']"
+}

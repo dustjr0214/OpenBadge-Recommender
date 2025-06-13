@@ -1,0 +1,14 @@
+{
+    "user_id": "U09579",
+    "name": "John Wood",
+    "email": "shafferjackie@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06259', 'B07035', 'B03356', 'B00202']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Moody-Smith for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09159', 'B02587', 'B05391', 'B04204']"
+}

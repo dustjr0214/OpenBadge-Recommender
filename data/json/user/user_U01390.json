@@ -1,0 +1,14 @@
+{
+    "user_id": "U01390",
+    "name": "Alicia Doyle",
+    "email": "coreyhenderson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09729', 'B02770']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Baker PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05659', 'B00328', 'B00861', 'B06087', 'B05444']"
+}

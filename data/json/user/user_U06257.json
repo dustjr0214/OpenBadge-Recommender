@@ -1,0 +1,14 @@
+{
+    "user_id": "U06257",
+    "name": "Lisa Osborne",
+    "email": "ashley13@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06056', 'B08347']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Lewis LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01296', 'B00605', 'B03067', 'B08791', 'B01803']"
+}

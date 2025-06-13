@@ -1,0 +1,14 @@
+{
+    "user_id": "U04073",
+    "name": "Jacqueline Holmes",
+    "email": "michael26@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05473', 'B08899', 'B08791']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Tanner-Martin for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07197', 'B04767', 'B09370']"
+}

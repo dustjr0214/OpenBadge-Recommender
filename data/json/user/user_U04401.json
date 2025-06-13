@@ -1,0 +1,14 @@
+{
+    "user_id": "U04401",
+    "name": "Barry Castillo",
+    "email": "harmoneileen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07090', 'B08047', 'B07676', 'B06373', 'B09258']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Conway, Carter and Cross for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02839', 'B07138', 'B06368', 'B06443', 'B02568']"
+}

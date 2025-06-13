@@ -1,0 +1,14 @@
+{
+    "user_id": "U02939",
+    "name": "Michael Ryan",
+    "email": "jbrooks@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04519', 'B06551', 'B07539', 'B07515']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Guzman, Wright and Sampson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08569', 'B06686']"
+}

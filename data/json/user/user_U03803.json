@@ -1,0 +1,14 @@
+{
+    "user_id": "U03803",
+    "name": "Tiffany Anderson",
+    "email": "jandrade@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07304', 'B07605']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Clark-Barron for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06595', 'B01619', 'B09388', 'B04981']"
+}

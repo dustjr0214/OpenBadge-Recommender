@@ -1,0 +1,14 @@
+{
+    "user_id": "U00269",
+    "name": "Nicholas Meyer",
+    "email": "baileyjames@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03991', 'B06156', 'B08559']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Rios, Flores and Morris for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04828', 'B00996', 'B01198']"
+}

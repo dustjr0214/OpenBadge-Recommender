@@ -1,0 +1,14 @@
+{
+    "user_id": "U02396",
+    "name": "Alicia Butler",
+    "email": "julie12@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04827', 'B07046', 'B01335', 'B05929']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Mora Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00353', 'B04428', 'B09078', 'B04212']"
+}

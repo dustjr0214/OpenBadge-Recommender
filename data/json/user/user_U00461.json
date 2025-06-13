@@ -1,0 +1,14 @@
+{
+    "user_id": "U00461",
+    "name": "Jane Mcbride",
+    "email": "rmccarthy@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09026', 'B01499', 'B07896']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Santana and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06117', 'B08308', 'B06950']"
+}

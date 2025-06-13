@@ -1,0 +1,14 @@
+{
+    "user_id": "U09545",
+    "name": "Nancy Joseph",
+    "email": "colejohn@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09947', 'B04777', 'B00631', 'B00292']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Snyder-Weaver for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

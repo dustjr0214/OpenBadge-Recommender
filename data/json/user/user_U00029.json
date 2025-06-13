@@ -1,0 +1,14 @@
+{
+    "user_id": "U00029",
+    "name": "Brian Mitchell",
+    "email": "michaelgriffith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00817', 'B01603', 'B03842']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Aguilar, Cunningham and Clark for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00333', 'B01040', 'B09453', 'B06307', 'B01148']"
+}

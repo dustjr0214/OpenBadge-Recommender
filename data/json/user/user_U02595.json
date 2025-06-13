@@ -1,0 +1,14 @@
+{
+    "user_id": "U02595",
+    "name": "Richard Hall",
+    "email": "ltaylor@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08171']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Lam-Le for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09478', 'B09127', 'B09202', 'B04246']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01274",
+    "name": "Scott Hampton",
+    "email": "elizabethdelgado@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07466', 'B02913', 'B09028']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Porter, Hunter and Medina for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04526', 'B08406', 'B08593']"
+}

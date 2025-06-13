@@ -1,0 +1,14 @@
+{
+    "user_id": "U07309",
+    "name": "Jessica Booth",
+    "email": "fwong@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05678']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Schultz Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00153', 'B06607', 'B08104', 'B05211', 'B06093']"
+}

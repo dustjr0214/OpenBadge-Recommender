@@ -1,0 +1,14 @@
+{
+    "user_id": "U02545",
+    "name": "Mark Parker",
+    "email": "emckay@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04092', 'B08690', 'B03881', 'B05695', 'B03484']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Meyer Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

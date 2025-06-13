@@ -1,0 +1,14 @@
+{
+    "user_id": "U08510",
+    "name": "Daniel Cortez",
+    "email": "timothyrobinson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06713', 'B01840', 'B00744', 'B00004']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Montoya, Fox and Estrada for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02606', 'B00043', 'B03366']"
+}

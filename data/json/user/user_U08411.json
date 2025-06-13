@@ -1,0 +1,14 @@
+{
+    "user_id": "U08411",
+    "name": "Cynthia Hall",
+    "email": "gary39@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09881', 'B00930', 'B03350']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Peterson, Warner and Smith for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03949', 'B09199', 'B09831', 'B04123', 'B05391']"
+}

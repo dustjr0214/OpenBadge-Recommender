@@ -1,0 +1,14 @@
+{
+    "user_id": "U02865",
+    "name": "Linda Hayden",
+    "email": "amandastewart@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05598', 'B06895', 'B07848']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Washington Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02603', 'B01857']"
+}

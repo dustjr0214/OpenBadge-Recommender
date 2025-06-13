@@ -1,0 +1,14 @@
+{
+    "user_id": "U08693",
+    "name": "Douglas Moore",
+    "email": "operry@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02516', 'B02789', 'B09776']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Garcia-Brooks for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

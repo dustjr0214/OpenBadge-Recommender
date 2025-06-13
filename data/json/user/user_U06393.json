@@ -1,0 +1,14 @@
+{
+    "user_id": "U06393",
+    "name": "Christopher Harper",
+    "email": "wellsmichelle@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09680', 'B07069']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Gordon PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00229', 'B05587', 'B06610', 'B06847', 'B08107']"
+}

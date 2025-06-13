@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00834",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'Deep Learning', 'Python']",
+    "competency": "['Machine Learning']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06445', 'B01439']"
+}

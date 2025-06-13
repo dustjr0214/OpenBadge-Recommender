@@ -1,0 +1,14 @@
+{
+    "user_id": "U07729",
+    "name": "Brandon Blackwell",
+    "email": "alexis02@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09108', 'B04694', 'B04790']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Morrison-Frank for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03783', 'B07199', 'B07419']"
+}

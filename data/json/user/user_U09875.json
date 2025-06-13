@@ -1,0 +1,14 @@
+{
+    "user_id": "U09875",
+    "name": "Tracey King",
+    "email": "andrew55@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05000', 'B03541', 'B03121', 'B08863', 'B09815']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Cook Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02810', 'B09344', 'B01162', 'B09575']"
+}

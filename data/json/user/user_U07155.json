@@ -1,0 +1,14 @@
+{
+    "user_id": "U07155",
+    "name": "Joshua Vance",
+    "email": "kevin70@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06849']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Brown Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05478', 'B03252', 'B02451', 'B04378', 'B08588']"
+}

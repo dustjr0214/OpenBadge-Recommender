@@ -1,0 +1,14 @@
+{
+    "user_id": "U07650",
+    "name": "Kara Morgan",
+    "email": "gtaylor@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cooper, Harrison and Diaz for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

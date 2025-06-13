@@ -1,0 +1,14 @@
+{
+    "user_id": "U09930",
+    "name": "Ruth Bender",
+    "email": "pricelisa@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07207']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Stevens and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04209', 'B09983', 'B04246']"
+}

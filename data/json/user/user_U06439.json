@@ -1,0 +1,14 @@
+{
+    "user_id": "U06439",
+    "name": "Randall Clark",
+    "email": "walshandrea@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05115', 'B07761', 'B09080', 'B01463']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Stanley and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06549', 'B08100']"
+}

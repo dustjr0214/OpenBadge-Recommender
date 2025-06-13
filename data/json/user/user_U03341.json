@@ -1,0 +1,14 @@
+{
+    "user_id": "U03341",
+    "name": "Michelle Charles",
+    "email": "mackenziephillips@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02270', 'B00685']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Powers, Colon and Whitaker for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02973', 'B02075', 'B07286']"
+}

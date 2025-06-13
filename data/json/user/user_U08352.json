@@ -1,0 +1,14 @@
+{
+    "user_id": "U08352",
+    "name": "Lydia Wagner",
+    "email": "astanton@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09655', 'B05546', 'B02930', 'B05241']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Torres PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08898', 'B07120', 'B05804', 'B07725', 'B00979']"
+}

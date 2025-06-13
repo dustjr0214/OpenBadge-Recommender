@@ -1,0 +1,14 @@
+{
+    "user_id": "U01080",
+    "name": "Joe Kennedy",
+    "email": "katieleblanc@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04628']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Johnson, Mckenzie and Larsen for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07610', 'B04603', 'B07522']"
+}

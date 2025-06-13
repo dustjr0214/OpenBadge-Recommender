@@ -1,0 +1,14 @@
+{
+    "user_id": "U08582",
+    "name": "Timothy Santiago",
+    "email": "nathanbrewer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01132', 'B00712', 'B07185', 'B07518']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Tucker, Ellis and Abbott for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04982']"
+}

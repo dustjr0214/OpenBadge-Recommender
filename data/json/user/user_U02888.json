@@ -1,0 +1,14 @@
+{
+    "user_id": "U02888",
+    "name": "Andrew Silva",
+    "email": "kathleenrodriguez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02071']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Mclaughlin Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03566', 'B01450', 'B01770', 'B03406', 'B01198']"
+}

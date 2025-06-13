@@ -1,0 +1,14 @@
+{
+    "user_id": "U03716",
+    "name": "Carlos Edwards PhD",
+    "email": "georgepaul@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06407', 'B00221', 'B01109', 'B03135']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Smith-Ballard for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06024', 'B05672', 'B06182', 'B09551']"
+}

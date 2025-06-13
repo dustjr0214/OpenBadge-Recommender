@@ -1,0 +1,14 @@
+{
+    "user_id": "U07007",
+    "name": "Heidi Johnston",
+    "email": "vmartinez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00735', 'B09453', 'B04545']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Carroll-Estrada for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03390', 'B06061', 'B04951', 'B00927']"
+}

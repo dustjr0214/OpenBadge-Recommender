@@ -1,0 +1,14 @@
+{
+    "user_id": "U08501",
+    "name": "Joanne White",
+    "email": "toddlee@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Griffith-Castaneda for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09861', 'B04876', 'B08142']"
+}

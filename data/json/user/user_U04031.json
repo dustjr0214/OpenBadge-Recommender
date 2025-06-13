@@ -1,0 +1,14 @@
+{
+    "user_id": "U04031",
+    "name": "Craig Mendez",
+    "email": "vbrown@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04269']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Jenkins Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09105', 'B00983']"
+}

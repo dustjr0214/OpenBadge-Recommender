@@ -1,0 +1,14 @@
+{
+    "user_id": "U09547",
+    "name": "Jeffrey Singleton",
+    "email": "dnguyen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00750', 'B05384']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Reynolds Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01216', 'B07887', 'B05427']"
+}

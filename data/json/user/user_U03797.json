@@ -1,0 +1,14 @@
+{
+    "user_id": "U03797",
+    "name": "Michael Lopez",
+    "email": "omiller@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08171', 'B09168']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Gardner LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01404', 'B06466', 'B00914', 'B01886', 'B06735']"
+}

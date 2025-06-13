@@ -1,0 +1,14 @@
+{
+    "user_id": "U01730",
+    "name": "Robert Smith",
+    "email": "qhenderson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08751', 'B04238']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Mueller-Johnson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

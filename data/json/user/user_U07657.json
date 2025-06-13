@@ -1,0 +1,14 @@
+{
+    "user_id": "U07657",
+    "name": "Brandon Green",
+    "email": "samuel62@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09410', 'B05513', 'B05562']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hall LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02763', 'B08604', 'B05877']"
+}

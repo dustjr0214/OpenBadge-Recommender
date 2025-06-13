@@ -1,0 +1,14 @@
+{
+    "user_id": "U07001",
+    "name": "Melissa Wright",
+    "email": "syoung@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08881']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Moore-Stewart for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03726', 'B01169', 'B02762', 'B05491', 'B00912']"
+}

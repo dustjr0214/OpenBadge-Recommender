@@ -1,0 +1,14 @@
+{
+    "user_id": "U04924",
+    "name": "Donna Rowe",
+    "email": "scott84@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lucas-Estrada for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04463', 'B01421', 'B00266']"
+}

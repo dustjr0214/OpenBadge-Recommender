@@ -1,0 +1,14 @@
+{
+    "user_id": "U00658",
+    "name": "Kara Mccullough",
+    "email": "lori70@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03741', 'B02603', 'B01568', 'B03100', 'B07864']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Smith LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03105', 'B07613']"
+}

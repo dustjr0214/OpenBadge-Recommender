@@ -1,0 +1,14 @@
+{
+    "user_id": "U08341",
+    "name": "Lance Mills",
+    "email": "breed@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05643', 'B02705', 'B08103', 'B00848', 'B03573']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Drake, Hall and Oneill for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08857', 'B06226']"
+}

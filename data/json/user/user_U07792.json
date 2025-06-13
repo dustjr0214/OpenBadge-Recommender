@@ -1,0 +1,14 @@
+{
+    "user_id": "U07792",
+    "name": "Steven Garcia",
+    "email": "brittanybennett@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Burch-Lee for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02966', 'B05247', 'B01722', 'B03744']"
+}

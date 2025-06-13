@@ -1,0 +1,14 @@
+{
+    "user_id": "U05803",
+    "name": "David Jennings",
+    "email": "cameron31@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09252', 'B03254']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Robertson, Kelly and Higgins for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02848']"
+}

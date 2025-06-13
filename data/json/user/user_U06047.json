@@ -1,0 +1,14 @@
+{
+    "user_id": "U06047",
+    "name": "Charles Evans",
+    "email": "andrew78@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00175', 'B07005', 'B05585', 'B05619', 'B09425']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Edwards-Smith for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

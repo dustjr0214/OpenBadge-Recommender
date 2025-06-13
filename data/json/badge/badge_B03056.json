@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03056",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing', 'Machine Learning']",
+    "competency": "['UI/UX', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

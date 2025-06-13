@@ -1,0 +1,14 @@
+{
+    "user_id": "U03933",
+    "name": "Brenda White",
+    "email": "dferguson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09356', 'B04624', 'B05646', 'B08053']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Brooks, Myers and Hernandez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02576', 'B09226', 'B03834']"
+}

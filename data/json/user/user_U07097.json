@@ -1,0 +1,14 @@
+{
+    "user_id": "U07097",
+    "name": "Jacqueline Larson",
+    "email": "ptorres@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06011']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Buchanan LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07942', 'B03326']"
+}

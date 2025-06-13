@@ -1,0 +1,14 @@
+{
+    "user_id": "U04210",
+    "name": "Katherine Orr",
+    "email": "fisherlisa@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00788', 'B04030', 'B09005']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Williams-Roman for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03955', 'B01708']"
+}

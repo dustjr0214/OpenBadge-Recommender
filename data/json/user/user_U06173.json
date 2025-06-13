@@ -1,0 +1,14 @@
+{
+    "user_id": "U06173",
+    "name": "Taylor Myers",
+    "email": "daniel88@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06966', 'B01091', 'B00387']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Robles, Martinez and Riley for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05328', 'B05813']"
+}

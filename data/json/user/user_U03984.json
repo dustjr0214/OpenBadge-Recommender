@@ -1,0 +1,14 @@
+{
+    "user_id": "U03984",
+    "name": "Megan Owens",
+    "email": "ulee@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06864', 'B07935', 'B08145']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Morales-Patterson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05989', 'B03157', 'B03532', 'B08894', 'B09720']"
+}

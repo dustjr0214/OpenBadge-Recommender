@@ -1,0 +1,14 @@
+{
+    "user_id": "U04911",
+    "name": "Richard Lloyd",
+    "email": "washingtonkristin@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09116', 'B03691']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Flores-Green for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

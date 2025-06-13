@@ -1,0 +1,14 @@
+{
+    "user_id": "U04819",
+    "name": "Mark Vazquez",
+    "email": "kristinjenkins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Adams, Elliott and Maldonado for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08201', 'B04892', 'B04648']"
+}

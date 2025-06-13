@@ -1,0 +1,14 @@
+{
+    "user_id": "U00630",
+    "name": "Dawn Jordan",
+    "email": "daniellelarson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01628', 'B07851', 'B00814']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Oconnor-Foster for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

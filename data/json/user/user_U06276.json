@@ -1,0 +1,14 @@
+{
+    "user_id": "U06276",
+    "name": "Andrew Davis",
+    "email": "amandagalloway@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05849', 'B08222', 'B04689', 'B04520']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Griffith LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07093', 'B01475', 'B01578', 'B05184', 'B09178']"
+}

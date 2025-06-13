@@ -1,0 +1,14 @@
+{
+    "user_id": "U09357",
+    "name": "Brenda Lyons",
+    "email": "bethmunoz@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04353', 'B04218']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ramsey, Buckley and Robinson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02891', 'B00685', 'B07761']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09700",
+    "name": "Ronald Gregory",
+    "email": "justinschaefer@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03493', 'B09980']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Taylor, Jones and Best for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04613', 'B09036', 'B05956', 'B01631']"
+}

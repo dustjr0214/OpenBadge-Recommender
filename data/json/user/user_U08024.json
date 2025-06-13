@@ -1,0 +1,14 @@
+{
+    "user_id": "U08024",
+    "name": "George Cross",
+    "email": "ashleyguerrero@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02061', 'B06477', 'B00705']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Brooks, Brown and Padilla for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05424', 'B03221', 'B05742', 'B06149']"
+}

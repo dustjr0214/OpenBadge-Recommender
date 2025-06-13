@@ -1,0 +1,14 @@
+{
+    "user_id": "U06455",
+    "name": "Sally Shelton",
+    "email": "donald40@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06986', 'B00445', 'B04789', 'B09323', 'B00476']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Snyder-Lang for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09977', 'B02761']"
+}

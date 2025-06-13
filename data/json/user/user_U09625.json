@@ -1,0 +1,14 @@
+{
+    "user_id": "U09625",
+    "name": "Jesse Sexton",
+    "email": "christinereyes@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06795', 'B07955', 'B04020']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Roberts LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01496', 'B06887', 'B00849', 'B00200']"
+}

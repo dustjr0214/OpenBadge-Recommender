@@ -1,0 +1,14 @@
+{
+    "user_id": "U06978",
+    "name": "Gavin Davis",
+    "email": "qtownsend@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Hughes, Ross and Black for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05282', 'B06088']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00789",
+    "name": "Colleen Brown",
+    "email": "angelawood@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01162', 'B03693', 'B07366', 'B04816']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Wilson Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07221', 'B08488', 'B06007', 'B07359', 'B06465']"
+}

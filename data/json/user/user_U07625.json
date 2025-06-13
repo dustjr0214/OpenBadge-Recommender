@@ -1,0 +1,14 @@
+{
+    "user_id": "U07625",
+    "name": "Ashley Chan",
+    "email": "hjohnson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08709', 'B00611', 'B07627', 'B04634', 'B09831']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Mcdowell, Boyd and Roman for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

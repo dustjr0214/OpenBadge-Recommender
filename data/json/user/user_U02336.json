@@ -1,0 +1,14 @@
+{
+    "user_id": "U02336",
+    "name": "Jesus Hayes",
+    "email": "uvelazquez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02371', 'B07193', 'B01018', 'B09165', 'B03080']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Griffin, Fox and Proctor for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05649', 'B03783', 'B08266']"
+}

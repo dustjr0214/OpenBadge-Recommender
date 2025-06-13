@@ -1,0 +1,14 @@
+{
+    "user_id": "U08983",
+    "name": "Stephen Richardson",
+    "email": "eric78@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04053', 'B05749', 'B04096', 'B08602', 'B01648']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Rice, Ortiz and Stanley for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00422', 'B01892', 'B03825']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01092",
+    "name": "Victoria Oneill",
+    "email": "brandontravis@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04357', 'B01744', 'B04730', 'B02632', 'B07596']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Johnson-Maxwell for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03555', 'B01492', 'B06918']"
+}

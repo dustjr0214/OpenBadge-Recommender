@@ -1,0 +1,14 @@
+{
+    "user_id": "U09246",
+    "name": "Glenn Burton",
+    "email": "abbottmanuel@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03642']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Schneider-Mcgrath for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00595",
+    "name": "Brittany James",
+    "email": "hansenbrittany@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03316', 'B08599', 'B04652', 'B01633']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Gilbert Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00658']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02796",
+    "name": "Kathryn Nelson",
+    "email": "lori27@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08993']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Thornton, Jones and Murray for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07115', 'B00787', 'B00346', 'B04509']"
+}

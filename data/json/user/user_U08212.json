@@ -1,0 +1,14 @@
+{
+    "user_id": "U08212",
+    "name": "Betty Nichols",
+    "email": "jimdelgado@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01989', 'B00726', 'B09016']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Stevens PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04567', 'B09387']"
+}

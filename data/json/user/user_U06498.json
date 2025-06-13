@@ -1,0 +1,14 @@
+{
+    "user_id": "U06498",
+    "name": "Sarah Reed",
+    "email": "joshuaholt@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Bailey, Simmons and Mckay for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04336']"
+}

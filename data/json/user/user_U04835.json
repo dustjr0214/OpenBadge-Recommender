@@ -1,0 +1,14 @@
+{
+    "user_id": "U04835",
+    "name": "Ashley Oneal",
+    "email": "leslie83@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07306', 'B07925', 'B02182']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Baker Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00141', 'B02418']"
+}

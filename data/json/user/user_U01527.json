@@ -1,0 +1,14 @@
+{
+    "user_id": "U01527",
+    "name": "Lindsey Ponce",
+    "email": "carolwolf@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06143', 'B03532']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Mcgrath-Moreno for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

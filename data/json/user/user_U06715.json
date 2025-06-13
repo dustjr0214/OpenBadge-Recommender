@@ -1,0 +1,14 @@
+{
+    "user_id": "U06715",
+    "name": "Megan Butler",
+    "email": "garciacarl@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00451', 'B03640']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Simmons and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02854', 'B09458', 'B01051']"
+}

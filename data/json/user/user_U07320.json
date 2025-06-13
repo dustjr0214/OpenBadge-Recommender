@@ -1,0 +1,14 @@
+{
+    "user_id": "U07320",
+    "name": "Michelle Smith",
+    "email": "douglasmontes@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09481']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Mcclure, Jenkins and Williams for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08710', 'B00894']"
+}

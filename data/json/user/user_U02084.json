@@ -1,0 +1,14 @@
+{
+    "user_id": "U02084",
+    "name": "Brian Garcia",
+    "email": "brandy86@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07685', 'B09423']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Zimmerman, Foley and Hansen for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07377', 'B07445', 'B09824', 'B09535']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01177",
+    "name": "Kathryn Burns",
+    "email": "tayloramanda@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08759', 'B06259', 'B07526', 'B01574']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Stone-Fleming for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05338']"
+}

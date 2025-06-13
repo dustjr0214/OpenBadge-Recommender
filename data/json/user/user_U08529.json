@@ -1,0 +1,14 @@
+{
+    "user_id": "U08529",
+    "name": "Donald Wong",
+    "email": "bryan65@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02516', 'B04542', 'B03786']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Coleman LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07931', 'B03643', 'B03563', 'B09320', 'B07862']"
+}

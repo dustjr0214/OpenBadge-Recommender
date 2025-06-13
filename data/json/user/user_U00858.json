@@ -1,0 +1,14 @@
+{
+    "user_id": "U00858",
+    "name": "Lisa Watson",
+    "email": "millerkim@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01161', 'B07470', 'B09210', 'B03659', 'B07683']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Brown LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07403', 'B00734', 'B05229']"
+}

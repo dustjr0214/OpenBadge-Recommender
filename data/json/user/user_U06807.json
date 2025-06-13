@@ -1,0 +1,14 @@
+{
+    "user_id": "U06807",
+    "name": "Derrick Parker",
+    "email": "harrellnorman@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09964', 'B00768', 'B02486', 'B03041']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Collins Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05808', 'B05876']"
+}

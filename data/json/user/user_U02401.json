@@ -1,0 +1,14 @@
+{
+    "user_id": "U02401",
+    "name": "Erika Hughes",
+    "email": "lisa56@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09804', 'B02196', 'B06557', 'B00369']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Booth and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02945', 'B00721', 'B00361', 'B03245', 'B08255']"
+}

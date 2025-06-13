@@ -1,0 +1,14 @@
+{
+    "user_id": "U03375",
+    "name": "Melanie Campbell",
+    "email": "canturichard@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01304', 'B02285']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Duke, Donaldson and Johnson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07309', 'B09567', 'B06201']"
+}

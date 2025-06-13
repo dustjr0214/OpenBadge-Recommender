@@ -1,0 +1,14 @@
+{
+    "user_id": "U05946",
+    "name": "Elizabeth Chavez",
+    "email": "uhoward@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05221', 'B08030', 'B06409', 'B02833']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ayers, Kennedy and Turner for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06747', 'B00785', 'B09608']"
+}

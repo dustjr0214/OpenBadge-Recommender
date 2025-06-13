@@ -1,0 +1,14 @@
+{
+    "user_id": "U01650",
+    "name": "John Sutton",
+    "email": "joy14@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06866']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Cox-Carpenter for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02870', 'B00065']"
+}

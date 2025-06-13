@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05457",
+    "name": "Cloud Computing Guru",
+    "issuer": "Udacity",
+    "description": "Cloud Computing Guru badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing', 'UI/UX']",
+    "competency": "['Python', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07120']"
+}

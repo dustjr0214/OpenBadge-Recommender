@@ -1,0 +1,14 @@
+{
+    "user_id": "U02303",
+    "name": "Ms. Melanie Sparks",
+    "email": "camachoyvette@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02548', 'B09028', 'B01582', 'B04720', 'B00537']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Contreras Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09366']"
+}

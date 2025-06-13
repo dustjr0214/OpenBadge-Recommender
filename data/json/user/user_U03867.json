@@ -1,0 +1,14 @@
+{
+    "user_id": "U03867",
+    "name": "Rachel Miller",
+    "email": "kristenweaver@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06261', 'B03934', 'B06272', 'B01020']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Acosta Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03800']"
+}

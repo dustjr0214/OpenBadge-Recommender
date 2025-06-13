@@ -1,0 +1,14 @@
+{
+    "user_id": "U00042",
+    "name": "Kevin Lewis",
+    "email": "gtaylor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07078', 'B09079', 'B01306']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Murray and Sons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00629', 'B02541', 'B08774']"
+}

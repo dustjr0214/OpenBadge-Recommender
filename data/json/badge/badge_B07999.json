@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07999",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Python', 'SQL', 'Cloud Computing']",
+    "competency": "['Leadership', 'Analytical Skills']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01590",
+    "name": "Sydney Gallagher",
+    "email": "matthewsmith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07439', 'B03839']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Foster-Ramos for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08460', 'B00781', 'B02437']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03363",
+    "name": "Cynthia Moon",
+    "email": "kmartin@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09033', 'B06220', 'B05636']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Fuller, Miles and Villarreal for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08076', 'B00062', 'B02325']"
+}

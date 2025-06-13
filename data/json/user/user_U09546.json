@@ -1,0 +1,14 @@
+{
+    "user_id": "U09546",
+    "name": "Kathy Harris",
+    "email": "xgarcia@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04567', 'B00993', 'B04211', 'B04324']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Guerra, Reyes and Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07187', 'B00239', 'B08855']"
+}

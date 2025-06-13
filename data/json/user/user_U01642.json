@@ -1,0 +1,14 @@
+{
+    "user_id": "U01642",
+    "name": "Samantha Callahan",
+    "email": "jaybauer@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08568', 'B08231', 'B04088', 'B08009', 'B01470']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Bowen-Rogers for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02285', 'B06784', 'B02664', 'B08278', 'B01012']"
+}

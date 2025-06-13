@@ -1,0 +1,14 @@
+{
+    "user_id": "U09805",
+    "name": "Joseph Benitez",
+    "email": "waynecosta@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08965', 'B04288', 'B08077']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Dominguez-Roberts for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06263', 'B06938', 'B07322', 'B00133', 'B09203']"
+}

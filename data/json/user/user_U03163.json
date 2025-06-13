@@ -1,0 +1,14 @@
+{
+    "user_id": "U03163",
+    "name": "Whitney Barker",
+    "email": "michele71@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03558', 'B07050', 'B00571', 'B06795']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at James and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02873', 'B06215', 'B03573', 'B07094']"
+}

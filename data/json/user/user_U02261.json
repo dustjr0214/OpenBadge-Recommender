@@ -1,0 +1,14 @@
+{
+    "user_id": "U02261",
+    "name": "Stephanie Hooper",
+    "email": "johnsontheodore@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06615', 'B05473', 'B09705']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Riley PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02102', 'B08541', 'B03432', 'B09609']"
+}

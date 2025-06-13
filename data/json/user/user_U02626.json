@@ -1,0 +1,14 @@
+{
+    "user_id": "U02626",
+    "name": "Jessica Green",
+    "email": "vasquezrobert@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Bailey-Neal for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08495', 'B00574']"
+}

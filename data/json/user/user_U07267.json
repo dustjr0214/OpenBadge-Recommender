@@ -1,0 +1,14 @@
+{
+    "user_id": "U07267",
+    "name": "Peter Jackson",
+    "email": "dawnlopez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04081']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Martinez-Williams for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05897', 'B07481', 'B01645', 'B08372', 'B07163']"
+}

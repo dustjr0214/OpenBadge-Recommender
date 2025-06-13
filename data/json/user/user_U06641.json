@@ -1,0 +1,14 @@
+{
+    "user_id": "U06641",
+    "name": "Joseph Mitchell",
+    "email": "laura29@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04857', 'B02651']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Espinoza-Charles for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00071', 'B03821']"
+}

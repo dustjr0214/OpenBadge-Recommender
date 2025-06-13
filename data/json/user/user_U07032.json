@@ -1,0 +1,14 @@
+{
+    "user_id": "U07032",
+    "name": "David Hurst",
+    "email": "fieldsjoshua@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01802', 'B01084', 'B09137', 'B04657', 'B06416']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Fleming PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02537']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08371",
+    "name": "Nicholas Thompson",
+    "email": "sowen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03992', 'B02946']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Shannon, Bryant and French for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09306', 'B00817', 'B04562']"
+}

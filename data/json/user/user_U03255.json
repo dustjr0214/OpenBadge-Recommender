@@ -1,0 +1,14 @@
+{
+    "user_id": "U03255",
+    "name": "Julie Carter",
+    "email": "davischristopher@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01705', 'B00845', 'B01701']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lee, Lee and Marquez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09394', 'B04880', 'B06171', 'B03163', 'B01766']"
+}

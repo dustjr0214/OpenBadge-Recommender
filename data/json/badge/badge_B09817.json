@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09817",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency": "['Deep Learning', 'UI/UX', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00713', 'B02204']"
+}

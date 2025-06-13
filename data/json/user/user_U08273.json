@@ -1,0 +1,14 @@
+{
+    "user_id": "U08273",
+    "name": "Thomas Thomas",
+    "email": "zstrong@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08487', 'B04497', 'B00064', 'B02193']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Johnson-Hernandez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08160', 'B09001']"
+}

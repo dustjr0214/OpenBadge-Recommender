@@ -1,0 +1,14 @@
+{
+    "user_id": "U06946",
+    "name": "April Duncan",
+    "email": "lararaymond@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07949', 'B08119']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Maldonado, Hall and Cooper for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01099', 'B05457', 'B06445']"
+}

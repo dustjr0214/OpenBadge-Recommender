@@ -1,0 +1,14 @@
+{
+    "user_id": "U01007",
+    "name": "Bradley Berger",
+    "email": "christopher88@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09403', 'B00273', 'B06277', 'B05245', 'B07599']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Beard, Thomas and Green for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04728', 'B09167']"
+}

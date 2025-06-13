@@ -1,0 +1,14 @@
+{
+    "user_id": "U05179",
+    "name": "Ann Chavez",
+    "email": "joseph76@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06352', 'B07769']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Stewart Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08081', 'B09841']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04613",
+    "name": "Michelle Green",
+    "email": "melindadrake@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07438']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Palmer-Ballard for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08885']"
+}

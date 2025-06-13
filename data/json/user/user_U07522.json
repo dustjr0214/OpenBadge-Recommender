@@ -1,0 +1,14 @@
+{
+    "user_id": "U07522",
+    "name": "Sean Carpenter",
+    "email": "amandaphillips@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09661', 'B06848', 'B08496', 'B02709', 'B06297']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Jones PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05325', 'B08359', 'B07895', 'B07341', 'B09025']"
+}

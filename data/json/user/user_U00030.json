@@ -1,0 +1,14 @@
+{
+    "user_id": "U00030",
+    "name": "Alexander Peters",
+    "email": "gjames@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03959', 'B00794']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Smith-Ruiz for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02744', 'B00191']"
+}

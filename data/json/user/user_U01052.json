@@ -1,0 +1,14 @@
+{
+    "user_id": "U01052",
+    "name": "Colin Davis",
+    "email": "thomasmatthew@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06298', 'B01786', 'B00216']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Jenkins, Rivera and Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09962', 'B09256', 'B05961']"
+}

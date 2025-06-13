@@ -1,0 +1,14 @@
+{
+    "user_id": "U03648",
+    "name": "Darlene Christensen",
+    "email": "zacharywalton@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03604', 'B02471']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Holt, Jones and Walsh for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04273']"
+}

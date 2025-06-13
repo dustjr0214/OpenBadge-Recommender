@@ -1,0 +1,14 @@
+{
+    "user_id": "U01362",
+    "name": "Christina Nichols",
+    "email": "susanrodriguez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08557', 'B07143', 'B05422', 'B01222', 'B03785']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Harris, Noble and Hernandez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08681']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04004",
+    "name": "Aaron Rivera",
+    "email": "nmay@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07179', 'B07578']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Taylor, Vega and Christensen for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07081']"
+}

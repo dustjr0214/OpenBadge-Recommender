@@ -1,0 +1,14 @@
+{
+    "user_id": "U09642",
+    "name": "Anna Armstrong",
+    "email": "pittmankenneth@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00944', 'B09844', 'B07633']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Burns, Gray and Calderon for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

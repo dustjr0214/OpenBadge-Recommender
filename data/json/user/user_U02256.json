@@ -1,0 +1,14 @@
+{
+    "user_id": "U02256",
+    "name": "Sarah Smith",
+    "email": "elizabeth36@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00623', 'B05720', 'B07404', 'B02523']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hendrix, Perez and Benitez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06100', 'B09589', 'B02457', 'B08463', 'B09287']"
+}

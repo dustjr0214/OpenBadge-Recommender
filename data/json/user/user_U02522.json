@@ -1,0 +1,14 @@
+{
+    "user_id": "U02522",
+    "name": "Wendy Berg",
+    "email": "umoody@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Butler and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05886', 'B02935', 'B06904', 'B04316', 'B09362']"
+}

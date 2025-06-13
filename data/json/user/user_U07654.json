@@ -1,0 +1,14 @@
+{
+    "user_id": "U07654",
+    "name": "Lisa Lopez",
+    "email": "daniel26@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01952', 'B05761']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Reeves, Johnson and Webb for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

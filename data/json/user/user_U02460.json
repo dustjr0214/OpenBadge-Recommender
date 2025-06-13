@@ -1,0 +1,14 @@
+{
+    "user_id": "U02460",
+    "name": "Nicholas Huang",
+    "email": "cramirez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Reynolds-Roman for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00181', 'B09062', 'B03750', 'B08447']"
+}

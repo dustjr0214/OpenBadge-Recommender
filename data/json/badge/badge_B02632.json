@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02632",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['UI/UX', 'SQL']",
+    "competency": "['Problem Solving', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B04275', 'B06657']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07875",
+    "name": "Kimberly Soto",
+    "email": "angelapark@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05311', 'B05961', 'B00522']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Kelly, Thomas and Black for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06021', 'B09639', 'B02123']"
+}

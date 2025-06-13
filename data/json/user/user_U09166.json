@@ -1,0 +1,14 @@
+{
+    "user_id": "U09166",
+    "name": "Jason Allen",
+    "email": "hoodcory@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02866', 'B05237', 'B08326', 'B04185', 'B02504']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rogers Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09065', 'B04187', 'B01364', 'B01729']"
+}

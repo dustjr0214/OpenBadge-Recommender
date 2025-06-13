@@ -1,0 +1,14 @@
+{
+    "user_id": "U07337",
+    "name": "Travis Lewis",
+    "email": "johnsonerica@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06514', 'B04226', 'B09056', 'B02394']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mcfarland Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

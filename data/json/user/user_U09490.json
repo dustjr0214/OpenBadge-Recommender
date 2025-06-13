@@ -1,0 +1,14 @@
+{
+    "user_id": "U09490",
+    "name": "Donna Vance",
+    "email": "grahamjoann@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09441', 'B02106', 'B00200', 'B05159', 'B06959']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wallace and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08414', 'B04186', 'B01543', 'B07520', 'B09560']"
+}

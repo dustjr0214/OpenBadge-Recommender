@@ -1,0 +1,14 @@
+{
+    "user_id": "U01311",
+    "name": "Robin Diaz",
+    "email": "brianking@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00833', 'B04408']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Brennan LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05494']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00673",
+    "name": "Beth Garcia",
+    "email": "gary09@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06546', 'B07502', 'B06845']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Nelson, Wolfe and Singleton for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03630', 'B02612']"
+}

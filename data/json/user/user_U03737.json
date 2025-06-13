@@ -1,0 +1,14 @@
+{
+    "user_id": "U03737",
+    "name": "Eric Kent",
+    "email": "xfrey@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00179', 'B06627', 'B04008']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mclean, Smith and Bartlett for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02846', 'B02321']"
+}

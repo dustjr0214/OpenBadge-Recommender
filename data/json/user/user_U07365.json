@@ -1,0 +1,14 @@
+{
+    "user_id": "U07365",
+    "name": "John Richardson",
+    "email": "lauren73@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04472', 'B08883']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Holland-Bush for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05346', 'B07872', 'B05053']"
+}

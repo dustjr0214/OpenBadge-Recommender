@@ -1,0 +1,14 @@
+{
+    "user_id": "U05576",
+    "name": "Robert Coleman",
+    "email": "davidharris@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06640', 'B01473', 'B07551', 'B05749', 'B08079']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Reed LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00976', 'B00405']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01766",
+    "name": "Jeremy Acosta",
+    "email": "harrisoncody@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09234', 'B09163', 'B07915']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Schultz, Blair and Nelson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06093', 'B05763', 'B09345']"
+}

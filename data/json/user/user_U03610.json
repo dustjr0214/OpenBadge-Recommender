@@ -1,0 +1,14 @@
+{
+    "user_id": "U03610",
+    "name": "Joshua Ryan",
+    "email": "sabrinaingram@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05089', 'B04535', 'B00121', 'B06799', 'B00118']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Decker, Gillespie and Smith for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04894']"
+}

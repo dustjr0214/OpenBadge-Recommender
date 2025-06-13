@@ -1,0 +1,14 @@
+{
+    "user_id": "U00384",
+    "name": "Kevin Harris",
+    "email": "ggentry@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03325', 'B00796', 'B06907']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Davis, Henson and Higgins for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07436', 'B04344', 'B03200']"
+}

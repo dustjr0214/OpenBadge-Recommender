@@ -1,0 +1,14 @@
+{
+    "user_id": "U09351",
+    "name": "Thomas Palmer",
+    "email": "brian40@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05727', 'B03193', 'B08578', 'B02976', 'B02849']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Wilson-Patton for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07187', 'B06980', 'B05343', 'B00439']"
+}

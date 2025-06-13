@@ -1,0 +1,14 @@
+{
+    "user_id": "U06539",
+    "name": "Robert Brooks",
+    "email": "emily01@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00995', 'B02460']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wells, Brown and Anderson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08995', 'B02286', 'B08349', 'B08278']"
+}

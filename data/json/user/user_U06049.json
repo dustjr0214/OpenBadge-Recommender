@@ -1,0 +1,14 @@
+{
+    "user_id": "U06049",
+    "name": "Joseph Edwards",
+    "email": "michaelbright@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09706', 'B00170', 'B03976']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Gray LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00938",
+    "name": "Spencer Benson",
+    "email": "rbrown@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06915', 'B07740', 'B07940', 'B01680']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Perez, Vargas and Thompson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08698', 'B08719', 'B09392', 'B08397', 'B01814']"
+}

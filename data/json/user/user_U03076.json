@@ -1,0 +1,14 @@
+{
+    "user_id": "U03076",
+    "name": "Jamie Thompson",
+    "email": "karenmiller@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04452', 'B08164', 'B06295']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Robinson-Smith for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00560', 'B05751', 'B05022']"
+}

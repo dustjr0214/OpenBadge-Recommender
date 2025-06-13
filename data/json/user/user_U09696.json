@@ -1,0 +1,14 @@
+{
+    "user_id": "U09696",
+    "name": "Dawn Maldonado",
+    "email": "bowerscatherine@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02198', 'B01832']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Williams-Munoz for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02609']"
+}

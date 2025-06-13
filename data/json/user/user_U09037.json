@@ -1,0 +1,14 @@
+{
+    "user_id": "U09037",
+    "name": "Rachel Hall",
+    "email": "qchan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02558', 'B04747', 'B05774']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Lucas LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04243', 'B07267', 'B08195', 'B08165']"
+}

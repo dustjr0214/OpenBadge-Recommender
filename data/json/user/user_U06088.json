@@ -1,0 +1,14 @@
+{
+    "user_id": "U06088",
+    "name": "Andrew Stewart",
+    "email": "moorerobert@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00499', 'B05323', 'B05791', 'B00372']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Lewis, Lang and Peterson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04891', 'B03707']"
+}

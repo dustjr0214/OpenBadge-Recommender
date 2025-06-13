@@ -1,0 +1,14 @@
+{
+    "user_id": "U08575",
+    "name": "Ronald Rodriguez",
+    "email": "youngdavid@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Stokes-Strickland for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01342', 'B07380', 'B02472']"
+}

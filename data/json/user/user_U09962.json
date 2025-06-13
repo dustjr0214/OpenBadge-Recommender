@@ -1,0 +1,14 @@
+{
+    "user_id": "U09962",
+    "name": "Lisa Webb",
+    "email": "wscott@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07427', 'B03454', 'B01642', 'B03376']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Vance-Keller for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07193', 'B07463', 'B08526', 'B04203', 'B03643']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00385",
+    "name": "Rita Harrell",
+    "email": "cassandra07@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02158', 'B08085']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Jensen-Griffin for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07987', 'B09181']"
+}

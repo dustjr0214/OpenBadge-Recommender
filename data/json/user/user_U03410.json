@@ -1,0 +1,14 @@
+{
+    "user_id": "U03410",
+    "name": "Jennifer Webb",
+    "email": "thomaswilliams@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09751', 'B03477', 'B08725', 'B02426']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Garcia PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02271', 'B09531', 'B03400', 'B07452', 'B03111']"
+}

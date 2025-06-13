@@ -1,0 +1,14 @@
+{
+    "user_id": "U01824",
+    "name": "Jason White",
+    "email": "loriclark@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05534', 'B05679', 'B09663', 'B07640']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Martin-Johnson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00927', 'B05844', 'B08389', 'B06519', 'B09965']"
+}

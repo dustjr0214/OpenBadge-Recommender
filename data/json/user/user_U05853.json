@@ -1,0 +1,14 @@
+{
+    "user_id": "U05853",
+    "name": "David Richards",
+    "email": "operez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Silva-Higgins for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05763', 'B07793']"
+}

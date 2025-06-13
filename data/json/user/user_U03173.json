@@ -1,0 +1,14 @@
+{
+    "user_id": "U03173",
+    "name": "Christopher Keith",
+    "email": "uhoward@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09813']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mccoy-Sanchez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03744', 'B01568', 'B00547']"
+}

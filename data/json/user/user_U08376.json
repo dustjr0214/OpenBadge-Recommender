@@ -1,0 +1,14 @@
+{
+    "user_id": "U08376",
+    "name": "Kathleen Salazar",
+    "email": "rachel05@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01708', 'B07524', 'B04884', 'B04790', 'B00433']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Frost, Sherman and Durham for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05517', 'B03305', 'B09261', 'B05916']"
+}

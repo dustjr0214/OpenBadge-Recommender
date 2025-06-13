@@ -1,0 +1,14 @@
+{
+    "user_id": "U08542",
+    "name": "Patricia Black",
+    "email": "bgonzalez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06050', 'B05792', 'B05206', 'B00068']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Huerta and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

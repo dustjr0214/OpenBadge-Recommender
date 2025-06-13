@@ -1,0 +1,14 @@
+{
+    "user_id": "U00360",
+    "name": "Anna Moody",
+    "email": "benjaminfrancis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04071', 'B01034', 'B03144']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Schmidt and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09581', 'B06944', 'B05391']"
+}

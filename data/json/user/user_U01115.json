@@ -1,0 +1,14 @@
+{
+    "user_id": "U01115",
+    "name": "Danielle Long",
+    "email": "wmccoy@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08722', 'B08129', 'B00162', 'B05559']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Erickson-Sullivan for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00145', 'B05283']"
+}

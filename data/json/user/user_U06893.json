@@ -1,0 +1,14 @@
+{
+    "user_id": "U06893",
+    "name": "Jason Lee",
+    "email": "theodoreking@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02855', 'B05391', 'B06431']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Scott-Beard for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07301', 'B06499', 'B08185']"
+}

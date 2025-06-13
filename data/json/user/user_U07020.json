@@ -1,0 +1,14 @@
+{
+    "user_id": "U07020",
+    "name": "Erica Walton",
+    "email": "sanchezsara@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04248']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Kennedy-Garcia for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06798']"
+}

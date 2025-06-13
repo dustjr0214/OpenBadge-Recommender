@@ -1,0 +1,14 @@
+{
+    "user_id": "U04824",
+    "name": "William Garcia",
+    "email": "alicia25@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04950', 'B09612', 'B05280']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Reed-Henderson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03613', 'B01004', 'B08786', 'B00398']"
+}

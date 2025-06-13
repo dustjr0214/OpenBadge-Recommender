@@ -1,0 +1,14 @@
+{
+    "user_id": "U07917",
+    "name": "Rachel Harris",
+    "email": "rturner@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09270']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Morris-Cooley for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00927']"
+}

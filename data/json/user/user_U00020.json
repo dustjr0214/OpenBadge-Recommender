@@ -1,0 +1,14 @@
+{
+    "user_id": "U00020",
+    "name": "Joseph Meadows",
+    "email": "jonesrobert@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06968']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Reeves, Dalton and Smith for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04918', 'B06136', 'B03702', 'B01609', 'B01057']"
+}

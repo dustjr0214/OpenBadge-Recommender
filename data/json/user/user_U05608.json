@@ -1,0 +1,14 @@
+{
+    "user_id": "U05608",
+    "name": "William Rodriguez",
+    "email": "jacob35@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02192', 'B07648']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Bell, King and Freeman for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09247']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07046",
+    "name": "James Williams",
+    "email": "pdalton@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02130', 'B06277', 'B01993', 'B05286', 'B06253']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Thompson Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

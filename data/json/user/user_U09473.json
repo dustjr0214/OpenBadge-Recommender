@@ -1,0 +1,14 @@
+{
+    "user_id": "U09473",
+    "name": "Jeffrey Farrell",
+    "email": "fnicholson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02903', 'B08307']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Neal, Wyatt and Morgan for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03420', 'B04726', 'B03046', 'B03556', 'B00489']"
+}

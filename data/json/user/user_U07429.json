@@ -1,0 +1,14 @@
+{
+    "user_id": "U07429",
+    "name": "Michelle Wu",
+    "email": "tgordon@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02877', 'B08166', 'B07133', 'B01792', 'B00082']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Smith, Gray and Porter for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06281', 'B03101', 'B06120', 'B05699', 'B07286']"
+}

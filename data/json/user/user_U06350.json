@@ -1,0 +1,14 @@
+{
+    "user_id": "U06350",
+    "name": "Tara Lee",
+    "email": "wbarnes@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03698', 'B04233']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Chandler, Vargas and Brown for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07685']"
+}

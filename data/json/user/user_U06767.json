@@ -1,0 +1,14 @@
+{
+    "user_id": "U06767",
+    "name": "Bethany Mathis",
+    "email": "courtneyreed@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04889']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Carter Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06409', 'B08702']"
+}

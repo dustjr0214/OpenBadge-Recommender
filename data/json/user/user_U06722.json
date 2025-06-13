@@ -1,0 +1,14 @@
+{
+    "user_id": "U06722",
+    "name": "Gregory Lopez",
+    "email": "tammiestark@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01789', 'B07237']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Goodman-Williams for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07459', 'B00402']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02483",
+    "name": "Joseph Robertson",
+    "email": "stephanie80@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05052']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Sanchez-Rhodes for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01438', 'B00348']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09866",
+    "name": "Angela Reeves",
+    "email": "melissa82@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06385', 'B07195', 'B00501']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Green, Williams and Baker for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06558', 'B03051']"
+}

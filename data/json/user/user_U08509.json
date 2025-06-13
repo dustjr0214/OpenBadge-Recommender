@@ -1,0 +1,14 @@
+{
+    "user_id": "U08509",
+    "name": "Karl Jensen",
+    "email": "fhamilton@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Nguyen-Richardson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03974', 'B09195', 'B02605', 'B07473', 'B09691']"
+}

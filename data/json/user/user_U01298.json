@@ -1,0 +1,14 @@
+{
+    "user_id": "U01298",
+    "name": "Kimberly Reid",
+    "email": "lisajuarez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01590', 'B09911', 'B06917']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Thompson-Santana for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04981', 'B06162', 'B05567']"
+}

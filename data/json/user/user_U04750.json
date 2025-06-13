@@ -1,0 +1,14 @@
+{
+    "user_id": "U04750",
+    "name": "Jessica Smith",
+    "email": "sandrasampson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09074', 'B01985', 'B04059']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Garcia, Farrell and Cole for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00013']"
+}

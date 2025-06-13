@@ -1,0 +1,14 @@
+{
+    "user_id": "U08995",
+    "name": "Harry Smith",
+    "email": "qberg@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05861']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Peterson LLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08693', 'B02415', 'B03976', 'B02822', 'B07987']"
+}

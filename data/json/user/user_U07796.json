@@ -1,0 +1,14 @@
+{
+    "user_id": "U07796",
+    "name": "Lisa Johnson",
+    "email": "pattersondavid@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05617', 'B03655', 'B08722', 'B01035', 'B00299']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Padilla, Peterson and Martinez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03959', 'B05681', 'B06820']"
+}

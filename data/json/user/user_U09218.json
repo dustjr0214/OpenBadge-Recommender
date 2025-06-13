@@ -1,0 +1,14 @@
+{
+    "user_id": "U09218",
+    "name": "Matthew Joseph",
+    "email": "johnsonbarbara@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04231', 'B09379', 'B00794', 'B06470', 'B06215']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Yates-Brock for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07952', 'B07857', 'B02191']"
+}

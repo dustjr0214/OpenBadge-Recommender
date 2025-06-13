@@ -1,0 +1,14 @@
+{
+    "user_id": "U04324",
+    "name": "Lisa Reynolds",
+    "email": "jason40@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07902', 'B04388']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Salas, Reed and Brown for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03298']"
+}

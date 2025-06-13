@@ -1,0 +1,14 @@
+{
+    "user_id": "U06753",
+    "name": "Michelle Turner",
+    "email": "elizabethhenson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06938', 'B05882']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Gonzalez Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00039', 'B03519']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06638",
+    "name": "Tammy Day",
+    "email": "andrewblanchard@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Hill Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01040', 'B02331']"
+}

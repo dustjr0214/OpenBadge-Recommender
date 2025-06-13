@@ -1,0 +1,14 @@
+{
+    "user_id": "U02603",
+    "name": "Sophia Thomas",
+    "email": "stephanie67@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04724', 'B02697', 'B09966']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Mendoza, Campbell and Kane for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07847', 'B09413', 'B02966', 'B07296']"
+}

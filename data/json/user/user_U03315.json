@@ -1,0 +1,14 @@
+{
+    "user_id": "U03315",
+    "name": "Kenneth Greene",
+    "email": "jennifermills@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08302', 'B07331', 'B06050']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Ross LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05536', 'B01346']"
+}

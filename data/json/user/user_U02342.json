@@ -1,0 +1,14 @@
+{
+    "user_id": "U02342",
+    "name": "Miranda Johnson",
+    "email": "smithdawn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08871', 'B07064', 'B06345', 'B08542', 'B09245']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Nicholson-Stone for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04765', 'B09838', 'B01620']"
+}

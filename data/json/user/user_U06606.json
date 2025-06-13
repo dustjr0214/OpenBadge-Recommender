@@ -1,0 +1,14 @@
+{
+    "user_id": "U06606",
+    "name": "David Little",
+    "email": "john45@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09914']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Wheeler-Pratt for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

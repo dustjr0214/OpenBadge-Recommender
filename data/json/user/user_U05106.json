@@ -1,0 +1,14 @@
+{
+    "user_id": "U05106",
+    "name": "Sharon Myers",
+    "email": "hardyevan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08617', 'B07950', 'B03682', 'B04135', 'B09389']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lopez, Henderson and Phillips for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05021', 'B00887', 'B04513']"
+}

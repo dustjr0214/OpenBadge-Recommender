@@ -1,0 +1,14 @@
+{
+    "user_id": "U02166",
+    "name": "Jonathan Powell",
+    "email": "gboyd@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05349', 'B05207', 'B05286', 'B03751', 'B04715']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Roy-Jones for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08643', 'B01102', 'B01088', 'B05833']"
+}

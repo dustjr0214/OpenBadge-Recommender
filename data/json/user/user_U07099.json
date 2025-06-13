@@ -1,0 +1,14 @@
+{
+    "user_id": "U07099",
+    "name": "Justin Marshall",
+    "email": "ygarcia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03440', 'B05173']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Barajas-Smith for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04108', 'B08988', 'B08305', 'B04774']"
+}

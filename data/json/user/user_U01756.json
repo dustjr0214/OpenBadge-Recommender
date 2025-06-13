@@ -1,0 +1,14 @@
+{
+    "user_id": "U01756",
+    "name": "Andrea Morgan",
+    "email": "snguyen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08699', 'B06893', 'B06591']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Fuller-Medina for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07764', 'B00402', 'B07611', 'B05950']"
+}

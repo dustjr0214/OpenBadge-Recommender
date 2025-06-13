@@ -1,0 +1,14 @@
+{
+    "user_id": "U08192",
+    "name": "Jennifer Watkins",
+    "email": "cwoods@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08528', 'B02662', 'B01972', 'B05180', 'B07195']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Wong-Olson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03589', 'B00154']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05023",
+    "name": "Angela Miles",
+    "email": "dennisarnold@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00253', 'B02336', 'B08815', 'B00168']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Perkins, Rose and Mcdonald for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01531', 'B05792', 'B08690', 'B05139']"
+}

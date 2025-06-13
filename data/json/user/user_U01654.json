@@ -1,0 +1,14 @@
+{
+    "user_id": "U01654",
+    "name": "Maxwell Brown",
+    "email": "michael23@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06766', 'B00874']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Forbes-Fleming for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04065', 'B04762', 'B07025']"
+}

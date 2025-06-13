@@ -1,0 +1,14 @@
+{
+    "user_id": "U08297",
+    "name": "Jason Hampton",
+    "email": "chelsea63@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08143']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Castillo, Miranda and Meadows for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06199', 'B06044']"
+}

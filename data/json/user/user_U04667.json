@@ -1,0 +1,14 @@
+{
+    "user_id": "U04667",
+    "name": "Jose Smith",
+    "email": "barry82@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08036', 'B02043']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Lewis-Stokes for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05219']"
+}

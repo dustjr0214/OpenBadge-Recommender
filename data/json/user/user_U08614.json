@@ -1,0 +1,14 @@
+{
+    "user_id": "U08614",
+    "name": "Makayla Williams",
+    "email": "jason01@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08272', 'B04012']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Butler-Atkins for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06258', 'B00032', 'B06377', 'B02409', 'B07637']"
+}

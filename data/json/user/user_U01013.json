@@ -1,0 +1,14 @@
+{
+    "user_id": "U01013",
+    "name": "Cathy Chambers",
+    "email": "kimberly14@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01362', 'B03588', 'B01028']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Sanchez, Garcia and Smith for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05956', 'B02244', 'B04621', 'B08683']"
+}

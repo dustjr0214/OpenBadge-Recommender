@@ -1,0 +1,14 @@
+{
+    "user_id": "U02955",
+    "name": "Joshua Harris",
+    "email": "amy94@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01199', 'B07767']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Figueroa Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05231', 'B01101']"
+}

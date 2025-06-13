@@ -1,0 +1,14 @@
+{
+    "user_id": "U04711",
+    "name": "Dylan Anderson",
+    "email": "smithpatrick@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00119', 'B08788']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Nguyen, Hill and Davis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06787', 'B01997', 'B01283', 'B08452', 'B00043']"
+}

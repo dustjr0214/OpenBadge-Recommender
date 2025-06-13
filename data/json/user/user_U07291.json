@@ -1,0 +1,14 @@
+{
+    "user_id": "U07291",
+    "name": "David Hall",
+    "email": "cardenasleah@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Perry-Ali for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03030']"
+}

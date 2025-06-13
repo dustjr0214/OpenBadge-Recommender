@@ -1,0 +1,14 @@
+{
+    "user_id": "U01751",
+    "name": "Jill Peterson",
+    "email": "cynthia62@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07354', 'B03200', 'B00284', 'B07686']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Rodriguez-Garrett for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09163']"
+}

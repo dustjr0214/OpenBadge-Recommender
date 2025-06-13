@@ -1,0 +1,14 @@
+{
+    "user_id": "U09532",
+    "name": "Darrell Smith",
+    "email": "glassbenjamin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02340', 'B05578', 'B06349']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Harris, Thompson and Myers for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00777",
+    "name": "Peter Richards",
+    "email": "lwilcox@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06125', 'B09489', 'B08191']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Contreras, Blair and Mack for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02282', 'B04901']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09800",
+    "name": "Luis Henry",
+    "email": "bcarpenter@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09208', 'B09163', 'B03044', 'B08252']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Mahoney-Haley for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00028', 'B07943', 'B05531']"
+}

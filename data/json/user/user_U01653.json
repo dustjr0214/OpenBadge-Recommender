@@ -1,0 +1,14 @@
+{
+    "user_id": "U01653",
+    "name": "Gregory Edwards",
+    "email": "mirandaedward@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07697']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Simmons-Brown for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00602', 'B03894', 'B00689', 'B06594']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03530",
+    "name": "James Smith",
+    "email": "karla73@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08389', 'B04390', 'B00230', 'B05723']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Rogers-Howard for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07622', 'B09812', 'B06371', 'B00504', 'B02183']"
+}

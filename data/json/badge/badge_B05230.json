@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05230",
+    "name": "DevOps Engineer",
+    "issuer": "Coursera",
+    "description": "DevOps Engineer badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'Python', 'Cloud Computing']",
+    "competency": "['Deep Learning', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

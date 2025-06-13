@@ -1,0 +1,14 @@
+{
+    "user_id": "U05041",
+    "name": "Rachel Frazier",
+    "email": "jasonwilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07419', 'B04411']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Ramos-Turner for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02100', 'B06576']"
+}

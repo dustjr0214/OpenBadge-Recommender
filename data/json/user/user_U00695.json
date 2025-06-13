@@ -1,0 +1,14 @@
+{
+    "user_id": "U00695",
+    "name": "Gary Johnson",
+    "email": "ktrevino@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00248', 'B03048', 'B00167', 'B00623']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Williams, Rodriguez and Sullivan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07174', 'B03367', 'B05073', 'B09409']"
+}

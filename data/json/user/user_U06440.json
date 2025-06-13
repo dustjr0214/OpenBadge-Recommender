@@ -1,0 +1,14 @@
+{
+    "user_id": "U06440",
+    "name": "Glenda Velasquez",
+    "email": "tdavis@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05259', 'B08329', 'B02150', 'B07090', 'B09292']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Smith LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06976', 'B04912', 'B04062']"
+}

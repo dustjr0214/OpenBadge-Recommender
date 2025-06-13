@@ -1,0 +1,14 @@
+{
+    "user_id": "U07059",
+    "name": "Timothy Simon",
+    "email": "catherine06@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09503']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Landry, Gamble and Williams for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03892', 'B01651', 'B02605', 'B06789', 'B05515']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03414",
+    "name": "Shirley Kent",
+    "email": "sarahmiller@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00055', 'B09410', 'B07631', 'B00479', 'B05446']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Andrade, Mora and Dunn for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05205', 'B08182']"
+}

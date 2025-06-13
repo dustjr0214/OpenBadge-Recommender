@@ -1,0 +1,14 @@
+{
+    "user_id": "U00180",
+    "name": "Maria Lawson",
+    "email": "george97@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Reed-Rice for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00134', 'B05280', 'B02723']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05782",
+    "name": "Carl Ball",
+    "email": "ronaldlyons@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07369']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Santos-Marquez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02216', 'B03037', 'B00677', 'B06870']"
+}

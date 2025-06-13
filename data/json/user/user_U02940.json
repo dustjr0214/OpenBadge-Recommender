@@ -1,0 +1,14 @@
+{
+    "user_id": "U02940",
+    "name": "Cynthia Miller",
+    "email": "craigstewart@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09845']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Taylor-Carroll for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06593']"
+}

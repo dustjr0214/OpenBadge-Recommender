@@ -1,0 +1,14 @@
+{
+    "user_id": "U03744",
+    "name": "Jennifer Ray",
+    "email": "richardgreen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06750', 'B09832', 'B03190']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Gross-White for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04525', 'B05034', 'B09717', 'B00543', 'B02105']"
+}

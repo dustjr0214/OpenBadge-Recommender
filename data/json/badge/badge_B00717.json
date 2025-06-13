@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00717",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'DevOps', 'Deep Learning']",
+    "competency": "['Cybersecurity', 'Data Analysis', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02267', 'B03569']"
+}

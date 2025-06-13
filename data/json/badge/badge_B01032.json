@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01032",
+    "name": "Machine Learning Pro",
+    "issuer": "IBM",
+    "description": "Machine Learning Pro badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis', 'Python']",
+    "competency": "['UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02552', 'B01923']"
+}

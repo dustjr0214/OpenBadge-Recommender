@@ -1,0 +1,14 @@
+{
+    "user_id": "U03156",
+    "name": "Jose Clarke",
+    "email": "donna86@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07359', 'B01623', 'B07601']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Allen Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02082', 'B00839', 'B07434', 'B05102', 'B02435']"
+}

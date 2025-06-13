@@ -1,0 +1,14 @@
+{
+    "user_id": "U00859",
+    "name": "Nicholas Jackson",
+    "email": "doris09@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09041', 'B01271']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Scott, Jimenez and Johnston for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03824']"
+}

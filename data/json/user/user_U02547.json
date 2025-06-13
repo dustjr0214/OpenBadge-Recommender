@@ -1,0 +1,14 @@
+{
+    "user_id": "U02547",
+    "name": "Mr. Dylan Smith",
+    "email": "fordbrian@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01683', 'B07407']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wade Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09203', 'B06433', 'B05959', 'B03597']"
+}

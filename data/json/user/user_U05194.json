@@ -1,0 +1,14 @@
+{
+    "user_id": "U05194",
+    "name": "John Garcia",
+    "email": "stephaniewood@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00938', 'B07300', 'B08824']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Carroll, Stevens and Craig for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00952', 'B07469', 'B01343', 'B01726', 'B08690']"
+}

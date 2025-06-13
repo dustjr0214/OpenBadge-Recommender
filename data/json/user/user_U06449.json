@@ -1,0 +1,14 @@
+{
+    "user_id": "U06449",
+    "name": "Shannon Marshall",
+    "email": "richardsonsteve@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00934', 'B05121', 'B07274', 'B01501']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Melton Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04129']"
+}

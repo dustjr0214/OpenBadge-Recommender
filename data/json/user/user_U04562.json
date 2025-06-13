@@ -1,0 +1,14 @@
+{
+    "user_id": "U04562",
+    "name": "Shawn Robinson",
+    "email": "susan60@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08693', 'B04158', 'B01794', 'B01141', 'B05195']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Henry, Haynes and Lawrence for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08645', 'B09004', 'B04072', 'B00130', 'B09207']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02494",
+    "name": "Janet Martin",
+    "email": "daniellemiller@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05020', 'B05739', 'B09417', 'B06387', 'B03868']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at English-Wilson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01250', 'B04532', 'B00373', 'B07284']"
+}

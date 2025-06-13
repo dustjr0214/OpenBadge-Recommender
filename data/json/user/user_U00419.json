@@ -1,0 +1,14 @@
+{
+    "user_id": "U00419",
+    "name": "Christina Frank",
+    "email": "norrismariah@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Smith-Barnes for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05096",
+    "name": "Ryan Hamilton",
+    "email": "farmerjoseph@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05761', 'B02474', 'B07171']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Morris PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05995', 'B00844', 'B04682', 'B04977']"
+}

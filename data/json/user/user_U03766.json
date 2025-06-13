@@ -1,0 +1,14 @@
+{
+    "user_id": "U03766",
+    "name": "Rhonda Singleton",
+    "email": "ugriffith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07521']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Kelley-Rogers for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08858', 'B00581', 'B01359', 'B04137']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03915",
+    "name": "Todd Lang",
+    "email": "meghanpugh@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06707', 'B04043', 'B05115', 'B06700', 'B06866']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Griffin LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01493', 'B09266']"
+}

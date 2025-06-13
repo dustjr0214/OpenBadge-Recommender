@@ -1,0 +1,14 @@
+{
+    "user_id": "U07947",
+    "name": "Julia Robinson",
+    "email": "martinwilliamson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06045', 'B04606', 'B06190']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Nolan-Schmidt for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

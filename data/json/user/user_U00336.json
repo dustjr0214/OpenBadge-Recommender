@@ -1,0 +1,14 @@
+{
+    "user_id": "U00336",
+    "name": "William Robinson",
+    "email": "beltrangregory@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06524']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Dominguez and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05770', 'B01839', 'B03188', 'B06373']"
+}

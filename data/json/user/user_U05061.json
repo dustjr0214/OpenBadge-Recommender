@@ -1,0 +1,14 @@
+{
+    "user_id": "U05061",
+    "name": "Isaiah Nunez",
+    "email": "clarkrobin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08521', 'B02352']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Moore-Proctor for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05005', 'B02227', 'B01027']"
+}

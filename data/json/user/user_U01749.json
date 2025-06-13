@@ -1,0 +1,14 @@
+{
+    "user_id": "U01749",
+    "name": "Thomas Tran",
+    "email": "ufischer@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Warren-Young for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00949",
+    "name": "Wendy Collins",
+    "email": "joannelopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02165']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Singleton-Christensen for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07154', 'B01142', 'B03126']"
+}

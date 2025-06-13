@@ -1,0 +1,14 @@
+{
+    "user_id": "U00460",
+    "name": "Matthew Moody",
+    "email": "grosslatoya@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Nelson Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07513', 'B04496', 'B05559', 'B09577', 'B09322']"
+}

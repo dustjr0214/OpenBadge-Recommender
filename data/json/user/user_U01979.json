@@ -1,0 +1,14 @@
+{
+    "user_id": "U01979",
+    "name": "Nathaniel Brooks",
+    "email": "vlopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00522', 'B04501', 'B00161']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Rios Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06451', 'B08995', 'B02948', 'B03902', 'B03554']"
+}

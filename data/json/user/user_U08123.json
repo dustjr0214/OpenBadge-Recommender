@@ -1,0 +1,14 @@
+{
+    "user_id": "U08123",
+    "name": "Kimberly Garcia",
+    "email": "jeanette32@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06073', 'B08959']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Wilson-Patel for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03109",
+    "name": "Adam Miller",
+    "email": "katherinewright@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07337', 'B05502', 'B09280', 'B01565', 'B04864']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cruz-Rhodes for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09616', 'B01315']"
+}

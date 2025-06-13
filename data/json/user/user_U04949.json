@@ -1,0 +1,14 @@
+{
+    "user_id": "U04949",
+    "name": "Ruth Wright",
+    "email": "jessicachavez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04038', 'B07690', 'B06253', 'B02956', 'B08493']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Richard, Snyder and Barnes for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09914', 'B02329', 'B04929', 'B00113']"
+}

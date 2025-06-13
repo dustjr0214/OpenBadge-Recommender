@@ -1,0 +1,14 @@
+{
+    "user_id": "U04970",
+    "name": "Jordan Berry",
+    "email": "tfisher@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07978', 'B08433', 'B05294']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Taylor, Cruz and Gutierrez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

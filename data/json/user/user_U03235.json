@@ -1,0 +1,14 @@
+{
+    "user_id": "U03235",
+    "name": "Kendra Weber",
+    "email": "teresa78@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Bush-Dixon for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01485', 'B08721', 'B07753']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02690",
+    "name": "Joseph Fernandez",
+    "email": "peterkennedy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08752', 'B06527', 'B09603']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Hickman, Carter and Parker for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08378', 'B02683', 'B02878', 'B04568']"
+}

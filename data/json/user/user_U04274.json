@@ -1,0 +1,14 @@
+{
+    "user_id": "U04274",
+    "name": "Charles Soto",
+    "email": "davidsonalexa@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Miller, Weaver and Harvey for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04486', 'B05747', 'B03971', 'B04886', 'B05134']"
+}

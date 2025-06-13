@@ -1,0 +1,14 @@
+{
+    "user_id": "U01923",
+    "name": "Mr. Clayton Dunn",
+    "email": "mark80@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02291', 'B09126', 'B02036']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Love Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08562', 'B06409', 'B02189', 'B09621', 'B01499']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07224",
+    "name": "Clarence Moore",
+    "email": "gomezjoshua@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01810', 'B02011', 'B02156', 'B02842', 'B04020']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Livingston, Graham and Moreno for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

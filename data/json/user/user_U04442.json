@@ -1,0 +1,14 @@
+{
+    "user_id": "U04442",
+    "name": "Peggy Rose",
+    "email": "michael29@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07151', 'B04646', 'B05600', 'B04558', 'B02655']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Smith-Nguyen for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05852', 'B03409']"
+}

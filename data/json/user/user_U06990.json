@@ -1,0 +1,14 @@
+{
+    "user_id": "U06990",
+    "name": "Lori Casey",
+    "email": "yphillips@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02168', 'B06915', 'B06190', 'B08991']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Harris, Nelson and Harrison for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05451', 'B05388', 'B00144', 'B01141', 'B05905']"
+}

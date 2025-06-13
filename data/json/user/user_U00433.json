@@ -1,0 +1,14 @@
+{
+    "user_id": "U00433",
+    "name": "Eric Myers",
+    "email": "kevinbrown@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09863', 'B08104']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Vasquez, Callahan and Smith for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06345', 'B07843', 'B08323']"
+}

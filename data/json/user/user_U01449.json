@@ -1,0 +1,14 @@
+{
+    "user_id": "U01449",
+    "name": "Nicholas Brooks",
+    "email": "thomas53@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06716', 'B00441', 'B05828', 'B02129', 'B08213']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Salazar Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

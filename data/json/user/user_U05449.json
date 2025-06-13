@@ -1,0 +1,14 @@
+{
+    "user_id": "U05449",
+    "name": "Jennifer Adams",
+    "email": "mariosims@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03009', 'B04686', 'B04825', 'B04033', 'B09846']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith-Martinez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05606', 'B04712', 'B00885']"
+}

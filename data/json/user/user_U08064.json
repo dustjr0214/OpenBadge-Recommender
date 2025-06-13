@@ -1,0 +1,14 @@
+{
+    "user_id": "U08064",
+    "name": "Jason Leblanc",
+    "email": "eric34@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09263', 'B04218']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Gutierrez, Johnson and Martin for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04249', 'B02199']"
+}

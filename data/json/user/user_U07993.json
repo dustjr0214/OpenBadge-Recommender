@@ -1,0 +1,14 @@
+{
+    "user_id": "U07993",
+    "name": "Jason Smith",
+    "email": "ybernard@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03430', 'B08443', 'B05662']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Morris-Carter for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03826', 'B06025']"
+}

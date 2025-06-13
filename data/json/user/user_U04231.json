@@ -1,0 +1,14 @@
+{
+    "user_id": "U04231",
+    "name": "Mark Castro",
+    "email": "penamichele@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08693']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gonzalez, Sellers and Owens for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04522', 'B03113']"
+}

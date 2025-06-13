@@ -1,0 +1,14 @@
+{
+    "user_id": "U06501",
+    "name": "Judith Perez",
+    "email": "travis56@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07529']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Edwards-Rogers for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09068', 'B07991', 'B03548', 'B02584']"
+}

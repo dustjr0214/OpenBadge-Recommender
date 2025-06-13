@@ -1,0 +1,14 @@
+{
+    "user_id": "U05667",
+    "name": "Thomas Miranda",
+    "email": "ipalmer@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00301', 'B09424', 'B02169']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Cruz-Martin for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03377', 'B02896', 'B02203', 'B01747', 'B08138']"
+}

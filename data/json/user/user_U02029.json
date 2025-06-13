@@ -1,0 +1,14 @@
+{
+    "user_id": "U02029",
+    "name": "Alexandria Hernandez",
+    "email": "lorismith@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09859', 'B09908', 'B00705']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Murphy-Howell for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05464', 'B08116']"
+}

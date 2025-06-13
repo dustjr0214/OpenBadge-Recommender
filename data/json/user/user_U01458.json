@@ -1,0 +1,14 @@
+{
+    "user_id": "U01458",
+    "name": "Lisa Crawford",
+    "email": "lewiskimberly@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07858', 'B00735', 'B02283', 'B00334', 'B08762']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Taylor PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07189', 'B05666', 'B07682', 'B06768']"
+}

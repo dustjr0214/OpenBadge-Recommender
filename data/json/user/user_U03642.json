@@ -1,0 +1,14 @@
+{
+    "user_id": "U03642",
+    "name": "Matthew Estes",
+    "email": "harold30@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02183', 'B02172', 'B08860', 'B02450']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Bryant, Ford and Davis for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02111",
+    "name": "Benjamin Roberts",
+    "email": "richardcalderon@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07658', 'B09570', 'B05256', 'B09812']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Simpson, Brady and Rasmussen for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04770', 'B02849', 'B01385', 'B05982']"
+}

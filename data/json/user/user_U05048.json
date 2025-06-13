@@ -1,0 +1,14 @@
+{
+    "user_id": "U05048",
+    "name": "Andrew Thompson",
+    "email": "johnsonandrea@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04593']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Salazar Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06659', 'B00621']"
+}

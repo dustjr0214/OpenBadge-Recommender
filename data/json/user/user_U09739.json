@@ -1,0 +1,14 @@
+{
+    "user_id": "U09739",
+    "name": "Jeremy Gillespie",
+    "email": "timothystone@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09012', 'B01871', 'B02099', 'B01239', 'B09629']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Spencer, George and Erickson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06272', 'B00578', 'B06678']"
+}

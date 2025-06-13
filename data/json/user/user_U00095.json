@@ -1,0 +1,14 @@
+{
+    "user_id": "U00095",
+    "name": "Jessica Marshall",
+    "email": "donna61@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09608']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Padilla-Thompson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06396', 'B09079']"
+}

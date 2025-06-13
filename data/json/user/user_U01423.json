@@ -1,0 +1,14 @@
+{
+    "user_id": "U01423",
+    "name": "Jose Torres",
+    "email": "rebekahdavis@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05019']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Ramirez, Munoz and Singleton for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07307', 'B08410', 'B04559', 'B00924']"
+}

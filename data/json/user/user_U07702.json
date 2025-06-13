@@ -1,0 +1,14 @@
+{
+    "user_id": "U07702",
+    "name": "Jesse Michael",
+    "email": "btorres@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03586', 'B04529', 'B04708', 'B08606', 'B06028']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Peters LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07013']"
+}

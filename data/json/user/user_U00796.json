@@ -1,0 +1,14 @@
+{
+    "user_id": "U00796",
+    "name": "Tracy Lee",
+    "email": "philip10@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09273', 'B08192', 'B09750']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Peters-Sanders for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02206', 'B01712', 'B03996']"
+}

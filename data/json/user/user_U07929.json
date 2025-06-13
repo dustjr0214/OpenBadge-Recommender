@@ -1,0 +1,14 @@
+{
+    "user_id": "U07929",
+    "name": "Tracy Pittman",
+    "email": "veronicavalenzuela@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02693']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Fowler, Maxwell and Gray for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01903', 'B00146', 'B04188', 'B02454', 'B07904']"
+}

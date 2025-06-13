@@ -1,0 +1,14 @@
+{
+    "user_id": "U08372",
+    "name": "Kayla Jones",
+    "email": "davisbrian@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05662']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Butler PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06752', 'B01977', 'B09842', 'B07016']"
+}

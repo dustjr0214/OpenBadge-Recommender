@@ -1,0 +1,14 @@
+{
+    "user_id": "U02384",
+    "name": "Jeffrey Huang",
+    "email": "wcarpenter@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08820', 'B05016', 'B07177']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rojas, Davis and Valdez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

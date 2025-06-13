@@ -1,0 +1,14 @@
+{
+    "user_id": "U01595",
+    "name": "Shawn Underwood",
+    "email": "williamstony@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06990', 'B08907', 'B06031']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Middleton and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05103', 'B02652']"
+}

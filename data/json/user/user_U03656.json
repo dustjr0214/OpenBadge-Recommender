@@ -1,0 +1,14 @@
+{
+    "user_id": "U03656",
+    "name": "Ariel Velasquez",
+    "email": "lcollins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05135', 'B00140', 'B03520', 'B01290', 'B05402']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Joyce-Webster for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05199', 'B05043', 'B03164', 'B00818']"
+}

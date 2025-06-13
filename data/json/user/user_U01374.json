@@ -1,0 +1,14 @@
+{
+    "user_id": "U01374",
+    "name": "Nicholas Johnson",
+    "email": "rshaw@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05428', 'B01498']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Pratt-Williams for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07543']"
+}

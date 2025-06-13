@@ -1,0 +1,14 @@
+{
+    "user_id": "U06023",
+    "name": "Michael Boyle",
+    "email": "blairmichaela@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05848', 'B02630', 'B07144']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Lawrence-Warren for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04048', 'B03385']"
+}

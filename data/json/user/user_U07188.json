@@ -1,0 +1,14 @@
+{
+    "user_id": "U07188",
+    "name": "Daniel Kim",
+    "email": "jimmydavis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09702', 'B08635', 'B05737', 'B06858']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Miller-Zimmerman for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02133', 'B04943']"
+}

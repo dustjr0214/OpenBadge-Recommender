@@ -1,0 +1,14 @@
+{
+    "user_id": "U02265",
+    "name": "Nicole Garcia",
+    "email": "zflores@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09861']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Walton, Parker and Underwood for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02795', 'B06588', 'B09217', 'B06680', 'B05256']"
+}

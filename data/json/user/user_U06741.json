@@ -1,0 +1,14 @@
+{
+    "user_id": "U06741",
+    "name": "Andrew Bradley",
+    "email": "james55@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03074']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Williamson-Butler for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07989', 'B09049', 'B04479', 'B08885']"
+}

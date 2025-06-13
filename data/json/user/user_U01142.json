@@ -1,0 +1,14 @@
+{
+    "user_id": "U01142",
+    "name": "Theresa Higgins",
+    "email": "whurst@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05598', 'B01154', 'B04766']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Clark, Hoover and Carlson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09646', 'B02330', 'B00148', 'B03542', 'B01957']"
+}

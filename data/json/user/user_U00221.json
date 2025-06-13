@@ -1,0 +1,14 @@
+{
+    "user_id": "U00221",
+    "name": "Adam Odonnell",
+    "email": "timothyturner@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02768', 'B07936', 'B09817', 'B08823', 'B08176']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Scott-Farley for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08873', 'B09294', 'B06388']"
+}

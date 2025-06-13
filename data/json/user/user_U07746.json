@@ -1,0 +1,14 @@
+{
+    "user_id": "U07746",
+    "name": "Angela Buchanan",
+    "email": "russellsarah@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07598']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Fitzpatrick-Jennings for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00682', 'B06776', 'B03392', 'B09597']"
+}

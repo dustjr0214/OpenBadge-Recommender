@@ -1,0 +1,14 @@
+{
+    "user_id": "U00016",
+    "name": "Michelle Coleman",
+    "email": "schultzbrad@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07872']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Frazier LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07029', 'B08960', 'B05620', 'B01338', 'B06661']"
+}

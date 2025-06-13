@@ -1,0 +1,14 @@
+{
+    "user_id": "U09236",
+    "name": "Morgan Ballard",
+    "email": "ellisjose@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05862', 'B05250', 'B04041', 'B09107', 'B08848']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Henderson and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

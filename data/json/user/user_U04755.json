@@ -1,0 +1,14 @@
+{
+    "user_id": "U04755",
+    "name": "Matthew Fitzgerald",
+    "email": "vdunn@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04980', 'B03017', 'B01479', 'B06724', 'B00461']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Osborne-Moore for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09719', 'B04402']"
+}

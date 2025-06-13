@@ -1,0 +1,14 @@
+{
+    "user_id": "U02466",
+    "name": "Sarah Williams",
+    "email": "lbowen@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Washington-Alvarado for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04625']"
+}

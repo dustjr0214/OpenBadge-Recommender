@@ -1,0 +1,14 @@
+{
+    "user_id": "U07101",
+    "name": "Carla Ibarra",
+    "email": "brendasmith@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04143', 'B01427', 'B00627', 'B05372', 'B08955']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Valdez Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05029']"
+}

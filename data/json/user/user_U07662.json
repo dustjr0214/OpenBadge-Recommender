@@ -1,0 +1,14 @@
+{
+    "user_id": "U07662",
+    "name": "Anthony Roberts",
+    "email": "khamilton@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01951', 'B08523', 'B09039']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Harris LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08227', 'B09865', 'B04433', 'B04186']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09113",
+    "name": "Cameron Thomas Jr.",
+    "email": "qavila@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cloud Computing', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09901', 'B01426', 'B02667']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Wilson Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06534', 'B03642', 'B03068', 'B03759', 'B09026']"
+}

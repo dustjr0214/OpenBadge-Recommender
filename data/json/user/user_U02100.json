@@ -1,0 +1,14 @@
+{
+    "user_id": "U02100",
+    "name": "Jasmine Vance",
+    "email": "lindsay80@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08724']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Nichols, Best and Landry for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04401', 'B01689', 'B03380', 'B04868', 'B04108']"
+}

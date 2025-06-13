@@ -1,0 +1,14 @@
+{
+    "user_id": "U07403",
+    "name": "Kenneth Fitzgerald",
+    "email": "dianegonzalez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03692', 'B06980', 'B02400', 'B08651']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Williams Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04783', 'B02354']"
+}

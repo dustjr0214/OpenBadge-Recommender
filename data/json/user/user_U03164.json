@@ -1,0 +1,14 @@
+{
+    "user_id": "U03164",
+    "name": "Grace Collins",
+    "email": "dustinporter@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01084', 'B05006', 'B07064']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Edwards, Moore and Miller for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08454']"
+}

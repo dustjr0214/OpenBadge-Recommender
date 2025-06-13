@@ -1,0 +1,14 @@
+{
+    "user_id": "U04596",
+    "name": "Amanda Ward",
+    "email": "jack34@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07922', 'B00367', 'B04505', 'B06765', 'B08129']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Smith-Hardy for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07933', 'B02624', 'B03060']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01252",
+    "name": "Diamond Crawford",
+    "email": "fmorris@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00087', 'B08541', 'B09341']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Rodriguez, Jennings and Carter for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07763', 'B08925', 'B06899', 'B03369']"
+}

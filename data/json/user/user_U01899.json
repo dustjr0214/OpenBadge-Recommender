@@ -1,0 +1,14 @@
+{
+    "user_id": "U01899",
+    "name": "Christopher Rodriguez",
+    "email": "kmoreno@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Morgan Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02487', 'B07195', 'B08188', 'B07305']"
+}

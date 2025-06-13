@@ -1,0 +1,14 @@
+{
+    "user_id": "U04488",
+    "name": "Jennifer Warren",
+    "email": "elizabethwagner@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03641', 'B08644', 'B03559', 'B05358']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Avery, Pope and Hunter for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02419', 'B00417', 'B08382']"
+}

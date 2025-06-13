@@ -1,0 +1,14 @@
+{
+    "user_id": "U06298",
+    "name": "William Moore",
+    "email": "jmiller@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Durham, Bell and Burke for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04918', 'B00363', 'B03175']"
+}

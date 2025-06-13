@@ -1,0 +1,14 @@
+{
+    "user_id": "U01076",
+    "name": "Rebecca Sandoval",
+    "email": "jmyers@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09777', 'B07381']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Hernandez PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05530', 'B06876', 'B01364', 'B06429', 'B01591']"
+}

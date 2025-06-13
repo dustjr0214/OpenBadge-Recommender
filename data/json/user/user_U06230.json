@@ -1,0 +1,14 @@
+{
+    "user_id": "U06230",
+    "name": "Matthew Smith",
+    "email": "ahobbs@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02515', 'B06083', 'B01839']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Anderson, Cook and Moore for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09361', 'B01059', 'B04914', 'B00734']"
+}

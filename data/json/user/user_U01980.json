@@ -1,0 +1,14 @@
+{
+    "user_id": "U01980",
+    "name": "Daniel Larsen",
+    "email": "gardnerbrian@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08348', 'B09698']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Griffith-Wilson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08296', 'B07573', 'B08882', 'B05683']"
+}

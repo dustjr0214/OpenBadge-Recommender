@@ -1,0 +1,14 @@
+{
+    "user_id": "U04827",
+    "name": "Thomas Randall",
+    "email": "franciscojohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Sims, Wright and Jones for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07968', 'B02262']"
+}

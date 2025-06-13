@@ -1,0 +1,14 @@
+{
+    "user_id": "U09661",
+    "name": "Francisco Mann",
+    "email": "hillronald@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Wilson and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09247', 'B06541', 'B02570']"
+}

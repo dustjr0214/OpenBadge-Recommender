@@ -1,0 +1,14 @@
+{
+    "user_id": "U03564",
+    "name": "Mr. Dylan Santiago",
+    "email": "donnatorres@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04724', 'B05855', 'B09530']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Hull-Myers for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03588', 'B09868']"
+}

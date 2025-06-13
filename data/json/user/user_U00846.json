@@ -1,0 +1,14 @@
+{
+    "user_id": "U00846",
+    "name": "Paul Francis",
+    "email": "denisetucker@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01185', 'B07733', 'B02513', 'B02999', 'B00537']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Leon, Gomez and Ruiz for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03419', 'B03890', 'B07135', 'B00711', 'B07640']"
+}

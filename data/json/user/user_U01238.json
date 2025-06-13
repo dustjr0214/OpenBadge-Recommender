@@ -1,0 +1,14 @@
+{
+    "user_id": "U01238",
+    "name": "Michelle Thompson",
+    "email": "brittanywhite@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02792', 'B05373', 'B06129', 'B06039']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Johnson, Velazquez and Butler for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03620', 'B09868']"
+}

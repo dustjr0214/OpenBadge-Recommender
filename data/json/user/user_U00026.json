@@ -1,0 +1,14 @@
+{
+    "user_id": "U00026",
+    "name": "James Cobb",
+    "email": "robertschultz@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Compton, Powell and Wilson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00726', 'B01380', 'B09055', 'B08089', 'B03977']"
+}

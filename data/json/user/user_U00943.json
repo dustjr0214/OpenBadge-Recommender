@@ -1,0 +1,14 @@
+{
+    "user_id": "U00943",
+    "name": "Mr. Erik Ashley DVM",
+    "email": "palmerdavid@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08973', 'B02884']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lara, Mathews and Saunders for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09844', 'B09390']"
+}

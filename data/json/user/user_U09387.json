@@ -1,0 +1,14 @@
+{
+    "user_id": "U09387",
+    "name": "Gary Hicks",
+    "email": "owhite@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01112', 'B09675', 'B01672', 'B08066', 'B05065']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Williams LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07801']"
+}

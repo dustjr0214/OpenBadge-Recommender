@@ -1,0 +1,14 @@
+{
+    "user_id": "U03620",
+    "name": "Wayne Nelson",
+    "email": "david60@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08552', 'B01699', 'B07352', 'B08824']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Ellison-Gonzalez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08664']"
+}

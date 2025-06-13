@@ -1,0 +1,14 @@
+{
+    "user_id": "U00707",
+    "name": "Brittany Wilson",
+    "email": "wjennings@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01255', 'B01087', 'B01923', 'B03728']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wolfe-Brown for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05501', 'B09806', 'B04854', 'B00947', 'B07562']"
+}

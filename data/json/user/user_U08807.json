@@ -1,0 +1,14 @@
+{
+    "user_id": "U08807",
+    "name": "Jill Quinn",
+    "email": "wmeyer@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08837', 'B09243', 'B09527', 'B06004']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Little Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

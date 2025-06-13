@@ -1,0 +1,14 @@
+{
+    "user_id": "U08719",
+    "name": "Ricky Mason",
+    "email": "stephenjohnson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02221', 'B04754', 'B04831', 'B07163']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brooks PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05237', 'B00677', 'B05135', 'B08212', 'B03852']"
+}

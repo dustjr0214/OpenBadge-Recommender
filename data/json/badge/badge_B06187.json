@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06187",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'DevOps']",
+    "competency": "['Leadership', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "[]"
+}

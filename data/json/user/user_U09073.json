@@ -1,0 +1,14 @@
+{
+    "user_id": "U09073",
+    "name": "Cameron Pacheco",
+    "email": "holly01@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00380']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Martinez, Ferrell and Sanders for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05417', 'B03868', 'B00252', 'B08893']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03065",
+    "name": "John Watts",
+    "email": "wanda88@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07315', 'B03921', 'B01018', 'B01898']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Young LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06817', 'B01521', 'B02842', 'B08957', 'B07851']"
+}

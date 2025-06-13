@@ -1,0 +1,14 @@
+{
+    "user_id": "U01105",
+    "name": "Sydney Rice",
+    "email": "rogermorris@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07794', 'B04222', 'B03953', 'B01703', 'B03037']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Miller Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08534', 'B04162']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08271",
+    "name": "Sheila Wilson",
+    "email": "aaron60@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08588', 'B08009', 'B00870', 'B09626']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Byrd-Soto for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08022', 'B04988', 'B02715', 'B08037', 'B02534']"
+}

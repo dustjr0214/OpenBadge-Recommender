@@ -1,0 +1,14 @@
+{
+    "user_id": "U01086",
+    "name": "Nicole Martin",
+    "email": "rholden@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hill, Washington and Newton for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09499', 'B09519', 'B01649']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02523",
+    "name": "Scott Acosta",
+    "email": "michael16@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05756', 'B09989', 'B00059', 'B00322']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gonzalez-Mcdonald for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07769', 'B06383', 'B07503', 'B00054']"
+}

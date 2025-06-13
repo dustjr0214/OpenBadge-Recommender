@@ -1,0 +1,14 @@
+{
+    "user_id": "U01528",
+    "name": "David Johnson",
+    "email": "omiller@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09878']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Morris, Peters and Bridges for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03008', 'B06017', 'B01781', 'B08256', 'B01100']"
+}

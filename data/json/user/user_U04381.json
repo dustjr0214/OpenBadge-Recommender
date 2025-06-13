@@ -1,0 +1,14 @@
+{
+    "user_id": "U04381",
+    "name": "Tiffany Fernandez",
+    "email": "danielmurray@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02845', 'B02305', 'B01327']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Lewis LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08890', 'B03645', 'B06867', 'B00373', 'B06548']"
+}

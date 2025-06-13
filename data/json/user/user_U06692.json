@@ -1,0 +1,14 @@
+{
+    "user_id": "U06692",
+    "name": "Christine Bernard",
+    "email": "ewelch@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02156']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Alvarado LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03991']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00253",
+    "name": "Alexandra Reynolds",
+    "email": "rebecca37@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02553']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Williams, Romero and Johnson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05135', 'B02094']"
+}

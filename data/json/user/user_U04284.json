@@ -1,0 +1,14 @@
+{
+    "user_id": "U04284",
+    "name": "Scott Brown",
+    "email": "charles97@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02984', 'B01776', 'B04057']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Garcia, Webb and Herman for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00166', 'B03145']"
+}

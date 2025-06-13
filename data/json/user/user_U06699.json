@@ -1,0 +1,14 @@
+{
+    "user_id": "U06699",
+    "name": "Miss Amy Kelly DVM",
+    "email": "danielmosley@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09403']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Smith and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06503']"
+}

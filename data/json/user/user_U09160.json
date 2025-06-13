@@ -1,0 +1,14 @@
+{
+    "user_id": "U09160",
+    "name": "Rachel Kelly",
+    "email": "daniel48@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05358', 'B08301', 'B00656']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Graham, Ewing and Underwood for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03439', 'B04084', 'B03394']"
+}

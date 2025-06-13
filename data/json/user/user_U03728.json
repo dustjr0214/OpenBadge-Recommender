@@ -1,0 +1,14 @@
+{
+    "user_id": "U03728",
+    "name": "Stephanie Zamora",
+    "email": "pierceanthony@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07221', 'B05933']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Miller, Gonzalez and Young for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

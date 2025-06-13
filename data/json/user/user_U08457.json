@@ -1,0 +1,14 @@
+{
+    "user_id": "U08457",
+    "name": "John Hughes",
+    "email": "flopez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03855', 'B00740', 'B04154', 'B08324', 'B00931']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Terry-Foster for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04943', 'B09334', 'B04283', 'B02442']"
+}

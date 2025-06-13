@@ -1,0 +1,14 @@
+{
+    "user_id": "U07871",
+    "name": "Curtis Stewart",
+    "email": "hcrawford@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07884', 'B04669', 'B03308']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Clark, Smith and Schmidt for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09785', 'B05370', 'B05307', 'B01449', 'B00924']"
+}

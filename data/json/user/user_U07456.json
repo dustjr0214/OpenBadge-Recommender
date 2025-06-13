@@ -1,0 +1,14 @@
+{
+    "user_id": "U07456",
+    "name": "Randy Klein",
+    "email": "jose07@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03815', 'B03140']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Anderson, Olson and Jimenez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01369",
+    "name": "Jennifer Smith",
+    "email": "davidjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05522']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Rowland-Logan for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07845', 'B06553', 'B02647']"
+}

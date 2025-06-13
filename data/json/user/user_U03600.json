@@ -1,0 +1,14 @@
+{
+    "user_id": "U03600",
+    "name": "Elizabeth Ross",
+    "email": "ramseyalexandra@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03326']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Cooper LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

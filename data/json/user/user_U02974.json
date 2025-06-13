@@ -1,0 +1,14 @@
+{
+    "user_id": "U02974",
+    "name": "Eric Kelley",
+    "email": "dlopez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05879', 'B02265', 'B06338']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Acosta, Garrett and Thomas for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06373', 'B02592', 'B00502', 'B09744']"
+}

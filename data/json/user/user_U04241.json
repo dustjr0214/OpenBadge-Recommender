@@ -1,0 +1,14 @@
+{
+    "user_id": "U04241",
+    "name": "Aaron Walters",
+    "email": "hatfieldalbert@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04975', 'B00535']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Gutierrez Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08724', 'B01648']"
+}

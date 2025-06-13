@@ -1,0 +1,14 @@
+{
+    "user_id": "U09333",
+    "name": "Michelle Boyd",
+    "email": "lopezmichael@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Johnson-Gomez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05811', 'B02130']"
+}

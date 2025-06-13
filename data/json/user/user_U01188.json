@@ -1,0 +1,14 @@
+{
+    "user_id": "U01188",
+    "name": "Michael Cook",
+    "email": "harrisonkristine@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02293', 'B03629', 'B03880', 'B05274']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Smith-Johnson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02990', 'B09394', 'B02103', 'B08681', 'B06100']"
+}

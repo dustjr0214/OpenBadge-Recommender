@@ -1,0 +1,14 @@
+{
+    "user_id": "U08987",
+    "name": "Vickie Terry",
+    "email": "ydavis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00107']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Santiago Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00153', 'B06144']"
+}

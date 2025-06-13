@@ -1,0 +1,14 @@
+{
+    "user_id": "U07967",
+    "name": "Julia Smith",
+    "email": "perezdavid@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Washington, Blair and Perez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00732', 'B04804', 'B02606', 'B07055', 'B06351']"
+}

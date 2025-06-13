@@ -1,0 +1,14 @@
+{
+    "user_id": "U02233",
+    "name": "Luis Smith",
+    "email": "lynnwalker@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00876', 'B08519', 'B08878', 'B09514']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Wilson, Marshall and Armstrong for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07647']"
+}

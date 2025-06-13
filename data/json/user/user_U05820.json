@@ -1,0 +1,14 @@
+{
+    "user_id": "U05820",
+    "name": "Timothy Mathis",
+    "email": "kimberly16@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09445', 'B00748', 'B08490']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Boyd and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06647', 'B08572', 'B03240', 'B00033']"
+}

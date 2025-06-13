@@ -1,0 +1,14 @@
+{
+    "user_id": "U08870",
+    "name": "Thomas Lee",
+    "email": "kelsey16@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06743']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cantu, Davis and Chang for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03836', 'B03158', 'B04873']"
+}

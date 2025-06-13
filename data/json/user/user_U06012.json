@@ -1,0 +1,14 @@
+{
+    "user_id": "U06012",
+    "name": "Daniel Vang Jr.",
+    "email": "kevingreene@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04854', 'B07840', 'B04448']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Wilson-Johnson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06616']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08640",
+    "name": "Sandra Kelly",
+    "email": "jessicamoore@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Zuniga and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06142', 'B01400', 'B05776', 'B00660']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02634",
+    "name": "Daisy Berry",
+    "email": "wgiles@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02019', 'B07144']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Freeman-Reyes for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05662']"
+}

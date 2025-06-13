@@ -1,0 +1,14 @@
+{
+    "user_id": "U03226",
+    "name": "Roberto Moore",
+    "email": "tammywilliams@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05199', 'B09824', 'B02402', 'B04946']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Castro-Schneider for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08106', 'B07877', 'B02112', 'B09478', 'B06123']"
+}

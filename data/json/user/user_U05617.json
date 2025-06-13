@@ -1,0 +1,14 @@
+{
+    "user_id": "U05617",
+    "name": "Christine Cervantes",
+    "email": "rwhite@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02021', 'B07441', 'B07463', 'B09680']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Mcgee-Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00174', 'B08544', 'B07106', 'B00726']"
+}

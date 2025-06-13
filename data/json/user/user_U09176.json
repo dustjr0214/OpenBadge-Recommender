@@ -1,0 +1,14 @@
+{
+    "user_id": "U09176",
+    "name": "Kristina Salinas",
+    "email": "lewisashley@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00764', 'B06178', 'B03542', 'B04685', 'B01286']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Downs PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07847', 'B01663']"
+}

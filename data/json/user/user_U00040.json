@@ -1,0 +1,14 @@
+{
+    "user_id": "U00040",
+    "name": "Tracey Sheppard",
+    "email": "collinrodriguez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05802', 'B05237', 'B01097', 'B01053', 'B07506']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Branch-Montgomery for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09296', 'B03646', 'B01863']"
+}

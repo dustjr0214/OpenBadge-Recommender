@@ -1,0 +1,14 @@
+{
+    "user_id": "U03295",
+    "name": "Dennis Mcbride",
+    "email": "kristopher78@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02346']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Benjamin-Hinton for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04339', 'B00120', 'B03437', 'B02280', 'B08095']"
+}

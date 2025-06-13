@@ -1,0 +1,14 @@
+{
+    "user_id": "U02149",
+    "name": "Rebecca Gentry",
+    "email": "collinseric@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09317']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Espinoza Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00112', 'B09345']"
+}

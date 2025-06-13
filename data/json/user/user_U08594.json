@@ -1,0 +1,14 @@
+{
+    "user_id": "U08594",
+    "name": "Michael French",
+    "email": "carrie95@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00575', 'B07022', 'B02805', 'B08715']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Johnson, Reynolds and Cain for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06423', 'B00572']"
+}

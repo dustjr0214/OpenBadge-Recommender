@@ -1,0 +1,14 @@
+{
+    "user_id": "U04362",
+    "name": "Jerry Hudson",
+    "email": "alyssa69@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08755', 'B02598', 'B08684', 'B05953']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gilbert PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08502', 'B01538', 'B05464', 'B07032', 'B06804']"
+}

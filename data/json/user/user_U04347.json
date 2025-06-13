@@ -1,0 +1,14 @@
+{
+    "user_id": "U04347",
+    "name": "Andrew Fisher",
+    "email": "cunninghamelizabeth@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05842']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Ross-Wagner for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

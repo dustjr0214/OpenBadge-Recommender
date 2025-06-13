@@ -1,0 +1,14 @@
+{
+    "user_id": "U09148",
+    "name": "Peter Juarez",
+    "email": "lmartin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07471', 'B05664']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Powell-Pena for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02214']"
+}

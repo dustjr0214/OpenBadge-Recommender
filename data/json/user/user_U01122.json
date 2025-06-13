@@ -1,0 +1,14 @@
+{
+    "user_id": "U01122",
+    "name": "Brittney Reilly",
+    "email": "pricewendy@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05531']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Davis-Peterson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08185', 'B04039', 'B09611', 'B06455', 'B05936']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04581",
+    "name": "Tiffany Hicks",
+    "email": "qthompson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08582', 'B05027', 'B02066', 'B02430', 'B07786']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Mercer-Briggs for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02708', 'B06051', 'B03738', 'B07785']"
+}

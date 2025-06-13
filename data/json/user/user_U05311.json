@@ -1,0 +1,14 @@
+{
+    "user_id": "U05311",
+    "name": "Amy Anderson",
+    "email": "richard32@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06797', 'B04345', 'B01399', 'B08040']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Davis Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01726']"
+}

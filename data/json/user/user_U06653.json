@@ -1,0 +1,14 @@
+{
+    "user_id": "U06653",
+    "name": "Frank Gillespie",
+    "email": "samantha57@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07054']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Thomas Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05384', 'B05592', 'B06510']"
+}

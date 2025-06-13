@@ -1,0 +1,14 @@
+{
+    "user_id": "U06995",
+    "name": "Edward Morales",
+    "email": "ericabrock@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01235']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Goodwin, Cox and Myers for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05306', 'B05314', 'B03927', 'B08342', 'B07508']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04877",
+    "name": "Brenda David",
+    "email": "coxchristian@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02619', 'B01334', 'B08307', 'B06962']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Nelson-Nelson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07640', 'B00299', 'B01750', 'B09867']"
+}

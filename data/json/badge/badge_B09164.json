@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09164",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'SQL']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B09922', 'B04019']"
+}

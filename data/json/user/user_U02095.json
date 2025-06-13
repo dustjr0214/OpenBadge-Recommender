@@ -1,0 +1,14 @@
+{
+    "user_id": "U02095",
+    "name": "Anna Williams",
+    "email": "arielmartinez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03631', 'B06949', 'B04844', 'B07420', 'B01003']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Young-Henderson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07608', 'B01987', 'B06800']"
+}

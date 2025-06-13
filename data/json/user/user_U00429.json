@@ -1,0 +1,14 @@
+{
+    "user_id": "U00429",
+    "name": "Anne Leon",
+    "email": "wjimenez@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07020', 'B02879', 'B04053', 'B03097']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Miller, Lambert and Frazier for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03330', 'B01266', 'B03371', 'B03051', 'B05988']"
+}

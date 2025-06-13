@@ -1,0 +1,14 @@
+{
+    "user_id": "U03465",
+    "name": "Craig Skinner",
+    "email": "danielnguyen@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Alvarez, Phillips and Diaz for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08806', 'B02703', 'B00314', 'B04345']"
+}

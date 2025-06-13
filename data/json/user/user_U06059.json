@@ -1,0 +1,14 @@
+{
+    "user_id": "U06059",
+    "name": "Leslie Novak",
+    "email": "jonesnatasha@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09999', 'B07748']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Ross Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04433', 'B04983', 'B09958', 'B02866']"
+}

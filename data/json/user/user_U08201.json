@@ -1,0 +1,14 @@
+{
+    "user_id": "U08201",
+    "name": "James Miller",
+    "email": "keithwatson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03999', 'B09996', 'B06375']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Mckinney and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09248']"
+}

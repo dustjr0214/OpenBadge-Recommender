@@ -1,0 +1,14 @@
+{
+    "user_id": "U03186",
+    "name": "Jermaine Lopez",
+    "email": "michael12@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03576', 'B03168', 'B00983']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brown, Tucker and Hernandez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05161', 'B01560']"
+}

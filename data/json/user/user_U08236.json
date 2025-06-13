@@ -1,0 +1,14 @@
+{
+    "user_id": "U08236",
+    "name": "Elizabeth Jones MD",
+    "email": "ikane@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09845', 'B08500', 'B03469', 'B07106']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Thompson LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08897']"
+}

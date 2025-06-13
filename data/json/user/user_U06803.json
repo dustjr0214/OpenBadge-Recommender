@@ -1,0 +1,14 @@
+{
+    "user_id": "U06803",
+    "name": "Jason Craig",
+    "email": "ythompson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Roberts and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06225', 'B08752', 'B03470', 'B09673', 'B03997']"
+}

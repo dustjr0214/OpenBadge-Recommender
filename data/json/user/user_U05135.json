@@ -1,0 +1,14 @@
+{
+    "user_id": "U05135",
+    "name": "Sarah Alexander",
+    "email": "vegalisa@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07237', 'B04176', 'B03049']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ortega, Diaz and Roberts for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07708']"
+}

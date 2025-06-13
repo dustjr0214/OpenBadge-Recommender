@@ -1,0 +1,14 @@
+{
+    "user_id": "U03130",
+    "name": "Lisa Jackson",
+    "email": "alvaradomaria@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02235', 'B05776', 'B03994']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Morse-Williams for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08704', 'B04740', 'B06851']"
+}

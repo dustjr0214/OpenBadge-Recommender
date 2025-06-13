@@ -1,0 +1,14 @@
+{
+    "user_id": "U08394",
+    "name": "Lauren Cantu",
+    "email": "randall70@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'SQL', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03713', 'B01598', 'B06434', 'B05720', 'B06207']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Cannon, Norris and Hicks for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08232', 'B04639', 'B03147']"
+}

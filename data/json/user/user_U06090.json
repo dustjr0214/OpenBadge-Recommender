@@ -1,0 +1,14 @@
+{
+    "user_id": "U06090",
+    "name": "Julia Martin",
+    "email": "vincentlaura@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05556']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Bruce, Bridges and Harris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06427', 'B09302', 'B05647']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07646",
+    "name": "Nathaniel Daniels",
+    "email": "mary30@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03866']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Morgan-Miller for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09366']"
+}

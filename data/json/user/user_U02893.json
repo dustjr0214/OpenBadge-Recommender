@@ -1,0 +1,14 @@
+{
+    "user_id": "U02893",
+    "name": "Ashlee Davis",
+    "email": "eric47@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05127', 'B00003', 'B08309', 'B01585']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Olson-Miranda for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04516', 'B09270', 'B04483', 'B07071']"
+}

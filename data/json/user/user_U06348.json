@@ -1,0 +1,14 @@
+{
+    "user_id": "U06348",
+    "name": "Kenneth Larson",
+    "email": "dickersonadrian@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03266', 'B04535', 'B06485', 'B09192', 'B06112']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Barron Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07992', 'B05447', 'B02227', 'B02894']"
+}

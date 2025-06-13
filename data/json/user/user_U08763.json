@@ -1,0 +1,14 @@
+{
+    "user_id": "U08763",
+    "name": "Patrick Orozco",
+    "email": "andradejoseph@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07565', 'B03169']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Collins Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05249', 'B01639', 'B06883', 'B04903', 'B04331']"
+}

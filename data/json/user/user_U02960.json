@@ -1,0 +1,14 @@
+{
+    "user_id": "U02960",
+    "name": "Luis Andrews",
+    "email": "stevenallen@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00983', 'B09363', 'B00204', 'B02208']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Moore-Miller for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02825', 'B04972', 'B01898', 'B06425', 'B02377']"
+}

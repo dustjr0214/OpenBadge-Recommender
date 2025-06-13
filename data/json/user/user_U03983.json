@@ -1,0 +1,14 @@
+{
+    "user_id": "U03983",
+    "name": "Aaron Edwards",
+    "email": "freemanjill@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01085', 'B07124', 'B06329', 'B01717']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Frey Ltd for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02412', 'B08005', 'B06584', 'B07167']"
+}

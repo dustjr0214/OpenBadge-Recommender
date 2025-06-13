@@ -1,0 +1,14 @@
+{
+    "user_id": "U08151",
+    "name": "Corey Porter",
+    "email": "jill36@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03567', 'B09905', 'B07102', 'B06644', 'B02138']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Duran and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

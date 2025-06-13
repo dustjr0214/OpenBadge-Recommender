@@ -1,0 +1,14 @@
+{
+    "user_id": "U01945",
+    "name": "Jeffrey Macdonald",
+    "email": "garciaallen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07591', 'B02252']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Green-Lewis for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02885']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01127",
+    "name": "Monica Hughes",
+    "email": "joshua12@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07368', 'B05361', 'B00746', 'B04577']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Estrada-Brown for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09335', 'B03731', 'B02259', 'B03151', 'B01774']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04756",
+    "name": "Stacey Dawson",
+    "email": "brookesanders@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00781']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Duncan Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08469', 'B00119', 'B08707', 'B03309', 'B04931']"
+}

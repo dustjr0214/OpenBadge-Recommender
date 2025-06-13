@@ -1,0 +1,14 @@
+{
+    "user_id": "U01101",
+    "name": "Katie Crawford",
+    "email": "mitchell87@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04370', 'B03938', 'B04318', 'B05882', 'B09138']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Clark and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06996', 'B01935', 'B02431', 'B07945']"
+}

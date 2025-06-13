@@ -1,0 +1,14 @@
+{
+    "user_id": "U09283",
+    "name": "Eric Kelly",
+    "email": "qmartin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01333', 'B00258']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Walker Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09193']"
+}

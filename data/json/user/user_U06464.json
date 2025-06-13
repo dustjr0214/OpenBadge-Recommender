@@ -1,0 +1,14 @@
+{
+    "user_id": "U06464",
+    "name": "Joshua Walters",
+    "email": "jennifer97@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03545', 'B02152', 'B03217', 'B04317']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Clark-Romero for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

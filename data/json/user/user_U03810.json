@@ -1,0 +1,14 @@
+{
+    "user_id": "U03810",
+    "name": "Denise Green",
+    "email": "owilliams@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04362', 'B08610', 'B09477', 'B01031', 'B08799']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Stein-Ferguson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09922', 'B09265', 'B03399', 'B09156', 'B06738']"
+}

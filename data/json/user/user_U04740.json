@@ -1,0 +1,14 @@
+{
+    "user_id": "U04740",
+    "name": "Christopher Montoya",
+    "email": "hrogers@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05128', 'B08843', 'B04761', 'B04412']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Landry and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08082', 'B06960', 'B02585', 'B09289', 'B00647']"
+}

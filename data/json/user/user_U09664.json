@@ -1,0 +1,14 @@
+{
+    "user_id": "U09664",
+    "name": "Karina Ryan",
+    "email": "sandrafoster@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01014']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Ramirez, Logan and Williams for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04702', 'B04771']"
+}

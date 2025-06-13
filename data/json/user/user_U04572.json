@@ -1,0 +1,14 @@
+{
+    "user_id": "U04572",
+    "name": "Victoria Lee",
+    "email": "sanchezandrea@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06515', 'B06763', 'B06144', 'B08399', 'B06243']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Stone-Miller for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08106', 'B04665', 'B08625', 'B02379', 'B02605']"
+}

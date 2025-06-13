@@ -1,0 +1,14 @@
+{
+    "user_id": "U09352",
+    "name": "Jo Hall",
+    "email": "scottfranklin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03042', 'B01805', 'B01087', 'B04210']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Brown Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06229', 'B03380', 'B03976']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08418",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cloud Computing', 'Data Analysis']",
+    "competency": "['Machine Learning', 'DevOps']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "[]"
+}

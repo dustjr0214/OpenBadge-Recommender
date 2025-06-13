@@ -1,0 +1,14 @@
+{
+    "user_id": "U04989",
+    "name": "Ms. Nicole Hughes",
+    "email": "graydorothy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04709', 'B08661', 'B00684', 'B09565']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Patterson, Martin and Jones for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07732', 'B06967']"
+}

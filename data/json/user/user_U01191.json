@@ -1,0 +1,14 @@
+{
+    "user_id": "U01191",
+    "name": "Vanessa Reed",
+    "email": "coleanthony@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05090', 'B04617', 'B04091', 'B00775', 'B07845']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Smith-Harris for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06872', 'B03164', 'B07646', 'B04091']"
+}

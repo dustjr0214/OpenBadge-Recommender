@@ -1,0 +1,14 @@
+{
+    "user_id": "U09652",
+    "name": "Hannah Greer",
+    "email": "georgehouston@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08501', 'B08434', 'B03798']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Hernandez-Mccann for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05961', 'B01228', 'B04026', 'B02257', 'B03077']"
+}

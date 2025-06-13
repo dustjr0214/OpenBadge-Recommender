@@ -1,0 +1,14 @@
+{
+    "user_id": "U09732",
+    "name": "Erin Miller",
+    "email": "igiles@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00413', 'B00481', 'B00255', 'B06848']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Rodriguez, Elliott and Dillon for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05618', 'B08939', 'B05883', 'B06791']"
+}

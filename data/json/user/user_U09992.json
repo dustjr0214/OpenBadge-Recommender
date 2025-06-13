@@ -1,0 +1,14 @@
+{
+    "user_id": "U09992",
+    "name": "Christopher Arroyo",
+    "email": "teresaball@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00535', 'B06897', 'B02381', 'B01087']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Mclean and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07874', 'B07001', 'B08167', 'B02794', 'B02930']"
+}

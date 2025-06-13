@@ -1,0 +1,14 @@
+{
+    "user_id": "U01376",
+    "name": "Cameron Dyer",
+    "email": "kristin37@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01990']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Williamson Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02520', 'B02632', 'B08882']"
+}

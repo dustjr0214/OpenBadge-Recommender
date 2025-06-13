@@ -1,0 +1,14 @@
+{
+    "user_id": "U05158",
+    "name": "George Chapman",
+    "email": "mark28@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05952', 'B07573', 'B05161', 'B05721']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Sherman Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

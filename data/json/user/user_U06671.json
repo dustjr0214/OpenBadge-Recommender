@@ -1,0 +1,14 @@
+{
+    "user_id": "U06671",
+    "name": "Cheryl Holmes",
+    "email": "george61@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05376', 'B03446']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Alvarez Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08474', 'B07401', 'B06767', 'B07310']"
+}

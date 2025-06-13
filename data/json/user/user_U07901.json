@@ -1,0 +1,14 @@
+{
+    "user_id": "U07901",
+    "name": "Andrea James",
+    "email": "bryan79@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09271', 'B05981', 'B06451']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Stafford-Bennett for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00799', 'B06777']"
+}

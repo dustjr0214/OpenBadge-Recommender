@@ -1,0 +1,14 @@
+{
+    "user_id": "U04910",
+    "name": "Daniel Le",
+    "email": "matthewhatfield@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09672', 'B09085', 'B08724', 'B06276', 'B07984']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Williams, Rose and Best for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04316', 'B01845', 'B04889']"
+}

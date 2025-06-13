@@ -1,0 +1,14 @@
+{
+    "user_id": "U08876",
+    "name": "Dawn Oneill",
+    "email": "quinnsergio@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00651', 'B02719', 'B06631']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Barber Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01609', 'B07062', 'B02255', 'B05205']"
+}

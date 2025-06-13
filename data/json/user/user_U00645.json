@@ -1,0 +1,14 @@
+{
+    "user_id": "U00645",
+    "name": "Tyler Hendricks",
+    "email": "richerin@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08704']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Nash PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

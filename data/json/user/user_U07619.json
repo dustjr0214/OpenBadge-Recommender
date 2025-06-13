@@ -1,0 +1,14 @@
+{
+    "user_id": "U07619",
+    "name": "Thomas Landry",
+    "email": "thorntonmichael@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04521', 'B01647', 'B09216']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Carter-Smith for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04983']"
+}

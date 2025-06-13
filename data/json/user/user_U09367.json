@@ -1,0 +1,14 @@
+{
+    "user_id": "U09367",
+    "name": "Jason Cabrera",
+    "email": "margarettownsend@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04182', 'B06336']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Young Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04408",
+    "name": "Michael Deleon",
+    "email": "jaimewarner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02000', 'B00164', 'B03337', 'B07630']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Johnson Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

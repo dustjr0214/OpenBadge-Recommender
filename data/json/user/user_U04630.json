@@ -1,0 +1,14 @@
+{
+    "user_id": "U04630",
+    "name": "Rose Marshall",
+    "email": "stewartchad@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01381', 'B05807']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Brown PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00827', 'B06325', 'B05564', 'B07044', 'B01460']"
+}

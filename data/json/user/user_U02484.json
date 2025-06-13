@@ -1,0 +1,14 @@
+{
+    "user_id": "U02484",
+    "name": "Amanda Figueroa MD",
+    "email": "stephaniebishop@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Estes LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05943', 'B08752', 'B02086', 'B02436']"
+}

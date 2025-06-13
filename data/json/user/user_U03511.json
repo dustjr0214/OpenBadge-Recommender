@@ -1,0 +1,14 @@
+{
+    "user_id": "U03511",
+    "name": "Jeremy Gonzalez",
+    "email": "nicoleelliott@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05554', 'B02128']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Jones-Burnett for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06087']"
+}

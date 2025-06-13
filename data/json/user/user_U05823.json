@@ -1,0 +1,14 @@
+{
+    "user_id": "U05823",
+    "name": "Dr. John Martin",
+    "email": "kylehickman@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00239', 'B02138', 'B02900', 'B01643', 'B00377']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Holland, Smith and Schmidt for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02255']"
+}

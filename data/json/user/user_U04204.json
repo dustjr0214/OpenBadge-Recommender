@@ -1,0 +1,14 @@
+{
+    "user_id": "U04204",
+    "name": "Susan Wilson",
+    "email": "jenniferpotter@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08226', 'B07224', 'B00322']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Taylor-Ferguson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06897', 'B08275']"
+}

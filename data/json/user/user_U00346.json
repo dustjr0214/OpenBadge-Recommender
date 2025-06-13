@@ -1,0 +1,14 @@
+{
+    "user_id": "U00346",
+    "name": "Patrick Ford",
+    "email": "johnmoore@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06202', 'B04891', 'B06646']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Sutton-Lucas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01543', 'B02628', 'B00857', 'B05361', 'B04105']"
+}

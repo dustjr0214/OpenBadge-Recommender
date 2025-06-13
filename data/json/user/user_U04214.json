@@ -1,0 +1,14 @@
+{
+    "user_id": "U04214",
+    "name": "Heather Holt",
+    "email": "mccormickchristopher@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00741', 'B03730']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Watkins Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

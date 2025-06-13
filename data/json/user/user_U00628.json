@@ -1,0 +1,14 @@
+{
+    "user_id": "U00628",
+    "name": "James Villarreal",
+    "email": "jimmyhaas@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06876', 'B00935']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Estrada LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02965']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08736",
+    "name": "Jessica Baldwin",
+    "email": "kathryn26@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01870', 'B08978']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Moore-Hammond for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04942', 'B02171', 'B09429', 'B03424']"
+}

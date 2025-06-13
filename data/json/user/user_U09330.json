@@ -1,0 +1,14 @@
+{
+    "user_id": "U09330",
+    "name": "Caleb Martinez",
+    "email": "wallacekathryn@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03506', 'B03582']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Reynolds, Larsen and Casey for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04667', 'B00391']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04313",
+    "name": "Mrs. Laura Kirk",
+    "email": "charles16@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02977', 'B03861', 'B02061', 'B05392']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Rodriguez, Mccoy and Peterson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

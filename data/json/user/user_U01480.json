@@ -1,0 +1,14 @@
+{
+    "user_id": "U01480",
+    "name": "Eddie Bridges",
+    "email": "courtney45@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05068']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Schaefer Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02053', 'B09397']"
+}

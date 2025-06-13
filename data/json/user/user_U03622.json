@@ -1,0 +1,14 @@
+{
+    "user_id": "U03622",
+    "name": "Jeffrey Jordan",
+    "email": "mullenrobert@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00609', 'B06625', 'B01187']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Miller LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04244', 'B04637']"
+}

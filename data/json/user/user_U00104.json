@@ -1,0 +1,14 @@
+{
+    "user_id": "U00104",
+    "name": "Heather Williamson",
+    "email": "jeffrey95@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Jordan Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06653', 'B03515', 'B04959']"
+}

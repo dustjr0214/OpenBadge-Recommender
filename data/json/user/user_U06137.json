@@ -1,0 +1,14 @@
+{
+    "user_id": "U06137",
+    "name": "Amy Reyes",
+    "email": "garciamelissa@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07065', 'B08670', 'B05774', 'B04941', 'B07828']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Burton-Reid for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03853', 'B06514', 'B02780', 'B08004', 'B07874']"
+}

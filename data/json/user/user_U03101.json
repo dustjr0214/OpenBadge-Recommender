@@ -1,0 +1,14 @@
+{
+    "user_id": "U03101",
+    "name": "Anna Johnson",
+    "email": "sharon02@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07194', 'B05794', 'B07044', 'B02178']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Smith-Hawkins for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02124']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00350",
+    "name": "Stephen Cain",
+    "email": "mcgeedouglas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Cummings, Carter and Pratt for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04156', 'B07591', 'B04036', 'B04922']"
+}

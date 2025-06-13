@@ -1,0 +1,14 @@
+{
+    "user_id": "U01288",
+    "name": "David Jackson",
+    "email": "humphreyleslie@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05295', 'B06188', 'B01906']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Simmons-Dawson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06467', 'B02705', 'B04669']"
+}

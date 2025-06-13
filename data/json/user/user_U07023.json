@@ -1,0 +1,14 @@
+{
+    "user_id": "U07023",
+    "name": "Kathryn Obrien",
+    "email": "janejones@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04233']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Young and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00929', 'B03206', 'B02458', 'B04167', 'B05048']"
+}

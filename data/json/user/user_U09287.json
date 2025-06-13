@@ -1,0 +1,14 @@
+{
+    "user_id": "U09287",
+    "name": "Brian Davis",
+    "email": "alfred53@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07548', 'B07934', 'B06909']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Walker, Brown and Wilson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05761', 'B04950', 'B05361', 'B03410', 'B05349']"
+}

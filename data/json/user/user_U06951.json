@@ -1,0 +1,14 @@
+{
+    "user_id": "U06951",
+    "name": "Mary Green",
+    "email": "chris87@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Lamb, Jennings and Chavez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01448', 'B00744', 'B00259', 'B07798', 'B09356']"
+}

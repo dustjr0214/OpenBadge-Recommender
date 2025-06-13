@@ -1,0 +1,14 @@
+{
+    "user_id": "U09427",
+    "name": "Jonathan Braun",
+    "email": "ffowler@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09391', 'B06777', 'B07294', 'B09603', 'B07539']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Ibarra Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03929', 'B02902', 'B06821', 'B00533']"
+}

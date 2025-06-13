@@ -1,0 +1,14 @@
+{
+    "user_id": "U06158",
+    "name": "Crystal Reyes",
+    "email": "wprice@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04979']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Smith, Holmes and Andrade for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04633', 'B00525']"
+}

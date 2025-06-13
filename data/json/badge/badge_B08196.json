@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08196",
+    "name": "Deep Learning Master",
+    "issuer": "edX",
+    "description": "Deep Learning Master badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Python', 'SQL', 'DevOps']",
+    "competency": "['Deep Learning', 'UI/UX']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B03086', 'B09219']"
+}

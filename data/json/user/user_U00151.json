@@ -1,0 +1,14 @@
+{
+    "user_id": "U00151",
+    "name": "James Henderson Jr.",
+    "email": "gstewart@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09414', 'B09493']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Hill-Myers for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06843']"
+}

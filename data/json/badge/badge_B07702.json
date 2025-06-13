@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07702",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Cybersecurity']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05764', 'B09806']"
+}

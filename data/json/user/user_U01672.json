@@ -1,0 +1,14 @@
+{
+    "user_id": "U01672",
+    "name": "Abigail Wallace",
+    "email": "uclark@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00662', 'B00351', 'B05506', 'B06143']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Rivas, Shepherd and Lynch for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

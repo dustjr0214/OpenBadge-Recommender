@@ -1,0 +1,14 @@
+{
+    "user_id": "U05149",
+    "name": "Michael Barnett",
+    "email": "jessicablankenship@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04086', 'B02891', 'B02163', 'B05174', 'B02985']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Lucas, Haley and Nelson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

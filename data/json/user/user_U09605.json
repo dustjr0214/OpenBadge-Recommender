@@ -1,0 +1,14 @@
+{
+    "user_id": "U09605",
+    "name": "Angela Sweeney",
+    "email": "cory06@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Mack-Hoffman for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01360', 'B01776', 'B08702', 'B08436', 'B02388']"
+}

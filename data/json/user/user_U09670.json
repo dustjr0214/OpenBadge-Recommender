@@ -1,0 +1,14 @@
+{
+    "user_id": "U09670",
+    "name": "Tom Kennedy",
+    "email": "christopher03@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07444', 'B03092', 'B05065', 'B07568']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Miller Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02722', 'B00918', 'B07420']"
+}

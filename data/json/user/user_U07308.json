@@ -1,0 +1,14 @@
+{
+    "user_id": "U07308",
+    "name": "James Wilson",
+    "email": "gallagherpatricia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06923', 'B02235', 'B05006']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Baker, Crane and Romero for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08032', 'B06355']"
+}

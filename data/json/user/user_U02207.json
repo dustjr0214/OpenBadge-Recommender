@@ -1,0 +1,14 @@
+{
+    "user_id": "U02207",
+    "name": "James Nicholson",
+    "email": "csnyder@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00177', 'B06049', 'B08895']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Bowman-Lucas for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

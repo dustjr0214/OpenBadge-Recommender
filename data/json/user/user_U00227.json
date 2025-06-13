@@ -1,0 +1,14 @@
+{
+    "user_id": "U00227",
+    "name": "Christopher Smith",
+    "email": "rsims@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05870', 'B03504', 'B07537', 'B02815', 'B07707']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Robinson-Ramirez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

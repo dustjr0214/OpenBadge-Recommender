@@ -1,0 +1,14 @@
+{
+    "user_id": "U09505",
+    "name": "Stacie Lopez",
+    "email": "crystalwright@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01376', 'B08949', 'B06486', 'B05899', 'B08138']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Velez-Moore for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00592', 'B03636', 'B09066', 'B09529']"
+}

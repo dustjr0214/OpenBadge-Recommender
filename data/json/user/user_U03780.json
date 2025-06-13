@@ -1,0 +1,14 @@
+{
+    "user_id": "U03780",
+    "name": "Nicholas Howell",
+    "email": "collinsjeremiah@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05579', 'B09311', 'B03951', 'B06174', 'B01267']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Murphy Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

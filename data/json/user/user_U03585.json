@@ -1,0 +1,14 @@
+{
+    "user_id": "U03585",
+    "name": "Amanda Oliver",
+    "email": "courtneybrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01347', 'B01364', 'B02431']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Carpenter LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01701', 'B01902', 'B06408', 'B04378', 'B01572']"
+}

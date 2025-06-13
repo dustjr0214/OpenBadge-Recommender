@@ -1,0 +1,14 @@
+{
+    "user_id": "U06666",
+    "name": "Anthony Bryan",
+    "email": "romanconnie@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Thomas, Anderson and Robinson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08807', 'B08230']"
+}

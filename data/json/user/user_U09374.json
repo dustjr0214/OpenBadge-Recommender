@@ -1,0 +1,14 @@
+{
+    "user_id": "U09374",
+    "name": "Alyssa Lopez",
+    "email": "waltonlarry@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04126', 'B07684', 'B08020', 'B05318', 'B06981']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Owens Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03908', 'B07254', 'B00848', 'B00984']"
+}

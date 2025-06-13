@@ -1,0 +1,14 @@
+{
+    "user_id": "U06486",
+    "name": "Erin Hurst",
+    "email": "jamie69@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06516', 'B01766', 'B07190']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Velez Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06134', 'B05529', 'B01773', 'B09383', 'B02018']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02895",
+    "name": "Kathleen Clark",
+    "email": "hayleymoore@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03244', 'B05947']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Reyes, White and Rice for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08290', 'B01534', 'B06408']"
+}

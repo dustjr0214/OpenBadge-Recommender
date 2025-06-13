@@ -1,0 +1,14 @@
+{
+    "user_id": "U00409",
+    "name": "George Morton",
+    "email": "srivera@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00834', 'B00313', 'B08496']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Adams, Ward and Griffin for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00768', 'B04520']"
+}

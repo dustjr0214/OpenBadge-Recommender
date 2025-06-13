@@ -1,0 +1,14 @@
+{
+    "user_id": "U07166",
+    "name": "Caitlin Larson",
+    "email": "jessica57@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06857', 'B03292', 'B00881', 'B04069']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Lyons PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02532', 'B07308']"
+}

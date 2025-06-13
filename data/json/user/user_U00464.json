@@ -1,0 +1,14 @@
+{
+    "user_id": "U00464",
+    "name": "Douglas Brown",
+    "email": "penaalexander@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03285', 'B09586', 'B06180', 'B02878']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Arellano-Brennan for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03003', 'B05872']"
+}

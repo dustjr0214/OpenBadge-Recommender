@@ -1,0 +1,14 @@
+{
+    "user_id": "U06479",
+    "name": "Joseph Hudson",
+    "email": "xvaldez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07539', 'B09257', 'B05429', 'B05624', 'B04817']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Montgomery and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04115', 'B02236']"
+}

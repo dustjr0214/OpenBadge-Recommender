@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01974",
+    "name": "Cloud Computing Guru",
+    "issuer": "Coursera",
+    "description": "Cloud Computing Guru badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Python', 'Cloud Computing']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B03779']"
+}

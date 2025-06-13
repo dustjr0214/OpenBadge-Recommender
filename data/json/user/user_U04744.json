@@ -1,0 +1,14 @@
+{
+    "user_id": "U04744",
+    "name": "Emily Morris",
+    "email": "peterjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01599', 'B01725']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Gonzalez-Gomez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05591', 'B04026']"
+}

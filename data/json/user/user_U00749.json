@@ -1,0 +1,14 @@
+{
+    "user_id": "U00749",
+    "name": "Meghan Thomas",
+    "email": "janehunt@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02095', 'B08594']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Perez-Ball for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09839', 'B07287', 'B08225', 'B05735', 'B09163']"
+}

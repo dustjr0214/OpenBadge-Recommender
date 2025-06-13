@@ -1,0 +1,14 @@
+{
+    "user_id": "U03447",
+    "name": "Hannah Price",
+    "email": "franklinpatterson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06621', 'B06302', 'B02687']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Mueller-Terrell for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00283', 'B04937', 'B04715']"
+}

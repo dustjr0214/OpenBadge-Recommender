@@ -1,0 +1,14 @@
+{
+    "user_id": "U09065",
+    "name": "Jimmy Ho",
+    "email": "julia57@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06443', 'B02452', 'B06243', 'B06737']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at White-Lyons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07462', 'B01866', 'B06884']"
+}

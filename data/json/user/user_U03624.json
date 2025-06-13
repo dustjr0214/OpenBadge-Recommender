@@ -1,0 +1,14 @@
+{
+    "user_id": "U03624",
+    "name": "Jonathan Davenport",
+    "email": "jacob12@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02438']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Anderson, Dean and Schwartz for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03766']"
+}

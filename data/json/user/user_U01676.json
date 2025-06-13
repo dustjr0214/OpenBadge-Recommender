@@ -1,0 +1,14 @@
+{
+    "user_id": "U01676",
+    "name": "Brooke Calhoun",
+    "email": "timothykim@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02561', 'B08890', 'B03972']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Cooper, Estrada and Bray for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02850', 'B02896', 'B07713', 'B03041', 'B03008']"
+}

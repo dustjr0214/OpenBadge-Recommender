@@ -1,0 +1,14 @@
+{
+    "user_id": "U08388",
+    "name": "Clayton Sutton",
+    "email": "jessicaherman@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01507', 'B08291', 'B08611']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rich, Parker and Ayala for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08390', 'B07652', 'B06125', 'B05815', 'B05808']"
+}

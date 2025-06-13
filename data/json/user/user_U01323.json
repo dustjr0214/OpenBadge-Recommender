@@ -1,0 +1,14 @@
+{
+    "user_id": "U01323",
+    "name": "Joshua Brooks",
+    "email": "westmary@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07501', 'B09688', 'B08363', 'B01245', 'B05213']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Mcguire, Herman and Smith for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08514', 'B06799', 'B09438', 'B08358']"
+}

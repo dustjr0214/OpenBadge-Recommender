@@ -1,0 +1,14 @@
+{
+    "user_id": "U01436",
+    "name": "Justin Bray",
+    "email": "susan82@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01009', 'B01156', 'B04170', 'B05376', 'B05516']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Howard, Simon and Scott for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05131', 'B01321', 'B01727']"
+}

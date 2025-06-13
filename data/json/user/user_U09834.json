@@ -1,0 +1,14 @@
+{
+    "user_id": "U09834",
+    "name": "Joshua Johnson",
+    "email": "michaelgarcia@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Wright LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06592', 'B02501', 'B06178', 'B07378', 'B08574']"
+}

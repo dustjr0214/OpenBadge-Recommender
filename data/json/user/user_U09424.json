@@ -1,0 +1,14 @@
+{
+    "user_id": "U09424",
+    "name": "James Moyer",
+    "email": "robertskrystal@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04634', 'B04922']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Brooks-Adams for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04244', 'B07649', 'B05380', 'B09151', 'B01562']"
+}

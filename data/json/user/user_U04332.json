@@ -1,0 +1,14 @@
+{
+    "user_id": "U04332",
+    "name": "Thomas House",
+    "email": "joseph55@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Vang Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07240', 'B04501', 'B00412']"
+}

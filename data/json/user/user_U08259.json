@@ -1,0 +1,14 @@
+{
+    "user_id": "U08259",
+    "name": "Gregory Jones",
+    "email": "tcooper@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06174', 'B08706', 'B07777', 'B01731', 'B05414']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Miranda, Olson and Nelson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

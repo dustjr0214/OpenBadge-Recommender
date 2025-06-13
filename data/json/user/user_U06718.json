@@ -1,0 +1,14 @@
+{
+    "user_id": "U06718",
+    "name": "Angelica Herring",
+    "email": "fitzgeraldlauren@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09990', 'B06787', 'B02269', 'B07316']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Smith-Holt for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09841', 'B08774', 'B03439']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07842",
+    "name": "Angel Morris",
+    "email": "torresamanda@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01031']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Savage, Horton and Walters for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01085', 'B03948', 'B00602', 'B02088']"
+}

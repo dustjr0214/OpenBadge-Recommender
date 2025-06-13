@@ -1,0 +1,14 @@
+{
+    "user_id": "U02212",
+    "name": "Timothy Snyder",
+    "email": "pcoleman@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05075', 'B00776', 'B03756', 'B08026', 'B08902']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Martinez, Garcia and Hicks for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

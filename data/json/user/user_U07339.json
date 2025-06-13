@@ -1,0 +1,14 @@
+{
+    "user_id": "U07339",
+    "name": "Mrs. Grace Parker PhD",
+    "email": "zjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01433', 'B08379', 'B01601']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Zamora-Thompson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

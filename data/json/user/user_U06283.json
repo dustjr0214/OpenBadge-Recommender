@@ -1,0 +1,14 @@
+{
+    "user_id": "U06283",
+    "name": "Billy Newton",
+    "email": "debraaguirre@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06750', 'B05431', 'B04970', 'B06101', 'B03434']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Harrison-Griffin for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05523', 'B07913', 'B07270', 'B07346']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07731",
+    "name": "Maria Long",
+    "email": "jessicabrooks@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04413']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Santiago Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03843', 'B07522', 'B01449']"
+}

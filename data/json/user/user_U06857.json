@@ -1,0 +1,14 @@
+{
+    "user_id": "U06857",
+    "name": "Anthony Williams",
+    "email": "uwilson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Leblanc-Hoover for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02957', 'B08424', 'B05691']"
+}

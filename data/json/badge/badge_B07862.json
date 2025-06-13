@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07862",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'UI/UX']",
+    "competency": "['Leadership', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05053']"
+}

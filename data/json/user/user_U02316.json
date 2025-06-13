@@ -1,0 +1,14 @@
+{
+    "user_id": "U02316",
+    "name": "Dylan Johnson",
+    "email": "efranco@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Trujillo, Christian and Sampson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09251', 'B05109']"
+}

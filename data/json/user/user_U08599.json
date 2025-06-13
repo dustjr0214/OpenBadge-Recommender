@@ -1,0 +1,14 @@
+{
+    "user_id": "U08599",
+    "name": "Jacob Davies",
+    "email": "sdixon@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01421', 'B09575', 'B06917']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Nguyen-Murphy for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09202', 'B05967', 'B06679']"
+}

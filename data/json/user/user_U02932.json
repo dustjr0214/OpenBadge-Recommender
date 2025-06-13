@@ -1,0 +1,14 @@
+{
+    "user_id": "U02932",
+    "name": "Michelle Brown",
+    "email": "anthony19@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09185', 'B02304']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Williams, Kim and Jones for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09680', 'B02797']"
+}

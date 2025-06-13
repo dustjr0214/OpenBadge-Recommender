@@ -1,0 +1,14 @@
+{
+    "user_id": "U09059",
+    "name": "Patrick Wallace",
+    "email": "stonepaul@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09785', 'B06039', 'B00748', 'B02698', 'B09155']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hubbard-Grant for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01775']"
+}

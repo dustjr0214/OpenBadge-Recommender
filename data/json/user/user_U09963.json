@@ -1,0 +1,14 @@
+{
+    "user_id": "U09963",
+    "name": "Kendra Jones",
+    "email": "murraypeter@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07180', 'B05177', 'B04778', 'B07127', 'B00600']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Foster, Rivers and Snow for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02271', 'B03867', 'B07300', 'B06210']"
+}

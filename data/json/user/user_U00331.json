@@ -1,0 +1,14 @@
+{
+    "user_id": "U00331",
+    "name": "Kimberly Reed",
+    "email": "itran@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07600', 'B08639']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Humphrey Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00373', 'B06246', 'B01477', 'B03530', 'B07754']"
+}

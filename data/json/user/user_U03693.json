@@ -1,0 +1,14 @@
+{
+    "user_id": "U03693",
+    "name": "Glenn Elliott",
+    "email": "salinasbernard@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08823', 'B05051', 'B05231']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Singh-Castro for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00481', 'B04423', 'B04919', 'B01385', 'B00564']"
+}

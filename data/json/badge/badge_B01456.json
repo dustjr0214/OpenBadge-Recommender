@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01456",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'UI/UX']",
+    "competency": "['Deep Learning', 'SQL', 'DevOps']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00351', 'B03966']"
+}

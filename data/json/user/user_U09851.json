@@ -1,0 +1,14 @@
+{
+    "user_id": "U09851",
+    "name": "Lisa Burgess",
+    "email": "stewartnicholas@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03028', 'B04484', 'B01518']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Cooper-Lopez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08700', 'B05572']"
+}

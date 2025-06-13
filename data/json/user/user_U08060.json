@@ -1,0 +1,14 @@
+{
+    "user_id": "U08060",
+    "name": "Tiffany Cole",
+    "email": "christopherlynch@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09571', 'B00946']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Reed-Wilson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09088', 'B09820', 'B09948', 'B04721', 'B00898']"
+}

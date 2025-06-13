@@ -1,0 +1,14 @@
+{
+    "user_id": "U01893",
+    "name": "Keith Jacobson",
+    "email": "grimestracy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09891', 'B07722', 'B05064']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Ross and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08792']"
+}

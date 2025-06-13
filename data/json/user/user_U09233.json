@@ -1,0 +1,14 @@
+{
+    "user_id": "U09233",
+    "name": "Jennifer Stevens",
+    "email": "mcdonaldadrienne@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Martinez, Martin and Kramer for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

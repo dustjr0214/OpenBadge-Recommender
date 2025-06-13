@@ -1,0 +1,14 @@
+{
+    "user_id": "U08026",
+    "name": "Mrs. Jessica Mercado DDS",
+    "email": "hcortez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07435', 'B06044', 'B06176']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Mckay PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05779', 'B02354', 'B08236']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03421",
+    "name": "Barbara Riley",
+    "email": "tombarrett@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06002', 'B09020', 'B09783', 'B08857']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Anderson, Rich and Blake for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03846', 'B05809']"
+}

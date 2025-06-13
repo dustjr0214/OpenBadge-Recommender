@@ -1,0 +1,14 @@
+{
+    "user_id": "U01593",
+    "name": "Scott Thompson",
+    "email": "lstewart@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01036', 'B07816', 'B00974', 'B03741', 'B08981']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Kramer Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05193', 'B06258']"
+}

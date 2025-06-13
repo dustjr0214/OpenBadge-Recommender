@@ -1,0 +1,14 @@
+{
+    "user_id": "U04248",
+    "name": "Albert Bird",
+    "email": "nmoyer@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02958', 'B08701', 'B03952']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Guzman PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

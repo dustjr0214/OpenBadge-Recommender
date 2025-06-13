@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03052",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'SQL', 'Machine Learning']",
+    "competency": "['Data Analysis', 'Machine Learning', 'Teamwork']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02938",
+    "name": "Shelley Ritter",
+    "email": "zwilson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09685', 'B01569', 'B05676', 'B09556', 'B01815']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Robertson-Murphy for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03878', 'B06757', 'B04244', 'B01038']"
+}

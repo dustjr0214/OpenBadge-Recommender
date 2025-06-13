@@ -1,0 +1,14 @@
+{
+    "user_id": "U09164",
+    "name": "Amy Elliott",
+    "email": "sharon14@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08879', 'B07650']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Anthony-Conway for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08062', 'B03530']"
+}

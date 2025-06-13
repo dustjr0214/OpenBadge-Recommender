@@ -1,0 +1,14 @@
+{
+    "user_id": "U03444",
+    "name": "Zachary Whitaker",
+    "email": "nthompson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02874']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Mason-Keith for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07190', 'B08988', 'B07525', 'B03260', 'B01231']"
+}

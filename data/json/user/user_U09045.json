@@ -1,0 +1,14 @@
+{
+    "user_id": "U09045",
+    "name": "Claudia Ward",
+    "email": "monicajohnston@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09384', 'B09588', 'B05228', 'B04164']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Kirby Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03034', 'B07318', 'B02457', 'B04363']"
+}

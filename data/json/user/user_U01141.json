@@ -1,0 +1,14 @@
+{
+    "user_id": "U01141",
+    "name": "Carl Jones",
+    "email": "mike31@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04240', 'B07966', 'B02346']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at White PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04976']"
+}

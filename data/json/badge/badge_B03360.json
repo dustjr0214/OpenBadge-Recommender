@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03360",
+    "name": "UI/UX Designer",
+    "issuer": "edX",
+    "description": "UI/UX Designer badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'Data Analysis']",
+    "competency": "['Python', 'Data Analysis', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09440', 'B01285']"
+}

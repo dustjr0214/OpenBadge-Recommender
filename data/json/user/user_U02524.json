@@ -1,0 +1,14 @@
+{
+    "user_id": "U02524",
+    "name": "Cynthia Cole",
+    "email": "bharmon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02303', 'B07632', 'B07708', 'B00856', 'B03128']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Burns, Stephens and Davis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07217', 'B09063']"
+}

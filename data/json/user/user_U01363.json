@@ -1,0 +1,14 @@
+{
+    "user_id": "U01363",
+    "name": "Jason Turner",
+    "email": "moorejames@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04140', 'B05724']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Ward, Conner and Clark for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00877', 'B08317']"
+}

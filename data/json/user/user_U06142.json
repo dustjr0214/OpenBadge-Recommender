@@ -1,0 +1,14 @@
+{
+    "user_id": "U06142",
+    "name": "Andrew Webster",
+    "email": "rmorales@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01782', 'B03014', 'B07414', 'B03619', 'B02792']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Serrano, Page and Miranda for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07765', 'B07982', 'B07771']"
+}

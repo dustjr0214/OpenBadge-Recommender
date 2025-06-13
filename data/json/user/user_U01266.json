@@ -1,0 +1,14 @@
+{
+    "user_id": "U01266",
+    "name": "Eric Browning",
+    "email": "mbrown@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02577', 'B03489', 'B06990', 'B06758']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at King Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02372', 'B00895', 'B03966', 'B06450', 'B00058']"
+}

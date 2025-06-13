@@ -1,0 +1,14 @@
+{
+    "user_id": "U05129",
+    "name": "Christopher Gilmore",
+    "email": "samuelcompton@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03626', 'B02717', 'B05982']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Hill-Lambert for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

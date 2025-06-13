@@ -1,0 +1,14 @@
+{
+    "user_id": "U01933",
+    "name": "Mark Thompson",
+    "email": "shawna36@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07069', 'B04356']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hardy, Campbell and Owens for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06681', 'B07860', 'B03086', 'B01976']"
+}

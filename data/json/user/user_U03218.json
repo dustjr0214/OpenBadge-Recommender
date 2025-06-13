@@ -1,0 +1,14 @@
+{
+    "user_id": "U03218",
+    "name": "Christopher Edwards",
+    "email": "christopher61@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07627', 'B01692', 'B06639']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Barry-Guzman for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09755', 'B09074', 'B01240']"
+}

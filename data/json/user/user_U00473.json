@@ -1,0 +1,14 @@
+{
+    "user_id": "U00473",
+    "name": "Lori Durham",
+    "email": "mollycline@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02458', 'B02272', 'B05137']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Adkins Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07021', 'B04929', 'B02286', 'B07295', 'B01416']"
+}

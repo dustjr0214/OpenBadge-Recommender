@@ -1,0 +1,14 @@
+{
+    "user_id": "U06428",
+    "name": "Jaime Johnson",
+    "email": "awong@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08678', 'B04314', 'B09294', 'B03260', 'B00750']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Oconnor-Ray for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

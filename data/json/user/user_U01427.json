@@ -1,0 +1,14 @@
+{
+    "user_id": "U01427",
+    "name": "Mr. Andrew Bailey Jr.",
+    "email": "dsimmons@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07536']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Fitzpatrick, Duran and Casey for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

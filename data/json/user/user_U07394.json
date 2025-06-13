@@ -1,0 +1,14 @@
+{
+    "user_id": "U07394",
+    "name": "Diana Jimenez",
+    "email": "jennifercunningham@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01192', 'B09839', 'B00276']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Hale, Sandoval and Thornton for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03889', 'B09126', 'B05217', 'B04201', 'B02549']"
+}

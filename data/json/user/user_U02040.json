@@ -1,0 +1,14 @@
+{
+    "user_id": "U02040",
+    "name": "Austin Brady",
+    "email": "juliamcgrath@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'DevOps', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01527', 'B01740']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Lara-Jackson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03328', 'B03378']"
+}

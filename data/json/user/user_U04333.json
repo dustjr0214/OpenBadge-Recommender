@@ -1,0 +1,14 @@
+{
+    "user_id": "U04333",
+    "name": "Carrie Kennedy",
+    "email": "laneangelica@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09937', 'B08551', 'B05729']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Gray-Gonzales for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02709', 'B00996', 'B03149', 'B02723']"
+}

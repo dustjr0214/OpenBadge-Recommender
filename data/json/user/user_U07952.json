@@ -1,0 +1,14 @@
+{
+    "user_id": "U07952",
+    "name": "Melissa Boyer",
+    "email": "leslie78@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05007', 'B06213']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Nelson Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02985', 'B04483', 'B04162', 'B06504', 'B02232']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09079",
+    "name": "Miguel Shaw",
+    "email": "gflores@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05109', 'B04860', 'B02224']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Mason-Cortez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

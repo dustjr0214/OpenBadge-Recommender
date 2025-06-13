@@ -1,0 +1,14 @@
+{
+    "user_id": "U07562",
+    "name": "Steven Lyons",
+    "email": "barry89@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07299']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Pierce-Hendricks for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08550', 'B07206', 'B02087', 'B04793']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04480",
+    "name": "Stephanie Kelly DDS",
+    "email": "jonathanfoster@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02959', 'B00171', 'B03096', 'B07365', 'B02123']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Thornton, Decker and Knight for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00808', 'B02394', 'B09894', 'B03175']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01552",
+    "name": "Ashley Nichols",
+    "email": "benjaminmary@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01691']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mccormick Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02168', 'B04794', 'B00274', 'B08431', 'B00951']"
+}

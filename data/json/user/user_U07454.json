@@ -1,0 +1,14 @@
+{
+    "user_id": "U07454",
+    "name": "Dorothy Smith",
+    "email": "marvin24@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04434', 'B09552', 'B02971', 'B04548']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Valencia-Harris for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

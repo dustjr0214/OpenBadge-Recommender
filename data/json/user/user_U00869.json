@@ -1,0 +1,14 @@
+{
+    "user_id": "U00869",
+    "name": "Adam Weaver",
+    "email": "briggsdesiree@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01609', 'B03843', 'B03474', 'B09883']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Friedman LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00165', 'B09957']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01800",
+    "name": "Mario Yang",
+    "email": "lanetracey@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09515']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Anderson-Morrison for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03199']"
+}

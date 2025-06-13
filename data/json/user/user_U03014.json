@@ -1,0 +1,14 @@
+{
+    "user_id": "U03014",
+    "name": "Christopher Stephens MD",
+    "email": "matthew71@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05101', 'B04213']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Giles-Carroll for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01851', 'B06566']"
+}

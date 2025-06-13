@@ -1,0 +1,14 @@
+{
+    "user_id": "U03193",
+    "name": "Christopher Price",
+    "email": "vtaylor@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03066']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hunter Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04777', 'B01514', 'B03090', 'B07406', 'B09894']"
+}

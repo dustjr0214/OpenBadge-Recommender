@@ -1,0 +1,14 @@
+{
+    "user_id": "U09684",
+    "name": "Diane Yates",
+    "email": "conniewells@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09498']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Schneider PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03040', 'B05216', 'B04454', 'B08661']"
+}

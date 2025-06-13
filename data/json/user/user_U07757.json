@@ -1,0 +1,14 @@
+{
+    "user_id": "U07757",
+    "name": "Lisa James",
+    "email": "brownkaren@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09961', 'B01570', 'B05240']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Vazquez Ltd for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

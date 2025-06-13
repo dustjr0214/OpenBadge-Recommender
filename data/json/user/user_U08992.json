@@ -1,0 +1,14 @@
+{
+    "user_id": "U08992",
+    "name": "Mary Johnson",
+    "email": "hutchinsonjustin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04374', 'B03033', 'B06876', 'B02346']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Williams, Foley and Wilkerson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03599', 'B02769', 'B02847']"
+}

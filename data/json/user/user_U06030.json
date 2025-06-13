@@ -1,0 +1,14 @@
+{
+    "user_id": "U06030",
+    "name": "Charles Greene",
+    "email": "huynhalexis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05101']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Poole, Wilson and Bradley for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04080', 'B08342']"
+}

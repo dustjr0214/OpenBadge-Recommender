@@ -1,0 +1,14 @@
+{
+    "user_id": "U01024",
+    "name": "Kimberly Freeman",
+    "email": "jcollins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Jackson, Rice and Thompson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07506']"
+}

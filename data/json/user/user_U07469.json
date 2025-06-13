@@ -1,0 +1,14 @@
+{
+    "user_id": "U07469",
+    "name": "Christopher Williams",
+    "email": "danielleherrera@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03829', 'B05944', 'B01650', 'B03002']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Archer-Marks for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08239', 'B03339', 'B05865', 'B02809', 'B02630']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01320",
+    "name": "Julia Smith",
+    "email": "qwelch@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06360', 'B00774', 'B02703', 'B02767']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Martin, Ramsey and Jones for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

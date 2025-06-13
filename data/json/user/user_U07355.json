@@ -1,0 +1,14 @@
+{
+    "user_id": "U07355",
+    "name": "Heather Long",
+    "email": "davilajason@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07498', 'B00763', 'B07633', 'B07265']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Mcdonald-Perez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09365', 'B02693', 'B07538', 'B01692', 'B04978']"
+}

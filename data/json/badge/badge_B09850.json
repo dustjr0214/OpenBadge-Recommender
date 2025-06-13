@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09850",
+    "name": "Data Science Expert",
+    "issuer": "IBM",
+    "description": "Data Science Expert badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Python', 'UI/UX']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02618']"
+}

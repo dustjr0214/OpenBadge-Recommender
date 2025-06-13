@@ -1,0 +1,14 @@
+{
+    "user_id": "U08550",
+    "name": "Antonio Carney",
+    "email": "jeremy40@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00881', 'B01860', 'B01046']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Sanchez and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03828', 'B08107', 'B09378']"
+}

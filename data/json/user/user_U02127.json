@@ -1,0 +1,14 @@
+{
+    "user_id": "U02127",
+    "name": "Dale Romero",
+    "email": "johnchoi@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03123', 'B08847', 'B05457', 'B02267']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Wilcox LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05295', 'B03267', 'B08343']"
+}

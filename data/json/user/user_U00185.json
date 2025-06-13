@@ -1,0 +1,14 @@
+{
+    "user_id": "U00185",
+    "name": "Robert Baldwin",
+    "email": "davidwiggins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08247', 'B01099', 'B03398']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Vazquez LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

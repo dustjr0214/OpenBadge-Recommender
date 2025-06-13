@@ -1,0 +1,14 @@
+{
+    "user_id": "U02241",
+    "name": "Dalton Reed",
+    "email": "shannonfleming@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Price, Johnson and Guzman for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00128', 'B03491', 'B02592']"
+}

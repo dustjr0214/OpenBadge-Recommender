@@ -1,0 +1,14 @@
+{
+    "user_id": "U01031",
+    "name": "Katrina Moore",
+    "email": "kerrpedro@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03253', 'B04107', 'B03429', 'B02082', 'B03088']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Ochoa, Chan and Daniels for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00988', 'B00265', 'B09814']"
+}

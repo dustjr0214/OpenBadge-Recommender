@@ -1,0 +1,14 @@
+{
+    "user_id": "U00772",
+    "name": "Monica Edwards",
+    "email": "glenndarrell@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07699', 'B00114', 'B00296', 'B07060', 'B06052']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Delgado-Becker for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03902', 'B04824', 'B09230']"
+}

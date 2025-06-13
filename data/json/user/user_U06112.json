@@ -1,0 +1,14 @@
+{
+    "user_id": "U06112",
+    "name": "Stephanie Williams",
+    "email": "oschultz@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01655', 'B04492', 'B09366', 'B02318']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Rogers Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04947', 'B07651', 'B06931']"
+}

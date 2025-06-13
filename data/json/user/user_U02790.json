@@ -1,0 +1,14 @@
+{
+    "user_id": "U02790",
+    "name": "Matthew Smith",
+    "email": "yrichardson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06245', 'B00505', 'B00393', 'B05810']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Logan, Morgan and Lin for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07599', 'B06018', 'B01041', 'B07741']"
+}

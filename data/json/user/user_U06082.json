@@ -1,0 +1,14 @@
+{
+    "user_id": "U06082",
+    "name": "Kathleen Miller",
+    "email": "james99@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04887', 'B06618', 'B01055', 'B06778', 'B00892']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Burke-Crawford for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

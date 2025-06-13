@@ -1,0 +1,14 @@
+{
+    "user_id": "U08046",
+    "name": "Brad Garrison",
+    "email": "gloversean@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03475', 'B04773', 'B04061', 'B02802']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Powell-Simpson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

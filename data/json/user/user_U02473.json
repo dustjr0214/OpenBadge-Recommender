@@ -1,0 +1,14 @@
+{
+    "user_id": "U02473",
+    "name": "Terry Williams",
+    "email": "watersdavid@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04507', 'B02450', 'B00489']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Stephens, Sellers and Johnson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02478', 'B00472']"
+}

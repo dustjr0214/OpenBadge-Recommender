@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09852",
+    "name": "Big Data Analyst",
+    "issuer": "Udacity",
+    "description": "Big Data Analyst badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'Cloud Computing', 'SQL']",
+    "competency": "['UI/UX', 'Deep Learning', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B09010', 'B00930']"
+}

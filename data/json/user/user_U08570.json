@@ -1,0 +1,14 @@
+{
+    "user_id": "U08570",
+    "name": "Debra Smith",
+    "email": "bauertracey@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05683', 'B05415', 'B03499']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Chavez, Paul and Blake for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04692', 'B09364']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07117",
+    "name": "Michael Fletcher",
+    "email": "jacob77@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06996', 'B00357', 'B09966', 'B05947', 'B08257']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Howell Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07099', 'B09509', 'B03739', 'B09964', 'B04465']"
+}

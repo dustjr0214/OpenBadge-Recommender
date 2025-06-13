@@ -1,0 +1,14 @@
+{
+    "user_id": "U04528",
+    "name": "Monica Aguilar",
+    "email": "morrissteven@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Baker-Vargas for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09507', 'B05665', 'B02313', 'B00840', 'B04243']"
+}

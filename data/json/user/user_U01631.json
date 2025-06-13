@@ -1,0 +1,14 @@
+{
+    "user_id": "U01631",
+    "name": "Vanessa Stanley",
+    "email": "morrowalyssa@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01507', 'B00536', 'B00838']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Greene-Williams for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08590', 'B00259']"
+}

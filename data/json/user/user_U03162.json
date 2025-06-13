@@ -1,0 +1,14 @@
+{
+    "user_id": "U03162",
+    "name": "Monique Castro",
+    "email": "zsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08785', 'B00010', 'B08521', 'B06035']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Allen Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02623', 'B03323']"
+}

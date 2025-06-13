@@ -1,0 +1,14 @@
+{
+    "user_id": "U05522",
+    "name": "Patricia Oconnor",
+    "email": "dcarroll@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02984', 'B05502', 'B09503', 'B02931']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Martinez and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05333', 'B02860', 'B03157']"
+}

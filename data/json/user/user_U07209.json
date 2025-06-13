@@ -1,0 +1,14 @@
+{
+    "user_id": "U07209",
+    "name": "Lee Young",
+    "email": "andreanavarro@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04666', 'B05630', 'B06924']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Jones-Harris for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03533', 'B03377', 'B03092']"
+}

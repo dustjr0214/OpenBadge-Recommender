@@ -1,0 +1,14 @@
+{
+    "user_id": "U03153",
+    "name": "Andrew Mckay",
+    "email": "kimwhite@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07385', 'B01971', 'B02264', 'B09211']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Vang-Mcknight for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05311', 'B07898', 'B04743']"
+}

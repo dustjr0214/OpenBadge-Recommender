@@ -1,0 +1,14 @@
+{
+    "user_id": "U09495",
+    "name": "Julie Fowler",
+    "email": "ngreen@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05422', 'B06259', 'B04906']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Lawson, Smith and Arellano for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

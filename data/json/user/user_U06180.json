@@ -1,0 +1,14 @@
+{
+    "user_id": "U06180",
+    "name": "Jason Bennett",
+    "email": "destiny79@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05931', 'B00297', 'B00453', 'B03688', 'B07318']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Kent-Carson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06584', 'B08053']"
+}

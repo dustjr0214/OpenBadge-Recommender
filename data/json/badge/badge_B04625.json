@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04625",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Cybersecurity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00753']"
+}

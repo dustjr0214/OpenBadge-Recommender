@@ -1,0 +1,14 @@
+{
+    "user_id": "U09629",
+    "name": "Rebecca Brown",
+    "email": "vcarter@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03784', 'B07166', 'B03877', 'B08611']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Johnson-Bautista for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04585', 'B05636', 'B00065', 'B04738']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06306",
+    "name": "Caleb Huff",
+    "email": "hodgesdaniel@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02459', 'B09666', 'B00162']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Vance Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09898', 'B07576', 'B02182', 'B04225']"
+}

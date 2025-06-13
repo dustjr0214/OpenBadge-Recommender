@@ -1,0 +1,14 @@
+{
+    "user_id": "U04946",
+    "name": "Alexander Lewis",
+    "email": "william13@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02790', 'B01532', 'B08760']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Williams, Long and Turner for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

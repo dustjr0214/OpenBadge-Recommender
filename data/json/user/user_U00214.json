@@ -1,0 +1,14 @@
+{
+    "user_id": "U00214",
+    "name": "Joshua Burke",
+    "email": "mbean@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07763', 'B09502', 'B08831', 'B03430']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hill, Griffith and Snyder for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

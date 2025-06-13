@@ -1,0 +1,14 @@
+{
+    "user_id": "U08138",
+    "name": "Mary Hernandez",
+    "email": "danielle99@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02393', 'B02396', 'B03421', 'B02131', 'B06888']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Wilson-Taylor for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

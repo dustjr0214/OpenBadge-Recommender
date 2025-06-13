@@ -1,0 +1,14 @@
+{
+    "user_id": "U03049",
+    "name": "Michael Carr",
+    "email": "elizabeththompson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09161', 'B06758', 'B02027', 'B01234']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Johnson, Mullen and Miller for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03367', 'B03576', 'B06604', 'B09855']"
+}

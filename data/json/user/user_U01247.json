@@ -1,0 +1,14 @@
+{
+    "user_id": "U01247",
+    "name": "Elizabeth Byrd",
+    "email": "pamelaguerra@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09659']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Robles, Gonzales and Smith for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06190', 'B07526', 'B00990']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09506",
+    "name": "Vanessa Jones",
+    "email": "amandasmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05488']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Cooke-Robinson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08412']"
+}

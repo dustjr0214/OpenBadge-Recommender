@@ -1,0 +1,14 @@
+{
+    "user_id": "U03543",
+    "name": "Craig Alvarado PhD",
+    "email": "michellemontgomery@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02913', 'B02775', 'B05241']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Carter LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04019', 'B04823', 'B07563', 'B04651']"
+}

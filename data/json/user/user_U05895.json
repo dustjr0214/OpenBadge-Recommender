@@ -1,0 +1,14 @@
+{
+    "user_id": "U05895",
+    "name": "Monica Johnson",
+    "email": "carolyn60@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Duncan Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02016', 'B02445', 'B00075']"
+}

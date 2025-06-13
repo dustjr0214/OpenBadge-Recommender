@@ -1,0 +1,14 @@
+{
+    "user_id": "U01869",
+    "name": "Christian Martin",
+    "email": "leslie34@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09754', 'B03360', 'B05970', 'B08197']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wood Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07813', 'B06673', 'B07406', 'B01118', 'B01635']"
+}

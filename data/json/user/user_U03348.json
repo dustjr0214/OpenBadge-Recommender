@@ -1,0 +1,14 @@
+{
+    "user_id": "U03348",
+    "name": "Lawrence Fisher",
+    "email": "asheppard@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09672', 'B00369', 'B00986']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Lopez, Smith and Nichols for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05732', 'B07013', 'B06399', 'B01053']"
+}

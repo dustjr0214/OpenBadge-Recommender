@@ -1,0 +1,14 @@
+{
+    "user_id": "U01414",
+    "name": "Kristen Moyer",
+    "email": "jmoore@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02732', 'B07596', 'B06815', 'B02724']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Anderson, Sims and Hawkins for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09219', 'B03884', 'B05619', 'B08295', 'B08819']"
+}

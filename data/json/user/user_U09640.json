@@ -1,0 +1,14 @@
+{
+    "user_id": "U09640",
+    "name": "Zachary Wallace",
+    "email": "taylorjames@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01388', 'B00432', 'B03451', 'B03323']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Graham and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09428', 'B07188', 'B05468', 'B08883']"
+}

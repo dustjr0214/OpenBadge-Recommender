@@ -1,0 +1,14 @@
+{
+    "user_id": "U02924",
+    "name": "Daniel Carr",
+    "email": "john25@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02138']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Stanley and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05057', 'B04399', 'B01639', 'B01106']"
+}

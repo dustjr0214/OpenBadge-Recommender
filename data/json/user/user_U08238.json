@@ -1,0 +1,14 @@
+{
+    "user_id": "U08238",
+    "name": "Scott Gutierrez",
+    "email": "cgomez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06855', 'B08302', 'B05530', 'B09493', 'B06066']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Alvarez-Smith for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05354']"
+}

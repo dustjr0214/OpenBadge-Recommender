@@ -1,0 +1,14 @@
+{
+    "user_id": "U05629",
+    "name": "Thomas White",
+    "email": "samuel40@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Jackson, Brady and Lynn for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04276', 'B03868', 'B01777']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09887",
+    "name": "Gary Smith",
+    "email": "carol95@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03357', 'B09086', 'B01876', 'B08345']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Jones-Castro for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04492']"
+}

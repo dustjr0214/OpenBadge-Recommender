@@ -1,0 +1,14 @@
+{
+    "user_id": "U07414",
+    "name": "Joshua Lopez",
+    "email": "ahuber@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08525', 'B04178', 'B01531']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Medina Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06293']"
+}

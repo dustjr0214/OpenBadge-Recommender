@@ -1,0 +1,14 @@
+{
+    "user_id": "U08662",
+    "name": "Jeff Craig",
+    "email": "christopher17@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03480', 'B01454', 'B04576', 'B04027', 'B01405']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Griffin, Steele and Lewis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08259']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07911",
+    "name": "Aaron Farley",
+    "email": "anna42@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09252', 'B09617']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Kane, Harris and Lowe for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02895', 'B00665', 'B05158', 'B07301']"
+}

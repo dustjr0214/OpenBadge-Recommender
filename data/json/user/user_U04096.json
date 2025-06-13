@@ -1,0 +1,14 @@
+{
+    "user_id": "U04096",
+    "name": "Anthony Harmon",
+    "email": "curtisking@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02792', 'B03324', 'B07714', 'B00959', 'B05116']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Davis-Higgins for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00756', 'B08737', 'B01125']"
+}

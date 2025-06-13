@@ -1,0 +1,14 @@
+{
+    "user_id": "U00314",
+    "name": "Devin Steele",
+    "email": "zgarcia@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00609', 'B07472', 'B09511', 'B01334', 'B06485']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Ray, Dunlap and Ayers for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

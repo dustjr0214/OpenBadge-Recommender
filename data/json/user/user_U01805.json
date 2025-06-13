@@ -1,0 +1,14 @@
+{
+    "user_id": "U01805",
+    "name": "Nicholas Harris",
+    "email": "lmiller@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07028', 'B03204', 'B04998']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Ramirez, Jimenez and Dawson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04717', 'B07866', 'B01553', 'B03785', 'B08832']"
+}

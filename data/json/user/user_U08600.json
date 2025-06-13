@@ -1,0 +1,14 @@
+{
+    "user_id": "U08600",
+    "name": "Sherry Mendez",
+    "email": "nruiz@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09962', 'B09448']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Jones-Smith for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06103', 'B01706']"
+}

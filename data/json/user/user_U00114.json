@@ -1,0 +1,14 @@
+{
+    "user_id": "U00114",
+    "name": "Steven Johnson",
+    "email": "sharrington@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04072', 'B08987']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Shepherd Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09072', 'B02318', 'B03062', 'B02305']"
+}

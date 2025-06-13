@@ -1,0 +1,14 @@
+{
+    "user_id": "U04483",
+    "name": "Kristin Horn",
+    "email": "crawfordchristine@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07001', 'B09973', 'B03116', 'B08085', 'B00480']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hayes LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04887', 'B04843', 'B08541', 'B01823', 'B09904']"
+}

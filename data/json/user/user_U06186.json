@@ -1,0 +1,14 @@
+{
+    "user_id": "U06186",
+    "name": "Angela Gonzales",
+    "email": "clarkkathleen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01697', 'B09785']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Grimes-Stevenson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06033', 'B07043', 'B09714', 'B08143']"
+}

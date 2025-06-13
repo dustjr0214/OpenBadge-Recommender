@@ -1,0 +1,14 @@
+{
+    "user_id": "U04299",
+    "name": "Christopher Diaz",
+    "email": "michael51@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Johnson and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03234', 'B06393', 'B03799', 'B06240', 'B05422']"
+}

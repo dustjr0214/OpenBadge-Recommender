@@ -1,0 +1,14 @@
+{
+    "user_id": "U04932",
+    "name": "Dawn Bonilla",
+    "email": "bsmith@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07115', 'B08692', 'B04705', 'B00730']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Thomas Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

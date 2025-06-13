@@ -1,0 +1,14 @@
+{
+    "user_id": "U04603",
+    "name": "Michael Marshall",
+    "email": "nhampton@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01223', 'B04677', 'B05877', 'B07725']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Peterson, Graham and Ramirez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05241', 'B09123', 'B05576']"
+}

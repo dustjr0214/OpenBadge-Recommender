@@ -1,0 +1,14 @@
+{
+    "user_id": "U07285",
+    "name": "Michael Bishop",
+    "email": "haleyvalerie@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09241', 'B01681', 'B09836']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Medina, Campos and Powell for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09618']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07093",
+    "name": "Bailey Morgan",
+    "email": "james49@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08533', 'B09117', 'B00558']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Morgan, Campbell and Mcfarland for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07868', 'B02888', 'B07375', 'B09257', 'B05684']"
+}

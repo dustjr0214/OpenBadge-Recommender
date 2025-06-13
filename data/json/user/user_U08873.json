@@ -1,0 +1,14 @@
+{
+    "user_id": "U08873",
+    "name": "Gregory Torres",
+    "email": "samantha69@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04559']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at White Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04448']"
+}

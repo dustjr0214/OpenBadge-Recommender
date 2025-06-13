@@ -1,0 +1,14 @@
+{
+    "user_id": "U06574",
+    "name": "Mary Acosta",
+    "email": "wharrison@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07673', 'B00003', 'B06774', 'B06237', 'B09027']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Hunt PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05649']"
+}

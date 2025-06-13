@@ -1,0 +1,14 @@
+{
+    "user_id": "U09296",
+    "name": "Laura Lopez",
+    "email": "greggyang@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09509']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Williams, Patel and Shields for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04349",
+    "name": "David Burns",
+    "email": "pwhite@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09748', 'B00025', 'B00218']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Pena Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02527']"
+}

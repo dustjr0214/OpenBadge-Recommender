@@ -1,0 +1,14 @@
+{
+    "user_id": "U08289",
+    "name": "Caleb Booker",
+    "email": "carolcopeland@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09851', 'B02150', 'B06141']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Garner PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07164', 'B08779', 'B04241', 'B01772', 'B04666']"
+}

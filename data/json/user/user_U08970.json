@@ -1,0 +1,14 @@
+{
+    "user_id": "U08970",
+    "name": "Thomas Pacheco",
+    "email": "hsilva@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03938', 'B04858', 'B02641']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Thompson-Delacruz for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07591', 'B02150', 'B03956', 'B07427']"
+}

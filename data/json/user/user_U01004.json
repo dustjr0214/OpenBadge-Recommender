@@ -1,0 +1,14 @@
+{
+    "user_id": "U01004",
+    "name": "Amy Barnes",
+    "email": "ygibson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08782', 'B07188', 'B02718']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hernandez Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00781', 'B07748', 'B06042', 'B09213', 'B04609']"
+}

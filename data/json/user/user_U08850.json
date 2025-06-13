@@ -1,0 +1,14 @@
+{
+    "user_id": "U08850",
+    "name": "Mary Campbell",
+    "email": "sullivanpamela@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07124', 'B09321', 'B05337']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Wilson, Brown and Roberson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

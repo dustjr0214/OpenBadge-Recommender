@@ -1,0 +1,14 @@
+{
+    "user_id": "U01400",
+    "name": "Kenneth Davis",
+    "email": "amymorgan@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06851', 'B06975', 'B00963', 'B00979']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Cline Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07295', 'B06680', 'B07679', 'B00612', 'B07091']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00794",
+    "name": "Clifford Green",
+    "email": "jwhite@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07777', 'B01915', 'B01567', 'B06957', 'B09925']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Lopez-Adams for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05411']"
+}

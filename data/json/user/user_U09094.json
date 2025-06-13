@@ -1,0 +1,14 @@
+{
+    "user_id": "U09094",
+    "name": "Thomas Oconnell",
+    "email": "danielletorres@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04534', 'B05805', 'B09593']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Castro, Wood and Wright for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08511', 'B07247', 'B00905', 'B01506']"
+}

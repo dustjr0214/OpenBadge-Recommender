@@ -1,0 +1,14 @@
+{
+    "user_id": "U06329",
+    "name": "Taylor Wiggins",
+    "email": "janiceobrien@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06283', 'B06788', 'B01709']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Bennett-Lambert for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09212', 'B01748']"
+}

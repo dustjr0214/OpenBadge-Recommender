@@ -1,0 +1,14 @@
+{
+    "user_id": "U05275",
+    "name": "Anita Cohen",
+    "email": "townsendjoshua@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01319', 'B05936', 'B07051', 'B03230']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Mcintyre LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01867', 'B02887', 'B04058']"
+}

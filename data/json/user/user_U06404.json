@@ -1,0 +1,14 @@
+{
+    "user_id": "U06404",
+    "name": "Brian Rice",
+    "email": "codyhurst@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01797', 'B03053', 'B06915', 'B09496', 'B09726']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Smith, Dixon and Miller for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00062', 'B00461', 'B03199', 'B06388', 'B06378']"
+}

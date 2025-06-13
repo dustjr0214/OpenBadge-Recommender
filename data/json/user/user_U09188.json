@@ -1,0 +1,14 @@
+{
+    "user_id": "U09188",
+    "name": "Jason Winters",
+    "email": "rodriguezdavid@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04630']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Martinez, Bush and Rios for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02669', 'B03605', 'B09632']"
+}

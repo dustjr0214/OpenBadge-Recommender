@@ -1,0 +1,14 @@
+{
+    "user_id": "U01648",
+    "name": "Willie Morgan",
+    "email": "vhowell@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09406', 'B06225']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Osborne, Garza and Nelson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07483', 'B07182', 'B08035', 'B03078']"
+}

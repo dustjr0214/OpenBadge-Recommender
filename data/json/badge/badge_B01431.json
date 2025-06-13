@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01431",
+    "name": "Python Certification",
+    "issuer": "edX",
+    "description": "Python Certification badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing', 'Machine Learning']",
+    "competency": "['Problem Solving', 'SQL', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B02445', 'B09433']"
+}

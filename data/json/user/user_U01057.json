@@ -1,0 +1,14 @@
+{
+    "user_id": "U01057",
+    "name": "Ryan Lopez",
+    "email": "zunigamelissa@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06756']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Oneal Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00957', 'B04197', 'B07040', 'B05602', 'B05012']"
+}

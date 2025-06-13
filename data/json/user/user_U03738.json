@@ -1,0 +1,14 @@
+{
+    "user_id": "U03738",
+    "name": "Wyatt Nelson",
+    "email": "deleonamanda@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09646', 'B03001', 'B07777']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Rodriguez-Arnold for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06362', 'B03493', 'B01336']"
+}

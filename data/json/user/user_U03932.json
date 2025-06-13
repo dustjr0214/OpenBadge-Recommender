@@ -1,0 +1,14 @@
+{
+    "user_id": "U03932",
+    "name": "Lonnie Burton",
+    "email": "elizabethberry@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00857', 'B07691']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Richardson-Martinez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01426']"
+}

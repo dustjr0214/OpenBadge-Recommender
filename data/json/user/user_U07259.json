@@ -1,0 +1,14 @@
+{
+    "user_id": "U07259",
+    "name": "Melanie Flores",
+    "email": "garcialauren@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08329', 'B02277', 'B02830', 'B05812', 'B09316']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Harris, Bailey and Elliott for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

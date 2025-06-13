@@ -1,0 +1,14 @@
+{
+    "user_id": "U03718",
+    "name": "Sarah Sullivan",
+    "email": "bmarsh@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03098', 'B08733', 'B02971', 'B09618']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Mills, Holmes and Cruz for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02184', 'B01085']"
+}

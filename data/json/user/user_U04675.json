@@ -1,0 +1,14 @@
+{
+    "user_id": "U04675",
+    "name": "Luis Kline",
+    "email": "zhopkins@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09155', 'B07858', 'B01853']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Coleman-Evans for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02555', 'B04419', 'B00442', 'B04896']"
+}

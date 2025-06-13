@@ -1,0 +1,14 @@
+{
+    "user_id": "U04022",
+    "name": "Isabella Hansen",
+    "email": "pwest@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00485', 'B00425', 'B00442', 'B04626', 'B02396']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Gutierrez and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01040', 'B07323', 'B05654', 'B03620', 'B07584']"
+}

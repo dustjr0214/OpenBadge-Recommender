@@ -1,0 +1,14 @@
+{
+    "user_id": "U08898",
+    "name": "Patricia Santana",
+    "email": "mhaley@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04921', 'B00385']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Gomez-Taylor for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09692', 'B02996', 'B04619', 'B02299']"
+}

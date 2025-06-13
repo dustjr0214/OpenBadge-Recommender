@@ -1,0 +1,14 @@
+{
+    "user_id": "U06927",
+    "name": "Veronica Newton",
+    "email": "bobrien@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08422', 'B02458', 'B09685', 'B00908']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Hayes, Tucker and Harris for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

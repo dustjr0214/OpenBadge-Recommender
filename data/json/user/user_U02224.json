@@ -1,0 +1,14 @@
+{
+    "user_id": "U02224",
+    "name": "Justin Allen",
+    "email": "lawsonbrandi@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03676', 'B00224', 'B07987']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Chavez-Ingram for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09932', 'B04123']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06816",
+    "name": "Arthur Garza",
+    "email": "heather06@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Little-Simpson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07693', 'B05050', 'B05043', 'B09435']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01902",
+    "name": "Mary Tapia",
+    "email": "bjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00515', 'B08974', 'B07636', 'B04666']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lewis Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08220', 'B03291', 'B08070']"
+}

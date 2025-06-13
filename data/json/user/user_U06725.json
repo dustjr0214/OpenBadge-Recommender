@@ -1,0 +1,14 @@
+{
+    "user_id": "U06725",
+    "name": "Mandy Robinson",
+    "email": "tamarajones@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Pruitt, Walker and Cardenas for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09708', 'B08369']"
+}

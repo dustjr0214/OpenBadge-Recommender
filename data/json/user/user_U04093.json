@@ -1,0 +1,14 @@
+{
+    "user_id": "U04093",
+    "name": "Alejandra Haynes",
+    "email": "vgraham@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09439', 'B05823', 'B03534']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Roberts, Solomon and Hill for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00401']"
+}

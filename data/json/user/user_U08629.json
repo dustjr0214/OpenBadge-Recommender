@@ -1,0 +1,14 @@
+{
+    "user_id": "U08629",
+    "name": "Brandon Williams",
+    "email": "dixonjoshua@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01000']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Keller Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03356', 'B02545']"
+}

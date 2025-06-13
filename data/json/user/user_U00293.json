@@ -1,0 +1,14 @@
+{
+    "user_id": "U00293",
+    "name": "Melvin Jordan",
+    "email": "robert56@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03485', 'B05219']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Campbell PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01329', 'B08021', 'B09460', 'B01285']"
+}

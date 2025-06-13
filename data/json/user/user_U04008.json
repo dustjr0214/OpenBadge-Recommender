@@ -1,0 +1,14 @@
+{
+    "user_id": "U04008",
+    "name": "Joshua Edwards",
+    "email": "clarkjeffery@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03324', 'B09157', 'B08963', 'B04289']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Taylor, Morales and Stephens for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03330']"
+}

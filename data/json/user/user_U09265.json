@@ -1,0 +1,14 @@
+{
+    "user_id": "U09265",
+    "name": "Jimmy Rivera",
+    "email": "cynthiaphillips@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04832', 'B05798', 'B09144', 'B01509']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Hernandez Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03271', 'B04300', 'B05828', 'B05575']"
+}

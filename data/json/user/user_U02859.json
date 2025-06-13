@@ -1,0 +1,14 @@
+{
+    "user_id": "U02859",
+    "name": "Mrs. Sara Hudson",
+    "email": "charlesjames@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06684', 'B07570', 'B07914', 'B05367', 'B06790']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Moore, Brown and Fowler for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06261', 'B00014']"
+}

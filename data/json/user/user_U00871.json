@@ -1,0 +1,14 @@
+{
+    "user_id": "U00871",
+    "name": "James Davila",
+    "email": "joshua37@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00775', 'B09300', 'B08544', 'B04884']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Clark LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02254', 'B06584', 'B01488', 'B01878', 'B03718']"
+}

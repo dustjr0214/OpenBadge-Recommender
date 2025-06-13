@@ -1,0 +1,14 @@
+{
+    "user_id": "U09403",
+    "name": "Anne Calhoun",
+    "email": "casey37@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07510', 'B00731', 'B04050', 'B02850']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hoffman-Brooks for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

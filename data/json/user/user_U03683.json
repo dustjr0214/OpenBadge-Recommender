@@ -1,0 +1,14 @@
+{
+    "user_id": "U03683",
+    "name": "Megan Oliver DDS",
+    "email": "zvargas@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00682', 'B03124', 'B02100', 'B08445', 'B03619']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Anderson, Hernandez and Mcmahon for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05990']"
+}

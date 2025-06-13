@@ -1,0 +1,14 @@
+{
+    "user_id": "U09091",
+    "name": "Erica Patterson",
+    "email": "christina57@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01245']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Parker-Rios for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07728', 'B08992']"
+}

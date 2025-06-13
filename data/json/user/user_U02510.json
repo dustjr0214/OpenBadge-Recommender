@@ -1,0 +1,14 @@
+{
+    "user_id": "U02510",
+    "name": "Charles Ferguson",
+    "email": "jessicahernandez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03363']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Scott, Miller and Patterson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05373', 'B00563', 'B06180']"
+}

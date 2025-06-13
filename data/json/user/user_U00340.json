@@ -1,0 +1,14 @@
+{
+    "user_id": "U00340",
+    "name": "Joseph Braun",
+    "email": "donnamartinez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02752']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wells-King for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06411', 'B00736', 'B04695', 'B04735', 'B00600']"
+}

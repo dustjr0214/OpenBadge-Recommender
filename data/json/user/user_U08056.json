@@ -1,0 +1,14 @@
+{
+    "user_id": "U08056",
+    "name": "Cassandra Ware",
+    "email": "geoffreylarsen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04694']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Nelson Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

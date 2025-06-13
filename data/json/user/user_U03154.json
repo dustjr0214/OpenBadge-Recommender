@@ -1,0 +1,14 @@
+{
+    "user_id": "U03154",
+    "name": "Laura Jones",
+    "email": "debramejia@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06643', 'B01047', 'B06067', 'B03001']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Newman and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07864', 'B09031']"
+}

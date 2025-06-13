@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07720",
+    "name": "Big Data Analyst",
+    "issuer": "Udacity",
+    "description": "Big Data Analyst badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Cybersecurity', 'Machine Learning']",
+    "competency": "['Deep Learning', 'SQL', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

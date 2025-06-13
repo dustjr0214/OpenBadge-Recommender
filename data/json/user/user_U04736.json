@@ -1,0 +1,14 @@
+{
+    "user_id": "U04736",
+    "name": "Barbara Miller",
+    "email": "andrewssteven@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01554', 'B07630']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at York Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04707', 'B00957', 'B06155']"
+}

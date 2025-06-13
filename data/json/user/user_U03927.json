@@ -1,0 +1,14 @@
+{
+    "user_id": "U03927",
+    "name": "John Pratt",
+    "email": "wwagner@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05680', 'B01834']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Li-Cooper for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08640', 'B05004', 'B07315', 'B06868']"
+}

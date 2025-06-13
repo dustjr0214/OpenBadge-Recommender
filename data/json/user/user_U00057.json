@@ -1,0 +1,14 @@
+{
+    "user_id": "U00057",
+    "name": "Christopher Jones",
+    "email": "taylorvictoria@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07188']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Huber, Stewart and Ryan for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06318']"
+}

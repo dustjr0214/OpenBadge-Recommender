@@ -1,0 +1,14 @@
+{
+    "user_id": "U01248",
+    "name": "Lee Mckee",
+    "email": "ubright@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02608', 'B09310']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Evans, Taylor and Mercado for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08081', 'B04869', 'B06859', 'B05058', 'B04531']"
+}

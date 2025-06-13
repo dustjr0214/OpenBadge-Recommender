@@ -1,0 +1,14 @@
+{
+    "user_id": "U08624",
+    "name": "Jennifer Watson",
+    "email": "jhoward@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02577', 'B08250', 'B00166']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Lee-Hall for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01358', 'B02520', 'B05031', 'B05071']"
+}

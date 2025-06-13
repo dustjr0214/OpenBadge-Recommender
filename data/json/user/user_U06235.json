@@ -1,0 +1,14 @@
+{
+    "user_id": "U06235",
+    "name": "Cristian Clements",
+    "email": "cjohnson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03568', 'B07877', 'B02507', 'B04843', 'B05794']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Suarez, Brown and West for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01646', 'B03190', 'B03825']"
+}

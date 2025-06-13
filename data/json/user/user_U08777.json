@@ -1,0 +1,14 @@
+{
+    "user_id": "U08777",
+    "name": "Jessica Hess",
+    "email": "jonathan38@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rodgers, Payne and Johnson for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00600']"
+}

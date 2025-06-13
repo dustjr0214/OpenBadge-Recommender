@@ -1,0 +1,14 @@
+{
+    "user_id": "U01358",
+    "name": "Samantha Edwards",
+    "email": "nortiz@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01870', 'B04818', 'B08703']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Mcmahon PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

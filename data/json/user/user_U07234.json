@@ -1,0 +1,14 @@
+{
+    "user_id": "U07234",
+    "name": "Amy Ortiz",
+    "email": "donnaowens@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Robinson LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04254', 'B03817']"
+}

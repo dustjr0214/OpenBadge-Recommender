@@ -1,0 +1,14 @@
+{
+    "user_id": "U05162",
+    "name": "Christine Craig",
+    "email": "rowlandsteven@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Jones, Shelton and Weaver for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03620']"
+}

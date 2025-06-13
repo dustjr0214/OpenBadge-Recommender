@@ -1,0 +1,14 @@
+{
+    "user_id": "U04531",
+    "name": "Sharon Smith",
+    "email": "snyderjoseph@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Miller, Donaldson and Sanchez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04525']"
+}

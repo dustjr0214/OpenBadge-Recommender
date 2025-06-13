@@ -1,0 +1,14 @@
+{
+    "user_id": "U01273",
+    "name": "Allison Scott",
+    "email": "bryan21@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06402', 'B06204', 'B04380']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at May, Tran and Brown for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04641', 'B06441', 'B08312']"
+}

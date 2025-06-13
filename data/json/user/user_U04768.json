@@ -1,0 +1,14 @@
+{
+    "user_id": "U04768",
+    "name": "Stephanie Taylor",
+    "email": "zhangchad@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03926']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Kelly-Williams for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02140', 'B09807', 'B02339', 'B09719', 'B04069']"
+}

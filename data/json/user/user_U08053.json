@@ -1,0 +1,14 @@
+{
+    "user_id": "U08053",
+    "name": "Shawn Hill",
+    "email": "pauljackson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08257', 'B00759', 'B00553', 'B00781']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rivera-Davis for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06552']"
+}

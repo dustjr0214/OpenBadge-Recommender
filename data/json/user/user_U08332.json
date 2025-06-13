@@ -1,0 +1,14 @@
+{
+    "user_id": "U08332",
+    "name": "Emily Mitchell",
+    "email": "isabellamorales@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01046', 'B08512', 'B00350', 'B01495', 'B04734']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Smith-Trujillo for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08258', 'B02890', 'B05780', 'B04420']"
+}

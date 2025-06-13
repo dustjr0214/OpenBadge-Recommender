@@ -1,0 +1,14 @@
+{
+    "user_id": "U05260",
+    "name": "Molly Taylor",
+    "email": "virginia89@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00774', 'B07330', 'B01910']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Bartlett, Anderson and King for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05098', 'B04559', 'B04206', 'B01479', 'B00374']"
+}

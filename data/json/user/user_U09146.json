@@ -1,0 +1,14 @@
+{
+    "user_id": "U09146",
+    "name": "Michael Stone",
+    "email": "yvonne12@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09458', 'B01087', 'B07463']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Bennett, Wilson and Huang for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00764', 'B04452', 'B04979', 'B03640']"
+}

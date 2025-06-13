@@ -1,0 +1,14 @@
+{
+    "user_id": "U06301",
+    "name": "Curtis Mason",
+    "email": "tabithadonaldson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00926', 'B01450', 'B08533', 'B03824', 'B03608']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Barton-Jackson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03421', 'B06158', 'B09695']"
+}

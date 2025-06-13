@@ -1,0 +1,14 @@
+{
+    "user_id": "U02977",
+    "name": "Amanda Hendricks",
+    "email": "wallacemichelle@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01128', 'B03410', 'B02745', 'B09405', 'B05235']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Watson, Hudson and Bradshaw for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

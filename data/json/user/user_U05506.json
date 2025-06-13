@@ -1,0 +1,14 @@
+{
+    "user_id": "U05506",
+    "name": "Mr. Justin Gordon",
+    "email": "ypatton@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01124', 'B00028', 'B07867', 'B09884']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Kane, Weaver and Hale for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00325', 'B00382']"
+}

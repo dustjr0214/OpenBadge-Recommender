@@ -1,0 +1,14 @@
+{
+    "user_id": "U06763",
+    "name": "Dr. Jessica Herrera",
+    "email": "burchkatie@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00128', 'B07787', 'B01025', 'B09833']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lopez and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03984', 'B02515']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01360",
+    "name": "Glen Swanson",
+    "email": "brooksdiane@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07258', 'B05390']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hernandez-Allen for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09310', 'B00424']"
+}

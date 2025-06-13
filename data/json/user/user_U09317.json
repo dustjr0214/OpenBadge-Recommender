@@ -1,0 +1,14 @@
+{
+    "user_id": "U09317",
+    "name": "Cameron Bruce",
+    "email": "johnstonjason@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06356']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Lowe Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

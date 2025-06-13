@@ -1,0 +1,14 @@
+{
+    "user_id": "U03351",
+    "name": "David Wright",
+    "email": "jackharvey@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05097', 'B01607', 'B05983', 'B03465']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Olson Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06994', 'B07388', 'B01312']"
+}

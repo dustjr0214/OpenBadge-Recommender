@@ -1,0 +1,14 @@
+{
+    "user_id": "U01764",
+    "name": "Christopher Fowler",
+    "email": "xrobinson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01348']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Singleton-Webster for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00673']"
+}

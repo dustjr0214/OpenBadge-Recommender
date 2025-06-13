@@ -1,0 +1,14 @@
+{
+    "user_id": "U03714",
+    "name": "Jasmine Crosby",
+    "email": "melissawalters@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01151', 'B05650']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Hoffman Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08207', 'B03029', 'B07520']"
+}

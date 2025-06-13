@@ -1,0 +1,14 @@
+{
+    "user_id": "U06312",
+    "name": "Austin Gilbert",
+    "email": "edwardhernandez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05249', 'B03088', 'B07786', 'B01747']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Mcgee PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06106', 'B05261', 'B00861', 'B07682']"
+}

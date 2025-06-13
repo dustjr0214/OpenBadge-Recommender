@@ -1,0 +1,14 @@
+{
+    "user_id": "U01087",
+    "name": "Anthony Hudson",
+    "email": "sherry91@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01694', 'B05635']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Smith, Williams and Cisneros for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06403', 'B05741', 'B06326']"
+}

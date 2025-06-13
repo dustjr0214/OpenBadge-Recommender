@@ -1,0 +1,14 @@
+{
+    "user_id": "U06108",
+    "name": "Jose Wall",
+    "email": "ronald29@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04537', 'B03804']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Alvarado Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08678', 'B08450', 'B01032', 'B09045']"
+}

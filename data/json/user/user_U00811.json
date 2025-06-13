@@ -1,0 +1,14 @@
+{
+    "user_id": "U00811",
+    "name": "Kelli Green",
+    "email": "qarnold@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Smith, Hayes and Martin for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03799', 'B07389', 'B03282', 'B09369', 'B07083']"
+}

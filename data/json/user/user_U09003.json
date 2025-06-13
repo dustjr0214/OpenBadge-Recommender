@@ -1,0 +1,14 @@
+{
+    "user_id": "U09003",
+    "name": "Joshua Harper",
+    "email": "lindseysmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09016', 'B05989']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Hill, Henderson and Mason for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00453', 'B01957']"
+}

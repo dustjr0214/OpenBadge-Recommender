@@ -1,0 +1,14 @@
+{
+    "user_id": "U06314",
+    "name": "Jennifer Jacobs",
+    "email": "deleontyler@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09952']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Parker PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04168', 'B09938', 'B09077', 'B05163']"
+}

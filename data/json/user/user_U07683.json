@@ -1,0 +1,14 @@
+{
+    "user_id": "U07683",
+    "name": "Jon Davis",
+    "email": "twagner@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07150', 'B05066', 'B09448']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Vaughn Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01410', 'B05068', 'B00500', 'B08874']"
+}

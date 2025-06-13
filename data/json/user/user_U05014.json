@@ -1,0 +1,14 @@
+{
+    "user_id": "U05014",
+    "name": "Jennifer Durham",
+    "email": "debrawilkins@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02474']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00228', 'B06795', 'B05438', 'B06526', 'B07757']"
+}

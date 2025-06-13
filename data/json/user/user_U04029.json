@@ -1,0 +1,14 @@
+{
+    "user_id": "U04029",
+    "name": "Laura Daniels",
+    "email": "lopezmariah@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02467', 'B03678', 'B08674', 'B06172']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Turner, Martinez and Wiley for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06338', 'B08365', 'B00228', 'B03421']"
+}

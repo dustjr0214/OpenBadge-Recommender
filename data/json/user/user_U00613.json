@@ -1,0 +1,14 @@
+{
+    "user_id": "U00613",
+    "name": "Thomas Le",
+    "email": "kyle40@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05052', 'B03230', 'B05088']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Henry-Tucker for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03269', 'B07399']"
+}

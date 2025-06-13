@@ -1,0 +1,14 @@
+{
+    "user_id": "U07182",
+    "name": "Darlene Anderson",
+    "email": "alynch@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02571', 'B08385', 'B07911']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Blankenship LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07374', 'B02551', 'B01517']"
+}

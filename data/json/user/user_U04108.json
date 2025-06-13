@@ -1,0 +1,14 @@
+{
+    "user_id": "U04108",
+    "name": "Albert Bell",
+    "email": "mmonroe@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04495', 'B08575', 'B03633']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Wyatt, Myers and Smith for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

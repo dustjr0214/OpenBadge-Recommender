@@ -1,0 +1,14 @@
+{
+    "user_id": "U09538",
+    "name": "Nicole Mccullough",
+    "email": "tina55@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02772']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Wilson, Lara and Morris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08248', 'B02773', 'B07366', 'B02280']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00896",
+    "name": "Stephanie Black",
+    "email": "christopher59@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03010', 'B01807', 'B02417']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Wood, Mcgrath and Barnett for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04135', 'B07599', 'B09558', 'B01515', 'B00756']"
+}

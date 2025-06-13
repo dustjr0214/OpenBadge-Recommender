@@ -1,0 +1,14 @@
+{
+    "user_id": "U08025",
+    "name": "Patricia Davenport",
+    "email": "jennifer21@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05902', 'B08227', 'B08541']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Jackson, Chapman and Campbell for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08600']"
+}

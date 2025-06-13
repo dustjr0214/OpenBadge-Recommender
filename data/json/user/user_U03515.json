@@ -1,0 +1,14 @@
+{
+    "user_id": "U03515",
+    "name": "Victor House",
+    "email": "lisa87@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01655', 'B08930', 'B02242', 'B09369', 'B09681']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Gonzales-Pierce for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05424']"
+}

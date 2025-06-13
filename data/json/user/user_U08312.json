@@ -1,0 +1,14 @@
+{
+    "user_id": "U08312",
+    "name": "Karen Carroll",
+    "email": "michael04@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00662', 'B05169', 'B05630']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Gutierrez-Brown for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08775', 'B09562', 'B00734', 'B06401']"
+}

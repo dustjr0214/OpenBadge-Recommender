@@ -1,0 +1,14 @@
+{
+    "user_id": "U04725",
+    "name": "Allen Smith",
+    "email": "amy34@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01840', 'B06539', 'B03576']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Shelton-Cisneros for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01481', 'B07062', 'B03804', 'B06826', 'B07938']"
+}

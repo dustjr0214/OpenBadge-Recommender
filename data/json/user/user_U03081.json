@@ -1,0 +1,14 @@
+{
+    "user_id": "U03081",
+    "name": "David Beck",
+    "email": "rrobertson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02144', 'B07972', 'B07757', 'B00701']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Miles and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03318']"
+}

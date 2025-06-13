@@ -1,0 +1,14 @@
+{
+    "user_id": "U03757",
+    "name": "Gabriel Coleman",
+    "email": "rodney37@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08905']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Kidd-Phillips for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03795', 'B00574', 'B03568', 'B01122', 'B00534']"
+}

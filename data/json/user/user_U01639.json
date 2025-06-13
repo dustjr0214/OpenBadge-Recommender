@@ -1,0 +1,14 @@
+{
+    "user_id": "U01639",
+    "name": "Jared Vargas",
+    "email": "stevensallison@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08852', 'B02307']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Olson Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01229', 'B08110', 'B05374', 'B05064', 'B04903']"
+}

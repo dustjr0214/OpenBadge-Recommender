@@ -1,0 +1,14 @@
+{
+    "user_id": "U07931",
+    "name": "Michael Armstrong",
+    "email": "icannon@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03013']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Gonzales Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07017', 'B00751', 'B01607']"
+}

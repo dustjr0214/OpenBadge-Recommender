@@ -1,0 +1,14 @@
+{
+    "user_id": "U04853",
+    "name": "Todd Reed",
+    "email": "christine19@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04432', 'B01594', 'B00296', 'B02222', 'B02378']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Goodwin, Johnson and Velez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06893', 'B06032']"
+}

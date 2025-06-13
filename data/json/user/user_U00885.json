@@ -1,0 +1,14 @@
+{
+    "user_id": "U00885",
+    "name": "Jacob Rodriguez",
+    "email": "ugonzalez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05468']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at King, Buchanan and Daniels for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09306', 'B09395', 'B06218', 'B07299']"
+}

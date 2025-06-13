@@ -1,0 +1,14 @@
+{
+    "user_id": "U05702",
+    "name": "Edward Khan",
+    "email": "mgreen@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09202', 'B05205', 'B02835', 'B04209', 'B03670']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Stone-Graham for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00813', 'B05244', 'B01427']"
+}

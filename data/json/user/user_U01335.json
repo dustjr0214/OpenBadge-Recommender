@@ -1,0 +1,14 @@
+{
+    "user_id": "U01335",
+    "name": "Crystal Frederick",
+    "email": "michelle04@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07054', 'B03282', 'B07007']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Navarro LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02764', 'B04148', 'B04069', 'B00798', 'B00166']"
+}

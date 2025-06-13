@@ -1,0 +1,14 @@
+{
+    "user_id": "U07677",
+    "name": "Douglas Buck",
+    "email": "danielfrey@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07622']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Lloyd, Joseph and Aguirre for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00772', 'B03106', 'B09204', 'B00576']"
+}

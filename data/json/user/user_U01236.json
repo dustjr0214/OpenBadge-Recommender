@@ -1,0 +1,14 @@
+{
+    "user_id": "U01236",
+    "name": "Mark Williams",
+    "email": "fisherjames@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00118']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Farrell LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04082', 'B01295', 'B05214', 'B05945']"
+}

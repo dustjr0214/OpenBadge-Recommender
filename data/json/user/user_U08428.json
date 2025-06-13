@@ -1,0 +1,14 @@
+{
+    "user_id": "U08428",
+    "name": "Rachel Hester",
+    "email": "bmartin@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00287', 'B01634', 'B07633', 'B04714', 'B03359']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Edwards-Clark for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01170', 'B08203']"
+}

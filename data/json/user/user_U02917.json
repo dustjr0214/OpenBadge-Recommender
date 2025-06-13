@@ -1,0 +1,14 @@
+{
+    "user_id": "U02917",
+    "name": "Mr. Danny Sherman",
+    "email": "lesterjames@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00397', 'B09368', 'B09725']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Wells-Larsen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03638', 'B03823', 'B06472', 'B03258', 'B07160']"
+}

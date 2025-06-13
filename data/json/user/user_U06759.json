@@ -1,0 +1,14 @@
+{
+    "user_id": "U06759",
+    "name": "James Salinas",
+    "email": "lisa56@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05854', 'B08453', 'B05088', 'B00966']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Snow Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00296', 'B07682', 'B05725', 'B05867', 'B04890']"
+}

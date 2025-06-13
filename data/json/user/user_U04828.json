@@ -1,0 +1,14 @@
+{
+    "user_id": "U04828",
+    "name": "Eric Lee",
+    "email": "zcochran@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05845']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Perry, Ward and Austin for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

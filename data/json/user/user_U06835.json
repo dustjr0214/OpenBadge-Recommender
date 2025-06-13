@@ -1,0 +1,14 @@
+{
+    "user_id": "U06835",
+    "name": "Mary Shah",
+    "email": "steven58@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03359', 'B02017']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Phillips, Conner and Hill for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01009']"
+}

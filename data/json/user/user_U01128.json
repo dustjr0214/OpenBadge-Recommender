@@ -1,0 +1,14 @@
+{
+    "user_id": "U01128",
+    "name": "Laura Kaufman",
+    "email": "ashleyfranklin@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00198', 'B04499', 'B09790', 'B01508', 'B00793']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Porter, Walker and Rice for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09056', 'B02873', 'B06448']"
+}

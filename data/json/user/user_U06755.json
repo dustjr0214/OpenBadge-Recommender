@@ -1,0 +1,14 @@
+{
+    "user_id": "U06755",
+    "name": "Anna Clark",
+    "email": "brandon33@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02368']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Prince, Barnes and Wilson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05009', 'B09242', 'B07940', 'B00941', 'B07760']"
+}

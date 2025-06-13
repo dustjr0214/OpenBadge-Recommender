@@ -1,0 +1,14 @@
+{
+    "user_id": "U04388",
+    "name": "Jeffrey Bean",
+    "email": "fwillis@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01172', 'B04898', 'B00894']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mendoza-Berry for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07727', 'B03049', 'B06123', 'B00442']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03077",
+    "name": "Emily Lopez",
+    "email": "davidramirez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04113', 'B03752', 'B07064', 'B07032', 'B02124']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Lewis-Gross for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07653', 'B01140', 'B07650', 'B01886']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04016",
+    "name": "James Jones",
+    "email": "bmccall@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06977', 'B09697', 'B06520', 'B00469', 'B00987']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Davis-Terry for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02733', 'B06997', 'B01689', 'B04790']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00692",
+    "name": "Taylor Porter",
+    "email": "ethompson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02064', 'B01044', 'B04875']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at King-Stephenson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04310', 'B08507', 'B03488', 'B03545']"
+}

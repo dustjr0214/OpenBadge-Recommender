@@ -1,0 +1,14 @@
+{
+    "user_id": "U08528",
+    "name": "Kristina Alexander",
+    "email": "hinesmichael@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05216']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Young, Barton and Morris for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03227', 'B08745', 'B05180']"
+}

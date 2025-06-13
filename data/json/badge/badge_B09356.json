@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09356",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Cybersecurity', 'Deep Learning', 'Machine Learning']",
+    "competency": "['Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01864', 'B09863']"
+}

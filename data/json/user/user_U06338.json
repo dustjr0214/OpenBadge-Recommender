@@ -1,0 +1,14 @@
+{
+    "user_id": "U06338",
+    "name": "Carla Knight",
+    "email": "donnabailey@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04524', 'B08082', 'B06571', 'B02795']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hopkins, Robinson and Wood for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

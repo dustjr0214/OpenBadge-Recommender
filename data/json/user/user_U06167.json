@@ -1,0 +1,14 @@
+{
+    "user_id": "U06167",
+    "name": "Alexander Robinson",
+    "email": "jenniferjensen@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08967', 'B07568', 'B03759', 'B08001']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Stone-Ruiz for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09685', 'B07115']"
+}

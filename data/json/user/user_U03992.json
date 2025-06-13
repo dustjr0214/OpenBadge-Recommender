@@ -1,0 +1,14 @@
+{
+    "user_id": "U03992",
+    "name": "Kenneth Cobb",
+    "email": "veronicamartinez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09553', 'B09121', 'B05030', 'B02609']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Lane Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08800', 'B04519', 'B00820', 'B09926', 'B02124']"
+}

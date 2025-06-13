@@ -1,0 +1,14 @@
+{
+    "user_id": "U01897",
+    "name": "Kathy Wolfe",
+    "email": "mark35@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08803', 'B03687', 'B04721', 'B03291']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Davis-Martinez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05316', 'B00809', 'B06256', 'B04698', 'B04295']"
+}

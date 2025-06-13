@@ -1,0 +1,14 @@
+{
+    "user_id": "U03827",
+    "name": "Jason Murphy",
+    "email": "lisa05@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02597', 'B09009']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Alvarez, Meza and Ortega for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05900', 'B00014', 'B02297']"
+}

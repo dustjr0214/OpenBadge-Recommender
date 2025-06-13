@@ -1,0 +1,14 @@
+{
+    "user_id": "U06491",
+    "name": "Jerry Gomez",
+    "email": "hmelton@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Diaz-Schwartz for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

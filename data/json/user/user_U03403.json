@@ -1,0 +1,14 @@
+{
+    "user_id": "U03403",
+    "name": "Richard Anderson",
+    "email": "steven45@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07577', 'B08703', 'B02928', 'B08794']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Shepherd, Richard and Bright for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02097', 'B09706', 'B04513']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06178",
+    "name": "Samantha Watson",
+    "email": "mollysnyder@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09470', 'B07388', 'B08240']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hayden-Roberts for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05898', 'B08603', 'B09447', 'B00082']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08303",
+    "name": "Michael Wilson",
+    "email": "petermartinez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01295', 'B06406', 'B03152', 'B05113', 'B08572']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Davis-Smith for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03866', 'B05447', 'B07979', 'B00900']"
+}

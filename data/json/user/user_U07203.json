@@ -1,0 +1,14 @@
+{
+    "user_id": "U07203",
+    "name": "Richard Moreno",
+    "email": "hcurry@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06793', 'B03846', 'B06769']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Reyes, Jennings and Mcintosh for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09885', 'B02553', 'B01819', 'B01372', 'B01087']"
+}

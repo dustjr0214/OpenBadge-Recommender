@@ -1,0 +1,14 @@
+{
+    "user_id": "U08839",
+    "name": "Eric Weiss",
+    "email": "hernandezangelica@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05319', 'B03347', 'B04690']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Flores, Macdonald and Anderson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09729', 'B02927', 'B03067', 'B07514']"
+}

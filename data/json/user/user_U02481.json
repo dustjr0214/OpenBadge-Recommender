@@ -1,0 +1,14 @@
+{
+    "user_id": "U02481",
+    "name": "Michael Luna",
+    "email": "heather48@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03925', 'B04290']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Mathews, Jones and Reid for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07246', 'B03491', 'B08729', 'B05239', 'B02641']"
+}

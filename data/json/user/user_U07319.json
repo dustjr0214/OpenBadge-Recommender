@@ -1,0 +1,14 @@
+{
+    "user_id": "U07319",
+    "name": "Henry Leblanc",
+    "email": "andrew99@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02058', 'B03455', 'B03474', 'B01313']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Larsen Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05628', 'B09849', 'B05755', 'B02410', 'B09720']"
+}

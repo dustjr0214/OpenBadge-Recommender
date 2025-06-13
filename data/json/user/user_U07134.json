@@ -1,0 +1,14 @@
+{
+    "user_id": "U07134",
+    "name": "Virginia Flores",
+    "email": "john85@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00132', 'B08648', 'B02822', 'B08549', 'B04845']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Woods, Estes and Simpson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08969', 'B05810', 'B04131', 'B06727']"
+}

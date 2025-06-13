@@ -1,0 +1,14 @@
+{
+    "user_id": "U03644",
+    "name": "Kimberly Figueroa",
+    "email": "ppadilla@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09998', 'B04972', 'B07432', 'B07279']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Wall-Steele for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02661']"
+}

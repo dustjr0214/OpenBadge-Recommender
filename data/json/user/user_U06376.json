@@ -1,0 +1,14 @@
+{
+    "user_id": "U06376",
+    "name": "Miranda Kramer",
+    "email": "djones@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03619', 'B09894', 'B05225']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at White, Leblanc and Johnson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03499']"
+}

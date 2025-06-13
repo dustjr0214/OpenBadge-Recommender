@@ -1,0 +1,14 @@
+{
+    "user_id": "U04156",
+    "name": "Tanya Ryan",
+    "email": "markking@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01142', 'B04021', 'B02356', 'B09199', 'B07623']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Smith LLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

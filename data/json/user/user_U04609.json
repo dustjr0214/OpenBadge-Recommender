@@ -1,0 +1,14 @@
+{
+    "user_id": "U04609",
+    "name": "Benjamin Martinez",
+    "email": "greenlisa@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03791']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Houston LLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02953', 'B02388', 'B03336', 'B06071']"
+}

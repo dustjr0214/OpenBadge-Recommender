@@ -1,0 +1,14 @@
+{
+    "user_id": "U04994",
+    "name": "Robert Watson",
+    "email": "elizabethbruce@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Johns, Nelson and Thompson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03771', 'B07117', 'B02117', 'B08216', 'B06673']"
+}

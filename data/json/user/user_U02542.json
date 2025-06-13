@@ -1,0 +1,14 @@
+{
+    "user_id": "U02542",
+    "name": "Bradley Shelton",
+    "email": "gomezjeffrey@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02138', 'B01057', 'B08456', 'B00010', 'B06413']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gibson-Miranda for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05529']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02730",
+    "name": "Kenneth Mills",
+    "email": "donald90@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05071', 'B09694', 'B07228']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Drake, Cooper and Lambert for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04041']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06714",
+    "name": "Holly Nguyen",
+    "email": "adam12@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04417']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Salinas Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03367']"
+}

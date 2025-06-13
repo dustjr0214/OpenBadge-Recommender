@@ -1,0 +1,14 @@
+{
+    "user_id": "U03191",
+    "name": "Denise Harris",
+    "email": "woodsmichelle@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09866', 'B04379', 'B05277', 'B04459', 'B03546']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Adkins LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04403', 'B05225', 'B00888', 'B06926']"
+}

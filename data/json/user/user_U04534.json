@@ -1,0 +1,14 @@
+{
+    "user_id": "U04534",
+    "name": "Katherine Patrick",
+    "email": "johnsonmckenzie@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05941', 'B07344', 'B07939']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Davis, Eaton and Mack for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04907', 'B06971', 'B06371', 'B01110', 'B01765']"
+}

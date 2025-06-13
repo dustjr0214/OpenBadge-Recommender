@@ -1,0 +1,14 @@
+{
+    "user_id": "U09468",
+    "name": "Darryl Walsh",
+    "email": "robert82@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00853', 'B07868', 'B05834', 'B04232', 'B02217']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Jones, Williamson and Sheppard for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07065', 'B01881', 'B04842']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03455",
+    "name": "Meagan Evans",
+    "email": "michaelpotter@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06618', 'B08126', 'B05479', 'B08326']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Peters, Clay and Hodges for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07970', 'B01209', 'B05975']"
+}

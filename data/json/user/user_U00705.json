@@ -1,0 +1,14 @@
+{
+    "user_id": "U00705",
+    "name": "Jason Ingram",
+    "email": "ronaldtorres@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08202', 'B00611']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Lopez PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07099']"
+}

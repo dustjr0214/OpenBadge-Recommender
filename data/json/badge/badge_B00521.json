@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00521",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Python', 'Data Analysis']",
+    "competency": "['Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00572', 'B07682']"
+}

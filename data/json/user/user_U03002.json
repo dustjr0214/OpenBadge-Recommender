@@ -1,0 +1,14 @@
+{
+    "user_id": "U03002",
+    "name": "Donna Turner",
+    "email": "timothy93@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Hernandez, Roach and Chan for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09217', 'B09363', 'B06991', 'B04614']"
+}

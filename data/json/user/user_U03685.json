@@ -1,0 +1,14 @@
+{
+    "user_id": "U03685",
+    "name": "Ricky Collins",
+    "email": "joelcruz@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02879', 'B09036']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Long Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05548', 'B04907', 'B08614', 'B07364', 'B01447']"
+}

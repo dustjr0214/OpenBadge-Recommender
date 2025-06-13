@@ -1,0 +1,14 @@
+{
+    "user_id": "U02320",
+    "name": "Edward Barton",
+    "email": "juan61@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02032', 'B07513', 'B08527']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Burns PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06567', 'B06803', 'B01888', 'B01821']"
+}

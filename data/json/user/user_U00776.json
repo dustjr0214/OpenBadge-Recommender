@@ -1,0 +1,14 @@
+{
+    "user_id": "U00776",
+    "name": "Brian Bates",
+    "email": "fwhite@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00740']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Wallace-Gonzalez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05012', 'B00953', 'B07215']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05832",
+    "name": "Nathan Jenkins DVM",
+    "email": "jdavis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09473', 'B09685']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Dodson, Hodge and Brown for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03802', 'B07264', 'B09781']"
+}

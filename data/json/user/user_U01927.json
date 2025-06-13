@@ -1,0 +1,14 @@
+{
+    "user_id": "U01927",
+    "name": "Amanda Kirby",
+    "email": "hannah34@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05324', 'B07959', 'B07561', 'B06189']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Williams-Peterson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08977', 'B01253', 'B01955', 'B01345', 'B06256']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06922",
+    "name": "Carol Johnson",
+    "email": "zamorajacob@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Clark Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09162', 'B05144', 'B06073', 'B05534']"
+}

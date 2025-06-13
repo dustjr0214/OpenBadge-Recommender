@@ -1,0 +1,14 @@
+{
+    "user_id": "U07900",
+    "name": "Ashley Terry",
+    "email": "christopher70@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03517', 'B07408', 'B09008', 'B07089']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Elliott, Anderson and Gilbert for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09814', 'B07797']"
+}

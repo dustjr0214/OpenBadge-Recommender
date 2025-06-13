@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01787",
+    "name": "Deep Learning Master",
+    "issuer": "Coursera",
+    "description": "Deep Learning Master badge issued by Coursera",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cybersecurity', 'Cloud Computing']",
+    "competency": "['Cybersecurity', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B04126']"
+}

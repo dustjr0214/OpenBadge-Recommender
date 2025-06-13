@@ -1,0 +1,14 @@
+{
+    "user_id": "U00538",
+    "name": "Veronica Ward",
+    "email": "olee@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07364']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Sutton, Malone and Torres for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06973', 'B08383', 'B06368']"
+}

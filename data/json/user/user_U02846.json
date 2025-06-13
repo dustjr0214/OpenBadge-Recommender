@@ -1,0 +1,14 @@
+{
+    "user_id": "U02846",
+    "name": "Mary Duran",
+    "email": "martinrodriguez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01798', 'B09567', 'B04196']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gonzalez Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02417', 'B08014', 'B00289', 'B00233']"
+}

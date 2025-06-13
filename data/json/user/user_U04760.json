@@ -1,0 +1,14 @@
+{
+    "user_id": "U04760",
+    "name": "Frank Gilmore",
+    "email": "jordanlarson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05554', 'B03481', 'B03061', 'B09770']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Estrada Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00718', 'B08333', 'B03965', 'B09454', 'B00382']"
+}

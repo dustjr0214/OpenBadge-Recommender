@@ -1,0 +1,14 @@
+{
+    "user_id": "U08776",
+    "name": "Lisa Stevens",
+    "email": "dwatkins@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06753', 'B08314', 'B09322', 'B09707']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Knight-Schneider for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05225']"
+}

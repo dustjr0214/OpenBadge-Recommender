@@ -1,0 +1,14 @@
+{
+    "user_id": "U08780",
+    "name": "Lisa Wu",
+    "email": "kevinlucero@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02727', 'B09384', 'B00623']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Benitez, Barnes and Guzman for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06853']"
+}

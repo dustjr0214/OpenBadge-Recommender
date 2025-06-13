@@ -1,0 +1,14 @@
+{
+    "user_id": "U02632",
+    "name": "Jeffrey Curry",
+    "email": "marycontreras@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03766', 'B03257', 'B00670', 'B04220', 'B08779']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Gonzalez PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

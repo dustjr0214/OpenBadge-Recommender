@@ -1,0 +1,14 @@
+{
+    "user_id": "U04266",
+    "name": "Sarah Ross",
+    "email": "westjames@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03225']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Thomas and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02881', 'B07851', 'B08757', 'B06075']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06396",
+    "name": "John Myers",
+    "email": "erin56@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09907', 'B03585']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Jacobson-Avila for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09937']"
+}

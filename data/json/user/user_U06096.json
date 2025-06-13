@@ -1,0 +1,14 @@
+{
+    "user_id": "U06096",
+    "name": "Robert Leach",
+    "email": "patricia23@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04836', 'B00418', 'B02997']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Gibson, Quinn and Solomon for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00412']"
+}

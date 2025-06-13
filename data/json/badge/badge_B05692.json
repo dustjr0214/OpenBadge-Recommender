@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05692",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Python', 'Teamwork', 'SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00756']"
+}

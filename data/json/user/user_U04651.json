@@ -1,0 +1,14 @@
+{
+    "user_id": "U04651",
+    "name": "Michael Wilson",
+    "email": "ryanriley@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08897']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Nguyen, Martinez and Walker for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01470', 'B01549', 'B08615', 'B00340', 'B02846']"
+}

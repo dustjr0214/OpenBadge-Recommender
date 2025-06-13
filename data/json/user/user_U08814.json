@@ -1,0 +1,14 @@
+{
+    "user_id": "U08814",
+    "name": "Timothy Yang",
+    "email": "yrobbins@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05994', 'B02815', 'B08538', 'B02289']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Coleman PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09694', 'B05268', 'B02117']"
+}

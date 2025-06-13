@@ -1,0 +1,14 @@
+{
+    "user_id": "U07163",
+    "name": "Theodore York",
+    "email": "kayla78@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02447', 'B02402', 'B01785', 'B09826']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Barnes-Wallace for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04070', 'B04691', 'B08822']"
+}

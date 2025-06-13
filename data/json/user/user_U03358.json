@@ -1,0 +1,14 @@
+{
+    "user_id": "U03358",
+    "name": "Tracy Wood",
+    "email": "pennylindsey@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09801', 'B06069', 'B06470', 'B08357', 'B08218']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Andrade, Mckinney and Huff for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

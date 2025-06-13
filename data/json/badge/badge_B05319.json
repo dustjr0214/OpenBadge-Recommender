@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05319",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'Cloud Computing', 'UI/UX']",
+    "competency": "['Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02089']"
+}

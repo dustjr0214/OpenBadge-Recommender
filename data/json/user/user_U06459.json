@@ -1,0 +1,14 @@
+{
+    "user_id": "U06459",
+    "name": "Dr. Emily Fuller DDS",
+    "email": "jamesandersen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01419', 'B09223', 'B02680', 'B07183', 'B08519']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Riggs Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

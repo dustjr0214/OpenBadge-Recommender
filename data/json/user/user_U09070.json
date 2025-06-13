@@ -1,0 +1,14 @@
+{
+    "user_id": "U09070",
+    "name": "Oscar Lawson",
+    "email": "fjohnson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Villarreal and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02234']"
+}

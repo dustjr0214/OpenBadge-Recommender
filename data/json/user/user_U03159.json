@@ -1,0 +1,14 @@
+{
+    "user_id": "U03159",
+    "name": "Brian Perkins",
+    "email": "burgessnoah@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09579', 'B00485', 'B02506', 'B00592']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Reynolds and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05228', 'B07142']"
+}

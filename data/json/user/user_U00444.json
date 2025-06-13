@@ -1,0 +1,14 @@
+{
+    "user_id": "U00444",
+    "name": "Monique Powell",
+    "email": "gthomas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03712', 'B01522']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Carson Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06641', 'B04371']"
+}

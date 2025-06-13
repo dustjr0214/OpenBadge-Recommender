@@ -1,0 +1,14 @@
+{
+    "user_id": "U08946",
+    "name": "Matthew Banks",
+    "email": "michael49@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Chan LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00503', 'B07891']"
+}

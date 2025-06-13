@@ -1,0 +1,14 @@
+{
+    "user_id": "U01973",
+    "name": "Keith Christian",
+    "email": "kristy09@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00245']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lloyd, Gordon and Campbell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00566', 'B03043', 'B09590', 'B03006']"
+}

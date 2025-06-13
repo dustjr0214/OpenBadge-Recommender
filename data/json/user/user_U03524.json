@@ -1,0 +1,14 @@
+{
+    "user_id": "U03524",
+    "name": "Douglas Gilbert",
+    "email": "angela94@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02100', 'B00492', 'B06646']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Henderson, Beard and Douglas for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04400']"
+}

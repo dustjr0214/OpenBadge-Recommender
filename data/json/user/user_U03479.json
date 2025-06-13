@@ -1,0 +1,14 @@
+{
+    "user_id": "U03479",
+    "name": "Joshua Cooper",
+    "email": "kathrynrivera@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02522', 'B03888', 'B03080', 'B04106']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Robinson, Powell and Mullins for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08305', 'B00970', 'B02615', 'B05236', 'B08459']"
+}

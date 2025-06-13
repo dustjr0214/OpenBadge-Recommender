@@ -1,0 +1,14 @@
+{
+    "user_id": "U08716",
+    "name": "Lori Brandt",
+    "email": "velazquezalan@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Gould Ltd for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07652', 'B05457', 'B06300']"
+}

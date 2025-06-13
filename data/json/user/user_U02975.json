@@ -1,0 +1,14 @@
+{
+    "user_id": "U02975",
+    "name": "Katherine Martin",
+    "email": "coxnicole@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07433', 'B08147', 'B03087', 'B04559', 'B05989']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Smith LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04914",
+    "name": "Penny Arnold",
+    "email": "daniel48@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04109', 'B08330', 'B02882']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Church, Morse and Johnson for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05445', 'B04849']"
+}

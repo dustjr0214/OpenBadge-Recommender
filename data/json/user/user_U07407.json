@@ -1,0 +1,14 @@
+{
+    "user_id": "U07407",
+    "name": "Shelia Jackson",
+    "email": "caleb23@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00010', 'B04179']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Bautista, Gross and Romero for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04447', 'B03224', 'B04568', 'B07295']"
+}

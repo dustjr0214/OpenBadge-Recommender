@@ -1,0 +1,14 @@
+{
+    "user_id": "U08822",
+    "name": "Dominic Davis",
+    "email": "kaitlyn78@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Wallace-Davis for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09093', 'B01894', 'B01406']"
+}

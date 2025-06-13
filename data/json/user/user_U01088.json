@@ -1,0 +1,14 @@
+{
+    "user_id": "U01088",
+    "name": "Sarah Wood",
+    "email": "howardbrown@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06126', 'B08226', 'B03334', 'B00597', 'B02485']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Barnes Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02232', 'B08049', 'B01006']"
+}

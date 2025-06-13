@@ -1,0 +1,14 @@
+{
+    "user_id": "U05171",
+    "name": "John Davidson",
+    "email": "lacey68@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09904', 'B02960', 'B07963', 'B03458']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Vang and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05748', 'B06767']"
+}

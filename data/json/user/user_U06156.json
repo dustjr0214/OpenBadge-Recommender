@@ -1,0 +1,14 @@
+{
+    "user_id": "U06156",
+    "name": "Elizabeth Watts",
+    "email": "elizabethhall@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02393', 'B00173', 'B00065', 'B09964', 'B04264']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Neal-Farrell for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06155', 'B04346']"
+}

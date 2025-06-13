@@ -1,0 +1,14 @@
+{
+    "user_id": "U01618",
+    "name": "Casey Wright",
+    "email": "amywilliams@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05885', 'B01564', 'B03506']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Tyler Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

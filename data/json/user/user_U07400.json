@@ -1,0 +1,14 @@
+{
+    "user_id": "U07400",
+    "name": "Michelle Cooper",
+    "email": "rebecca70@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01893', 'B02973']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Nelson Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04090', 'B05984', 'B02364']"
+}

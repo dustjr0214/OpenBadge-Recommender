@@ -1,0 +1,14 @@
+{
+    "user_id": "U02824",
+    "name": "Anthony Murray",
+    "email": "bennettryan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Carr PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07796', 'B01036']"
+}

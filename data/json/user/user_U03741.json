@@ -1,0 +1,14 @@
+{
+    "user_id": "U03741",
+    "name": "Steven Allen",
+    "email": "morganmason@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07208', 'B02595']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Gates Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05246', 'B07044']"
+}

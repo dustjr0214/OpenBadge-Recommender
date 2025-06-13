@@ -1,0 +1,14 @@
+{
+    "user_id": "U09455",
+    "name": "Victor Kelly",
+    "email": "victordouglas@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05469', 'B07778', 'B09174']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Snow-Browning for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05026', 'B07647', 'B03962', 'B08807']"
+}

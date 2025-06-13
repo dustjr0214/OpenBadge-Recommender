@@ -1,0 +1,14 @@
+{
+    "user_id": "U07153",
+    "name": "Mary Baker",
+    "email": "mcook@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06799', 'B07962', 'B07948', 'B02366']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Barnes Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

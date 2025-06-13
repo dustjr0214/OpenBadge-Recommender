@@ -1,0 +1,14 @@
+{
+    "user_id": "U09675",
+    "name": "Kimberly Williams",
+    "email": "millschristopher@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06235', 'B07202', 'B08466', 'B07990']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Walker Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09295', 'B03603', 'B02881']"
+}

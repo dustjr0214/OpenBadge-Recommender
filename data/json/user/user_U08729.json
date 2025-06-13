@@ -1,0 +1,14 @@
+{
+    "user_id": "U08729",
+    "name": "Caitlin Evans",
+    "email": "francisreese@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00519', 'B04619', 'B04212', 'B02982', 'B02890']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Dean and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06129', 'B03517', 'B02797']"
+}

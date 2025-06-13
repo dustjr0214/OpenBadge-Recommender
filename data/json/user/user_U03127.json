@@ -1,0 +1,14 @@
+{
+    "user_id": "U03127",
+    "name": "Erin Tyler",
+    "email": "zmarquez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Gentry, Lee and Williams for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09289', 'B04334']"
+}

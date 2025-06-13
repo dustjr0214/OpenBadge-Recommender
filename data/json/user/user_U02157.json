@@ -1,0 +1,14 @@
+{
+    "user_id": "U02157",
+    "name": "Eileen Scott",
+    "email": "bettygomez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09849', 'B03404', 'B06182']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Moore PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08945', 'B03413']"
+}

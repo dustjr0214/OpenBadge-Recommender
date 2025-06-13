@@ -1,0 +1,14 @@
+{
+    "user_id": "U02757",
+    "name": "Amber Williams",
+    "email": "stephanieneal@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08224', 'B04326']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Rios, Kennedy and Hughes for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08783', 'B06346', 'B08544', 'B02050', 'B04805']"
+}

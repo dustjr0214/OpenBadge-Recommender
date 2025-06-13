@@ -1,0 +1,14 @@
+{
+    "user_id": "U01452",
+    "name": "Deborah Garcia",
+    "email": "cohenjames@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05954', 'B03021', 'B04772', 'B08861']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Potter, Ramos and Mcdonald for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

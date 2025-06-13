@@ -1,0 +1,14 @@
+{
+    "user_id": "U02028",
+    "name": "Jaime Wells",
+    "email": "barbara09@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02455', 'B08764', 'B08108', 'B03502', 'B01142']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Carson and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06130']"
+}

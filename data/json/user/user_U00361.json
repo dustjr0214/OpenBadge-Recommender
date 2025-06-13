@@ -1,0 +1,14 @@
+{
+    "user_id": "U00361",
+    "name": "Yvonne Christian",
+    "email": "mflores@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07369', 'B01573', 'B09468', 'B05511']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Scott, Clayton and Warner for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06298', 'B01154', 'B01277', 'B05941', 'B09154']"
+}

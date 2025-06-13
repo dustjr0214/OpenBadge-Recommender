@@ -1,0 +1,14 @@
+{
+    "user_id": "U01022",
+    "name": "Daniel Lewis",
+    "email": "erikadrake@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09951', 'B07301', 'B05559']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Williams-Potter for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06818', 'B09746']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06782",
+    "name": "Ryan Mccoy",
+    "email": "brandi14@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03481', 'B00428', 'B07450']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Hernandez Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07105', 'B07028', 'B04952', 'B00411']"
+}

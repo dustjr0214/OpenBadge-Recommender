@@ -1,0 +1,14 @@
+{
+    "user_id": "U02108",
+    "name": "Manuel Gross PhD",
+    "email": "scottneal@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03918', 'B08175', 'B03446', 'B03101']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Morales, Baker and Barron for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04872', 'B05715', 'B07337', 'B07780']"
+}

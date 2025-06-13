@@ -1,0 +1,14 @@
+{
+    "user_id": "U09127",
+    "name": "Lisa Huang",
+    "email": "michael54@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03080', 'B06699', 'B04627', 'B08385']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Donovan Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00299', 'B08130', 'B02349']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06477",
+    "name": "Randy Jacobs",
+    "email": "taylor43@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04103', 'B02979', 'B08388', 'B01769', 'B06291']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lara LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06218', 'B01590', 'B08071']"
+}

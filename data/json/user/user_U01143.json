@@ -1,0 +1,14 @@
+{
+    "user_id": "U01143",
+    "name": "Jason Burns",
+    "email": "adamjacobs@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08431', 'B03044', 'B00125', 'B09772', 'B04722']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Flores Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

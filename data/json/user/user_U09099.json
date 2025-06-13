@@ -1,0 +1,14 @@
+{
+    "user_id": "U09099",
+    "name": "Rachel Franklin",
+    "email": "johngrimes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04185', 'B08554', 'B06375', 'B06722', 'B06814']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Heath, Ewing and Evans for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06122', 'B00087', 'B03502', 'B05519', 'B00769']"
+}

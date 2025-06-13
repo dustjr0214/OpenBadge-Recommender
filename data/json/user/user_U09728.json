@@ -1,0 +1,14 @@
+{
+    "user_id": "U09728",
+    "name": "Kelsey Smith",
+    "email": "karen32@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09378', 'B08583', 'B05183']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Chung-Lawson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00910', 'B04759', 'B02836']"
+}

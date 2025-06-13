@@ -1,0 +1,14 @@
+{
+    "user_id": "U04607",
+    "name": "Megan Nelson",
+    "email": "coffeyallison@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Miller Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02434']"
+}

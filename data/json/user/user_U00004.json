@@ -1,0 +1,14 @@
+{
+    "user_id": "U00004",
+    "name": "Charles Spencer",
+    "email": "lynn50@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04986', 'B05955', 'B05543', 'B02357']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Wood-Martinez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07892', 'B05721', 'B09758']"
+}

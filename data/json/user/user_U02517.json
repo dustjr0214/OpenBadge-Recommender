@@ -1,0 +1,14 @@
+{
+    "user_id": "U02517",
+    "name": "Amanda Thomas",
+    "email": "david66@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06098', 'B08242', 'B05319', 'B04240']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Calderon PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08062', 'B07675', 'B06454', 'B02239', 'B09166']"
+}

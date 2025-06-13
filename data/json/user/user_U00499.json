@@ -1,0 +1,14 @@
+{
+    "user_id": "U00499",
+    "name": "William Warner",
+    "email": "jonschwartz@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07121', 'B05731', 'B06903', 'B09442', 'B02491']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Black and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05801']"
+}

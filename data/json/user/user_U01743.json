@@ -1,0 +1,14 @@
+{
+    "user_id": "U01743",
+    "name": "Rhonda Howard",
+    "email": "obrienchristine@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05386', 'B09131', 'B05406']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wagner Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01681', 'B08540']"
+}

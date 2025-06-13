@@ -1,0 +1,14 @@
+{
+    "user_id": "U04962",
+    "name": "Michael Smith",
+    "email": "wisematthew@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07663', 'B04877', 'B01788', 'B01068']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Thomas, Schmidt and Kim for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

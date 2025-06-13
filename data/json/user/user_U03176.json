@@ -1,0 +1,14 @@
+{
+    "user_id": "U03176",
+    "name": "Toni Hines",
+    "email": "caitlinmoore@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02141', 'B04283', 'B04629', 'B01823']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Gonzalez, Bryant and Zuniga for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

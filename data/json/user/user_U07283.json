@@ -1,0 +1,14 @@
+{
+    "user_id": "U07283",
+    "name": "Nancy Romero",
+    "email": "vmcbride@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09014', 'B00633', 'B05389', 'B06978']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Joseph, Allen and Lane for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00732', 'B04527', 'B01150']"
+}

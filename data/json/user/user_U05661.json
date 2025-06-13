@@ -1,0 +1,14 @@
+{
+    "user_id": "U05661",
+    "name": "Steve Mitchell",
+    "email": "bjackson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03789', 'B08081']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Torres, Martinez and Joseph for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06334', 'B06672']"
+}

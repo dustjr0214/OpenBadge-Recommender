@@ -1,0 +1,14 @@
+{
+    "user_id": "U01795",
+    "name": "Linda White",
+    "email": "amy25@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02566', 'B04343', 'B03364', 'B07068']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Bailey, Bauer and Stewart for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08110', 'B05851', 'B06377', 'B03752']"
+}

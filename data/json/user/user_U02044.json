@@ -1,0 +1,14 @@
+{
+    "user_id": "U02044",
+    "name": "Isaiah Crawford",
+    "email": "logan55@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04705']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Fry Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06415', 'B00028', 'B09248']"
+}

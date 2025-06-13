@@ -1,0 +1,14 @@
+{
+    "user_id": "U03881",
+    "name": "Madison Garrett",
+    "email": "floydaustin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04428', 'B03072', 'B06170', 'B02360', 'B05423']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Dominguez-Harding for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07862', 'B08317', 'B06577', 'B05213']"
+}

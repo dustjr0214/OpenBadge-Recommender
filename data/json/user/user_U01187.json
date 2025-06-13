@@ -1,0 +1,14 @@
+{
+    "user_id": "U01187",
+    "name": "Bridget Martin",
+    "email": "robertallen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01444', 'B00528', 'B08792']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Moreno Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

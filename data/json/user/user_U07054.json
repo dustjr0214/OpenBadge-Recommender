@@ -1,0 +1,14 @@
+{
+    "user_id": "U07054",
+    "name": "Faith Rowe",
+    "email": "zpeterson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05747', 'B01117', 'B07210', 'B01490', 'B00276']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Martin Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00446', 'B08319', 'B06354']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01380",
+    "name": "Mr. Joseph Arnold III",
+    "email": "sarahlevy@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01632']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Velez Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03556', 'B03722', 'B05778', 'B08760', 'B00720']"
+}

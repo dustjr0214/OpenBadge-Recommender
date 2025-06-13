@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05444",
+    "name": "Cloud Computing Guru",
+    "issuer": "Coursera",
+    "description": "Cloud Computing Guru badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning']",
+    "competency": "['Deep Learning', 'Problem Solving', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B07454']"
+}

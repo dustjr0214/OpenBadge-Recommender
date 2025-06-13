@@ -1,0 +1,14 @@
+{
+    "user_id": "U03998",
+    "name": "Crystal Young",
+    "email": "crystal08@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04908', 'B01166', 'B07292', 'B07289']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Flores-Baker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00462', 'B06947', 'B02210', 'B06319', 'B05619']"
+}

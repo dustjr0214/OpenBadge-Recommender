@@ -1,0 +1,14 @@
+{
+    "user_id": "U00187",
+    "name": "Phyllis Berg",
+    "email": "seanrose@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07960']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rodriguez LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03242', 'B04094', 'B03795', 'B03337', 'B06742']"
+}

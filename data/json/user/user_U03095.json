@@ -1,0 +1,14 @@
+{
+    "user_id": "U03095",
+    "name": "Jason Maldonado",
+    "email": "redwards@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03312']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Mendez-Butler for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01681', 'B07818', 'B00053', 'B03268', 'B07184']"
+}

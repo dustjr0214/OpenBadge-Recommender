@@ -1,0 +1,14 @@
+{
+    "user_id": "U02891",
+    "name": "Crystal Schwartz",
+    "email": "michael27@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00585', 'B07409', 'B00467', 'B01682', 'B02535']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Sampson PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03185', 'B01951', 'B05154']"
+}

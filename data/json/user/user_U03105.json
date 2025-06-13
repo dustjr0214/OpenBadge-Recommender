@@ -1,0 +1,14 @@
+{
+    "user_id": "U03105",
+    "name": "David Murphy",
+    "email": "jill31@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04352', 'B06574', 'B02098']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Smith-Pearson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04018', 'B07189', 'B07220']"
+}

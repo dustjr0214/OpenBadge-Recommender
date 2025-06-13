@@ -1,0 +1,14 @@
+{
+    "user_id": "U07326",
+    "name": "Heather Kelly",
+    "email": "wadecathy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04194', 'B02595', 'B09569']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Green-Strickland for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06119', 'B01223', 'B04514', 'B01016']"
+}

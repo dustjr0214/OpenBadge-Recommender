@@ -1,0 +1,14 @@
+{
+    "user_id": "U09302",
+    "name": "Angela Romero",
+    "email": "cynthiaolsen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06759', 'B01920']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Sloan, Peterson and Larson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04856', 'B02564', 'B03759', 'B05594']"
+}

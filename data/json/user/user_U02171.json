@@ -1,0 +1,14 @@
+{
+    "user_id": "U02171",
+    "name": "Elizabeth Stevens",
+    "email": "adamsmadison@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05403', 'B04179', 'B03917', 'B01668', 'B07050']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Merritt, Rogers and Mathews for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06464']"
+}

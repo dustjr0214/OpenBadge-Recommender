@@ -1,0 +1,14 @@
+{
+    "user_id": "U03171",
+    "name": "Laura Acevedo",
+    "email": "jeffreymorrison@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06819', 'B01605']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Day, Jackson and Jones for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04789', 'B02756', 'B08016', 'B01305', 'B01334']"
+}

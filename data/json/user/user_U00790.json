@@ -1,0 +1,14 @@
+{
+    "user_id": "U00790",
+    "name": "Michelle Logan",
+    "email": "fspencer@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00401', 'B05825', 'B03221', 'B06366']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Murphy PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08623', 'B03011', 'B06439']"
+}

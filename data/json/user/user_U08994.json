@@ -1,0 +1,14 @@
+{
+    "user_id": "U08994",
+    "name": "Renee Martinez",
+    "email": "dhernandez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09168', 'B06814', 'B01165', 'B00179', 'B08603']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Thomas PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08670', 'B09732', 'B01007', 'B09381', 'B02427']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03179",
+    "name": "Ricardo Pierce",
+    "email": "michelle95@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02260', 'B06864', 'B01758', 'B08645', 'B06844']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Nelson, Meadows and Maddox for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00708', 'B02879', 'B04074']"
+}

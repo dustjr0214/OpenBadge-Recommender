@@ -1,0 +1,14 @@
+{
+    "user_id": "U09223",
+    "name": "Christopher Rollins",
+    "email": "carriestanton@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03743', 'B01904', 'B09695', 'B03450']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Kent, Lewis and Brock for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05434']"
+}

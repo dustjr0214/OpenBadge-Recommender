@@ -1,0 +1,14 @@
+{
+    "user_id": "U03834",
+    "name": "Diana James",
+    "email": "julieellis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08806', 'B07056', 'B01929', 'B05090']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Soto, Edwards and Anderson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

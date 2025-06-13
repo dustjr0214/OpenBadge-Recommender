@@ -1,0 +1,14 @@
+{
+    "user_id": "U07385",
+    "name": "Haley Jackson",
+    "email": "armstronglori@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04885', 'B07243', 'B06491', 'B06183', 'B03104']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Williams Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

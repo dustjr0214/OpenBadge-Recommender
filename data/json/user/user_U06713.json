@@ -1,0 +1,14 @@
+{
+    "user_id": "U06713",
+    "name": "Mallory Stanton",
+    "email": "rharvey@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07457', 'B08958', 'B06984', 'B00666', 'B08458']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Dunn-Ward for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02147', 'B07203']"
+}

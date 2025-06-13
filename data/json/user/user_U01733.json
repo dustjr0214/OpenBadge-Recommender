@@ -1,0 +1,14 @@
+{
+    "user_id": "U01733",
+    "name": "David Pena",
+    "email": "thebert@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05249']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Taylor-Murray for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04854', 'B07446', 'B03924', 'B07984', 'B06357']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06110",
+    "name": "Christina Burton",
+    "email": "davidchapman@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07820', 'B08280', 'B07364', 'B05991']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Welch Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02135']"
+}

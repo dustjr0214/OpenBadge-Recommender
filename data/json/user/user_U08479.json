@@ -1,0 +1,14 @@
+{
+    "user_id": "U08479",
+    "name": "Michael Miller",
+    "email": "seansanders@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03036', 'B08741', 'B01125']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cox-Pineda for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09682']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02237",
+    "name": "Christopher Carr",
+    "email": "qchristensen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00432', 'B07230', 'B00202', 'B00673']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Carter, Johnson and Powell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07857', 'B03083']"
+}

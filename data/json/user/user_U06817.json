@@ -1,0 +1,14 @@
+{
+    "user_id": "U06817",
+    "name": "David Morris",
+    "email": "anthony66@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05213', 'B08325', 'B03823', 'B03646']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rice PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02984']"
+}

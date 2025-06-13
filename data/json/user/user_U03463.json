@@ -1,0 +1,14 @@
+{
+    "user_id": "U03463",
+    "name": "Kyle Long",
+    "email": "andrewprice@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Wong-Ortiz for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05294', 'B07376', 'B02484']"
+}

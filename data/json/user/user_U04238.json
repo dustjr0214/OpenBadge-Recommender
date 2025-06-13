@@ -1,0 +1,14 @@
+{
+    "user_id": "U04238",
+    "name": "Theresa Tyler",
+    "email": "woodstyler@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04760', 'B03738', 'B08926']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Delgado LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04259', 'B05329', 'B00663']"
+}

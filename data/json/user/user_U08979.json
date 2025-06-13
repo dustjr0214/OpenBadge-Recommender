@@ -1,0 +1,14 @@
+{
+    "user_id": "U08979",
+    "name": "Donna Bennett",
+    "email": "combsthomas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08033', 'B00727']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Bennett, Mcbride and George for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00257', 'B04841', 'B07935', 'B02573']"
+}

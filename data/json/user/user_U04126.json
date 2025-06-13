@@ -1,0 +1,14 @@
+{
+    "user_id": "U04126",
+    "name": "Cynthia Rasmussen",
+    "email": "hernandezbilly@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01281', 'B02741', 'B06951', 'B07448', 'B06348']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Miller Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09499', 'B09859', 'B03982']"
+}

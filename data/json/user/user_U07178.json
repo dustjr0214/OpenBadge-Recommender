@@ -1,0 +1,14 @@
+{
+    "user_id": "U07178",
+    "name": "Thomas Mason",
+    "email": "thomas16@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Smith-Nelson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06857', 'B02529', 'B01368', 'B04234', 'B00393']"
+}

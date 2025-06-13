@@ -1,0 +1,14 @@
+{
+    "user_id": "U07547",
+    "name": "Jamie Moyer",
+    "email": "hilljason@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07422', 'B07295', 'B04790', 'B07584', 'B03174']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Wilson, Garrison and Garcia for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03176', 'B00813', 'B05465', 'B04737', 'B03356']"
+}

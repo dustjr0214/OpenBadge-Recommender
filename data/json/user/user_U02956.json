@@ -1,0 +1,14 @@
+{
+    "user_id": "U02956",
+    "name": "Karla Tran",
+    "email": "christophersherman@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09702']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Davis PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06389', 'B02494']"
+}

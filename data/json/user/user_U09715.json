@@ -1,0 +1,14 @@
+{
+    "user_id": "U09715",
+    "name": "Rebecca Lawrence",
+    "email": "williamsjulie@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08189', 'B06917', 'B03722', 'B08721']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Rodgers and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08063', 'B09155', 'B08888', 'B03959']"
+}

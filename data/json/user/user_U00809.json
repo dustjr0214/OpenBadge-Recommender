@@ -1,0 +1,14 @@
+{
+    "user_id": "U00809",
+    "name": "Samuel Lopez",
+    "email": "samanthastevenson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Stevens, Heath and Edwards for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09788', 'B00495', 'B05762']"
+}

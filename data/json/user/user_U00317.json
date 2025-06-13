@@ -1,0 +1,14 @@
+{
+    "user_id": "U00317",
+    "name": "Shawn Vasquez",
+    "email": "dcoleman@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01954', 'B09168', 'B09726']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Miller, Cunningham and Mcdonald for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03592', 'B04148', 'B03468', 'B04912']"
+}

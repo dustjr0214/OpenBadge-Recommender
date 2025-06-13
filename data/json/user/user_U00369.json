@@ -1,0 +1,14 @@
+{
+    "user_id": "U00369",
+    "name": "Kristen Hughes",
+    "email": "matthew11@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07307', 'B09627', 'B06066', 'B02375', 'B04589']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Blackburn Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00295', 'B04800', 'B05351', 'B06733', 'B06884']"
+}

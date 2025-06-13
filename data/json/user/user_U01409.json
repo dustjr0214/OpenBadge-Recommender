@@ -1,0 +1,14 @@
+{
+    "user_id": "U01409",
+    "name": "Angela Harrell",
+    "email": "gcastro@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09628']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Curtis-Pena for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06319', 'B01740', 'B03280', 'B02611']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06773",
+    "name": "Theresa Woodard",
+    "email": "jonathangates@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02101', 'B03804', 'B09555', 'B08416', 'B04479']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Ramirez and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06145",
+    "name": "Sheila Perez",
+    "email": "melissa35@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02325', 'B06025', 'B01808', 'B03659']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Garza-King for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09226', 'B09646', 'B06361', 'B07924']"
+}

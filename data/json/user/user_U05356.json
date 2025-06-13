@@ -1,0 +1,14 @@
+{
+    "user_id": "U05356",
+    "name": "Katelyn Benson",
+    "email": "leegabriel@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06122', 'B02286', 'B02542']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Jacobson, Alvarez and Johnson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07827', 'B05382', 'B07164', 'B09099', 'B03724']"
+}

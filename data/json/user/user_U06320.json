@@ -1,0 +1,14 @@
+{
+    "user_id": "U06320",
+    "name": "Jesse Butler",
+    "email": "ramirezanthony@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09386', 'B03722', 'B00108']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Miller-Jones for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05027']"
+}

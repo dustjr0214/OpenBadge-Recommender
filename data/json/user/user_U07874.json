@@ -1,0 +1,14 @@
+{
+    "user_id": "U07874",
+    "name": "John Parker",
+    "email": "brownlisa@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02181', 'B09287', 'B09806', 'B06799', 'B03345']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Kim-Lopez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04750', 'B05133', 'B02550', 'B01445']"
+}

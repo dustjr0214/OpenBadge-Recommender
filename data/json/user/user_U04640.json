@@ -1,0 +1,14 @@
+{
+    "user_id": "U04640",
+    "name": "Gabrielle Anderson",
+    "email": "robert23@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03371']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Miller LLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07265', 'B03086', 'B03626']"
+}

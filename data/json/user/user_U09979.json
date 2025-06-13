@@ -1,0 +1,14 @@
+{
+    "user_id": "U09979",
+    "name": "Brian Cook",
+    "email": "ebonyhernandez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07935', 'B04306', 'B04056', 'B02796']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Mcclain, Thomas and Nunez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03525']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02116",
+    "name": "Meghan Camacho",
+    "email": "marquezedward@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04993', 'B09186', 'B08150', 'B03370', 'B08105']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Beard-Perry for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09367', 'B09858']"
+}

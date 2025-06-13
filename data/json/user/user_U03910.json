@@ -1,0 +1,14 @@
+{
+    "user_id": "U03910",
+    "name": "Dr. Jorge Murphy",
+    "email": "xgregory@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00995', 'B08755', 'B08104', 'B06547']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Collier-Torres for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08703', 'B06120', 'B04092', 'B02319', 'B05570']"
+}

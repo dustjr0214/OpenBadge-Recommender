@@ -1,0 +1,14 @@
+{
+    "user_id": "U05091",
+    "name": "Judy Rodgers",
+    "email": "kallen@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01701', 'B02802', 'B04613', 'B03280']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Gutierrez, Brooks and Cummings for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09433', 'B04473']"
+}

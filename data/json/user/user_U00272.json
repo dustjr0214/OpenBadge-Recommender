@@ -1,0 +1,14 @@
+{
+    "user_id": "U00272",
+    "name": "Nancy King",
+    "email": "garciatheresa@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00873', 'B04748', 'B00021']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Cummings, Sutton and Trujillo for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05594', 'B06656']"
+}

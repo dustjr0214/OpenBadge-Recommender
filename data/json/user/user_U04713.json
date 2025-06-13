@@ -1,0 +1,14 @@
+{
+    "user_id": "U04713",
+    "name": "Edward Jacobson",
+    "email": "jessica36@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07748', 'B00712']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Bryant, Obrien and Jordan for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05766']"
+}

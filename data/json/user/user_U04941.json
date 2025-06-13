@@ -1,0 +1,14 @@
+{
+    "user_id": "U04941",
+    "name": "Luis Duke",
+    "email": "lmontgomery@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09978', 'B06266']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Chen Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07237']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01862",
+    "name": "Kelli Clark",
+    "email": "jbradley@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05965', 'B04961']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Brown and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04896', 'B00952', 'B03146', 'B09613', 'B03031']"
+}

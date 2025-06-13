@@ -1,0 +1,14 @@
+{
+    "user_id": "U03562",
+    "name": "Robert Sullivan",
+    "email": "melissa42@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Hudson and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05731', 'B00911']"
+}

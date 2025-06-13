@@ -1,0 +1,14 @@
+{
+    "user_id": "U06071",
+    "name": "Cindy Perry",
+    "email": "ingramdarren@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01356', 'B00684', 'B08130', 'B01558']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Harrison Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

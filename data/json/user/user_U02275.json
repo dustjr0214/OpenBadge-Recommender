@@ -1,0 +1,14 @@
+{
+    "user_id": "U02275",
+    "name": "Albert Lynch",
+    "email": "gabrielpark@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08875', 'B02786']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at White-Cox for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06501', 'B08894', 'B05752', 'B05859', 'B05842']"
+}

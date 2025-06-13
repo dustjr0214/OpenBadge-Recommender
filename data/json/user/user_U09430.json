@@ -1,0 +1,14 @@
+{
+    "user_id": "U09430",
+    "name": "Aaron Greene",
+    "email": "lindacardenas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09051', 'B01308', 'B07215', 'B08422', 'B01132']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Curtis-Diaz for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08715', 'B02923']"
+}

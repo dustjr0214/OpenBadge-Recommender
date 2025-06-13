@@ -1,0 +1,14 @@
+{
+    "user_id": "U03922",
+    "name": "Carrie Castillo",
+    "email": "brandonnelson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09516', 'B00224', 'B01308', 'B00778', 'B01206']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Patel Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03632', 'B07981', 'B03488', 'B09258']"
+}

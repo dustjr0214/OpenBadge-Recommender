@@ -1,0 +1,14 @@
+{
+    "user_id": "U02992",
+    "name": "Tammy Shelton",
+    "email": "fergusonrandy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05686']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Gibson and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06530']"
+}

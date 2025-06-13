@@ -1,0 +1,14 @@
+{
+    "user_id": "U02875",
+    "name": "Jenny Ramirez",
+    "email": "richard63@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02085']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Dunn-Johnson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05203', 'B04093']"
+}

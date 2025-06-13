@@ -1,0 +1,14 @@
+{
+    "user_id": "U00241",
+    "name": "John Jones",
+    "email": "hvang@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06143', 'B02122', 'B05747', 'B05925']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hill Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

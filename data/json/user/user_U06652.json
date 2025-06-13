@@ -1,0 +1,14 @@
+{
+    "user_id": "U06652",
+    "name": "Brian Maldonado",
+    "email": "seanpeterson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03840', 'B09603', 'B07717', 'B06304']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Robinson, Ball and Yang for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06509', 'B08323']"
+}

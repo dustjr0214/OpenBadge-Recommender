@@ -1,0 +1,14 @@
+{
+    "user_id": "U02781",
+    "name": "John Rogers",
+    "email": "wmyers@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03827', 'B06893', 'B08593', 'B08655']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Edwards Group for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01817']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06017",
+    "name": "Martha Weiss",
+    "email": "danielsalejandra@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02125', 'B04741', 'B07616', 'B02887']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Olson-Brown for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06467', 'B03527', 'B06719', 'B05006', 'B07763']"
+}

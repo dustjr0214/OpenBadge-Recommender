@@ -1,0 +1,14 @@
+{
+    "user_id": "U08044",
+    "name": "Natasha Jackson",
+    "email": "kathyrodriguez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02691', 'B08316', 'B09656', 'B08560', 'B03239']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Everett-Cline for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09910', 'B03578', 'B09112']"
+}

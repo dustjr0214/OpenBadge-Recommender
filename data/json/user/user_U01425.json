@@ -1,0 +1,14 @@
+{
+    "user_id": "U01425",
+    "name": "Leslie Hawkins",
+    "email": "stefanie11@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02939', 'B01569', 'B04448']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Briggs, Harrison and Riley for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04420', 'B06607']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08474",
+    "name": "Jonathan Torres",
+    "email": "hoffmanamy@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01884']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Williams-Carter for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08353', 'B03672', 'B02942', 'B03196']"
+}

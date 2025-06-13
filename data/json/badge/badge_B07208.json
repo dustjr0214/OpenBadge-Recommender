@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07208",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'DevOps', 'Cloud Computing']",
+    "competency": "['Analytical Skills', 'Data Analysis', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05469', 'B06005']"
+}

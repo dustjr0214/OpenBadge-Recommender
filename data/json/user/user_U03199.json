@@ -1,0 +1,14 @@
+{
+    "user_id": "U03199",
+    "name": "David Hill",
+    "email": "hernandeztammy@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Edwards-Evans for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01755', 'B07946', 'B00505', 'B08042', 'B01219']"
+}

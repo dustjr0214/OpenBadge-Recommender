@@ -1,0 +1,14 @@
+{
+    "user_id": "U09247",
+    "name": "James Huber",
+    "email": "timothymcdonald@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01080', 'B04351', 'B03654', 'B09431', 'B04881']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Cisneros and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02944', 'B08606', 'B01260']"
+}

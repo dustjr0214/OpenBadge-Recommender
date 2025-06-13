@@ -1,0 +1,14 @@
+{
+    "user_id": "U00074",
+    "name": "Martin West",
+    "email": "andrewholloway@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02080', 'B06482', 'B02671']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Collins Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04255', 'B03079', 'B07658']"
+}

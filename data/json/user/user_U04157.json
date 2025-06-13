@@ -1,0 +1,14 @@
+{
+    "user_id": "U04157",
+    "name": "Scott Lewis",
+    "email": "krodgers@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Stanton, Cook and Jordan for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01096', 'B03407', 'B08446', 'B05673']"
+}

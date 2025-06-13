@@ -1,0 +1,14 @@
+{
+    "user_id": "U02059",
+    "name": "Heidi Brown",
+    "email": "kyle34@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00955', 'B00543', 'B07324', 'B08007', 'B05542']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Galloway, Johnson and Bell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02519']"
+}

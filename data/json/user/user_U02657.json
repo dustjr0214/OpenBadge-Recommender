@@ -1,0 +1,14 @@
+{
+    "user_id": "U02657",
+    "name": "Tim King",
+    "email": "xpeters@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04269', 'B05252', 'B01498', 'B00780']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Shaw Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06806', 'B00421', 'B00774']"
+}

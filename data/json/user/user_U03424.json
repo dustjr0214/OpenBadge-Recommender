@@ -1,0 +1,14 @@
+{
+    "user_id": "U03424",
+    "name": "Kyle Solis",
+    "email": "gwright@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07767', 'B05110', 'B08750', 'B07772', 'B07589']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Bean, Tapia and Powell for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

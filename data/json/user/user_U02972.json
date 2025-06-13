@@ -1,0 +1,14 @@
+{
+    "user_id": "U02972",
+    "name": "Tom Jones",
+    "email": "yorkkelly@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06801', 'B08685', 'B06573']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Green-Washington for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05049', 'B02885']"
+}

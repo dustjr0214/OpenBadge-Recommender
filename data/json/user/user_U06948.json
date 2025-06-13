@@ -1,0 +1,14 @@
+{
+    "user_id": "U06948",
+    "name": "Robert Ruiz",
+    "email": "haneydavid@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08570', 'B09433', 'B04065', 'B07958', 'B06670']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Lucero and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04277",
+    "name": "Jennifer Snyder",
+    "email": "miguelarmstrong@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03769']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Garcia-Roberts for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07434', 'B04440', 'B04801', 'B03012']"
+}

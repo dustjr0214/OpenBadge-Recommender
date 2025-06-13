@@ -1,0 +1,14 @@
+{
+    "user_id": "U04919",
+    "name": "Alicia Johnson",
+    "email": "smithgeorge@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04080', 'B09940', 'B05337', 'B08009']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Rogers, Mitchell and Smith for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

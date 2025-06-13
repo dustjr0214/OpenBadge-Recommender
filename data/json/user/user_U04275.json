@@ -1,0 +1,14 @@
+{
+    "user_id": "U04275",
+    "name": "Corey Thompson",
+    "email": "adam72@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07882', 'B03060', 'B03127']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Mccarthy-Snow for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01846', 'B07919', 'B07819', 'B02572', 'B06467']"
+}

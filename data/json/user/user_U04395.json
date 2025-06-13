@@ -1,0 +1,14 @@
+{
+    "user_id": "U04395",
+    "name": "John Sharp",
+    "email": "johnstonjustin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01388', 'B02778', 'B07794']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Porter-Parker for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04962']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08945",
+    "name": "Matthew Hartman",
+    "email": "thomas82@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00154', 'B09910', 'B02616']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Edwards, Juarez and Navarro for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07138', 'B00563', 'B02860', 'B07741', 'B03426']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06883",
+    "name": "Robert Gray",
+    "email": "lthomas@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01618', 'B07604']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Young and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04989', 'B06567']"
+}

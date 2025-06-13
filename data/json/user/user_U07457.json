@@ -1,0 +1,14 @@
+{
+    "user_id": "U07457",
+    "name": "Steven Pruitt",
+    "email": "sharonburke@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07074', 'B09072', 'B00456', 'B06362']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Villanueva Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00936', 'B02461', 'B03045']"
+}

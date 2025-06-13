@@ -1,0 +1,14 @@
+{
+    "user_id": "U01207",
+    "name": "Jordan Richards",
+    "email": "whart@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07808', 'B04812', 'B03453', 'B02946']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Williams, Collins and Martinez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06782', 'B00644', 'B02712']"
+}

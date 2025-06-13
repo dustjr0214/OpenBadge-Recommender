@@ -1,0 +1,14 @@
+{
+    "user_id": "U05210",
+    "name": "Parker Tran",
+    "email": "rwright@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05752', 'B00176', 'B02360', 'B08339', 'B03465']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Vincent, Novak and Wright for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06241', 'B03231', 'B08299', 'B09156', 'B08016']"
+}

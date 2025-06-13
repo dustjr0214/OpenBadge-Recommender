@@ -1,0 +1,14 @@
+{
+    "user_id": "U02914",
+    "name": "Carlos Daniel",
+    "email": "andrew34@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00730', 'B04120', 'B03265']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Delacruz-Cross for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07173']"
+}

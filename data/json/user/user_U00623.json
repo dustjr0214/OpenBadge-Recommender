@@ -1,0 +1,14 @@
+{
+    "user_id": "U00623",
+    "name": "Stephanie Johnson",
+    "email": "kfarrell@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04024', 'B04486', 'B02533']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Jacobs Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09107",
+    "name": "Andrea Bennett",
+    "email": "xhiggins@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08039']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Bass, Olson and Durham for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01708', 'B08805', 'B07164', 'B01345', 'B03645']"
+}

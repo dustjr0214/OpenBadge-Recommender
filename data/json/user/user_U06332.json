@@ -1,0 +1,14 @@
+{
+    "user_id": "U06332",
+    "name": "Laura Poole",
+    "email": "leeapril@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08504']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Blevins, Townsend and Heath for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07492']"
+}

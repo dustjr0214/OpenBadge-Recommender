@@ -1,0 +1,14 @@
+{
+    "user_id": "U05247",
+    "name": "Taylor Thomas",
+    "email": "thomassmith@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06510', 'B09932', 'B05645', 'B08150', 'B06213']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Young-Davis for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06785', 'B05662', 'B06678', 'B06263']"
+}

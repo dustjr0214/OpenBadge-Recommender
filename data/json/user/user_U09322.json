@@ -1,0 +1,14 @@
+{
+    "user_id": "U09322",
+    "name": "Chelsea Huerta",
+    "email": "twest@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05130', 'B08431', 'B03681', 'B08255', 'B07856']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Russell-James for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09320', 'B02886']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07482",
+    "name": "Randall Wilkins",
+    "email": "ymartin@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08931']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Wilson, Wall and Krause for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04504', 'B01093']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04901",
+    "name": "Debra Davis",
+    "email": "kaylaflores@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06623', 'B03271', 'B05490', 'B07302']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Martinez-Walker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02689', 'B02951']"
+}

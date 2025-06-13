@@ -1,0 +1,14 @@
+{
+    "user_id": "U07680",
+    "name": "John Lopez",
+    "email": "christinalewis@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09565', 'B01887', 'B06873', 'B08390']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Miller, Rodriguez and Hutchinson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02700', 'B07340', 'B02505', 'B05473', 'B03672']"
+}

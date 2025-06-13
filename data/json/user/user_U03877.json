@@ -1,0 +1,14 @@
+{
+    "user_id": "U03877",
+    "name": "Johnny Strickland",
+    "email": "austinanthony@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02609', 'B08433']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Webb-Parker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06684', 'B03284']"
+}

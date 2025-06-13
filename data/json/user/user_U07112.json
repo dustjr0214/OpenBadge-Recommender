@@ -1,0 +1,14 @@
+{
+    "user_id": "U07112",
+    "name": "Gina Sandoval",
+    "email": "amandapotter@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07526', 'B06863', 'B07715', 'B02566']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Hurst-Hall for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06705', 'B09359', 'B09777', 'B03247', 'B00376']"
+}

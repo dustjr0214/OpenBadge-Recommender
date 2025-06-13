@@ -1,0 +1,14 @@
+{
+    "user_id": "U01942",
+    "name": "Becky Bauer",
+    "email": "dawn52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04772', 'B07990', 'B00193']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Rodriguez Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

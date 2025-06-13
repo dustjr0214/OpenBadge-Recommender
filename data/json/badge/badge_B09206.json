@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09206",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'UI/UX', 'Python']",
+    "competency": "['Cybersecurity', 'Data Analysis', 'Leadership']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B08175']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08524",
+    "name": "Kevin Evans",
+    "email": "charles72@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09711']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at White-Brandt for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07719', 'B05094', 'B00416', 'B03040']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06859",
+    "name": "Brian Mayer",
+    "email": "ryan37@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08954']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Martin-Armstrong for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04280', 'B07426', 'B06286']"
+}

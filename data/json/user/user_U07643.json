@@ -1,0 +1,14 @@
+{
+    "user_id": "U07643",
+    "name": "Dwayne Davis",
+    "email": "nparker@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05594', 'B02385']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Bates, Byrd and Yang for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00968', 'B08332']"
+}

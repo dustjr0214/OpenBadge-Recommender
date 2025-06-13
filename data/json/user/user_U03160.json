@@ -1,0 +1,14 @@
+{
+    "user_id": "U03160",
+    "name": "Michael Holloway",
+    "email": "jessicawalter@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07657', 'B03851']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Tanner, Rivera and Silva for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08374', 'B02121', 'B02071', 'B04378']"
+}

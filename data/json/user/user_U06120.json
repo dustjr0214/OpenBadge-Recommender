@@ -1,0 +1,14 @@
+{
+    "user_id": "U06120",
+    "name": "Francisco Reese",
+    "email": "talexander@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05004', 'B02938']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Turner and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08098', 'B08030', 'B05776', 'B05506']"
+}

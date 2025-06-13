@@ -1,0 +1,14 @@
+{
+    "user_id": "U09256",
+    "name": "Lisa Bonilla",
+    "email": "davisandrew@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00027', 'B01801']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Brown, Chan and Campos for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02440', 'B09139']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07102",
+    "name": "Mary Howard",
+    "email": "bgriffin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06561', 'B03642', 'B05606', 'B02694', 'B09376']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Herman-Herman for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00472']"
+}

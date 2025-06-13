@@ -1,0 +1,14 @@
+{
+    "user_id": "U08043",
+    "name": "Christopher Hensley",
+    "email": "paulsparks@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02002', 'B07754', 'B06118']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Reed, Ochoa and Schmidt for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

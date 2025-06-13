@@ -1,0 +1,14 @@
+{
+    "user_id": "U03094",
+    "name": "Ronald Burnett",
+    "email": "leejames@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06129', 'B06098', 'B08140', 'B03683', 'B01807']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Dean, Ray and Clark for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04651', 'B00057', 'B04650']"
+}

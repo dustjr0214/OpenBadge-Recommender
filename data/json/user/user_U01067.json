@@ -1,0 +1,14 @@
+{
+    "user_id": "U01067",
+    "name": "Brandon Richardson",
+    "email": "johnsontracy@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Trujillo-Ford for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08197', 'B03092', 'B02224']"
+}

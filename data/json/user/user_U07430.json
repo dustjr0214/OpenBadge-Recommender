@@ -1,0 +1,14 @@
+{
+    "user_id": "U07430",
+    "name": "Emily Keller DDS",
+    "email": "emmaholland@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06652', 'B06445', 'B08100', 'B05365']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Patterson, Ferguson and Mcdonald for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05416']"
+}

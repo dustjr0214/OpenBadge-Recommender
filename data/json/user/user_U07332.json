@@ -1,0 +1,14 @@
+{
+    "user_id": "U07332",
+    "name": "Mariah Reese",
+    "email": "stoneryan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01034', 'B09829', 'B02639', 'B08333', 'B05071']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Chavez, Chan and Johnson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09463', 'B04909']"
+}

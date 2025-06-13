@@ -1,0 +1,14 @@
+{
+    "user_id": "U09801",
+    "name": "Amy Sanchez",
+    "email": "kaylarobinson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Mooney, Hart and Townsend for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06058', 'B04268', 'B09375', 'B00497', 'B00572']"
+}

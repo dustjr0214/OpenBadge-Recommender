@@ -1,0 +1,14 @@
+{
+    "user_id": "U01172",
+    "name": "Brian Soto",
+    "email": "brookespencer@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04209']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Price-Alvarado for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08758', 'B00823']"
+}

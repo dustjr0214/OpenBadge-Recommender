@@ -1,0 +1,14 @@
+{
+    "user_id": "U09922",
+    "name": "April Martinez",
+    "email": "lisamiller@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03329', 'B07202', 'B05664']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at James-Ortiz for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07654', 'B00252']"
+}

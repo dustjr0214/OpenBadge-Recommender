@@ -1,0 +1,14 @@
+{
+    "user_id": "U00158",
+    "name": "Olivia Reid",
+    "email": "wnielsen@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04736', 'B03826', 'B05355']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Haney-Watson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09882', 'B02385', 'B04733', 'B00078']"
+}

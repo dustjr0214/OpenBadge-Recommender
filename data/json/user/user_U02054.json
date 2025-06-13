@@ -1,0 +1,14 @@
+{
+    "user_id": "U02054",
+    "name": "Brett Martinez",
+    "email": "elizabeth46@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04086', 'B09202']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Washington, Burke and Irwin for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06998', 'B05790', 'B05649', 'B05638', 'B00007']"
+}

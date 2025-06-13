@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02050",
+    "name": "Cybersecurity Professional",
+    "issuer": "Coursera",
+    "description": "Cybersecurity Professional badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Cybersecurity']",
+    "competency": "['Leadership', 'Deep Learning', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03535']"
+}

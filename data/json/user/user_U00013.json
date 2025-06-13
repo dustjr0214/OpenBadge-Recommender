@@ -1,0 +1,14 @@
+{
+    "user_id": "U00013",
+    "name": "Rebecca Mcmillan",
+    "email": "vmccoy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07303', 'B08633', 'B06171', 'B07091']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Herring, George and Gregory for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

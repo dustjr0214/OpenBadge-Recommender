@@ -1,0 +1,14 @@
+{
+    "user_id": "U06701",
+    "name": "Kimberly Ramirez",
+    "email": "jonathan89@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02138', 'B07033']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Harvey, Brown and Campos for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02260', 'B01873', 'B03116']"
+}

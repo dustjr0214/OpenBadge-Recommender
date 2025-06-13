@@ -1,0 +1,14 @@
+{
+    "user_id": "U04746",
+    "name": "David Bennett",
+    "email": "nicholasjones@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07064', 'B00210', 'B08517', 'B05717']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Wheeler Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07699', 'B01328', 'B05486', 'B08468', 'B01734']"
+}

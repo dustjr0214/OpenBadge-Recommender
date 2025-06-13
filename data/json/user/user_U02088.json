@@ -1,0 +1,14 @@
+{
+    "user_id": "U02088",
+    "name": "Edward Gardner",
+    "email": "sherrybarnes@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02578', 'B00604', 'B07188']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Perez, Smith and Johnson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02276']"
+}

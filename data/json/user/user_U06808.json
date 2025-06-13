@@ -1,0 +1,14 @@
+{
+    "user_id": "U06808",
+    "name": "Heidi Martin",
+    "email": "petersenmichael@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04779', 'B06093', 'B04902']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Santos Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03833', 'B03195', 'B02196', 'B08847']"
+}

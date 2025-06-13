@@ -1,0 +1,14 @@
+{
+    "user_id": "U06162",
+    "name": "Claudia Williams",
+    "email": "tranmegan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04409', 'B06286', 'B03158', 'B01927']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Cole-Orr for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09320', 'B00384', 'B03722', 'B07076']"
+}

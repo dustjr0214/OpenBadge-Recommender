@@ -1,0 +1,14 @@
+{
+    "user_id": "U05987",
+    "name": "Aaron Neal",
+    "email": "jhernandez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09209', 'B07484', 'B02081', 'B06164']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Howard-Campbell for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08357']"
+}

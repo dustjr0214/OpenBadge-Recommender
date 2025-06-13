@@ -1,0 +1,14 @@
+{
+    "user_id": "U06128",
+    "name": "Tamara Gonzalez",
+    "email": "erica75@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04109', 'B08079', 'B00684', 'B03696']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Lopez PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06794', 'B05322', 'B08528', 'B03526', 'B07035']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06527",
+    "name": "Andrew Lang",
+    "email": "kmanning@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04145']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Blackwell, Jackson and Hall for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04591', 'B03185', 'B04862']"
+}

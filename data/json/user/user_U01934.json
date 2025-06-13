@@ -1,0 +1,14 @@
+{
+    "user_id": "U01934",
+    "name": "Miss Anne Bryant DDS",
+    "email": "andersonkimberly@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04084', 'B02676', 'B05584']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Sweeney, Allison and Yoder for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06683', 'B01461']"
+}

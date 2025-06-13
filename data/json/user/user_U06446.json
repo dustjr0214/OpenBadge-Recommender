@@ -1,0 +1,14 @@
+{
+    "user_id": "U06446",
+    "name": "Matthew Oneill",
+    "email": "hawkinsvictoria@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05043', 'B04737', 'B02418']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Johnson LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04781', 'B04406']"
+}

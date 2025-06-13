@@ -1,0 +1,14 @@
+{
+    "user_id": "U02552",
+    "name": "Dustin Wilson",
+    "email": "gcline@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07392', 'B03569', 'B03198', 'B05249']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Carroll Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05863', 'B04231']"
+}

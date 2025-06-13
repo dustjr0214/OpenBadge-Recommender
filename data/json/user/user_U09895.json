@@ -1,0 +1,14 @@
+{
+    "user_id": "U09895",
+    "name": "Dean Rosario",
+    "email": "garytorres@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07022', 'B00938', 'B02475', 'B06620', 'B03685']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Garcia, Hines and Skinner for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05901', 'B07208', 'B02944']"
+}

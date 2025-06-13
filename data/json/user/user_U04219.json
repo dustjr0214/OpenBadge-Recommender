@@ -1,0 +1,14 @@
+{
+    "user_id": "U04219",
+    "name": "Thomas Johnson",
+    "email": "princechristine@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06541', 'B07292', 'B01784', 'B04158']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Larson-Ortiz for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05209', 'B00935']"
+}

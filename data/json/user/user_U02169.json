@@ -1,0 +1,14 @@
+{
+    "user_id": "U02169",
+    "name": "David Johnson",
+    "email": "tinaturner@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01259', 'B07243', 'B08472']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Noble Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08121', 'B07617', 'B03771', 'B07920']"
+}

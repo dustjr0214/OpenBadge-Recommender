@@ -1,0 +1,14 @@
+{
+    "user_id": "U04610",
+    "name": "Jennifer Ramirez",
+    "email": "jacob64@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07091', 'B04474']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Dorsey-Sherman for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00966', 'B04303', 'B06075', 'B04294']"
+}

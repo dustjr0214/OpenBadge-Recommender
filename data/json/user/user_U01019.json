@@ -1,0 +1,14 @@
+{
+    "user_id": "U01019",
+    "name": "Bradley Sherman",
+    "email": "kimberlylarson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00419']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Smith-Phillips for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07822', 'B07182']"
+}

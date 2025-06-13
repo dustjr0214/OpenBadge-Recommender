@@ -1,0 +1,14 @@
+{
+    "user_id": "U04990",
+    "name": "Richard Johnson",
+    "email": "duane55@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04794', 'B02660', 'B04047']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Hunter, Parsons and Adams for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04858', 'B01981', 'B08526', 'B08188', 'B09578']"
+}

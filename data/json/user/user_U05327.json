@@ -1,0 +1,14 @@
+{
+    "user_id": "U05327",
+    "name": "Mary Roth",
+    "email": "wrobertson@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09600', 'B05151']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Parrish-Fernandez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08457', 'B00955']"
+}

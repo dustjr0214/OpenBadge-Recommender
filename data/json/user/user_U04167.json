@@ -1,0 +1,14 @@
+{
+    "user_id": "U04167",
+    "name": "Harry Randall",
+    "email": "moralesdylan@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04952', 'B08118', 'B00480', 'B08214', 'B04227']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Lee-Smith for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06617', 'B07406', 'B08436']"
+}

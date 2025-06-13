@@ -1,0 +1,14 @@
+{
+    "user_id": "U03993",
+    "name": "Ronald Marshall",
+    "email": "yjones@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07957', 'B06808']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Atkins-Kim for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05055', 'B07244', 'B00426', 'B00173', 'B05343']"
+}

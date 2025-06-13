@@ -1,0 +1,14 @@
+{
+    "user_id": "U09724",
+    "name": "Todd Fitzpatrick",
+    "email": "scottdixon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04616', 'B07333', 'B06203', 'B08065']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brown, Palmer and Wilson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

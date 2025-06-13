@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01601",
+    "name": "Big Data Analyst",
+    "issuer": "IBM",
+    "description": "Big Data Analyst badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'SQL']",
+    "competency": "['Analytical Skills', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B05444', 'B00108']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02421",
+    "name": "Jason Carpenter",
+    "email": "melissa36@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00540', 'B00953', 'B07550', 'B01780']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Walker-Carr for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07542', 'B06096']"
+}

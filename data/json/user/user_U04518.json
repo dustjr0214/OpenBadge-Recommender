@@ -1,0 +1,14 @@
+{
+    "user_id": "U04518",
+    "name": "Phillip Parks",
+    "email": "jesseturner@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02341']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Williams PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09613', 'B09688', 'B01343', 'B08833']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03096",
+    "name": "Lisa Wilkinson",
+    "email": "pamelaferrell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02513', 'B01237', 'B07722']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Douglas-Newton for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03352', 'B00776', 'B08302']"
+}

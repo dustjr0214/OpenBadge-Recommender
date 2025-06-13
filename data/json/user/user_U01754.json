@@ -1,0 +1,14 @@
+{
+    "user_id": "U01754",
+    "name": "Michael Newman",
+    "email": "michaelburnett@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00830', 'B03232', 'B08318', 'B04487']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hahn Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06616', 'B04474', 'B02385', 'B06408', 'B09752']"
+}

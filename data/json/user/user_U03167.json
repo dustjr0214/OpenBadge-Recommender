@@ -1,0 +1,14 @@
+{
+    "user_id": "U03167",
+    "name": "Christopher Shannon",
+    "email": "jacksonteresa@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00952', 'B03749', 'B05418', 'B05269']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cook, Kelly and Green for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09185', 'B04127', 'B07101', 'B03931']"
+}

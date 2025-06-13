@@ -1,0 +1,14 @@
+{
+    "user_id": "U08535",
+    "name": "Zachary Espinoza",
+    "email": "lopezashley@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01812', 'B09545']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Hess-Turner for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

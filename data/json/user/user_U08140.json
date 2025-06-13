@@ -1,0 +1,14 @@
+{
+    "user_id": "U08140",
+    "name": "Sarah Jordan",
+    "email": "ygardner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05060', 'B08516', 'B02853', 'B06246']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Brady Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02146', 'B07068', 'B06771']"
+}

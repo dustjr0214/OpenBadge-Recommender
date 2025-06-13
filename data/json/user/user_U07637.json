@@ -1,0 +1,14 @@
+{
+    "user_id": "U07637",
+    "name": "David Walton",
+    "email": "elizabeth39@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03480', 'B02244']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Stephens, Kirk and Phelps for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

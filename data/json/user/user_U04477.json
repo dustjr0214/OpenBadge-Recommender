@@ -1,0 +1,14 @@
+{
+    "user_id": "U04477",
+    "name": "Glenn Moss",
+    "email": "hahncalvin@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07252', 'B08571', 'B01822', 'B06164', 'B06202']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Phillips and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09916', 'B03279', 'B01149', 'B07749']"
+}

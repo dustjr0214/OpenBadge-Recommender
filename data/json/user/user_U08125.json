@@ -1,0 +1,14 @@
+{
+    "user_id": "U08125",
+    "name": "Ryan Rose",
+    "email": "jordan73@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03320', 'B03915']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Alexander-Ferguson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09226', 'B08805', 'B01758', 'B00195', 'B00230']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03843",
+    "name": "Keith Rojas",
+    "email": "katherinevasquez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Torres, Nelson and Hernandez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00724', 'B03540', 'B09303', 'B01341', 'B06392']"
+}

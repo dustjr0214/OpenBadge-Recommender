@@ -1,0 +1,14 @@
+{
+    "user_id": "U01516",
+    "name": "Jason Williams",
+    "email": "jeffrey48@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07933', 'B06078', 'B03055']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rose-Lucas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04151']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04564",
+    "name": "Andrea Davis",
+    "email": "kylemitchell@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03895', 'B07850', 'B04827']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Harris Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08930', 'B06518', 'B07625', 'B00252', 'B01454']"
+}

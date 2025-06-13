@@ -1,0 +1,14 @@
+{
+    "user_id": "U02327",
+    "name": "Kara Flores",
+    "email": "gary39@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06507', 'B03027', 'B01780', 'B07407', 'B02438']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Green and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03662', 'B01012', 'B03756', 'B06914', 'B08628']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02760",
+    "name": "Sydney Shaw",
+    "email": "bryanmatthew@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06600', 'B00827', 'B01924', 'B05244']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Donovan Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04261",
+    "name": "Anna Collins",
+    "email": "ecampbell@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02096', 'B03255']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Allen-Baker for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05278', 'B09952', 'B07437']"
+}

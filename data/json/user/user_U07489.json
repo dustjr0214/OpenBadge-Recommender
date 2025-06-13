@@ -1,0 +1,14 @@
+{
+    "user_id": "U07489",
+    "name": "Eric Sellers",
+    "email": "meghanlee@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02620', 'B09373', 'B03793']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Gordon Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06742', 'B05041']"
+}

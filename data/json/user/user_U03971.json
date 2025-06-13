@@ -1,0 +1,14 @@
+{
+    "user_id": "U03971",
+    "name": "Cassandra Rojas",
+    "email": "jacobsmelinda@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02023', 'B02929', 'B07839', 'B08644']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Gilmore-Chandler for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09237', 'B04109', 'B05202', 'B02127', 'B02799']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07786",
+    "name": "Jonathan Beasley",
+    "email": "jose55@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02637', 'B03499', 'B05906']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Byrd-Olson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03127', 'B01253', 'B03992']"
+}

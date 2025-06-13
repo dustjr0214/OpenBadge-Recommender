@@ -1,0 +1,14 @@
+{
+    "user_id": "U09211",
+    "name": "Kathryn Snyder",
+    "email": "pacejulie@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04390', 'B02254', 'B07509', 'B03401', 'B05737']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Miller PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06910', 'B00746', 'B07974', 'B06407', 'B03158']"
+}

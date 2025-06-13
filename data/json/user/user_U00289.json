@@ -1,0 +1,14 @@
+{
+    "user_id": "U00289",
+    "name": "Joseph Young",
+    "email": "hmalone@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05117', 'B04908', 'B00737', 'B05023']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Willis-Jacobs for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03900', 'B05576', 'B04489']"
+}

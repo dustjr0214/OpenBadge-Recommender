@@ -1,0 +1,14 @@
+{
+    "user_id": "U03795",
+    "name": "Jose Kim",
+    "email": "wsmith@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09298', 'B05653']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Villa-Ramirez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06640', 'B03408', 'B00574', 'B08799', 'B00294']"
+}

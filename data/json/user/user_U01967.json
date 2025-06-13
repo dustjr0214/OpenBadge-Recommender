@@ -1,0 +1,14 @@
+{
+    "user_id": "U01967",
+    "name": "Dr. Sheila Braun",
+    "email": "eric24@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06525', 'B02622', 'B06001', 'B00560']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Garcia and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05318', 'B05139']"
+}

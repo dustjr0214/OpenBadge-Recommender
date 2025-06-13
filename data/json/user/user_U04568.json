@@ -1,0 +1,14 @@
+{
+    "user_id": "U04568",
+    "name": "Linda Tran",
+    "email": "diazjustin@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00338', 'B07860', 'B08727', 'B02090', 'B04321']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Young, Davidson and Price for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

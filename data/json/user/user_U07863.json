@@ -1,0 +1,14 @@
+{
+    "user_id": "U07863",
+    "name": "Ivan Clark",
+    "email": "melissabranch@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hopkins Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09923', 'B07123', 'B03365', 'B06193']"
+}

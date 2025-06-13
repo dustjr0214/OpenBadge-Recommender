@@ -1,0 +1,14 @@
+{
+    "user_id": "U07478",
+    "name": "Paul Morales",
+    "email": "tpark@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00463', 'B07456', 'B04727', 'B08885', 'B01910']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Mills-Hicks for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

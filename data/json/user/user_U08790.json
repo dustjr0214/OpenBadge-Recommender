@@ -1,0 +1,14 @@
+{
+    "user_id": "U08790",
+    "name": "Anthony Snyder",
+    "email": "tchandler@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at White-Mcconnell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08351', 'B05869', 'B00756', 'B00026']"
+}

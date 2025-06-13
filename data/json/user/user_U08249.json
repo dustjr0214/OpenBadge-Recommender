@@ -1,0 +1,14 @@
+{
+    "user_id": "U08249",
+    "name": "Cynthia Little",
+    "email": "wrightjose@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Webster-Franco for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03856', 'B02001', 'B00927', 'B02918']"
+}

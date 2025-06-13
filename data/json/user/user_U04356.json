@@ -1,0 +1,14 @@
+{
+    "user_id": "U04356",
+    "name": "Rebekah Smith",
+    "email": "heather67@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03185', 'B04031', 'B02707']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Chang-Mclaughlin for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09063', 'B03937', 'B04978', 'B02085', 'B01370']"
+}

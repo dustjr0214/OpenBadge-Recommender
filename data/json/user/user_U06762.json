@@ -1,0 +1,14 @@
+{
+    "user_id": "U06762",
+    "name": "Shannon Abbott",
+    "email": "christopher06@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02278', 'B00214', 'B00890']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Clark and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06645', 'B04713']"
+}

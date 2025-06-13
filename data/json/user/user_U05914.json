@@ -1,0 +1,14 @@
+{
+    "user_id": "U05914",
+    "name": "Michael Buchanan",
+    "email": "francismiranda@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08745', 'B01915', 'B06617', 'B03126']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Rodriguez PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04271', 'B07121', 'B05554']"
+}

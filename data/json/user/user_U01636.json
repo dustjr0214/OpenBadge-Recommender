@@ -1,0 +1,14 @@
+{
+    "user_id": "U01636",
+    "name": "Michele Case",
+    "email": "tperez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01636', 'B07512', 'B04248', 'B07221']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Anderson-Stewart for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06191', 'B01838']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08204",
+    "name": "Heather Calhoun",
+    "email": "donaldjohnson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05911', 'B07234']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Lam PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00928', 'B01945']"
+}

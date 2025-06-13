@@ -1,0 +1,14 @@
+{
+    "user_id": "U00477",
+    "name": "Sara Ruiz",
+    "email": "xrobertson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07322']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Collins-Lane for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05239', 'B02861', 'B02366', 'B02862', 'B00646']"
+}

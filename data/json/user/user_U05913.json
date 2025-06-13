@@ -1,0 +1,14 @@
+{
+    "user_id": "U05913",
+    "name": "Ryan Ochoa",
+    "email": "catherinestewart@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02782']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Wilkins-Christensen for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03557', 'B02540', 'B05265', 'B02137']"
+}

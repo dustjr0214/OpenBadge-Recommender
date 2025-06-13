@@ -1,0 +1,14 @@
+{
+    "user_id": "U03275",
+    "name": "Dylan Johnson",
+    "email": "thomasbauer@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05000', 'B06989', 'B09645', 'B07820', 'B06072']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Campbell Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

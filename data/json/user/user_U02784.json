@@ -1,0 +1,14 @@
+{
+    "user_id": "U02784",
+    "name": "Jean Parker",
+    "email": "lunakristi@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00461', 'B01831', 'B04896', 'B00936']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Ramirez LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04497', 'B09371']"
+}

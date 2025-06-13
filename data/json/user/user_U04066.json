@@ -1,0 +1,14 @@
+{
+    "user_id": "U04066",
+    "name": "Christopher Martinez",
+    "email": "staceyjackson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04426']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hernandez Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07761', 'B01896']"
+}

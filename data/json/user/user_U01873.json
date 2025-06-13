@@ -1,0 +1,14 @@
+{
+    "user_id": "U01873",
+    "name": "Valerie Adams",
+    "email": "teresa97@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01584', 'B08916', 'B09952']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Miranda-Thomas for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

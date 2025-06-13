@@ -1,0 +1,14 @@
+{
+    "user_id": "U01502",
+    "name": "Christopher Davis",
+    "email": "joantaylor@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03594', 'B04074', 'B09482', 'B02627', 'B06234']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Walker-Ellis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08981', 'B02455', 'B06071']"
+}

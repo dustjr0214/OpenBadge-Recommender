@@ -1,0 +1,14 @@
+{
+    "user_id": "U07881",
+    "name": "Brent Alvarez",
+    "email": "patelalex@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04997', 'B01516', 'B06094', 'B09499']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Coleman-Abbott for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01672', 'B01563']"
+}

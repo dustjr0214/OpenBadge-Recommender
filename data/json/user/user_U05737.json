@@ -1,0 +1,14 @@
+{
+    "user_id": "U05737",
+    "name": "Tara James",
+    "email": "peterwilliams@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09395', 'B07644', 'B04529', 'B04166']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Powers-Rodriguez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05747', 'B06581', 'B02738']"
+}

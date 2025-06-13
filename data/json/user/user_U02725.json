@@ -1,0 +1,14 @@
+{
+    "user_id": "U02725",
+    "name": "Margaret Jacobs",
+    "email": "christopher96@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00607', 'B07026', 'B07900', 'B01740', 'B07199']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Rogers Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08555', 'B01122', 'B02917', 'B09814', 'B01965']"
+}

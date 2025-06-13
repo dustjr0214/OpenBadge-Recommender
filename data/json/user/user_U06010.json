@@ -1,0 +1,14 @@
+{
+    "user_id": "U06010",
+    "name": "Rhonda Burton",
+    "email": "ypowell@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02098', 'B02670', 'B09022', 'B03999', 'B02131']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Torres, Butler and Miranda for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09627', 'B08298', 'B07754', 'B02809']"
+}

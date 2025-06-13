@@ -1,0 +1,14 @@
+{
+    "user_id": "U01804",
+    "name": "Greg Miller MD",
+    "email": "davidmoss@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06481', 'B01457', 'B02123', 'B01519']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Taylor-Paul for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06315', 'B04067', 'B06839']"
+}

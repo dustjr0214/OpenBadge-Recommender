@@ -1,0 +1,14 @@
+{
+    "user_id": "U03652",
+    "name": "Matthew Thompson IV",
+    "email": "katie95@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06939', 'B02561', 'B02876', 'B03701', 'B09091']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Johnson-Soto for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08791', 'B00277', 'B03395']"
+}

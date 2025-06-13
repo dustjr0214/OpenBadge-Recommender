@@ -1,0 +1,14 @@
+{
+    "user_id": "U01312",
+    "name": "Wesley Giles",
+    "email": "diazconnie@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01505', 'B09876', 'B06828']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Ponce Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07578']"
+}

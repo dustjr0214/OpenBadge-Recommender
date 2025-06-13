@@ -1,0 +1,14 @@
+{
+    "user_id": "U03909",
+    "name": "Kimberly Dennis",
+    "email": "riverakenneth@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06155', 'B09843', 'B03737', 'B02877', 'B07482']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Miller, Stark and Sawyer for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08837', 'B06781', 'B00367', 'B05319']"
+}

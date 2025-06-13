@@ -1,0 +1,14 @@
+{
+    "user_id": "U07012",
+    "name": "Stephanie Graham",
+    "email": "hernandezjason@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03930', 'B07985', 'B03420', 'B05446']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Martin-Tucker for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07905', 'B03868', 'B04701', 'B02096', 'B01898']"
+}

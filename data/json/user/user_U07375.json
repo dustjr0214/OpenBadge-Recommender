@@ -1,0 +1,14 @@
+{
+    "user_id": "U07375",
+    "name": "Eric Garcia",
+    "email": "jessica66@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'DevOps', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04646', 'B04904', 'B09451']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Herrera-Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02767', 'B04731', 'B01689']"
+}

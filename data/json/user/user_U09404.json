@@ -1,0 +1,14 @@
+{
+    "user_id": "U09404",
+    "name": "Ashley Anderson",
+    "email": "hebertdavid@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Anderson PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03561', 'B06521', 'B09121', 'B02185']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03779",
+    "name": "Cathy Jones",
+    "email": "clarkephillip@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07348', 'B05895']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Baker-Wright for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05508', 'B02944']"
+}

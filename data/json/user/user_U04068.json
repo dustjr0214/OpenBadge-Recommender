@@ -1,0 +1,14 @@
+{
+    "user_id": "U04068",
+    "name": "Richard Lee",
+    "email": "smithtracy@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06776', 'B02393']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Johnson-Perry for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04278', 'B03140', 'B02755', 'B05596', 'B00069']"
+}

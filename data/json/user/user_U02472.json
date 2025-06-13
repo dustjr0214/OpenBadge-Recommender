@@ -1,0 +1,14 @@
+{
+    "user_id": "U02472",
+    "name": "Susan Dunn",
+    "email": "hhansen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09571', 'B05124', 'B05976', 'B05748']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lawson PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09090', 'B02424', 'B09701']"
+}

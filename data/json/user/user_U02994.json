@@ -1,0 +1,14 @@
+{
+    "user_id": "U02994",
+    "name": "Angela Burns",
+    "email": "aliscott@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09117', 'B06560', 'B09919']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Bowers and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08574', 'B00399', 'B01381']"
+}

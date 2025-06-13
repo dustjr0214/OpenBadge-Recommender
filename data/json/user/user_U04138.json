@@ -1,0 +1,14 @@
+{
+    "user_id": "U04138",
+    "name": "Christopher Bentley",
+    "email": "changchristopher@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04756', 'B09305', 'B09856', 'B02245', 'B01627']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Wilson-Andrews for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02669",
+    "name": "Erik Ware",
+    "email": "michelle25@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01385', 'B08883', 'B06537']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Durham-Simpson for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02862', 'B00539', 'B07245', 'B06701']"
+}

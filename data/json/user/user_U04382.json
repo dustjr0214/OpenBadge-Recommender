@@ -1,0 +1,14 @@
+{
+    "user_id": "U04382",
+    "name": "Robert Wolfe",
+    "email": "rodriguezcory@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03972', 'B08027', 'B04394', 'B07862', 'B03455']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Berg PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02009']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03415",
+    "name": "Kim Singh",
+    "email": "alexandramoore@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04168', 'B07210', 'B09973']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Yoder, Phelps and Walker for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

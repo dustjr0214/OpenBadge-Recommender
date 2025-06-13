@@ -1,0 +1,14 @@
+{
+    "user_id": "U05001",
+    "name": "Victoria Davenport",
+    "email": "oconnorbrandon@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03457', 'B07312', 'B07885', 'B02164', 'B08527']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Strong and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02403', 'B03578', 'B08158', 'B08013']"
+}

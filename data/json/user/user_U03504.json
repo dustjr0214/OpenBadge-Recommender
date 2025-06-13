@@ -1,0 +1,14 @@
+{
+    "user_id": "U03504",
+    "name": "Dennis Stevenson",
+    "email": "david46@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01612']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Carpenter Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00651', 'B06733']"
+}

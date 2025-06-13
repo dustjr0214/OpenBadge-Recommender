@@ -1,0 +1,14 @@
+{
+    "user_id": "U00917",
+    "name": "Madison Meyer",
+    "email": "ljones@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04925', 'B04397', 'B08697', 'B07046']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Thomas, Vincent and Evans for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02781', 'B07059', 'B07164', 'B01314']"
+}

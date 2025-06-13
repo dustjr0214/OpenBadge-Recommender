@@ -1,0 +1,14 @@
+{
+    "user_id": "U01224",
+    "name": "Christopher Ward",
+    "email": "egay@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09243', 'B01430', 'B07953', 'B00763', 'B00050']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Stevens-Lee for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05100', 'B03391', 'B04998', 'B07061', 'B00028']"
+}

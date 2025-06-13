@@ -1,0 +1,14 @@
+{
+    "user_id": "U04790",
+    "name": "Benjamin Green",
+    "email": "nthomas@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01584', 'B01170', 'B06180']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Flores and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09516', 'B06839', 'B05858']"
+}

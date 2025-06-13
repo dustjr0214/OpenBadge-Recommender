@@ -1,0 +1,14 @@
+{
+    "user_id": "U04709",
+    "name": "Cheryl Galvan",
+    "email": "maria29@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05149', 'B03414', 'B09594']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Quinn-Riley for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05914', 'B03533', 'B05209']"
+}

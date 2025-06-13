@@ -1,0 +1,14 @@
+{
+    "user_id": "U09000",
+    "name": "Christina Camacho",
+    "email": "randrade@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00877', 'B06537', 'B07651', 'B01807']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Brown Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07625', 'B08138']"
+}

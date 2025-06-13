@@ -1,0 +1,14 @@
+{
+    "user_id": "U04723",
+    "name": "Jennifer Page",
+    "email": "ibarrajennifer@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09855', 'B08079', 'B02189', 'B06567']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Floyd PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07664', 'B06009', 'B09853', 'B05707', 'B04425']"
+}

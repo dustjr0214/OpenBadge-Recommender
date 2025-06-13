@@ -1,0 +1,14 @@
+{
+    "user_id": "U08110",
+    "name": "Autumn Duncan",
+    "email": "booneashley@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03268', 'B05204', 'B03133', 'B05715', 'B09048']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Allen Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03879']"
+}

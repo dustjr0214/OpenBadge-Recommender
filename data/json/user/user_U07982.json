@@ -1,0 +1,14 @@
+{
+    "user_id": "U07982",
+    "name": "Kristen Briggs",
+    "email": "underwoodbrittany@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08185']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Moore, Weaver and Rodriguez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09790', 'B02426']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06738",
+    "name": "Krystal Luna",
+    "email": "nathan34@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00573']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Garcia-Sherman for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04281', 'B06415', 'B00472']"
+}

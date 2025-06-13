@@ -1,0 +1,14 @@
+{
+    "user_id": "U09803",
+    "name": "Kim Gonzalez",
+    "email": "rollinsrachael@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06949', 'B07212', 'B09826', 'B07826', 'B02201']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Foster Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01160']"
+}

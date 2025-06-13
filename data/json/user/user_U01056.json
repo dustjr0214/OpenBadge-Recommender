@@ -1,0 +1,14 @@
+{
+    "user_id": "U01056",
+    "name": "Andre Flores",
+    "email": "erinwillis@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Shah PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06011', 'B01444']"
+}

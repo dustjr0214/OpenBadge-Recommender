@@ -1,0 +1,14 @@
+{
+    "user_id": "U01579",
+    "name": "Louis Chapman",
+    "email": "jasoncarlson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02006']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Simmons-Crosby for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04649', 'B03395', 'B09337']"
+}

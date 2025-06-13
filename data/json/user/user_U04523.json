@@ -1,0 +1,14 @@
+{
+    "user_id": "U04523",
+    "name": "David Stone",
+    "email": "ericflowers@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Duffy Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06138', 'B07448', 'B02819', 'B09168', 'B05081']"
+}

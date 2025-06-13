@@ -1,0 +1,14 @@
+{
+    "user_id": "U00533",
+    "name": "Paul Bennett",
+    "email": "courtneymartinez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07260', 'B00825']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Lewis, Hutchinson and Manning for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05549', 'B09374', 'B03358']"
+}

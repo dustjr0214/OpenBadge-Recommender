@@ -1,0 +1,14 @@
+{
+    "user_id": "U06408",
+    "name": "Nicole Kane",
+    "email": "nsummers@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07460']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Williams PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06518', 'B05905', 'B03316']"
+}

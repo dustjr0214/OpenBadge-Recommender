@@ -1,0 +1,14 @@
+{
+    "user_id": "U01788",
+    "name": "Christopher Love",
+    "email": "pwu@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08843', 'B03863']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Case Ltd for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05554']"
+}

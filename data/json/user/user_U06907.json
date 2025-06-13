@@ -1,0 +1,14 @@
+{
+    "user_id": "U06907",
+    "name": "Jeffrey Barton",
+    "email": "richardharris@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08472', 'B04521', 'B00639', 'B08161', 'B01652']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Fields, Jackson and Hartman for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06393', 'B04873', 'B01009', 'B04631', 'B04596']"
+}

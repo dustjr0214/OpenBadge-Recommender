@@ -1,0 +1,14 @@
+{
+    "user_id": "U01674",
+    "name": "Allison Hamilton",
+    "email": "mburton@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08490', 'B06788', 'B03572', 'B06430']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Henry, Walker and Phillips for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00679', 'B06249', 'B03890', 'B09762']"
+}

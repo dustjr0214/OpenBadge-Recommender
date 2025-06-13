@@ -1,0 +1,14 @@
+{
+    "user_id": "U03508",
+    "name": "Connor Morrison",
+    "email": "nicholsjaclyn@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01058', 'B02623']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Carter-Gonzalez for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08225', 'B03148', 'B00276']"
+}

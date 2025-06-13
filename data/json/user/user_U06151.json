@@ -1,0 +1,14 @@
+{
+    "user_id": "U06151",
+    "name": "Scott Carey",
+    "email": "hernandezkeith@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09888']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Kelly LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04783', 'B07247', 'B08357', 'B09737', 'B04744']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05282",
+    "name": "Cory Wolf",
+    "email": "jorge54@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03907', 'B09871']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Mendoza, Roberts and Stewart for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09886', 'B09130']"
+}

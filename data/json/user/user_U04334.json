@@ -1,0 +1,14 @@
+{
+    "user_id": "U04334",
+    "name": "Brad Vargas",
+    "email": "hdunlap@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03631', 'B04846']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Key, Holder and Schultz for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08520', 'B08504']"
+}

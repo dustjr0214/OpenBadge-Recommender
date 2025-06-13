@@ -1,0 +1,14 @@
+{
+    "user_id": "U01887",
+    "name": "James Nguyen",
+    "email": "kyle88@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01743', 'B08249', 'B01155']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Graham, Rice and Salas for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08954', 'B02518', 'B06494']"
+}

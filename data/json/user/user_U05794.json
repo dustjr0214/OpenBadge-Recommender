@@ -1,0 +1,14 @@
+{
+    "user_id": "U05794",
+    "name": "Christina Johnson",
+    "email": "craig03@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00850']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Taylor-Brown for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03577']"
+}

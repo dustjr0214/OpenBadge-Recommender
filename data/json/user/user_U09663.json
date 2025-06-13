@@ -1,0 +1,14 @@
+{
+    "user_id": "U09663",
+    "name": "Alexa Davis",
+    "email": "smithpatricia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06370', 'B00236', 'B03755', 'B06549', 'B09866']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Patterson-Jenkins for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06766', 'B06415', 'B02174', 'B06170', 'B06532']"
+}

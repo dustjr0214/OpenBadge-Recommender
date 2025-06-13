@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06743",
+    "name": "Cloud Computing Guru",
+    "issuer": "edX",
+    "description": "Cloud Computing Guru badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency": "['Creativity', 'Analytical Skills', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B06202']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07780",
+    "name": "Jerry Schwartz",
+    "email": "lisa76@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04962', 'B04322', 'B02109', 'B07457', 'B07325']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Cherry, Perry and Salinas for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09591', 'B07868', 'B06754']"
+}

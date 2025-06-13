@@ -1,0 +1,14 @@
+{
+    "user_id": "U01230",
+    "name": "Tiffany Scott",
+    "email": "milleralan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02078']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Morse, Hernandez and Lewis for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

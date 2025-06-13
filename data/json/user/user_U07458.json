@@ -1,0 +1,14 @@
+{
+    "user_id": "U07458",
+    "name": "Vanessa Johnson",
+    "email": "paulschmitt@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04306', 'B09878', 'B02778', 'B00858']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Turner Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08494",
+    "name": "Jennifer Sosa",
+    "email": "michael30@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08448', 'B04871', 'B00785', 'B01073', 'B04473']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Young-Macias for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09150', 'B09574']"
+}

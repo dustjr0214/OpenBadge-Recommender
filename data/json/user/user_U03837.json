@@ -1,0 +1,14 @@
+{
+    "user_id": "U03837",
+    "name": "Barbara Rodgers",
+    "email": "yroth@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05712']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Baker PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06889', 'B05446', 'B05639', 'B05904']"
+}

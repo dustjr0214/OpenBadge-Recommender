@@ -1,0 +1,14 @@
+{
+    "user_id": "U01881",
+    "name": "Calvin Jimenez",
+    "email": "kathleen85@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01825', 'B02925', 'B03155', 'B02903']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Brown PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03636', 'B04792', 'B05622', 'B03278', 'B03579']"
+}

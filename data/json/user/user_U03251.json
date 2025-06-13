@@ -1,0 +1,14 @@
+{
+    "user_id": "U03251",
+    "name": "Keith Wilson",
+    "email": "cjohnson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Green, Yang and Davis for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02917', 'B02990', 'B04520', 'B06819']"
+}

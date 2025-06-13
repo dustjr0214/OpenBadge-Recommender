@@ -1,0 +1,14 @@
+{
+    "user_id": "U08344",
+    "name": "Matthew Kelly",
+    "email": "maciastiffany@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02229', 'B03122']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Robinson-Skinner for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00464', 'B09032', 'B00570', 'B01330']"
+}

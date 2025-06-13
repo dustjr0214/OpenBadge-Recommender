@@ -1,0 +1,14 @@
+{
+    "user_id": "U05619",
+    "name": "Robert Wu",
+    "email": "lee10@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08694']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Watkins-Blevins for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02811', 'B01658', 'B05674', 'B05914', 'B07590']"
+}

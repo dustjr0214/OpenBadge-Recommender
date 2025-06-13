@@ -1,0 +1,14 @@
+{
+    "user_id": "U02249",
+    "name": "Tara Williams",
+    "email": "andersonbrent@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06887', 'B09513']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Holmes-Bond for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09688', 'B02623', 'B04146']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06878",
+    "name": "Emily Wright",
+    "email": "cruzjenny@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00042', 'B03949', 'B08863', 'B00660', 'B07681']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Smith-Blake for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01468', 'B00557', 'B06706', 'B04253']"
+}

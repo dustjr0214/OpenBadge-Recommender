@@ -1,0 +1,14 @@
+{
+    "user_id": "U00324",
+    "name": "Scott Miller",
+    "email": "adamowens@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06833', 'B05884', 'B02557', 'B05828', 'B07419']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Mack-Jenkins for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09245', 'B01129', 'B04467', 'B07537']"
+}

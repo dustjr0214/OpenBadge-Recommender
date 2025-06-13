@@ -1,0 +1,14 @@
+{
+    "user_id": "U08425",
+    "name": "Paul Gonzales",
+    "email": "jessicabradley@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05883', 'B00380', 'B01786', 'B07657']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Frost-Cruz for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06309', 'B00271', 'B06760']"
+}

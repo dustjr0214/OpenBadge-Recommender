@@ -1,0 +1,14 @@
+{
+    "user_id": "U00496",
+    "name": "Eric Marshall",
+    "email": "griffindawn@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03094', 'B09116', 'B05269', 'B08946', 'B00257']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Black-Arroyo for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09224', 'B05425', 'B01771', 'B08749', 'B10000']"
+}

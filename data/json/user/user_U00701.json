@@ -1,0 +1,14 @@
+{
+    "user_id": "U00701",
+    "name": "Debbie Taylor",
+    "email": "jaredramirez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08582', 'B04163', 'B07148', 'B07571', 'B01141']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Garcia, Lindsey and Moody for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01062', 'B07936', 'B07497', 'B02339', 'B04009']"
+}

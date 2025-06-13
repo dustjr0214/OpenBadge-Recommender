@@ -1,0 +1,14 @@
+{
+    "user_id": "U07212",
+    "name": "Jacqueline Brock",
+    "email": "hdavis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09983']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Harrison, Pittman and Hart for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06930', 'B09166', 'B02123', 'B05857']"
+}

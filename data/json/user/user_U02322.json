@@ -1,0 +1,14 @@
+{
+    "user_id": "U02322",
+    "name": "Brittany Buchanan",
+    "email": "coreyharding@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01899', 'B06232', 'B07742', 'B00358']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Jones Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00936', 'B02067', 'B03440', 'B05612']"
+}

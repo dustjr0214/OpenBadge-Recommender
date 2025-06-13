@@ -1,0 +1,14 @@
+{
+    "user_id": "U08657",
+    "name": "Jose Briggs",
+    "email": "saundersgary@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03647', 'B08111', 'B06186', 'B02943']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Wheeler Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04955', 'B02133', 'B01644']"
+}

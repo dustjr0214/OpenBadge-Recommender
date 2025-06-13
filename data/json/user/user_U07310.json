@@ -1,0 +1,14 @@
+{
+    "user_id": "U07310",
+    "name": "Christopher Smith",
+    "email": "xjohnson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01424', 'B00894', 'B02023', 'B04127', 'B03022']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Murphy Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03241', 'B02967', 'B00620', 'B03300']"
+}

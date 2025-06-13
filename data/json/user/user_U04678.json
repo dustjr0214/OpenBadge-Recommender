@@ -1,0 +1,14 @@
+{
+    "user_id": "U04678",
+    "name": "Daniel Donovan",
+    "email": "nhudson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00271', 'B00442']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Richards, Dixon and Williamson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02692']"
+}

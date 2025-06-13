@@ -1,0 +1,14 @@
+{
+    "user_id": "U04873",
+    "name": "John Hall",
+    "email": "randyfowler@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02238', 'B00280', 'B05855']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Larson Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07015', 'B00363']"
+}

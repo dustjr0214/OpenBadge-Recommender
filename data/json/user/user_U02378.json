@@ -1,0 +1,14 @@
+{
+    "user_id": "U02378",
+    "name": "Jacqueline Petersen",
+    "email": "williamjames@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02470', 'B03399', 'B00458']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Bailey, Moore and Osborne for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03097', 'B07235', 'B06577', 'B02129']"
+}

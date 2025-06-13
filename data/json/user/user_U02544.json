@@ -1,0 +1,14 @@
+{
+    "user_id": "U02544",
+    "name": "Mrs. Kimberly Harris",
+    "email": "rosslaura@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03128', 'B01418', 'B07889', 'B08020', 'B03802']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Price-Harrison for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

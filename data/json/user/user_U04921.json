@@ -1,0 +1,14 @@
+{
+    "user_id": "U04921",
+    "name": "Timothy Yoder",
+    "email": "johnsondenise@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02236', 'B04902']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Stewart-Johnson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08596', 'B07518']"
+}

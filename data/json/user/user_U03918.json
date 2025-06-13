@@ -1,0 +1,14 @@
+{
+    "user_id": "U03918",
+    "name": "Brenda Brown",
+    "email": "wreeves@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08187', 'B05714', 'B00321', 'B02109']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Jones Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07522', 'B03457', 'B00040', 'B01233', 'B07568']"
+}

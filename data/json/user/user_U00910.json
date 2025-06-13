@@ -1,0 +1,14 @@
+{
+    "user_id": "U00910",
+    "name": "Kerry Adams",
+    "email": "cassandra41@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06071']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Wilkins Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06126', 'B08341', 'B03725', 'B00996']"
+}

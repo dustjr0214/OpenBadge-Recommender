@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01966",
+    "name": "Cybersecurity Professional",
+    "issuer": "edX",
+    "description": "Cybersecurity Professional badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'Cybersecurity', 'UI/UX']",
+    "competency": "['Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B01756']"
+}

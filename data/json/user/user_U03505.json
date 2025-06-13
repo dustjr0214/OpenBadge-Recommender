@@ -1,0 +1,14 @@
+{
+    "user_id": "U03505",
+    "name": "Keith Hunter",
+    "email": "turneraaron@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03866']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at White, Nelson and Murphy for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05920', 'B08790', 'B07973', 'B08641']"
+}

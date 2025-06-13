@@ -1,0 +1,14 @@
+{
+    "user_id": "U06475",
+    "name": "Jeffery Bailey",
+    "email": "fphelps@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04979', 'B03980']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Benson and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06168']"
+}

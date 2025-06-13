@@ -1,0 +1,14 @@
+{
+    "user_id": "U06109",
+    "name": "Tiffany Williams",
+    "email": "qblack@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09541', 'B07618', 'B08387']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Morrison PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07916', 'B06739', 'B03545']"
+}

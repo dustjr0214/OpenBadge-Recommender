@@ -1,0 +1,14 @@
+{
+    "user_id": "U09056",
+    "name": "Joanna Rice",
+    "email": "gadams@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08545', 'B03070', 'B04961']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Kelley Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08834', 'B06172', 'B06041', 'B06912', 'B04293']"
+}

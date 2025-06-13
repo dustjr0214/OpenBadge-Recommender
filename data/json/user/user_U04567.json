@@ -1,0 +1,14 @@
+{
+    "user_id": "U04567",
+    "name": "Alexandria Cervantes",
+    "email": "laurenvargas@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02652', 'B02776', 'B01441']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Duncan Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07089",
+    "name": "Sharon Walsh",
+    "email": "ksmith@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07807', 'B09556', 'B06785', 'B00758', 'B07624']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Hull LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05505']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00199",
+    "name": "Jessica Owen",
+    "email": "maddoxjennifer@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00624', 'B07112', 'B04094', 'B05247']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Franco, Sanchez and Greer for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03313', 'B02361', 'B02580', 'B03272']"
+}

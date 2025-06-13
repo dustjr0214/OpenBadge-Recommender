@@ -1,0 +1,14 @@
+{
+    "user_id": "U06233",
+    "name": "Alan Vasquez",
+    "email": "marioevans@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Garrett-Williams for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02737', 'B08769', 'B01391']"
+}

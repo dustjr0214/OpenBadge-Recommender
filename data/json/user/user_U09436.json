@@ -1,0 +1,14 @@
+{
+    "user_id": "U09436",
+    "name": "Sandy Johnson",
+    "email": "jerome19@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09460', 'B02809']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Patrick-Thompson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01897', 'B06251']"
+}

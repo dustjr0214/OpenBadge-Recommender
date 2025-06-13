@@ -1,0 +1,14 @@
+{
+    "user_id": "U00225",
+    "name": "Steven Weiss",
+    "email": "michelemcdowell@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04554', 'B08946', 'B00469']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Walters-Morris for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02683']"
+}

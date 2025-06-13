@@ -1,0 +1,14 @@
+{
+    "user_id": "U01415",
+    "name": "Tracey Wilson",
+    "email": "tracymorgan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04410', 'B08745', 'B00412', 'B09948']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Ferguson PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01550",
+    "name": "Melanie Brown",
+    "email": "josephdavis@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04494', 'B07891']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Arellano-Moore for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03339']"
+}

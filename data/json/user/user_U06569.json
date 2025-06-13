@@ -1,0 +1,14 @@
+{
+    "user_id": "U06569",
+    "name": "Courtney Shannon",
+    "email": "qhuffman@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03345', 'B01996', 'B01537', 'B05064']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Webb, Harris and Hinton for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

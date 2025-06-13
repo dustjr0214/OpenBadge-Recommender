@@ -1,0 +1,14 @@
+{
+    "user_id": "U07136",
+    "name": "Robert Jones",
+    "email": "daniel54@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01274', 'B06298', 'B08495', 'B05713']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Barr-Bryan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09176', 'B09791', 'B06942']"
+}

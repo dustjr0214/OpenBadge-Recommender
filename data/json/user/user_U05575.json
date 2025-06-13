@@ -1,0 +1,14 @@
+{
+    "user_id": "U05575",
+    "name": "Gina Juarez",
+    "email": "michellesmith@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07439', 'B09731', 'B00018', 'B02961', 'B00647']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Stark Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00942']"
+}

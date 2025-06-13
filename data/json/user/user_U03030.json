@@ -1,0 +1,14 @@
+{
+    "user_id": "U03030",
+    "name": "Melissa Burns",
+    "email": "kurtorozco@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Deep Learning', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05992', 'B01250', 'B07759', 'B03094']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Munoz PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01118', 'B06555', 'B06380', 'B09528', 'B03453']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02340",
+    "name": "Carlos Griffin",
+    "email": "fsmith@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07941']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Owens, Booker and Hughes for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04227', 'B06752', 'B00646', 'B05984']"
+}

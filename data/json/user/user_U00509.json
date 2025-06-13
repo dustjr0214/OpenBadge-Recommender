@@ -1,0 +1,14 @@
+{
+    "user_id": "U00509",
+    "name": "Mrs. Jennifer Brown",
+    "email": "gaymarc@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08754', 'B08413', 'B04995', 'B02377']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Ross-Lang for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08466', 'B08935']"
+}

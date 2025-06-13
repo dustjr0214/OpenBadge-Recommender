@@ -1,0 +1,14 @@
+{
+    "user_id": "U04335",
+    "name": "Robert Scott",
+    "email": "tiffany89@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05748']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Payne-Taylor for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01815', 'B00909', 'B06574', 'B03791', 'B09278']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04166",
+    "name": "Marcus Thomas",
+    "email": "jennifermorris@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08268', 'B01494', 'B06745', 'B05239']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rodriguez and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03822', 'B05783', 'B08570', 'B04190', 'B03706']"
+}

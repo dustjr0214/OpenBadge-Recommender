@@ -1,0 +1,14 @@
+{
+    "user_id": "U07679",
+    "name": "Marie Wilson",
+    "email": "oaustin@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04186', 'B03167', 'B07600', 'B08533', 'B04826']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Carr-Castillo for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05404']"
+}

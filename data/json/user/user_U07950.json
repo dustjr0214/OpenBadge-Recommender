@@ -1,0 +1,14 @@
+{
+    "user_id": "U07950",
+    "name": "Mr. Jose Gonzalez",
+    "email": "briansmith@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04871']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Phillips-Salas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04335', 'B09897', 'B01078', 'B01602']"
+}

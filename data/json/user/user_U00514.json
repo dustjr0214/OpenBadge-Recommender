@@ -1,0 +1,14 @@
+{
+    "user_id": "U00514",
+    "name": "Stephanie Gaines",
+    "email": "ashley25@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01277', 'B06218', 'B05820', 'B01844']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Hopkins Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06444']"
+}

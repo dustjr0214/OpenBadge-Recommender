@@ -1,0 +1,14 @@
+{
+    "user_id": "U02134",
+    "name": "Cassandra Green",
+    "email": "whitejames@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Williams Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06223', 'B08164', 'B05143', 'B02557']"
+}

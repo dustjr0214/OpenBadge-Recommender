@@ -1,0 +1,14 @@
+{
+    "user_id": "U06706",
+    "name": "Chelsea Wilcox",
+    "email": "gillmark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08989', 'B04306', 'B04610', 'B06996']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hall-Lawson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09127', 'B06894', 'B06319', 'B02268']"
+}

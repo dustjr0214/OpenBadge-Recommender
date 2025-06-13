@@ -1,0 +1,14 @@
+{
+    "user_id": "U00884",
+    "name": "Tracy Taylor",
+    "email": "lindafarley@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06680', 'B09103']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Smith-Schwartz for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04604', 'B03605']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09288",
+    "name": "Thomas Stevens",
+    "email": "ujones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03546', 'B02632', 'B08616', 'B06361']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Chapman, Jones and Williams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

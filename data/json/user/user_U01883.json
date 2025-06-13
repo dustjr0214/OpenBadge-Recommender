@@ -1,0 +1,14 @@
+{
+    "user_id": "U01883",
+    "name": "Gabriel Zavala",
+    "email": "elizabeth44@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03504']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Donovan Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

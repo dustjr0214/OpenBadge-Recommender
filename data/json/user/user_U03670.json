@@ -1,0 +1,14 @@
+{
+    "user_id": "U03670",
+    "name": "Lauren Newton",
+    "email": "teresaweaver@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04919']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hobbs-Montgomery for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04321', 'B09998', 'B09994', 'B06744']"
+}

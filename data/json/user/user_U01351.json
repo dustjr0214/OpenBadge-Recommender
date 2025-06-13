@@ -1,0 +1,14 @@
+{
+    "user_id": "U01351",
+    "name": "Daniel Clements",
+    "email": "joshua16@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08844', 'B04207', 'B04033']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Mcfarland and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06961', 'B01441']"
+}

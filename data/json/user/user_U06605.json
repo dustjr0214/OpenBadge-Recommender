@@ -1,0 +1,14 @@
+{
+    "user_id": "U06605",
+    "name": "Michael Hampton",
+    "email": "deanandrew@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07671', 'B03661', 'B00244', 'B02475']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Andrews-Fitzgerald for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07023', 'B02150']"
+}

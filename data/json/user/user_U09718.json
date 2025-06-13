@@ -1,0 +1,14 @@
+{
+    "user_id": "U09718",
+    "name": "Joshua Ayers",
+    "email": "qdavis@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09221', 'B07117', 'B09042']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Butler-Boyd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04820', 'B04999', 'B02418']"
+}

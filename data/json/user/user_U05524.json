@@ -1,0 +1,14 @@
+{
+    "user_id": "U05524",
+    "name": "Jamie Bryant",
+    "email": "tristanpeterson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00819', 'B02474', 'B09270', 'B02045', 'B07234']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Butler, Gray and Johnston for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02577', 'B05795', 'B00174', 'B00333']"
+}

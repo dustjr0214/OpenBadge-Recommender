@@ -1,0 +1,14 @@
+{
+    "user_id": "U07648",
+    "name": "Lindsay Daniels",
+    "email": "dschroeder@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02094', 'B02833', 'B08193']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Cobb-Davis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04129', 'B03543', 'B05842']"
+}

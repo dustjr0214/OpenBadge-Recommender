@@ -1,0 +1,14 @@
+{
+    "user_id": "U04083",
+    "name": "Nicholas Gibson",
+    "email": "riosnicole@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05889', 'B01162', 'B03343']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Moore LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00616']"
+}

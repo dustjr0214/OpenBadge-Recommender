@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00915",
+    "name": "Big Data Analyst",
+    "issuer": "Google",
+    "description": "Big Data Analyst badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Data Analysis', 'Cybersecurity']",
+    "competency": "['Problem Solving', 'Teamwork', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05949', 'B06691']"
+}

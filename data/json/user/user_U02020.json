@@ -1,0 +1,14 @@
+{
+    "user_id": "U02020",
+    "name": "Robert Hendricks",
+    "email": "zdurham@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03766', 'B04731', 'B09917', 'B04455', 'B00467']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Strong Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06313']"
+}

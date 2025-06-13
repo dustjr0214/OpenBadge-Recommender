@@ -1,0 +1,14 @@
+{
+    "user_id": "U00939",
+    "name": "Patrick Johnson",
+    "email": "allen50@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07828', 'B06118', 'B06707', 'B09973', 'B08968']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Alvarado Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09721",
+    "name": "Jacob Atkinson",
+    "email": "sholmes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06762', 'B03374', 'B05278', 'B07474', 'B03445']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Peterson, Stevens and Pace for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02529']"
+}

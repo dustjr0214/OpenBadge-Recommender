@@ -1,0 +1,14 @@
+{
+    "user_id": "U05323",
+    "name": "Nancy Lopez",
+    "email": "meghangomez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00758', 'B04775', 'B01683', 'B09395']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Fitzgerald-Brown for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05066', 'B06483', 'B07670']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08505",
+    "name": "Daniel Gutierrez",
+    "email": "johnsonbeverly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02552']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Lucas-Campos for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03173', 'B06609']"
+}

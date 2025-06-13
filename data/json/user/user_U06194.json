@@ -1,0 +1,14 @@
+{
+    "user_id": "U06194",
+    "name": "Maxwell Wolfe",
+    "email": "jonathanjohnson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03614', 'B06545', 'B08341', 'B06967']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Dennis-Goodwin for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05035', 'B04748', 'B01452', 'B03829', 'B08758']"
+}

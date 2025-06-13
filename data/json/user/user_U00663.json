@@ -1,0 +1,14 @@
+{
+    "user_id": "U00663",
+    "name": "Angela Becker",
+    "email": "coopernicole@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02097', 'B05662']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Krueger, Hampton and Brown for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09711', 'B07201']"
+}

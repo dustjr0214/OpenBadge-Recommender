@@ -1,0 +1,14 @@
+{
+    "user_id": "U00942",
+    "name": "Christopher Robinson",
+    "email": "morriskevin@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Python', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00126', 'B01991', 'B06495', 'B00271', 'B01631']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Gillespie PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00719', 'B05560', 'B08539', 'B01538']"
+}

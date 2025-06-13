@@ -1,0 +1,14 @@
+{
+    "user_id": "U05426",
+    "name": "Alexandra Montgomery",
+    "email": "jvelez@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08626', 'B07900']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Long Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04572', 'B07762', 'B05129', 'B05956', 'B07784']"
+}

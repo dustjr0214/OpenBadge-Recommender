@@ -1,0 +1,14 @@
+{
+    "user_id": "U03138",
+    "name": "Ricky Gibson",
+    "email": "ecox@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09204', 'B00423']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Romero-Yang for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04083', 'B01860', 'B07315']"
+}

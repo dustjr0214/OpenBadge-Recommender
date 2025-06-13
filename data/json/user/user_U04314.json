@@ -1,0 +1,14 @@
+{
+    "user_id": "U04314",
+    "name": "Rebecca Casey",
+    "email": "oscar00@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07841', 'B01383', 'B06787']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Bond, Baird and Ramirez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00691', 'B08450']"
+}

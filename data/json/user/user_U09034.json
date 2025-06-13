@@ -1,0 +1,14 @@
+{
+    "user_id": "U09034",
+    "name": "Christopher Hayes",
+    "email": "wjohnson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05220', 'B09580', 'B09652']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Holt-Cooper for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06560', 'B00003']"
+}

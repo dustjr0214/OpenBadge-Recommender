@@ -1,0 +1,14 @@
+{
+    "user_id": "U01008",
+    "name": "Kimberly Gross",
+    "email": "operkins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07040', 'B04669', 'B01075', 'B08009', 'B04247']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Blanchard, Ellis and Smith for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

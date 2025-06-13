@@ -1,0 +1,14 @@
+{
+    "user_id": "U00536",
+    "name": "Jacob Cabrera",
+    "email": "christinadominguez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03843', 'B01217']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Matthews, Barnes and Washington for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05327', 'B01180', 'B06606']"
+}

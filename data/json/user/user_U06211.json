@@ -1,0 +1,14 @@
+{
+    "user_id": "U06211",
+    "name": "Diane Holmes",
+    "email": "ashley33@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03334']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Washington PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02367', 'B06819', 'B01614']"
+}

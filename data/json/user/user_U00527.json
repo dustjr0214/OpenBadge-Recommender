@@ -1,0 +1,14 @@
+{
+    "user_id": "U00527",
+    "name": "Michael Valdez",
+    "email": "fjames@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00411', 'B03935', 'B00412', 'B02425']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Thomas-George for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03806', 'B02259', 'B00998', 'B03575']"
+}

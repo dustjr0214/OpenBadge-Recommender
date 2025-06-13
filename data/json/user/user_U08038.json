@@ -1,0 +1,14 @@
+{
+    "user_id": "U08038",
+    "name": "Connie Porter",
+    "email": "kimberlyhall@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02167', 'B07732', 'B03042']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Anderson, Webb and Wilkinson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02884']"
+}

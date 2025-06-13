@@ -1,0 +1,14 @@
+{
+    "user_id": "U04097",
+    "name": "Cindy Cruz",
+    "email": "wagnermark@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08023']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Stephens and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04266', 'B08160', 'B02707', 'B01019']"
+}

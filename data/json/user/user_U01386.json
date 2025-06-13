@@ -1,0 +1,14 @@
+{
+    "user_id": "U01386",
+    "name": "Katrina Knox",
+    "email": "ybrewer@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03797', 'B04546', 'B02553']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Camacho-Wilson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03778', 'B00634', 'B08244', 'B01096', 'B02531']"
+}

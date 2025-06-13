@@ -1,0 +1,14 @@
+{
+    "user_id": "U01977",
+    "name": "Joseph Malone",
+    "email": "yvettebrown@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06976', 'B09236', 'B02497', 'B00099', 'B04483']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Barr, Miranda and Davis for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03273', 'B03606', 'B05357', 'B05525']"
+}

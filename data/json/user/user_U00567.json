@@ -1,0 +1,14 @@
+{
+    "user_id": "U00567",
+    "name": "Kara Johnson",
+    "email": "chadmedina@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01868', 'B01811', 'B06847', 'B07100']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Morgan, Gonzales and Carter for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07769']"
+}

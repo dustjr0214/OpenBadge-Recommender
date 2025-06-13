@@ -1,0 +1,14 @@
+{
+    "user_id": "U00577",
+    "name": "Anthony Hudson",
+    "email": "zjackson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Calderon PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08064', 'B07293', 'B03073', 'B01249']"
+}

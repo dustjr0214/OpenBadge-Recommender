@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06290",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Python', 'Machine Learning', 'Cybersecurity']",
+    "competency": "['Python', 'Deep Learning', 'SQL']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B02338']"
+}

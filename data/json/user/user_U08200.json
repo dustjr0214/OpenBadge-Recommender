@@ -1,0 +1,14 @@
+{
+    "user_id": "U08200",
+    "name": "Nathan Jones",
+    "email": "jeremysnow@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06978', 'B04332', 'B06096', 'B08728']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Leach-Taylor for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05504', 'B08846', 'B01520', 'B00643', 'B02237']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04773",
+    "name": "Jesse Williams",
+    "email": "melissagutierrez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08698', 'B08102', 'B01589', 'B09007']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Brady-Guzman for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07896', 'B06625']"
+}

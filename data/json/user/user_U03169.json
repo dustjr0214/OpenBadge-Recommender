@@ -1,0 +1,14 @@
+{
+    "user_id": "U03169",
+    "name": "Amy King",
+    "email": "kenneth84@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01556']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Lee, Kelly and Bradley for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09660', 'B04727']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00243",
+    "name": "Christine Woods",
+    "email": "scottpatton@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gross LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01938', 'B03353', 'B07722', 'B02744']"
+}

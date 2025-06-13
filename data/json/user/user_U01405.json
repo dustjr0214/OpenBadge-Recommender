@@ -1,0 +1,14 @@
+{
+    "user_id": "U01405",
+    "name": "Phillip Scott",
+    "email": "james40@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08989']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Marshall-Allen for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

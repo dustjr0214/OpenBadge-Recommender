@@ -1,0 +1,14 @@
+{
+    "user_id": "U05133",
+    "name": "Christopher Hernandez",
+    "email": "thompsonbrandon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03494', 'B08879', 'B01803', 'B01163']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Garza-Smith for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05165', 'B07670', 'B01055']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00641",
+    "name": "Brian Cantrell",
+    "email": "daniel03@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02806', 'B07907', 'B03188', 'B06530']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Clark, Estrada and Rush for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05160']"
+}

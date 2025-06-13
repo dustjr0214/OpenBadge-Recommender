@@ -1,0 +1,14 @@
+{
+    "user_id": "U02042",
+    "name": "Allison Brooks",
+    "email": "kenneth89@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09966', 'B09866']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at King, Perry and Murray for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00879', 'B05159', 'B01377', 'B05194', 'B01835']"
+}

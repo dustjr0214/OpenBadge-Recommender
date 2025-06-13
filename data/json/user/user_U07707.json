@@ -1,0 +1,14 @@
+{
+    "user_id": "U07707",
+    "name": "Erik Anderson",
+    "email": "andersonwilliam@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05200', 'B04017', 'B08152', 'B05508', 'B07145']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Martinez-Watson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05896', 'B06244']"
+}

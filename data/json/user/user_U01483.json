@@ -1,0 +1,14 @@
+{
+    "user_id": "U01483",
+    "name": "Bruce Anderson",
+    "email": "alexandriafoster@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04732']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at King, Myers and Vaughn for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05920', 'B03734', 'B05460', 'B06690', 'B01539']"
+}

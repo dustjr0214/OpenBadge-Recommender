@@ -1,0 +1,14 @@
+{
+    "user_id": "U03991",
+    "name": "Mary Burnett",
+    "email": "lauraking@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01423', 'B02246', 'B05444', 'B09610', 'B07552']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Myers, Carroll and Simon for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00281', 'B09395']"
+}

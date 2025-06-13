@@ -1,0 +1,14 @@
+{
+    "user_id": "U05107",
+    "name": "Cesar Baker",
+    "email": "alan05@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08560', 'B06272']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Adams-Rodgers for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06364', 'B09603']"
+}

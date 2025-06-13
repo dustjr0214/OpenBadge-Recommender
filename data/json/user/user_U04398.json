@@ -1,0 +1,14 @@
+{
+    "user_id": "U04398",
+    "name": "Jesse Matthews",
+    "email": "mbrown@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Harris LLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06268', 'B06774', 'B03194', 'B03667']"
+}

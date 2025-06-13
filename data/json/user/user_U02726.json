@@ -1,0 +1,14 @@
+{
+    "user_id": "U02726",
+    "name": "Brendan Morse",
+    "email": "davenportstephen@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04777', 'B06677', 'B05181']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Collins, Wells and Weber for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06878', 'B05845', 'B03860']"
+}

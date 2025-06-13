@@ -1,0 +1,14 @@
+{
+    "user_id": "U06358",
+    "name": "Kelly Harrison",
+    "email": "ibennett@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07209', 'B04277', 'B04826', 'B04818']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Graham-Simon for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03795', 'B07283']"
+}

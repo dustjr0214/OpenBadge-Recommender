@@ -1,0 +1,14 @@
+{
+    "user_id": "U04589",
+    "name": "Belinda Smith",
+    "email": "nbennett@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00503', 'B06481', 'B06169']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Scott and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07965', 'B08287', 'B04462']"
+}

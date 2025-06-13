@@ -1,0 +1,14 @@
+{
+    "user_id": "U06260",
+    "name": "Zachary Dickerson",
+    "email": "sabrinajimenez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05217', 'B08658', 'B01048']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Griffith, Evans and Mclaughlin for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00701', 'B08903', 'B02274', 'B03701']"
+}

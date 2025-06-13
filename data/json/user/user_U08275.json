@@ -1,0 +1,14 @@
+{
+    "user_id": "U08275",
+    "name": "Marisa Adams",
+    "email": "wandajackson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02064', 'B09557', 'B04224', 'B03697', 'B01667']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Franco, Hubbard and Richmond for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02891', 'B05449', 'B00797', 'B09817']"
+}

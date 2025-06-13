@@ -1,0 +1,14 @@
+{
+    "user_id": "U00596",
+    "name": "Cody Fernandez",
+    "email": "jeremy00@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03367', 'B00145', 'B00494']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Hoffman-Garcia for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09535', 'B08447', 'B01446', 'B06548', 'B03182']"
+}

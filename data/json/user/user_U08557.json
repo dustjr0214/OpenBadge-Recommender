@@ -1,0 +1,14 @@
+{
+    "user_id": "U08557",
+    "name": "Jennifer Taylor",
+    "email": "markwest@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02323']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Diaz Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02388', 'B04589', 'B05720', 'B06500']"
+}

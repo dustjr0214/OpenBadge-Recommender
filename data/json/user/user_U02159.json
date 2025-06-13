@@ -1,0 +1,14 @@
+{
+    "user_id": "U02159",
+    "name": "Laura Davis",
+    "email": "kaitlinwalker@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Taylor, Tyler and Escobar for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02242', 'B04777', 'B01168', 'B05303', 'B06545']"
+}

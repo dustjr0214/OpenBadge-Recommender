@@ -1,0 +1,14 @@
+{
+    "user_id": "U03408",
+    "name": "Donna Nash",
+    "email": "lrojas@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04133', 'B04201', 'B00726', 'B09016']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Smith, Bailey and Schaefer for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00949']"
+}

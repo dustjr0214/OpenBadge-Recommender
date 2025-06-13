@@ -1,0 +1,14 @@
+{
+    "user_id": "U06429",
+    "name": "Brian Thomas",
+    "email": "rodneybrady@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07661', 'B09141', 'B05119']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Tran and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

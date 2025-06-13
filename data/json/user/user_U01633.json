@@ -1,0 +1,14 @@
+{
+    "user_id": "U01633",
+    "name": "Kevin Jenkins",
+    "email": "dwang@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04657', 'B04943', 'B09089', 'B07549', 'B09466']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Schneider, Dawson and Wilson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02388', 'B04782', 'B06736', 'B04418', 'B03226']"
+}

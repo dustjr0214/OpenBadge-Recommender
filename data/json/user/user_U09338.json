@@ -1,0 +1,14 @@
+{
+    "user_id": "U09338",
+    "name": "Anthony Chang",
+    "email": "anthonyharrington@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08076', 'B05853', 'B03529', 'B07277', 'B06671']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Jackson-Sanders for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02285']"
+}

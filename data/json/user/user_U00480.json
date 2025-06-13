@@ -1,0 +1,14 @@
+{
+    "user_id": "U00480",
+    "name": "Mackenzie Blake",
+    "email": "shuang@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00455', 'B07672', 'B08708']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Murray-Holmes for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

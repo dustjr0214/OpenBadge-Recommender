@@ -1,0 +1,14 @@
+{
+    "user_id": "U03053",
+    "name": "Carolyn Anderson",
+    "email": "oscar41@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01522', 'B06378', 'B06025']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Gray, Barnes and Edwards for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01130']"
+}

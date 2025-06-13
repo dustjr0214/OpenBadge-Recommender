@@ -1,0 +1,14 @@
+{
+    "user_id": "U04438",
+    "name": "Jessica Sanders",
+    "email": "amberevans@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05928', 'B09709', 'B04877']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Owen-Aguirre for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04938', 'B00878', 'B05456', 'B08537', 'B01104']"
+}

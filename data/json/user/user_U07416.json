@@ -1,0 +1,14 @@
+{
+    "user_id": "U07416",
+    "name": "Ian Haynes",
+    "email": "johnarnold@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08887', 'B08580']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Woodard, Madden and Williams for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03698', 'B01103', 'B01345']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01131",
+    "name": "Devin Thompson",
+    "email": "wilcoxpaul@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09685', 'B07544', 'B08418', 'B07929']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Baker Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03103', 'B08961']"
+}

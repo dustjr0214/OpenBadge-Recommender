@@ -1,0 +1,14 @@
+{
+    "user_id": "U00097",
+    "name": "Beth Collins",
+    "email": "diane63@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06496', 'B01304']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Ward-Alexander for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05990', 'B04363', 'B08946', 'B00696', 'B00082']"
+}

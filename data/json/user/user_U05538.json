@@ -1,0 +1,14 @@
+{
+    "user_id": "U05538",
+    "name": "Austin Sutton",
+    "email": "dhansen@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08434', 'B01698', 'B00714', 'B02742', 'B01083']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Wilcox-Ho for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00591",
+    "name": "Suzanne Huang",
+    "email": "mbishop@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Bartlett and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05471', 'B03733']"
+}

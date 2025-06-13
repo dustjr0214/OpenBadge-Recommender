@@ -1,0 +1,14 @@
+{
+    "user_id": "U04496",
+    "name": "Edwin Vasquez",
+    "email": "briggsblake@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Luna, Crawford and Romero for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09392', 'B04827', 'B07062', 'B07815', 'B01761']"
+}

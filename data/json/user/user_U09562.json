@@ -1,0 +1,14 @@
+{
+    "user_id": "U09562",
+    "name": "Katherine Tate DVM",
+    "email": "wdunn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09896', 'B01040', 'B09210', 'B03871', 'B08767']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Barrera, Lam and Copeland for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08723', 'B09051', 'B00977']"
+}

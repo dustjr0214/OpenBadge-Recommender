@@ -1,0 +1,14 @@
+{
+    "user_id": "U06693",
+    "name": "Brittany Crawford",
+    "email": "jlittle@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01444', 'B01888', 'B01692', 'B02755', 'B07862']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Hodge PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02486', 'B05481', 'B07011', 'B06179', 'B02560']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02331",
+    "name": "Dr. Kenneth Garcia",
+    "email": "ffloyd@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05313']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Bradley Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03108']"
+}

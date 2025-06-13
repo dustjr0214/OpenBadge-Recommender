@@ -1,0 +1,14 @@
+{
+    "user_id": "U01843",
+    "name": "Rachel Ingram",
+    "email": "brownsteven@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04623', 'B08599', 'B02212', 'B08249']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Andrews-Kerr for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08403', 'B07040', 'B03289']"
+}

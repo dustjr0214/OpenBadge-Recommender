@@ -1,0 +1,14 @@
+{
+    "user_id": "U09244",
+    "name": "Jerry Barton",
+    "email": "michael68@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08393', 'B07173']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Edwards-Wood for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

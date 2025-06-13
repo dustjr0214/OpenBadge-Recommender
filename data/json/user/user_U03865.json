@@ -1,0 +1,14 @@
+{
+    "user_id": "U03865",
+    "name": "Dalton Griffin",
+    "email": "danderson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06924', 'B06584', 'B00748', 'B02343']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Davis, Moore and Barnett for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00917', 'B03222', 'B08497', 'B08178']"
+}

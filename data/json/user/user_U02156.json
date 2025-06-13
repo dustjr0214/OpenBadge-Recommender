@@ -1,0 +1,14 @@
+{
+    "user_id": "U02156",
+    "name": "Jody Peterson",
+    "email": "kandrews@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03174', 'B01165', 'B02521', 'B03622', 'B08727']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Johnson, Merritt and Garcia for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05143', 'B06614', 'B05989', 'B04379']"
+}

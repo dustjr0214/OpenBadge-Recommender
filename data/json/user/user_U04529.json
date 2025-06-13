@@ -1,0 +1,14 @@
+{
+    "user_id": "U04529",
+    "name": "Anthony Bernard",
+    "email": "jessica94@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05015', 'B08839']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Lopez-Henry for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07678', 'B05361', 'B00732', 'B00584']"
+}

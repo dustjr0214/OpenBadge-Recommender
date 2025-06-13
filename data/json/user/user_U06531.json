@@ -1,0 +1,14 @@
+{
+    "user_id": "U06531",
+    "name": "Jeremy Lyons",
+    "email": "andrewgoodwin@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07703', 'B01478', 'B05838', 'B05690']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Decker, Garcia and Cunningham for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

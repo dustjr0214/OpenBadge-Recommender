@@ -1,0 +1,14 @@
+{
+    "user_id": "U00569",
+    "name": "Susan Snyder",
+    "email": "swansonlance@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03722', 'B04258', 'B03106']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Hernandez and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07222', 'B04449', 'B00596']"
+}

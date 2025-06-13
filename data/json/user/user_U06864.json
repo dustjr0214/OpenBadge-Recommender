@@ -1,0 +1,14 @@
+{
+    "user_id": "U06864",
+    "name": "Oscar Bradford",
+    "email": "christian17@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05304', 'B07966', 'B01228', 'B09236', 'B04299']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gray-Mccormick for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01315",
+    "name": "Miss Amy Bailey",
+    "email": "james08@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01367', 'B07524', 'B04634', 'B08348', 'B05498']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Hernandez Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

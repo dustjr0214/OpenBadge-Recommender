@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08101",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Teamwork', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B09365', 'B02709']"
+}

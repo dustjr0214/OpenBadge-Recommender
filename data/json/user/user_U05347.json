@@ -1,0 +1,14 @@
+{
+    "user_id": "U05347",
+    "name": "Jerry Horton",
+    "email": "levinedeborah@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09191']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Melton, Trujillo and Allen for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02613",
+    "name": "Randy Stevens",
+    "email": "billbutler@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04623', 'B02152', 'B09182']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Figueroa-Sanchez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04994', 'B00233', 'B03557', 'B07903']"
+}

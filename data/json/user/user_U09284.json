@@ -1,0 +1,14 @@
+{
+    "user_id": "U09284",
+    "name": "David Kim",
+    "email": "dennis45@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04377', 'B06894', 'B03377', 'B02132', 'B06518']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Watson, Johnson and Reyes for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08209', 'B05150', 'B05341']"
+}

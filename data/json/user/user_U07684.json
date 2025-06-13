@@ -1,0 +1,14 @@
+{
+    "user_id": "U07684",
+    "name": "Michael Douglas",
+    "email": "tommy81@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04564', 'B01570', 'B07527']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Yang, Anderson and Ponce for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

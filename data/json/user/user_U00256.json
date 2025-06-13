@@ -1,0 +1,14 @@
+{
+    "user_id": "U00256",
+    "name": "Samuel Velasquez",
+    "email": "robinthompson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08316']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Coleman, Cuevas and James for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06729', 'B07446', 'B00719']"
+}

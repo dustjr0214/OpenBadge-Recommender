@@ -1,0 +1,14 @@
+{
+    "user_id": "U01721",
+    "name": "Nicole Thomas",
+    "email": "fgarrett@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05822']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Perkins-Cunningham for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06570', 'B03436', 'B06386']"
+}

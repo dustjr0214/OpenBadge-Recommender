@@ -1,0 +1,14 @@
+{
+    "user_id": "U03085",
+    "name": "Shawn Barnes",
+    "email": "fgreen@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06225', 'B01689', 'B00559', 'B01839', 'B09959']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Moore Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04641', 'B07151', 'B07574']"
+}

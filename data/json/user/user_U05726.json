@@ -1,0 +1,14 @@
+{
+    "user_id": "U05726",
+    "name": "Brandon Porter",
+    "email": "lisa09@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04602', 'B06626']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Stanton Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09537', 'B06368', 'B04507']"
+}

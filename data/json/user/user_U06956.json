@@ -1,0 +1,14 @@
+{
+    "user_id": "U06956",
+    "name": "Jack Mitchell",
+    "email": "isaiah42@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09451', 'B04871', 'B06417', 'B09440', 'B04414']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Aguirre-Rose for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02409', 'B00529', 'B09955', 'B08633']"
+}

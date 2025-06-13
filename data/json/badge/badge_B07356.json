@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07356",
+    "name": "Big Data Analyst",
+    "issuer": "edX",
+    "description": "Big Data Analyst badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency": "['SQL', 'Data Analysis', 'Leadership']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07914', 'B02005']"
+}

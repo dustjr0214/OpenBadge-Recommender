@@ -1,0 +1,14 @@
+{
+    "user_id": "U03977",
+    "name": "Christine Butler",
+    "email": "marythompson@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00592', 'B06408', 'B08984', 'B04079']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Young, Bowman and Jordan for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06911', 'B07867', 'B05613', 'B07170']"
+}

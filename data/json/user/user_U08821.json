@@ -1,0 +1,14 @@
+{
+    "user_id": "U08821",
+    "name": "Ashley Garcia",
+    "email": "bradleyblevins@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08181', 'B03162', 'B07443', 'B01776']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Henry-Wright for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03133",
+    "name": "Mark Johnson",
+    "email": "david05@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06304', 'B02382', 'B00040', 'B05561']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Vazquez-Wilson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05512",
+    "name": "Megan Ramos",
+    "email": "marquezstephen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Smith-Smith for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08197', 'B00170']"
+}

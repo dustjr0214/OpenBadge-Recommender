@@ -1,0 +1,14 @@
+{
+    "user_id": "U01970",
+    "name": "Kim Elliott",
+    "email": "marc98@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06524', 'B04471']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Williams, Forbes and Myers for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02989', 'B04373']"
+}

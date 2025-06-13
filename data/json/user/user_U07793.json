@@ -1,0 +1,14 @@
+{
+    "user_id": "U07793",
+    "name": "Daniel Hodges",
+    "email": "ashley82@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08260']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Weber, Wilson and Johns for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09464', 'B02883', 'B08586', 'B03247', 'B02339']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07621",
+    "name": "Yolanda Ferguson",
+    "email": "charles43@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03972', 'B07872']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Brown Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04715', 'B04021']"
+}

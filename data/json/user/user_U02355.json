@@ -1,0 +1,14 @@
+{
+    "user_id": "U02355",
+    "name": "Stephen Morgan Jr.",
+    "email": "kenneth73@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06764']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at White Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03735', 'B03020', 'B04324', 'B02768']"
+}

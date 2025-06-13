@@ -1,0 +1,14 @@
+{
+    "user_id": "U03442",
+    "name": "Cheyenne Fleming",
+    "email": "mchang@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03200', 'B06221', 'B00625', 'B08450']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Galvan Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05950', 'B04364', 'B05183', 'B05381', 'B06139']"
+}

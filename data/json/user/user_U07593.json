@@ -1,0 +1,14 @@
+{
+    "user_id": "U07593",
+    "name": "Jimmy Hampton",
+    "email": "rosariosteven@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'UI/UX', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06489', 'B02188', 'B08923', 'B05489']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Lopez-Watson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

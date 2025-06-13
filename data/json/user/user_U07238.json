@@ -1,0 +1,14 @@
+{
+    "user_id": "U07238",
+    "name": "Brian Munoz",
+    "email": "lisamcdowell@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04030', 'B09939', 'B06417', 'B09040', 'B04216']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Miller-Cooper for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08341', 'B02139']"
+}

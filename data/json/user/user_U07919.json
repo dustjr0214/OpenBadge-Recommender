@@ -1,0 +1,14 @@
+{
+    "user_id": "U07919",
+    "name": "Michelle Mccoy",
+    "email": "harrisphilip@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08743', 'B03421', 'B05351']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Fields, Mendoza and Daniel for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07066",
+    "name": "Jesse Russo",
+    "email": "joshua83@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09113', 'B03715']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Parker-Mccann for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02772', 'B08920', 'B06625']"
+}

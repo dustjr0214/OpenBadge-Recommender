@@ -1,0 +1,14 @@
+{
+    "user_id": "U06754",
+    "name": "Laura Smith",
+    "email": "autumnduke@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09837']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Day-White for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02121']"
+}

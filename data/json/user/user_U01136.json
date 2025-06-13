@@ -1,0 +1,14 @@
+{
+    "user_id": "U01136",
+    "name": "Jennifer Rodriguez",
+    "email": "mjones@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09563', 'B06938', 'B02009']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Wilson-Sellers for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09379']"
+}

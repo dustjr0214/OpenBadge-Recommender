@@ -1,0 +1,14 @@
+{
+    "user_id": "U03575",
+    "name": "Mathew Williams",
+    "email": "saradelacruz@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07257', 'B08453', 'B01131', 'B08406', 'B05680']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Collins PLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

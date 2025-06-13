@@ -1,0 +1,14 @@
+{
+    "user_id": "U00167",
+    "name": "Elizabeth Howard",
+    "email": "daniellopez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Thomas, Clements and Silva for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01803']"
+}

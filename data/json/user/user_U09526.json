@@ -1,0 +1,14 @@
+{
+    "user_id": "U09526",
+    "name": "Christine Miller",
+    "email": "sanchezrodney@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00427', 'B09150', 'B06340', 'B06821', 'B08115']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Martinez and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05483', 'B03091', 'B01651', 'B00853']"
+}

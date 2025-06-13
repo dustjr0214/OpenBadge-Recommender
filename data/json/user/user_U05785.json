@@ -1,0 +1,14 @@
+{
+    "user_id": "U05785",
+    "name": "Teresa Fisher",
+    "email": "logan43@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05505', 'B03436', 'B02771', 'B01407']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Smith-Bauer for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07576', 'B09626', 'B00559']"
+}

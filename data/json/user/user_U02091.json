@@ -1,0 +1,14 @@
+{
+    "user_id": "U02091",
+    "name": "Lindsay Wilson",
+    "email": "jennifercantrell@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01787', 'B01059', 'B04088', 'B09875']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Kelly, Taylor and Hodge for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06654', 'B07254']"
+}

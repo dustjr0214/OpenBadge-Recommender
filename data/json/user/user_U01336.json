@@ -1,0 +1,14 @@
+{
+    "user_id": "U01336",
+    "name": "Steven Smith",
+    "email": "tinapayne@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03104', 'B07516', 'B08903', 'B09232', 'B08852']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Butler Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00880']"
+}

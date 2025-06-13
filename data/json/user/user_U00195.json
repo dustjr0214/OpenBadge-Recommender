@@ -1,0 +1,14 @@
+{
+    "user_id": "U00195",
+    "name": "Lucas Brock",
+    "email": "emartinez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02337', 'B07961', 'B05492']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rice Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08337', 'B02950', 'B07428', 'B09208', 'B00007']"
+}

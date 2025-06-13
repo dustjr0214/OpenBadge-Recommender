@@ -1,0 +1,14 @@
+{
+    "user_id": "U01314",
+    "name": "Patricia Lyons",
+    "email": "robert63@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08740', 'B00724', 'B04726', 'B02516', 'B06091']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Anderson Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

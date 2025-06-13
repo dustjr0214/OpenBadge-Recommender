@@ -1,0 +1,14 @@
+{
+    "user_id": "U05427",
+    "name": "Mrs. Hannah Jones",
+    "email": "sandersjustin@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01271', 'B05056', 'B00315']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Sweeney-Lee for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04415']"
+}

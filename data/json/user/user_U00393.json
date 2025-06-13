@@ -1,0 +1,14 @@
+{
+    "user_id": "U00393",
+    "name": "Vincent Garrison",
+    "email": "morganroy@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04782', 'B04377']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Tanner-Hall for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09859']"
+}

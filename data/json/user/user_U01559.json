@@ -1,0 +1,14 @@
+{
+    "user_id": "U01559",
+    "name": "Donald Keith",
+    "email": "larsenlarry@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02227', 'B07825']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Perry and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09774', 'B06016', 'B04208', 'B08371', 'B05686']"
+}

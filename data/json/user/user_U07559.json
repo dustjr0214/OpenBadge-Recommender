@@ -1,0 +1,14 @@
+{
+    "user_id": "U07559",
+    "name": "Jennifer Watson",
+    "email": "jennifer48@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX', 'Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01048']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Lane-Hughes for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08900', 'B05975', 'B01797']"
+}

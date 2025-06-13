@@ -1,0 +1,14 @@
+{
+    "user_id": "U01190",
+    "name": "Penny Harper",
+    "email": "howardwhitney@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00975', 'B06702', 'B04344', 'B01222']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Jones, Rivas and Branch for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05986', 'B00912', 'B03189', 'B02689', 'B00522']"
+}

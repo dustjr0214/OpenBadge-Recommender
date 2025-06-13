@@ -1,0 +1,14 @@
+{
+    "user_id": "U03143",
+    "name": "Christina Deleon",
+    "email": "whiteteresa@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01197', 'B03637', 'B09608']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Wilkins PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06571', 'B05264']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06550",
+    "name": "Angela Kent",
+    "email": "tara42@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01344', 'B05071']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Lewis-Chaney for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05831', 'B08925', 'B03102', 'B09582', 'B09690']"
+}

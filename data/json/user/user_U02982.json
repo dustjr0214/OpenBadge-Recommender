@@ -1,0 +1,14 @@
+{
+    "user_id": "U02982",
+    "name": "Steven Long",
+    "email": "kari82@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05938', 'B08712', 'B07778', 'B09117']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Hanson, Whitaker and Mills for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07221', 'B01663', 'B07847']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09075",
+    "name": "Mark Macias",
+    "email": "bgilmore@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02916', 'B04725', 'B02376', 'B05902', 'B01635']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Brady-Burnett for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05031', 'B01620', 'B01552']"
+}

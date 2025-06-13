@@ -1,0 +1,14 @@
+{
+    "user_id": "U02248",
+    "name": "Daniel Torres",
+    "email": "tonyflores@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05261', 'B03500']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Martinez Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01704', 'B06169']"
+}

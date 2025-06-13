@@ -1,0 +1,14 @@
+{
+    "user_id": "U09865",
+    "name": "Ashley Allen",
+    "email": "davidrodriguez@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07534', 'B03576']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Smith Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04170', 'B03750', 'B02896']"
+}

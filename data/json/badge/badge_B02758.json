@@ -1,0 +1,13 @@
+{
+    "badge_id": "B02758",
+    "name": "Cybersecurity Professional",
+    "issuer": "Udacity",
+    "description": "Cybersecurity Professional badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Machine Learning', 'SQL', 'Deep Learning']",
+    "competency": "['Analytical Skills', 'Cybersecurity', 'Python']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07214', 'B04237']"
+}

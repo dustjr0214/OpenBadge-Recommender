@@ -1,0 +1,14 @@
+{
+    "user_id": "U04662",
+    "name": "John Adams",
+    "email": "rosalesashley@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08026', 'B08976']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Nguyen-Young for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03489', 'B00563', 'B03944', 'B03310', 'B03286']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06987",
+    "name": "Sarah Simon",
+    "email": "hayesamy@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07450', 'B09362', 'B06152']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Donovan-Curtis for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09758', 'B07174']"
+}

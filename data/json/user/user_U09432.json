@@ -1,0 +1,14 @@
+{
+    "user_id": "U09432",
+    "name": "Lee Pratt",
+    "email": "hshields@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04899', 'B03201', 'B05082', 'B08906', 'B04452']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Jacobson, Robertson and Brooks for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00020', 'B09142', 'B05883']"
+}

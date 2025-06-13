@@ -1,0 +1,14 @@
+{
+    "user_id": "U00046",
+    "name": "Jacqueline Marshall",
+    "email": "reeddarius@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00446', 'B06189', 'B02446', 'B05210', 'B00992']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Stein-Haynes for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05625', 'B06936', 'B04949', 'B00605']"
+}

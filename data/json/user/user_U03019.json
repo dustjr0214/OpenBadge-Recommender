@@ -1,0 +1,14 @@
+{
+    "user_id": "U03019",
+    "name": "Raven Heath",
+    "email": "pfreeman@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04754', 'B00429', 'B00150', 'B07799']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Vasquez-Walker for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08761']"
+}

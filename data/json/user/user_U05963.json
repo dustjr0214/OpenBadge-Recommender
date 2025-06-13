@@ -1,0 +1,14 @@
+{
+    "user_id": "U05963",
+    "name": "Mary Merritt",
+    "email": "xlopez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01724', 'B00946', 'B00622', 'B03115']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Alexander Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07048', 'B08188', 'B02568', 'B06959']"
+}

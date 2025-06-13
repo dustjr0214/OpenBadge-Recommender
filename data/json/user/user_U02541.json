@@ -1,0 +1,14 @@
+{
+    "user_id": "U02541",
+    "name": "Melissa Hubbard",
+    "email": "joshua01@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04698', 'B07092', 'B04249', 'B06472']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Daniel-Miller for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

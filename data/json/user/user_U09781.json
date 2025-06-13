@@ -1,0 +1,14 @@
+{
+    "user_id": "U09781",
+    "name": "Jessica Stewart",
+    "email": "reneeeverett@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05452']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cherry Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04079', 'B08069', 'B07414', 'B07083', 'B03435']"
+}

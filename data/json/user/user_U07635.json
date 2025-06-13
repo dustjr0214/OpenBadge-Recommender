@@ -1,0 +1,14 @@
+{
+    "user_id": "U07635",
+    "name": "Mr. Christopher Davis MD",
+    "email": "angela13@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06105', 'B02924', 'B05760', 'B04598', 'B09067']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Perkins-Mitchell for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

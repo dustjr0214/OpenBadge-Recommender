@@ -1,0 +1,14 @@
+{
+    "user_id": "U06308",
+    "name": "Jonathan Myers",
+    "email": "ybrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08349', 'B04205', 'B00763', 'B03470']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Kramer Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02896', 'B00630']"
+}

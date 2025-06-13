@@ -1,0 +1,14 @@
+{
+    "user_id": "U02284",
+    "name": "Dennis Willis",
+    "email": "tschmidt@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06068', 'B02766', 'B09904', 'B09356']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Johnson Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

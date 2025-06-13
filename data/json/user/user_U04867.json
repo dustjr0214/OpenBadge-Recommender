@@ -1,0 +1,14 @@
+{
+    "user_id": "U04867",
+    "name": "Ryan Young",
+    "email": "williamsgregory@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08328', 'B03256', 'B08283']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Elliott, Shaw and Cole for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05836']"
+}

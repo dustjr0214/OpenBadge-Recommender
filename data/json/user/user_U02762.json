@@ -1,0 +1,14 @@
+{
+    "user_id": "U02762",
+    "name": "Patricia George",
+    "email": "oschneider@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02730', 'B06622']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Villanueva, Reeves and Reynolds for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03855', 'B05781', 'B04708', 'B03977']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07213",
+    "name": "Kristina Robinson",
+    "email": "robert77@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08054', 'B05102']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Jones, Johnston and Thompson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

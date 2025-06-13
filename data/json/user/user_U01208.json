@@ -1,0 +1,14 @@
+{
+    "user_id": "U01208",
+    "name": "Christine Brooks",
+    "email": "fhamilton@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04079', 'B08952', 'B05596']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Dixon-Keller for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07695', 'B06947', 'B07229', 'B04967', 'B05101']"
+}

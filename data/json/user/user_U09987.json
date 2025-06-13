@@ -1,0 +1,14 @@
+{
+    "user_id": "U09987",
+    "name": "Christopher Kim",
+    "email": "nicholas77@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Bridges and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05330', 'B08975']"
+}

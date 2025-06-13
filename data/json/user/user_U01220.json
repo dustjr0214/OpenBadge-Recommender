@@ -1,0 +1,14 @@
+{
+    "user_id": "U01220",
+    "name": "Bailey Pennington",
+    "email": "jilldonovan@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08695', 'B03018', 'B05638', 'B06775', 'B07651']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Thompson, Novak and Peterson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02112', 'B06409', 'B00455', 'B00395']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04645",
+    "name": "Stephanie Jones",
+    "email": "denisegonzalez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Landry and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08865', 'B08707', 'B09009', 'B04057']"
+}

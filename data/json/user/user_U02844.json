@@ -1,0 +1,14 @@
+{
+    "user_id": "U02844",
+    "name": "Stephanie Wilcox",
+    "email": "xbutler@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cybersecurity', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06845', 'B08125', 'B05202', 'B03022']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Patterson-Cameron for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07602', 'B03324', 'B09244']"
+}

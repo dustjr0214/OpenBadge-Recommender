@@ -1,0 +1,14 @@
+{
+    "user_id": "U09319",
+    "name": "Mrs. Jocelyn Pierce",
+    "email": "colemansara@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06005', 'B06346', 'B03658']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rivas, Hamilton and Navarro for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

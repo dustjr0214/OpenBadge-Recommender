@@ -1,0 +1,14 @@
+{
+    "user_id": "U03099",
+    "name": "Hannah Leach",
+    "email": "mariapace@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03997', 'B05174', 'B05766', 'B06382', 'B09746']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Murphy, Garcia and Silva for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00935', 'B06320', 'B08591']"
+}

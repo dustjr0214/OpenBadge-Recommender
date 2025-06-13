@@ -1,0 +1,14 @@
+{
+    "user_id": "U00236",
+    "name": "Monica Lambert",
+    "email": "stevenandrade@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02748', 'B01168', 'B01162']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Graves-Greene for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08986', 'B09976', 'B03959']"
+}

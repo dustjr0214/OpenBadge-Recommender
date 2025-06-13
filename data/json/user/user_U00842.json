@@ -1,0 +1,14 @@
+{
+    "user_id": "U00842",
+    "name": "Noah Kaiser",
+    "email": "robertcrawford@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08715']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Williams-Parker for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09592', 'B05281', 'B07426', 'B09374']"
+}

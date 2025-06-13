@@ -1,0 +1,14 @@
+{
+    "user_id": "U06658",
+    "name": "Philip Holder",
+    "email": "reedmelissa@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Carlson-Obrien for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01720', 'B08290', 'B05833', 'B01325', 'B06163']"
+}

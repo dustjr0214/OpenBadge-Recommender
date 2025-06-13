@@ -1,0 +1,14 @@
+{
+    "user_id": "U01280",
+    "name": "Cynthia Lowery",
+    "email": "allenanne@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07604', 'B00869', 'B08088']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Guzman-Salazar for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08598', 'B07994', 'B09099', 'B06179']"
+}

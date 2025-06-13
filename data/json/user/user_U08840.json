@@ -1,0 +1,14 @@
+{
+    "user_id": "U08840",
+    "name": "Tina Jackson",
+    "email": "robert09@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09734', 'B08293', 'B08685']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Johnson-Brown for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03534', 'B07298', 'B04765', 'B02029']"
+}

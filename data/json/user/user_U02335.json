@@ -1,0 +1,14 @@
+{
+    "user_id": "U02335",
+    "name": "Jesus Chen",
+    "email": "hilljennifer@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06315', 'B07370']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Garcia-Coffey for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07478']"
+}

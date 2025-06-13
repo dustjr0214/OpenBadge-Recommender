@@ -1,0 +1,14 @@
+{
+    "user_id": "U08573",
+    "name": "Carlos Morris",
+    "email": "vasquezanna@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01753', 'B07541']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Collins-Ruiz for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09977', 'B05355']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08827",
+    "name": "Jennifer Nelson",
+    "email": "edward02@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00972']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Murray, Martin and Christensen for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06389', 'B05904', 'B03507', 'B04355']"
+}

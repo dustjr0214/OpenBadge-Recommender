@@ -1,0 +1,14 @@
+{
+    "user_id": "U04807",
+    "name": "Laura Ramsey",
+    "email": "uanderson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07369', 'B06487', 'B03767']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Nelson Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09432', 'B01308', 'B01248', 'B09029', 'B01106']"
+}

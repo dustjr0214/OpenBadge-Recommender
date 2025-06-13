@@ -1,0 +1,14 @@
+{
+    "user_id": "U09393",
+    "name": "Amber Knapp",
+    "email": "yhughes@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06104']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at West LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03901', 'B08242']"
+}

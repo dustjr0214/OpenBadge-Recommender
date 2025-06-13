@@ -1,0 +1,14 @@
+{
+    "user_id": "U07410",
+    "name": "Anthony Deleon",
+    "email": "lperry@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07385', 'B04901']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Simmons, Yates and Potter for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00338', 'B01353', 'B09171', 'B02330']"
+}

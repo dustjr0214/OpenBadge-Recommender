@@ -1,0 +1,14 @@
+{
+    "user_id": "U00489",
+    "name": "Alfred Scott",
+    "email": "tayloramy@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Patton, Richardson and Thomas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04675', 'B07763', 'B08667', 'B01671', 'B02231']"
+}

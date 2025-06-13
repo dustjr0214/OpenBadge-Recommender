@@ -1,0 +1,14 @@
+{
+    "user_id": "U04720",
+    "name": "Scott Wright",
+    "email": "mbarker@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05078', 'B07627', 'B06436', 'B03024']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Shepherd-Miller for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09870', 'B01845', 'B09752', 'B04625', 'B04931']"
+}

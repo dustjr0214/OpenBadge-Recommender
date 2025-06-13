@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01004",
+    "name": "Cybersecurity Professional",
+    "issuer": "IBM",
+    "description": "Cybersecurity Professional badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['DevOps', 'Machine Learning']",
+    "competency": "['Creativity', 'Teamwork', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07444', 'B04502']"
+}

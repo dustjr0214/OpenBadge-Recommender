@@ -1,0 +1,14 @@
+{
+    "user_id": "U06630",
+    "name": "Margaret Heath",
+    "email": "fbrown@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05080', 'B07135']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Mahoney-Bailey for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09158', 'B00803', 'B06659', 'B04417']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09487",
+    "name": "Timothy Buckley",
+    "email": "gfranco@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09621', 'B00452', 'B01241']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Warner, Mcdonald and Woods for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03136', 'B07606', 'B05879', 'B02052', 'B03725']"
+}

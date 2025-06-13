@@ -1,0 +1,14 @@
+{
+    "user_id": "U07162",
+    "name": "Kathleen Weaver",
+    "email": "imorris@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04524', 'B08952']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Jacobson, Harris and Wilson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06954']"
+}

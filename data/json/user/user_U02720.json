@@ -1,0 +1,14 @@
+{
+    "user_id": "U02720",
+    "name": "Kelsey Petersen",
+    "email": "jamesmartinez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06444', 'B02170', 'B05841', 'B09311', 'B02656']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ray Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07400', 'B07257', 'B02072', 'B07396']"
+}

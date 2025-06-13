@@ -1,0 +1,14 @@
+{
+    "user_id": "U01347",
+    "name": "Christy Peterson",
+    "email": "chambersmonica@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03440']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Carter Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01842', 'B05578', 'B07969', 'B05335']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00308",
+    "name": "John Davis",
+    "email": "lsnyder@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00590', 'B08320', 'B08119']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Lopez and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

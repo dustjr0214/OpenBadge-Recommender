@@ -1,0 +1,14 @@
+{
+    "user_id": "U03597",
+    "name": "Amber Robinson",
+    "email": "wellsbrandon@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09756', 'B03395', 'B03804', 'B06104']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Carter, Carpenter and Gray for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03426', 'B09847']"
+}

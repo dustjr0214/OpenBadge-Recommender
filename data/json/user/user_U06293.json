@@ -1,0 +1,14 @@
+{
+    "user_id": "U06293",
+    "name": "Terry Hayes",
+    "email": "reyescharles@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08694', 'B09498']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Nguyen-Perry for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04941', 'B07655']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08197",
+    "name": "Alexandria Allison",
+    "email": "rperez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07145', 'B04922', 'B01807', 'B05184']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Dominguez Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06890', 'B05916', 'B04998', 'B05546']"
+}

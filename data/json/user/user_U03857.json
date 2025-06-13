@@ -1,0 +1,14 @@
+{
+    "user_id": "U03857",
+    "name": "Jason Thompson",
+    "email": "mariagarcia@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Gordon, Warren and Gentry for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01972', 'B07967', 'B03219']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07700",
+    "name": "Maria Lindsey",
+    "email": "mmason@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04940', 'B09073', 'B01799', 'B05938']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Levine-Edwards for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01948', 'B05989']"
+}

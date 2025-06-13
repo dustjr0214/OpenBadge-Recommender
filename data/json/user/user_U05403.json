@@ -1,0 +1,14 @@
+{
+    "user_id": "U05403",
+    "name": "Donald Lynch",
+    "email": "martinduncan@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02928', 'B05563', 'B05765', 'B03740', 'B03464']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Mcdonald Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

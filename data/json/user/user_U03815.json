@@ -1,0 +1,14 @@
+{
+    "user_id": "U03815",
+    "name": "Christopher Wilson",
+    "email": "justin54@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05328', 'B03056', 'B01488']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Underwood-Murray for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03852', 'B06849', 'B09355', 'B02429', 'B06622']"
+}

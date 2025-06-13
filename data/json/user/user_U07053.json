@@ -1,0 +1,14 @@
+{
+    "user_id": "U07053",
+    "name": "Steven Flores",
+    "email": "mitchellmary@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00510']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Kerr, Bennett and James for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03478', 'B06063', 'B08088']"
+}

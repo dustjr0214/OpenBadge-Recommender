@@ -1,0 +1,14 @@
+{
+    "user_id": "U00410",
+    "name": "Tyler Smith",
+    "email": "chenaustin@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05214', 'B03847', 'B07712']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Dodson, Olson and Black for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00124', 'B01130', 'B01557', 'B01822', 'B00341']"
+}

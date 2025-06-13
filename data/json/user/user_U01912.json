@@ -1,0 +1,14 @@
+{
+    "user_id": "U01912",
+    "name": "Carrie Foster",
+    "email": "amanda43@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02804']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Jones-Johnson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04230', 'B07683', 'B07157']"
+}

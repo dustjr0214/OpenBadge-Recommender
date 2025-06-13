@@ -1,0 +1,14 @@
+{
+    "user_id": "U02638",
+    "name": "Alyssa Swanson",
+    "email": "derrickmoore@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Smith-Woods for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02272', 'B05026']"
+}

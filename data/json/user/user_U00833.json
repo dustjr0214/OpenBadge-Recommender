@@ -1,0 +1,14 @@
+{
+    "user_id": "U00833",
+    "name": "Erika Bell",
+    "email": "rodriguezfelicia@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01491', 'B09149']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Higgins-Olsen for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00420', 'B00019', 'B02681', 'B02515', 'B03096']"
+}

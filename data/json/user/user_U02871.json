@@ -1,0 +1,14 @@
+{
+    "user_id": "U02871",
+    "name": "Kevin Lee",
+    "email": "thomas70@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04150', 'B02650', 'B00437']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Mcdowell-Diaz for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09787']"
+}

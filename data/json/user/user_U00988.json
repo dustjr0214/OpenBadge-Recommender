@@ -1,0 +1,14 @@
+{
+    "user_id": "U00988",
+    "name": "Candice Green",
+    "email": "taylormatthew@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06230', 'B07026']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Curry-Schmidt for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05962', 'B03383', 'B00903']"
+}

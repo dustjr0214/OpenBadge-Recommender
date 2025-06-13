@@ -1,0 +1,13 @@
+{
+    "badge_id": "B09126",
+    "name": "Cybersecurity Professional",
+    "issuer": "edX",
+    "description": "Cybersecurity Professional badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Deep Learning']",
+    "competency": "['Machine Learning', 'Cybersecurity', 'Creativity']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B00471']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02271",
+    "name": "Joshua Palmer",
+    "email": "yodom@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09144', 'B03265', 'B03119', 'B04158', 'B02201']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Garcia, Myers and Myers for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00500']"
+}

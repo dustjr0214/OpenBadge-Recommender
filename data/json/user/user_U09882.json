@@ -1,0 +1,14 @@
+{
+    "user_id": "U09882",
+    "name": "Benjamin Carter",
+    "email": "julieturner@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04797', 'B08107', 'B06813', 'B03460']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Hall-Wilson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04092', 'B03221', 'B03361', 'B04170', 'B01789']"
+}

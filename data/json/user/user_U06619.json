@@ -1,0 +1,14 @@
+{
+    "user_id": "U06619",
+    "name": "Matthew Bolton",
+    "email": "enorman@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Woodard PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00652', 'B08067', 'B00191', 'B09655']"
+}

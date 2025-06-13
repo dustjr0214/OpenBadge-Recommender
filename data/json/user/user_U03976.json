@@ -1,0 +1,14 @@
+{
+    "user_id": "U03976",
+    "name": "Melissa Skinner",
+    "email": "hsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06918', 'B01506']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Jones-Hensley for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05228",
+    "name": "Diana Vaughn",
+    "email": "brewerjudy@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05649', 'B05742', 'B04121']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Patel Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09428']"
+}

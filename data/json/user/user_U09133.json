@@ -1,0 +1,14 @@
+{
+    "user_id": "U09133",
+    "name": "John Pierce",
+    "email": "josephmelissa@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09781']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Ward-Wilson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06542', 'B08696', 'B07153', 'B01980']"
+}

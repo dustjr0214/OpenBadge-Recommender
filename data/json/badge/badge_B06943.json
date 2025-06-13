@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06943",
+    "name": "Machine Learning Pro",
+    "issuer": "edX",
+    "description": "Machine Learning Pro badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency": "['Leadership', 'Teamwork', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B00994']"
+}

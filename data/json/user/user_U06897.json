@@ -1,0 +1,14 @@
+{
+    "user_id": "U06897",
+    "name": "David Johnson",
+    "email": "scottpaul@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05498']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Williams Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09302', 'B09567', 'B02957']"
+}

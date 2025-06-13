@@ -1,0 +1,14 @@
+{
+    "user_id": "U05354",
+    "name": "Ellen Johnson",
+    "email": "aprilbanks@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03072', 'B00015', 'B07436', 'B07776', 'B00731']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ferguson-Williams for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07677', 'B08211', 'B08478', 'B01014', 'B04791']"
+}

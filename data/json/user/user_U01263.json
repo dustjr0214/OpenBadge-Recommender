@@ -1,0 +1,14 @@
+{
+    "user_id": "U01263",
+    "name": "Tina Phillips",
+    "email": "wgarcia@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06271']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Meyers, Alvarez and Dyer for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

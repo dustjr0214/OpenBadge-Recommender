@@ -1,0 +1,14 @@
+{
+    "user_id": "U07393",
+    "name": "Mark Moore",
+    "email": "mirandacameron@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04347', 'B06611', 'B03005']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Norton, Hurley and Ferrell for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09215']"
+}

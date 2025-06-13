@@ -1,0 +1,14 @@
+{
+    "user_id": "U03679",
+    "name": "Julie Medina",
+    "email": "lcoffey@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09449', 'B05280', 'B03329', 'B09590']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Shah LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02912']"
+}

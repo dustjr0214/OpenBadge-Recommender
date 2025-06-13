@@ -1,0 +1,14 @@
+{
+    "user_id": "U00452",
+    "name": "Joel Jones",
+    "email": "dhernandez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04361']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Barnes and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08772', 'B02161', 'B01716', 'B04661']"
+}

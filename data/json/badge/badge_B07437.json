@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07437",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['Teamwork', 'Creativity', 'Cloud Computing']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "[]"
+}

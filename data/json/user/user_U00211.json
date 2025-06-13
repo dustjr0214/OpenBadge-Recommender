@@ -1,0 +1,14 @@
+{
+    "user_id": "U00211",
+    "name": "Gail Cooley",
+    "email": "mary86@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01294', 'B09923', 'B00445', 'B09543', 'B08854']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Smith, Johnson and Kim for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09573']"
+}

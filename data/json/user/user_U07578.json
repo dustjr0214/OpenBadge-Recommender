@@ -1,0 +1,14 @@
+{
+    "user_id": "U07578",
+    "name": "Michael Brennan",
+    "email": "millernathaniel@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06673', 'B03483', 'B09666', 'B03003']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Cook Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07320', 'B05769', 'B06038']"
+}

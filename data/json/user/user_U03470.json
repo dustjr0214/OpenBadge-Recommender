@@ -1,0 +1,14 @@
+{
+    "user_id": "U03470",
+    "name": "Matthew Gomez",
+    "email": "jeffrey28@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02466', 'B02944', 'B06694']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Brooks, Ramirez and Garcia for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01514', 'B02422', 'B08489', 'B09897']"
+}

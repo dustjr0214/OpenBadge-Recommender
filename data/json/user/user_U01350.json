@@ -1,0 +1,14 @@
+{
+    "user_id": "U01350",
+    "name": "Tiffany White",
+    "email": "oliveremma@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07694', 'B08840', 'B05746', 'B04240']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Downs-Campbell for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07781']"
+}

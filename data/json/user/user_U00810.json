@@ -1,0 +1,14 @@
+{
+    "user_id": "U00810",
+    "name": "Jacob Johnson",
+    "email": "jennifersmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05444', 'B07140', 'B03606', 'B00865', 'B08245']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Valdez-Macias for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03924']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02831",
+    "name": "Tiffany Stephens",
+    "email": "richarddavis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00137', 'B03700']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Clark Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03686', 'B08386', 'B06248', 'B02389', 'B08940']"
+}

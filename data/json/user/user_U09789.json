@@ -1,0 +1,14 @@
+{
+    "user_id": "U09789",
+    "name": "Jeremy Mills",
+    "email": "randallrichard@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00608']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Cain, Lawrence and Nelson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08534', 'B04436', 'B06760', 'B08335']"
+}

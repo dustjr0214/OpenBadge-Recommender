@@ -1,0 +1,14 @@
+{
+    "user_id": "U02026",
+    "name": "Dennis Barnes",
+    "email": "michael06@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02305', 'B01611']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Jones, Thomas and Howard for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00352']"
+}

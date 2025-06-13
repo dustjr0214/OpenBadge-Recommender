@@ -1,0 +1,14 @@
+{
+    "user_id": "U08556",
+    "name": "Tyler Cross",
+    "email": "robinsonandrew@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08161', 'B03967']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Evans, Thomas and Oneill for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

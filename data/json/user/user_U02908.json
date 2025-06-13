@@ -1,0 +1,14 @@
+{
+    "user_id": "U02908",
+    "name": "Philip Watts",
+    "email": "stephenfox@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03710', 'B03464', 'B09954']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Rodriguez, Johnson and Pope for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01833', 'B07470', 'B01080', 'B05913', 'B02888']"
+}

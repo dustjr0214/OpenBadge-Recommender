@@ -1,0 +1,14 @@
+{
+    "user_id": "U07451",
+    "name": "Timothy Davidson",
+    "email": "jonathangreen@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07350', 'B09281', 'B07343', 'B03380', 'B07652']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Burgess-Garcia for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06544', 'B09739', 'B09971', 'B05436']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08473",
+    "name": "Brianna Myers",
+    "email": "fswanson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Machine Learning', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01410']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Shepard LLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05700', 'B01458', 'B09923', 'B03291', 'B00409']"
+}

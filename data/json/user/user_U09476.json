@@ -1,0 +1,14 @@
+{
+    "user_id": "U09476",
+    "name": "Marissa Andrews",
+    "email": "morrisbryan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06696', 'B07072', 'B04004', 'B05780', 'B04764']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Charles-Rojas for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06422', 'B00163']"
+}

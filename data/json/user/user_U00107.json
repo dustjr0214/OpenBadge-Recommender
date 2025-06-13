@@ -1,0 +1,14 @@
+{
+    "user_id": "U00107",
+    "name": "Russell Wyatt",
+    "email": "steven38@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02026', 'B03937', 'B00402', 'B02205', 'B08053']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Taylor Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09118', 'B05937']"
+}

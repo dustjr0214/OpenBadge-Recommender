@@ -1,0 +1,14 @@
+{
+    "user_id": "U07323",
+    "name": "Scott King",
+    "email": "xwang@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05548']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Ayers and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05507', 'B01421', 'B06069', 'B04015', 'B05974']"
+}

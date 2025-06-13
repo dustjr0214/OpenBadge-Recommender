@@ -1,0 +1,14 @@
+{
+    "user_id": "U00786",
+    "name": "Dennis Taylor",
+    "email": "fpadilla@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00714']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Hernandez, Robinson and Miller for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00490', 'B05599', 'B03398', 'B07099']"
+}

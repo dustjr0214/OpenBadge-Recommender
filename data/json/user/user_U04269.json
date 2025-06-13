@@ -1,0 +1,14 @@
+{
+    "user_id": "U04269",
+    "name": "Laura Lin",
+    "email": "sharmon@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00974', 'B02901', 'B07656', 'B07548']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Weiss Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03538', 'B04721', 'B09845']"
+}

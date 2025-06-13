@@ -1,0 +1,14 @@
+{
+    "user_id": "U08066",
+    "name": "William Hodges",
+    "email": "ubullock@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04467', 'B08160', 'B00870', 'B06063', 'B09073']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Riddle, Webster and Owens for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08389', 'B04191', 'B09240', 'B03478']"
+}

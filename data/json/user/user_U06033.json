@@ -1,0 +1,14 @@
+{
+    "user_id": "U06033",
+    "name": "Kenneth Abbott",
+    "email": "brucethomas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05978', 'B01835', 'B06547']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Perry PLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01580']"
+}

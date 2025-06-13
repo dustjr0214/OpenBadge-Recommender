@@ -1,0 +1,14 @@
+{
+    "user_id": "U09820",
+    "name": "Crystal Goodwin",
+    "email": "perryjoseph@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03994', 'B08327']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Rich Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04701', 'B03055']"
+}

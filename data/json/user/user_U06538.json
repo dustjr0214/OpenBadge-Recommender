@@ -1,0 +1,14 @@
+{
+    "user_id": "U06538",
+    "name": "Michelle Yates",
+    "email": "brandyortiz@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09896', 'B02050', 'B04600', 'B04343']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Khan, Campbell and Watkins for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07933', 'B02112', 'B06097', 'B08781']"
+}

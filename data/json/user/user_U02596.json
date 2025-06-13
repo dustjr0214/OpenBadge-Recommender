@@ -1,0 +1,14 @@
+{
+    "user_id": "U02596",
+    "name": "Howard Chen",
+    "email": "benjamin80@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05722', 'B00432', 'B05167', 'B05314', 'B09007']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Carroll LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06322', 'B06389', 'B06280']"
+}

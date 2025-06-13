@@ -1,0 +1,14 @@
+{
+    "user_id": "U00416",
+    "name": "Jeremy Thomas",
+    "email": "agordon@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09796', 'B04347', 'B03106', 'B03975', 'B06235']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Perez, Stone and Hansen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07462', 'B06061']"
+}

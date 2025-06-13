@@ -1,0 +1,14 @@
+{
+    "user_id": "U01996",
+    "name": "Katherine Lopez",
+    "email": "susancastro@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09992', 'B09547', 'B06034', 'B04974']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Gardner-Wilson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01089', 'B00584', 'B06795', 'B00728', 'B01666']"
+}

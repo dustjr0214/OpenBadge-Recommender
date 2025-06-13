@@ -1,0 +1,14 @@
+{
+    "user_id": "U02073",
+    "name": "Eric Barnes",
+    "email": "nbaker@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07480', 'B03498', 'B07492', 'B09625', 'B06545']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Smith-Williams for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

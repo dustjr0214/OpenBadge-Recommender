@@ -1,0 +1,14 @@
+{
+    "user_id": "U06896",
+    "name": "Ernest Lowery",
+    "email": "john01@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05805', 'B04947', 'B00726', 'B06974', 'B08027']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Lewis Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09635', 'B04683']"
+}

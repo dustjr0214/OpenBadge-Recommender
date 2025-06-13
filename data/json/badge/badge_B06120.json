@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06120",
+    "name": "Cloud Computing Guru",
+    "issuer": "IBM",
+    "description": "Cloud Computing Guru badge issued by IBM",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'Cybersecurity']",
+    "competency": "['DevOps', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08000', 'B04609']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01662",
+    "name": "Lonnie Reed",
+    "email": "bruceolsen@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02001', 'B02331']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Gibson-Ray for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01414', 'B03823', 'B04989', 'B09811', 'B00761']"
+}

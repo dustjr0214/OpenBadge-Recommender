@@ -1,0 +1,14 @@
+{
+    "user_id": "U08725",
+    "name": "Christopher Edwards",
+    "email": "scottsmith@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02417', 'B08495', 'B02729', 'B00250', 'B02085']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mccarthy LLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06865']"
+}

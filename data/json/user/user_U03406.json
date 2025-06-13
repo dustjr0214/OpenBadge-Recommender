@@ -1,0 +1,14 @@
+{
+    "user_id": "U03406",
+    "name": "Emily Dillon",
+    "email": "nerickson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01669', 'B01811', 'B07894', 'B00879']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Morgan, Rivera and Beasley for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05224', 'B05374', 'B01208', 'B03596', 'B03023']"
+}

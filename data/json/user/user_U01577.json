@@ -1,0 +1,14 @@
+{
+    "user_id": "U01577",
+    "name": "Teresa Russell",
+    "email": "andressmall@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06499', 'B02275', 'B05157', 'B08125']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Graham, Ortiz and Taylor for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06118', 'B08518', 'B03239', 'B09571']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01823",
+    "name": "Edwin Ayala",
+    "email": "granttaylor@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08246', 'B04968', 'B03139', 'B07985']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Thomas-Day for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00332', 'B07796']"
+}

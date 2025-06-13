@@ -1,0 +1,14 @@
+{
+    "user_id": "U08751",
+    "name": "Sarah Riley",
+    "email": "michaeltaylor@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03357']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mann and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03256']"
+}

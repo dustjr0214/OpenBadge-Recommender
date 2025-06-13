@@ -1,0 +1,14 @@
+{
+    "user_id": "U08891",
+    "name": "Matthew Bradford",
+    "email": "sean14@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00116', 'B09540', 'B09542']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Avila, Ellis and Kim for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05336', 'B08730', 'B04294', 'B00635']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02700",
+    "name": "Michael Le",
+    "email": "mollyreynolds@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08110', 'B08666', 'B08745', 'B01017']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hartman Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06778', 'B08884', 'B01857']"
+}

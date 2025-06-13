@@ -1,0 +1,14 @@
+{
+    "user_id": "U00694",
+    "name": "Terry Salazar",
+    "email": "brian62@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Page-Hickman for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08804', 'B08806', 'B01311', 'B02164', 'B07783']"
+}

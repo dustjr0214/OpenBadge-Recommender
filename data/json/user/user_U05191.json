@@ -1,0 +1,14 @@
+{
+    "user_id": "U05191",
+    "name": "Ryan Morris",
+    "email": "smithsara@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06183', 'B08765', 'B05908']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Ruiz-Turner for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07485', 'B09676', 'B04560', 'B04914']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01397",
+    "name": "Jessica Lewis",
+    "email": "marie64@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03340', 'B01031', 'B04251', 'B00274', 'B08837']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Stevenson-Howard for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07634', 'B07299', 'B03938']"
+}

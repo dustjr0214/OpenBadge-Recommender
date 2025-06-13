@@ -1,0 +1,14 @@
+{
+    "user_id": "U01925",
+    "name": "Daniel Edwards",
+    "email": "ashleybarnes@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03819']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Williams-Schultz for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04613', 'B06051', 'B00732']"
+}

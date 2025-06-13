@@ -1,0 +1,14 @@
+{
+    "user_id": "U03457",
+    "name": "Sarah Wood",
+    "email": "jonescarrie@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00582']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Shelton PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04318', 'B09296', 'B05363', 'B01372', 'B01700']"
+}

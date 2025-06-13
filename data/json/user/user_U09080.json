@@ -1,0 +1,14 @@
+{
+    "user_id": "U09080",
+    "name": "Patricia Jackson",
+    "email": "lucasfoster@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05551', 'B09632', 'B09563', 'B01351', 'B06249']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Moody Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

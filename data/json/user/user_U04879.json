@@ -1,0 +1,14 @@
+{
+    "user_id": "U04879",
+    "name": "Ryan Harrell",
+    "email": "ruizcharles@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00200', 'B04962', 'B06886', 'B09358', 'B01306']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Moore Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07289', 'B03507', 'B08956', 'B08498']"
+}

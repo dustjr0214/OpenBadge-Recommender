@@ -1,0 +1,14 @@
+{
+    "user_id": "U08722",
+    "name": "Sean Jones",
+    "email": "charles88@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09879', 'B00193']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Brown, James and Riley for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02372', 'B05111', 'B00312', 'B09450', 'B08104']"
+}

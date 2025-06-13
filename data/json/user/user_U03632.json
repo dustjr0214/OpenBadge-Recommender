@@ -1,0 +1,14 @@
+{
+    "user_id": "U03632",
+    "name": "Daniel Holt",
+    "email": "anthony15@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04661', 'B03760', 'B07679', 'B05151']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Rodriguez, Graham and Beck for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04865', 'B05413', 'B09976', 'B07421', 'B01861']"
+}

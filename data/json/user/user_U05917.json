@@ -1,0 +1,14 @@
+{
+    "user_id": "U05917",
+    "name": "Amy Hoffman",
+    "email": "patrick35@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09673', 'B09328', 'B02064', 'B06153']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Richardson-Gutierrez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06860', 'B04441', 'B00080', 'B01022', 'B06670']"
+}

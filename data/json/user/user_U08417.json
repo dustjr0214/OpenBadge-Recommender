@@ -1,0 +1,14 @@
+{
+    "user_id": "U08417",
+    "name": "Russell Garcia",
+    "email": "wrandall@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02159', 'B08008', 'B09336', 'B09074', 'B08747']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Melendez Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06452', 'B07898', 'B04675']"
+}

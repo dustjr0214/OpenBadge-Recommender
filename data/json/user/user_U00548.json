@@ -1,0 +1,14 @@
+{
+    "user_id": "U00548",
+    "name": "Aaron Liu",
+    "email": "jon99@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03058', 'B09153', 'B08048', 'B06446']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Duncan-Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02272']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07613",
+    "name": "Julie Yoder",
+    "email": "april68@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01753', 'B01614']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Rogers LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06948', 'B08214', 'B06765', 'B05518']"
+}

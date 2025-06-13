@@ -1,0 +1,14 @@
+{
+    "user_id": "U00424",
+    "name": "Kristi Allen",
+    "email": "andrewrussell@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01249', 'B00157', 'B00763', 'B00589']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Mills, Gonzalez and Powers for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08558']"
+}

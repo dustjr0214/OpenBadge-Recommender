@@ -1,0 +1,14 @@
+{
+    "user_id": "U02654",
+    "name": "Vicki Zamora",
+    "email": "agarcia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08981', 'B09859', 'B03818', 'B07331']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Green and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05285']"
+}

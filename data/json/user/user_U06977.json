@@ -1,0 +1,14 @@
+{
+    "user_id": "U06977",
+    "name": "Jennifer Adams",
+    "email": "jamesreed@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00176', 'B06311']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Lewis, Wong and Douglas for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00492', 'B07628', 'B04230', 'B01120']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09021",
+    "name": "Maria Simmons",
+    "email": "jamessmith@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09686', 'B02227']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Erickson LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07906', 'B04375']"
+}

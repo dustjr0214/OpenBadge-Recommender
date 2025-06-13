@@ -1,0 +1,14 @@
+{
+    "user_id": "U08244",
+    "name": "Sherri Williams",
+    "email": "zwright@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05462', 'B05775', 'B07578', 'B02481', 'B00369']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Smith Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01518', 'B07864', 'B04045', 'B04408', 'B03789']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09501",
+    "name": "Andrew Gibson",
+    "email": "bryanlopez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09457', 'B07556', 'B01540', 'B01307']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Velazquez Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05946', 'B06441', 'B04726']"
+}

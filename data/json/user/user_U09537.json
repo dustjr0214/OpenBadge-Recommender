@@ -1,0 +1,14 @@
+{
+    "user_id": "U09537",
+    "name": "Anthony Johnston",
+    "email": "stacycarroll@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06830', 'B09829', 'B04598', 'B07804', 'B03188']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Evans-Wagner for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05157', 'B05044', 'B00969', 'B02944', 'B01712']"
+}

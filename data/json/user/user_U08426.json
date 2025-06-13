@@ -1,0 +1,14 @@
+{
+    "user_id": "U08426",
+    "name": "Brett Williams",
+    "email": "pbennett@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07716', 'B03569', 'B02509', 'B08862']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Gross LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04767', 'B00303']"
+}

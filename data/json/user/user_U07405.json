@@ -1,0 +1,14 @@
+{
+    "user_id": "U07405",
+    "name": "Kelly Barnes",
+    "email": "deanna29@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02909', 'B07568', 'B04822', 'B01431', 'B06687']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Gregory, Bailey and Sparks for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06635', 'B04748', 'B04490', 'B06483', 'B05267']"
+}

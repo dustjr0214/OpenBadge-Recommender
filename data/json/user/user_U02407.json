@@ -1,0 +1,14 @@
+{
+    "user_id": "U02407",
+    "name": "Brittany Stout",
+    "email": "michelleshepherd@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04849', 'B01787', 'B03697', 'B04643', 'B01831']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Smith Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05030']"
+}

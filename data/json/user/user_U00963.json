@@ -1,0 +1,14 @@
+{
+    "user_id": "U00963",
+    "name": "Michael Pittman",
+    "email": "christinagarcia@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08915', 'B06894', 'B03711']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Green Inc for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03231', 'B01033', 'B05639', 'B01988', 'B05213']"
+}

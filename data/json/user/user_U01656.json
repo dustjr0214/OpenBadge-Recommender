@@ -1,0 +1,14 @@
+{
+    "user_id": "U01656",
+    "name": "Mr. Mark Gonzalez",
+    "email": "smithkristine@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02485', 'B09963']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Kelly-Johnson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02446']"
+}

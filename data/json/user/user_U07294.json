@@ -1,0 +1,14 @@
+{
+    "user_id": "U07294",
+    "name": "Nathan Hamilton",
+    "email": "davischristian@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01152']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Valdez, Mccarthy and Campbell for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07723', 'B08173', 'B09867', 'B08419']"
+}

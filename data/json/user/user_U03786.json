@@ -1,0 +1,14 @@
+{
+    "user_id": "U03786",
+    "name": "Sandra Medina",
+    "email": "donaldjenkins@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05607', 'B02758', 'B00554']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Bell, Maldonado and Martin for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05582', 'B01129', 'B07604', 'B07744']"
+}

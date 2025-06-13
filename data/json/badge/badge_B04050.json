@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04050",
+    "name": "AI Specialist",
+    "issuer": "Google",
+    "description": "AI Specialist badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps']",
+    "competency": "['Problem Solving', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B05065', 'B04973']"
+}

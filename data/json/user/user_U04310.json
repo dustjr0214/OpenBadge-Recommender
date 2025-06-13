@@ -1,0 +1,14 @@
+{
+    "user_id": "U04310",
+    "name": "Michael Watkins",
+    "email": "stevensonrebecca@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05926']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Matthews-Garcia for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08746']"
+}

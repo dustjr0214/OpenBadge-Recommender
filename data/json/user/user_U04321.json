@@ -1,0 +1,14 @@
+{
+    "user_id": "U04321",
+    "name": "Jennifer Hughes",
+    "email": "melody83@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00142']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Gutierrez PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00679', 'B00372', 'B04645']"
+}

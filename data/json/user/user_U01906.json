@@ -1,0 +1,14 @@
+{
+    "user_id": "U01906",
+    "name": "Alex Dawson PhD",
+    "email": "ericbennett@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01593', 'B04193', 'B09389']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith, Wagner and Carey for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09474', 'B05418']"
+}

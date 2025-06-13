@@ -1,0 +1,14 @@
+{
+    "user_id": "U03727",
+    "name": "Anna Crawford",
+    "email": "parkkendra@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02310']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Little-Gross for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09567', 'B03185', 'B03571', 'B07497']"
+}

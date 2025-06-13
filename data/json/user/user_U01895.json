@@ -1,0 +1,14 @@
+{
+    "user_id": "U01895",
+    "name": "Danielle Chang",
+    "email": "william67@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04089', 'B00874', 'B02167', 'B06848']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Yoder, Williams and Stanley for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04936', 'B00738', 'B03529', 'B00796']"
+}

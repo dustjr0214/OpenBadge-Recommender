@@ -1,0 +1,14 @@
+{
+    "user_id": "U02173",
+    "name": "Joseph Reyes",
+    "email": "asanchez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06020', 'B01157', 'B03949', 'B08132', 'B03499']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Harper PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09404']"
+}

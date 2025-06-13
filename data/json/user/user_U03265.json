@@ -1,0 +1,14 @@
+{
+    "user_id": "U03265",
+    "name": "Eric Roy",
+    "email": "jenniferlopez@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07278', 'B07892', 'B04582', 'B01021']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Smith Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05599', 'B09216', 'B03657']"
+}

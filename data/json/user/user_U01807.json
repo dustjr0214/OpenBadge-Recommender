@@ -1,0 +1,14 @@
+{
+    "user_id": "U01807",
+    "name": "Donna Collins",
+    "email": "julie51@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09446', 'B00581', 'B05361']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Livingston-Adams for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03685', 'B09679', 'B00230']"
+}

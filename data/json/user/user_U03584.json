@@ -1,0 +1,14 @@
+{
+    "user_id": "U03584",
+    "name": "Carla Stevens",
+    "email": "michelle65@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03285']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Powell-Young for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04567', 'B07409', 'B04770', 'B06579', 'B06493']"
+}

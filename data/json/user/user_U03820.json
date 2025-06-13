@@ -1,0 +1,14 @@
+{
+    "user_id": "U03820",
+    "name": "Melissa Snyder",
+    "email": "pamela85@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04210', 'B00680']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Nelson-Powell for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01030",
+    "name": "UI/UX Designer",
+    "issuer": "IBM",
+    "description": "UI/UX Designer badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning', 'DevOps']",
+    "competency": "['UI/UX', 'Problem Solving', 'Leadership']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

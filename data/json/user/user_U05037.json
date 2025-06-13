@@ -1,0 +1,14 @@
+{
+    "user_id": "U05037",
+    "name": "Cheryl Fox",
+    "email": "pittmanjames@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07109', 'B07291', 'B01423']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Leonard, Wright and Deleon for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04357', 'B03436', 'B04139', 'B08635']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09478",
+    "name": "Ronald Cooper",
+    "email": "zstevens@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08107', 'B09451']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Pierce, Schultz and Johnson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02672']"
+}

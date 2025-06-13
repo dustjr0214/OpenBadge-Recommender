@@ -1,0 +1,14 @@
+{
+    "user_id": "U08213",
+    "name": "Shelby Gonzales",
+    "email": "dawn19@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03321', 'B01778']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Knox, Arroyo and Riggs for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01535', 'B06736']"
+}

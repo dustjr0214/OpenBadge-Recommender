@@ -1,0 +1,14 @@
+{
+    "user_id": "U07838",
+    "name": "Benjamin Murray",
+    "email": "alexis65@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01250', 'B01205', 'B00113', 'B01846', 'B09741']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Ayers, Cruz and Thompson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02656', 'B03543', 'B00301', 'B00067', 'B01715']"
+}

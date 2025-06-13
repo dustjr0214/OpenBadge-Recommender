@@ -1,0 +1,14 @@
+{
+    "user_id": "U04520",
+    "name": "Michael Hayes",
+    "email": "natalie15@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03562', 'B02418', 'B08683', 'B03443']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Williams-Hall for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01236', 'B07547', 'B08759', 'B02241', 'B03400']"
+}

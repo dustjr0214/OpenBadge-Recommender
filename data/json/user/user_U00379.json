@@ -1,0 +1,14 @@
+{
+    "user_id": "U00379",
+    "name": "April Woods",
+    "email": "miranda66@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02475', 'B04865', 'B01641']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Chambers, Pearson and Fleming for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06787']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03293",
+    "name": "Craig Buckley",
+    "email": "marie92@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Smith, Downs and Lopez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02184', 'B02949', 'B00901']"
+}

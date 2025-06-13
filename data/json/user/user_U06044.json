@@ -1,0 +1,14 @@
+{
+    "user_id": "U06044",
+    "name": "Felicia Woods",
+    "email": "williammack@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07703']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Washington Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09025', 'B03079', 'B08659']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08242",
+    "name": "Kim Moore",
+    "email": "duane52@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05928', 'B09701', 'B06170', 'B08282', 'B01272']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Huff-Montes for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05675', 'B05887', 'B04939']"
+}

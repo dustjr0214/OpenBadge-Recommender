@@ -1,0 +1,14 @@
+{
+    "user_id": "U04449",
+    "name": "Emily White",
+    "email": "nicholas20@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09762', 'B09902', 'B08566', 'B08444', 'B04021']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Duncan PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06341']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09465",
+    "name": "Michael Gallegos",
+    "email": "rhondaortega@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04299', 'B08543', 'B07186']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Fernandez-Gonzalez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01624', 'B09231', 'B03248']"
+}

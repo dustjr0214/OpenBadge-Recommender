@@ -1,0 +1,14 @@
+{
+    "user_id": "U06483",
+    "name": "Ashley Hernandez",
+    "email": "chadwest@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07608', 'B01465', 'B06772', 'B02281']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Shelton Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08297', 'B03638', 'B09868', 'B04804', 'B05095']"
+}

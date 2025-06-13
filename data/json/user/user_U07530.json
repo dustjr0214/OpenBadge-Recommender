@@ -1,0 +1,14 @@
+{
+    "user_id": "U07530",
+    "name": "Edward Hall",
+    "email": "linda72@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02881', 'B00919', 'B04028', 'B04857', 'B02934']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Martinez-Walsh for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09262', 'B05634', 'B02533']"
+}

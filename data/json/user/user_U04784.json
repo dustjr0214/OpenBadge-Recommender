@@ -1,0 +1,14 @@
+{
+    "user_id": "U04784",
+    "name": "Ronald Cole",
+    "email": "kennedyjonathan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03426', 'B07407', 'B03795']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Jones Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06045', 'B05833', 'B01462', 'B04560']"
+}

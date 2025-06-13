@@ -1,0 +1,14 @@
+{
+    "user_id": "U09760",
+    "name": "Yvonne Rodriguez PhD",
+    "email": "sherijordan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02532']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Adkins-Lopez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01801', 'B03381', 'B00412', 'B02523']"
+}

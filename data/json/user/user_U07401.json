@@ -1,0 +1,14 @@
+{
+    "user_id": "U07401",
+    "name": "John Ross",
+    "email": "katrinalucas@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04954', 'B02589', 'B06573', 'B08414', 'B04313']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Williams, Mendoza and Calhoun for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

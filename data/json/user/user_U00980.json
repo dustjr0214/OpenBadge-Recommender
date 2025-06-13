@@ -1,0 +1,14 @@
+{
+    "user_id": "U00980",
+    "name": "Karen Cisneros",
+    "email": "petersonjason@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cybersecurity', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00932', 'B03810', 'B09695', 'B00474']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Taylor-Lang for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06132', 'B03138', 'B00595']"
+}

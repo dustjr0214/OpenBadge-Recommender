@@ -1,0 +1,14 @@
+{
+    "user_id": "U03826",
+    "name": "Jacqueline Joyce",
+    "email": "kaylaleon@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07641', 'B03202', 'B03679']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Murphy, Farrell and Cox for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

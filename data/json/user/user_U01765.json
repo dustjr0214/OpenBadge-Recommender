@@ -1,0 +1,14 @@
+{
+    "user_id": "U01765",
+    "name": "Kristin Lozano",
+    "email": "kristy93@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06162', 'B01596']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hammond, Henderson and Hensley for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04625']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01058",
+    "name": "James Harris",
+    "email": "floresaaron@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06636', 'B09858', 'B09625', 'B03309', 'B02287']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Cross Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01557', 'B00296', 'B07435']"
+}

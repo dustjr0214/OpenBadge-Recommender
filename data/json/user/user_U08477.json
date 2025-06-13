@@ -1,0 +1,14 @@
+{
+    "user_id": "U08477",
+    "name": "Jessica Ware",
+    "email": "michaelbrown@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03648', 'B05455', 'B04588']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Moss, Bell and Armstrong for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02465', 'B04632', 'B01348', 'B00353', 'B03393']"
+}

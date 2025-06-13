@@ -1,0 +1,14 @@
+{
+    "user_id": "U01447",
+    "name": "Michael Wilson",
+    "email": "leahacosta@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07624', 'B02899', 'B07086', 'B05359']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Daniels-Williams for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04120']"
+}

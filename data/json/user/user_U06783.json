@@ -1,0 +1,14 @@
+{
+    "user_id": "U06783",
+    "name": "Sonya Wilson",
+    "email": "derek76@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07652']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Guzman and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08246', 'B03042', 'B02281', 'B01891', 'B05126']"
+}

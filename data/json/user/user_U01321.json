@@ -1,0 +1,14 @@
+{
+    "user_id": "U01321",
+    "name": "Bruce Roberts",
+    "email": "jennifer05@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07246', 'B07586']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Guerrero Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09770']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02822",
+    "name": "Ricardo Adams",
+    "email": "randall88@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05378', 'B03248', 'B02793']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Clark and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04516', 'B05380', 'B03177', 'B03139', 'B02326']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03144",
+    "name": "Robert Ayala",
+    "email": "michaelmendez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06972', 'B06016']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Smith, Pope and Flores for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03169', 'B04448', 'B02922', 'B05189']"
+}

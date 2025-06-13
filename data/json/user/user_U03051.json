@@ -1,0 +1,14 @@
+{
+    "user_id": "U03051",
+    "name": "Andrew Gaines",
+    "email": "deanna82@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00882', 'B05925', 'B09785', 'B01106']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Bennett-Castro for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03984', 'B00887', 'B04996', 'B06183', 'B00618']"
+}

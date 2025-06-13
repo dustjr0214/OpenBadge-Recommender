@@ -1,0 +1,14 @@
+{
+    "user_id": "U07887",
+    "name": "Amy Levine",
+    "email": "mitchellcaitlin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Taylor, Brown and Suarez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00574', 'B02728', 'B05734']"
+}

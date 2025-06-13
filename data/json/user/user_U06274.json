@@ -1,0 +1,14 @@
+{
+    "user_id": "U06274",
+    "name": "Kimberly Salazar",
+    "email": "fhayes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04911', 'B03172']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Hoffman-Fowler for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09628', 'B06338', 'B00206', 'B00931']"
+}

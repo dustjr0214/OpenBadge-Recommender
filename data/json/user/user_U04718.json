@@ -1,0 +1,14 @@
+{
+    "user_id": "U04718",
+    "name": "Brenda Allen",
+    "email": "kimberlyjoseph@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06284']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Horton and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03027', 'B02602', 'B07025', 'B05492', 'B08639']"
+}

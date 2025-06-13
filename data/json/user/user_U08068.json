@@ -1,0 +1,14 @@
+{
+    "user_id": "U08068",
+    "name": "Tara Coleman",
+    "email": "qstevens@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07728', 'B06746', 'B01435', 'B01538']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Brown, Randall and Simon for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02150', 'B05088', 'B03778']"
+}

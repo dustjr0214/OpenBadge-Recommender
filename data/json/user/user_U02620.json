@@ -1,0 +1,14 @@
+{
+    "user_id": "U02620",
+    "name": "Harold Hayes",
+    "email": "wanda73@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02510', 'B02782', 'B09899', 'B04758', 'B04439']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Bishop, Hendrix and Stone for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05308', 'B02647', 'B04392']"
+}

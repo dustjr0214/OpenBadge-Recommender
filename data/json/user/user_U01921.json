@@ -1,0 +1,14 @@
+{
+    "user_id": "U01921",
+    "name": "Joseph Cross",
+    "email": "katherinemiller@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Gonzales and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05243', 'B04450', 'B06707', 'B06812', 'B02164']"
+}

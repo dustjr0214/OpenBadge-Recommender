@@ -1,0 +1,14 @@
+{
+    "user_id": "U07350",
+    "name": "Joseph Perez",
+    "email": "mfoster@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Hale, Mosley and Nelson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00921', 'B08100', 'B01033']"
+}

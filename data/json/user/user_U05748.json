@@ -1,0 +1,14 @@
+{
+    "user_id": "U05748",
+    "name": "Kevin Brooks",
+    "email": "johnsondonna@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01162', 'B09403']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Ruiz, Oconnor and Lowery for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04949', 'B02756', 'B05498', 'B00183', 'B08968']"
+}

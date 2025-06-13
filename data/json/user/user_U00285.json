@@ -1,0 +1,14 @@
+{
+    "user_id": "U00285",
+    "name": "Lacey Phillips",
+    "email": "toddwallace@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01800', 'B00427', 'B04071', 'B05086']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Sanchez PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04560', 'B03777', 'B07573']"
+}

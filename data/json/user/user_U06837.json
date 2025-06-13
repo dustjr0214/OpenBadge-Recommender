@@ -1,0 +1,14 @@
+{
+    "user_id": "U06837",
+    "name": "Timothy Williams",
+    "email": "bmeyers@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03425', 'B03294', 'B01496']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Lewis-Garza for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02565', 'B08666']"
+}

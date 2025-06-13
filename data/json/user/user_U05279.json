@@ -1,0 +1,14 @@
+{
+    "user_id": "U05279",
+    "name": "Jennifer Casey",
+    "email": "laura52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09268', 'B01928', 'B07144']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Evans, West and Kelly for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07402']"
+}

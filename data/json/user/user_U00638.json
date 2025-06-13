@@ -1,0 +1,14 @@
+{
+    "user_id": "U00638",
+    "name": "Alexander Donaldson",
+    "email": "burgesskaitlyn@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09333', 'B06798', 'B02508']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Davis Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05382', 'B07830', 'B04052', 'B01365', 'B05577']"
+}

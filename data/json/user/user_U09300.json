@@ -1,0 +1,14 @@
+{
+    "user_id": "U09300",
+    "name": "Joshua Gomez",
+    "email": "matthew07@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03607', 'B06714']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Fitzgerald Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04795', 'B01082', 'B03643']"
+}

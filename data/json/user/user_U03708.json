@@ -1,0 +1,14 @@
+{
+    "user_id": "U03708",
+    "name": "Tammy Hooper",
+    "email": "bookerscott@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00178', 'B02233', 'B00333']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hill, Young and Silva for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02322']"
+}

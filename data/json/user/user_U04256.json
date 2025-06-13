@@ -1,0 +1,14 @@
+{
+    "user_id": "U04256",
+    "name": "Robert Martin MD",
+    "email": "haleannette@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07210', 'B08957', 'B05788']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Elliott-Marquez for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03226', 'B02700', 'B00135', 'B05085', 'B00381']"
+}

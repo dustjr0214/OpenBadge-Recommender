@@ -1,0 +1,14 @@
+{
+    "user_id": "U00219",
+    "name": "Matthew Phillips",
+    "email": "sanderslisa@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03051']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Coleman-Harris for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06812', 'B04118', 'B09721']"
+}

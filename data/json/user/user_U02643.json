@@ -1,0 +1,14 @@
+{
+    "user_id": "U02643",
+    "name": "Keith Jones",
+    "email": "joshua12@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00502', 'B03076', 'B09016', 'B07642']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Harrell-Flores for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09546', 'B06167', 'B02122']"
+}

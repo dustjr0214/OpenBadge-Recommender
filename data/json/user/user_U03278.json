@@ -1,0 +1,14 @@
+{
+    "user_id": "U03278",
+    "name": "Antonio Allen",
+    "email": "alexander21@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09364', 'B04348', 'B03960', 'B03869']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Barton Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00193']"
+}

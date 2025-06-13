@@ -1,0 +1,14 @@
+{
+    "user_id": "U04548",
+    "name": "Taylor Vasquez",
+    "email": "joshua31@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09074', 'B09325', 'B05084']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Peters-Price for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04856', 'B04862']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04280",
+    "name": "Andrew Novak",
+    "email": "zcaldwell@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02303', 'B08552', 'B04246', 'B01823']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Thomas-Shelton for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09129']"
+}

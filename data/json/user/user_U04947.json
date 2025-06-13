@@ -1,0 +1,14 @@
+{
+    "user_id": "U04947",
+    "name": "Alexandra Duke",
+    "email": "davidhoward@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03852', 'B04644', 'B01129', 'B02416']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Alvarado-Donovan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05002', 'B00860']"
+}

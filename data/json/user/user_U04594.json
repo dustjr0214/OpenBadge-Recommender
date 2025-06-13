@@ -1,0 +1,14 @@
+{
+    "user_id": "U04594",
+    "name": "Sharon Clark",
+    "email": "alyssarussell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05219', 'B04001']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Costa and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04881', 'B06751', 'B01889', 'B06346', 'B06299']"
+}

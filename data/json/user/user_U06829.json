@@ -1,0 +1,14 @@
+{
+    "user_id": "U06829",
+    "name": "Cameron Moore",
+    "email": "john97@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Spencer-Fisher for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08729', 'B06991', 'B03514', 'B02008']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00536",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis', 'SQL']",
+    "competency": "['Cybersecurity', 'UI/UX', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B06540', 'B00812']"
+}

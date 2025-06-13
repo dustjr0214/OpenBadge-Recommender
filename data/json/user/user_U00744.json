@@ -1,0 +1,14 @@
+{
+    "user_id": "U00744",
+    "name": "Richard Williams",
+    "email": "thomasespinoza@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07676', 'B00838', 'B07503', 'B09079', 'B00297']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Harrell, Davis and Giles for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08493', 'B06376']"
+}

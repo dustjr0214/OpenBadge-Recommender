@@ -1,0 +1,14 @@
+{
+    "user_id": "U03829",
+    "name": "Mitchell Ramirez",
+    "email": "kelsey08@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08936', 'B08510', 'B00768']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hansen-Cooper for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01627', 'B02847', 'B01918', 'B04503', 'B00299']"
+}

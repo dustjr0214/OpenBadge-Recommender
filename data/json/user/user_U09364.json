@@ -1,0 +1,14 @@
+{
+    "user_id": "U09364",
+    "name": "David Mayer",
+    "email": "milesmelissa@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08028']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Baker, Andrews and Singh for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09110', 'B05418', 'B08322', 'B03396']"
+}

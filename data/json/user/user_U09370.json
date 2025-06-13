@@ -1,0 +1,14 @@
+{
+    "user_id": "U09370",
+    "name": "Betty Barton",
+    "email": "debrameza@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07620', 'B05731', 'B07216', 'B08697', 'B07071']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Blake Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

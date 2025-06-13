@@ -1,0 +1,14 @@
+{
+    "user_id": "U04998",
+    "name": "Gabrielle Ritter",
+    "email": "julie62@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Perez, Morgan and Smith for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04493', 'B03005', 'B05427', 'B01446']"
+}

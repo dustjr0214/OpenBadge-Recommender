@@ -1,0 +1,14 @@
+{
+    "user_id": "U05232",
+    "name": "Grant Bush",
+    "email": "taylorkimberly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04301', 'B03815']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Moore Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09664', 'B02161']"
+}

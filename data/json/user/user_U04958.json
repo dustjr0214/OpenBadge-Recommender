@@ -1,0 +1,14 @@
+{
+    "user_id": "U04958",
+    "name": "Keith Rogers",
+    "email": "tonyalvarado@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02603', 'B03030', 'B04998', 'B04677', 'B00003']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Collins-Miller for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03198', 'B02638', 'B08056', 'B05330', 'B02063']"
+}

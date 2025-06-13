@@ -1,0 +1,14 @@
+{
+    "user_id": "U05240",
+    "name": "Emma Hopkins",
+    "email": "pbennett@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02432', 'B02368', 'B01182']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Brown, Rowland and Morris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03582', 'B04495']"
+}

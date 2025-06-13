@@ -1,0 +1,14 @@
+{
+    "user_id": "U03517",
+    "name": "Destiny Flynn",
+    "email": "samantha88@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04868', 'B06992', 'B04371', 'B05407']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Long, Lee and Russell for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03768', 'B03869', 'B00409']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06356",
+    "name": "Amy Wilson",
+    "email": "ellenjones@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01156', 'B08194', 'B03035', 'B00929']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at George Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09819']"
+}

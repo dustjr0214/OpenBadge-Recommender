@@ -1,0 +1,14 @@
+{
+    "user_id": "U01202",
+    "name": "Megan Chapman",
+    "email": "hmyers@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08333', 'B03227', 'B08111']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Berry-Olson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09978', 'B09366', 'B06140', 'B06827', 'B03530']"
+}

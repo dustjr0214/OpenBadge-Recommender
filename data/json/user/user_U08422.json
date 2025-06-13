@@ -1,0 +1,14 @@
+{
+    "user_id": "U08422",
+    "name": "Bradley Long",
+    "email": "anthony68@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04364', 'B04891']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Reese, Mckinney and Fields for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02895', 'B04241']"
+}

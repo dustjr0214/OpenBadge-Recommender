@@ -1,0 +1,14 @@
+{
+    "user_id": "U06331",
+    "name": "Christopher Lynch",
+    "email": "huntalex@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05861', 'B09389']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Williams, Smith and Drake for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04703', 'B04221']"
+}

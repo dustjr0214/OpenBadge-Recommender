@@ -1,0 +1,14 @@
+{
+    "user_id": "U07069",
+    "name": "Michael Lamb",
+    "email": "jessicasparks@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03479', 'B02149']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Le LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04875', 'B00971', 'B06839']"
+}

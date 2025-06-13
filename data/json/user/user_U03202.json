@@ -1,0 +1,14 @@
+{
+    "user_id": "U03202",
+    "name": "Alexandra Case",
+    "email": "aaronjones@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03246', 'B04429', 'B06915', 'B02702', 'B09802']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Woods Inc for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08285', 'B05575', 'B09236', 'B07935']"
+}

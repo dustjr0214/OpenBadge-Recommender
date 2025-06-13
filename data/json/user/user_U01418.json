@@ -1,0 +1,14 @@
+{
+    "user_id": "U01418",
+    "name": "Rachel Carter",
+    "email": "khanroger@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01146', 'B07362', 'B07424', 'B04784']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Fischer-Farmer for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04457']"
+}

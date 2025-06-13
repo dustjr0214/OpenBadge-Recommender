@@ -1,0 +1,14 @@
+{
+    "user_id": "U07481",
+    "name": "Joseph Nguyen",
+    "email": "anthony58@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09585', 'B06521']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Taylor and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

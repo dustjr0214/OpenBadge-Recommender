@@ -1,0 +1,14 @@
+{
+    "user_id": "U08708",
+    "name": "Christopher Hunter",
+    "email": "austin48@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03299', 'B02558', 'B06423', 'B05514']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Carlson-Taylor for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01593', 'B03825', 'B03926', 'B07019', 'B01035']"
+}

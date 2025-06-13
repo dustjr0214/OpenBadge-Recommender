@@ -1,0 +1,14 @@
+{
+    "user_id": "U03373",
+    "name": "Lisa Wright",
+    "email": "uevans@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07545', 'B05074', 'B07462', 'B07537', 'B04046']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Vaughn, Crawford and Gordon for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08067', 'B05832', 'B08811', 'B03362']"
+}

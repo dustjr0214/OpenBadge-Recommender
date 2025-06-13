@@ -1,0 +1,14 @@
+{
+    "user_id": "U00049",
+    "name": "Natalie Lopez",
+    "email": "bullocksandra@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02235', 'B07685', 'B02205', 'B07674', 'B00920']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Nelson, Espinoza and Thomas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08714', 'B04582', 'B01655']"
+}

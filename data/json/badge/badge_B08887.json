@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08887",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['SQL', 'DevOps', 'UI/UX']",
+    "competency": "['Teamwork', 'Cloud Computing', 'Creativity']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B07487']"
+}

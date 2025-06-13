@@ -1,0 +1,14 @@
+{
+    "user_id": "U01534",
+    "name": "Christina Gonzalez",
+    "email": "xzimmerman@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00676', 'B03768', 'B09899', 'B07974', 'B00004']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Lewis, Lewis and Berry for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00921', 'B08041', 'B02763', 'B08176']"
+}

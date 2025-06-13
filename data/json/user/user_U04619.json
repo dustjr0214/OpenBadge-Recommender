@@ -1,0 +1,14 @@
+{
+    "user_id": "U04619",
+    "name": "Bradley Johnson",
+    "email": "leejohnson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06154', 'B05494', 'B02611', 'B05721']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Barber, Riley and Mitchell for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01002', 'B05655', 'B06373']"
+}

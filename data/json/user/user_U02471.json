@@ -1,0 +1,14 @@
+{
+    "user_id": "U02471",
+    "name": "Andrew Henson",
+    "email": "amontes@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Harrison, Gray and Hodges for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08742', 'B09364']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04907",
+    "name": "Lisa Ferguson",
+    "email": "herrerathomas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03674', 'B05247', 'B01601']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Lang LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02984', 'B03852', 'B08516', 'B04546', 'B03250']"
+}

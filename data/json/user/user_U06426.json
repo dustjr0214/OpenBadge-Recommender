@@ -1,0 +1,14 @@
+{
+    "user_id": "U06426",
+    "name": "Denise Villegas",
+    "email": "elliottmercedes@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06248', 'B02953', 'B06615', 'B09991', 'B06786']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ryan Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05430', 'B09054']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02502",
+    "name": "John Martin",
+    "email": "stephensonashley@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04318']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Sullivan-Nolan for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09565', 'B07444', 'B08007', 'B04233']"
+}

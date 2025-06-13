@@ -1,0 +1,14 @@
+{
+    "user_id": "U05727",
+    "name": "Scott Martinez",
+    "email": "qbell@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03283']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Brown-Buck for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06130', 'B03946']"
+}

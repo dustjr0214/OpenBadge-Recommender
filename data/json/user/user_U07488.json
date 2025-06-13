@@ -1,0 +1,14 @@
+{
+    "user_id": "U07488",
+    "name": "Sarah Smith",
+    "email": "sjones@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Campbell, Flores and Hatfield for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06594', 'B00736', 'B03865', 'B09092']"
+}

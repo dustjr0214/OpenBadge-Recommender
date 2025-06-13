@@ -1,0 +1,14 @@
+{
+    "user_id": "U01173",
+    "name": "Lori Johnson",
+    "email": "james89@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01282', 'B09604', 'B06017']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Tyler, Hendricks and Duffy for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07992']"
+}

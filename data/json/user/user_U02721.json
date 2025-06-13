@@ -1,0 +1,14 @@
+{
+    "user_id": "U02721",
+    "name": "Joann Martinez",
+    "email": "hillsandra@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Schneider, Park and Turner for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08765', 'B09156']"
+}

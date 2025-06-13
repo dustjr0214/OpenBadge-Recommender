@@ -1,0 +1,14 @@
+{
+    "user_id": "U03305",
+    "name": "Shawn Mckinney",
+    "email": "allisonsamuel@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02468', 'B09992']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Williams, Chang and Vasquez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07523', 'B09757']"
+}

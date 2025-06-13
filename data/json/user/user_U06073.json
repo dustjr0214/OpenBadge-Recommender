@@ -1,0 +1,14 @@
+{
+    "user_id": "U06073",
+    "name": "Elizabeth Herrera",
+    "email": "elizabethmiller@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02003', 'B03802', 'B04255']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Bowman-Willis for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01552', 'B00512', 'B03705', 'B02112', 'B02171']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09498",
+    "name": "Adam Martinez",
+    "email": "ydixon@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08260', 'B03818', 'B07017', 'B09957']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Sanchez-Lane for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04178', 'B09584', 'B04177', 'B04495']"
+}

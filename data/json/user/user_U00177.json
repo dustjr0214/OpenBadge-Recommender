@@ -1,0 +1,14 @@
+{
+    "user_id": "U00177",
+    "name": "Mr. Lance Knapp Jr.",
+    "email": "kpeterson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09928']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Wiley LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02489', 'B06193']"
+}

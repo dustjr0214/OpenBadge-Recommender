@@ -1,0 +1,14 @@
+{
+    "user_id": "U04952",
+    "name": "Jacob Wolf",
+    "email": "theresanicholson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05228', 'B04930', 'B04648', 'B09140', 'B08104']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Crosby-Smith for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09437']"
+}

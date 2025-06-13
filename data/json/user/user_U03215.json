@@ -1,0 +1,14 @@
+{
+    "user_id": "U03215",
+    "name": "Rebecca Rogers",
+    "email": "snydernicole@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04418', 'B08588', 'B08694', 'B01961', 'B04979']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Richardson Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08352', 'B08370', 'B00261', 'B05653', 'B08138']"
+}

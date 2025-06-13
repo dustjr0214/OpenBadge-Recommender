@@ -1,0 +1,14 @@
+{
+    "user_id": "U04478",
+    "name": "Bradley Wu",
+    "email": "donna81@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03526']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Simpson-Mitchell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00023', 'B01818', 'B01952']"
+}

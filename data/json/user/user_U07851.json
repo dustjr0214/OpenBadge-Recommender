@@ -1,0 +1,14 @@
+{
+    "user_id": "U07851",
+    "name": "Travis Stone",
+    "email": "steelecrystal@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07150', 'B04320', 'B05700']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hoffman Ltd for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

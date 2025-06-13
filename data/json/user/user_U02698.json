@@ -1,0 +1,14 @@
+{
+    "user_id": "U02698",
+    "name": "Brandon Cross",
+    "email": "laurenmartinez@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01704']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Jenkins-Beltran for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02048', 'B01012']"
+}

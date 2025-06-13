@@ -1,0 +1,14 @@
+{
+    "user_id": "U03426",
+    "name": "Matthew Boyd Jr.",
+    "email": "briannagonzales@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09268', 'B05334', 'B09091', 'B02080', 'B02908']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Mitchell, Palmer and Morgan for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09148', 'B02746', 'B06254']"
+}

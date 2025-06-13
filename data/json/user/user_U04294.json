@@ -1,0 +1,14 @@
+{
+    "user_id": "U04294",
+    "name": "Christian Beck",
+    "email": "gturner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09560', 'B02069', 'B02280', 'B04049', 'B04338']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Campbell-Rodriguez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00848', 'B07299']"
+}

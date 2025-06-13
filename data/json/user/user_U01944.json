@@ -1,0 +1,14 @@
+{
+    "user_id": "U01944",
+    "name": "Richard Ramirez",
+    "email": "pphillips@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03670', 'B04041', 'B00322', 'B07690', 'B09598']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Jones PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

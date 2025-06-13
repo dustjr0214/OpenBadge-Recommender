@@ -1,0 +1,14 @@
+{
+    "user_id": "U04061",
+    "name": "Sharon Perez",
+    "email": "kennethevans@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08001', 'B00176', 'B01934', 'B02357']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Williams, Ward and Thornton for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03650']"
+}

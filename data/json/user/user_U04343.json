@@ -1,0 +1,14 @@
+{
+    "user_id": "U04343",
+    "name": "Erika Marshall",
+    "email": "larry67@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01151', 'B05602', 'B05346']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Miller-Young for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07082', 'B02362', 'B00388']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00998",
+    "name": "Taylor Smith",
+    "email": "gsullivan@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01734']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Carter PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

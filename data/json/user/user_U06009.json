@@ -1,0 +1,14 @@
+{
+    "user_id": "U06009",
+    "name": "Jean Beard",
+    "email": "kjames@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08022', 'B04071']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Lopez-Cuevas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09973', 'B03859', 'B04792']"
+}

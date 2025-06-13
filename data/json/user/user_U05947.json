@@ -1,0 +1,14 @@
+{
+    "user_id": "U05947",
+    "name": "Kenneth Estrada",
+    "email": "stewartalexis@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Python', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07891', 'B03725', 'B01642']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Gregory Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06061', 'B00597', 'B09983']"
+}

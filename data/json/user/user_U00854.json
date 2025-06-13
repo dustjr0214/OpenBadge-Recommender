@@ -1,0 +1,14 @@
+{
+    "user_id": "U00854",
+    "name": "David Anderson",
+    "email": "iandixon@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Williams PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05806', 'B04903']"
+}

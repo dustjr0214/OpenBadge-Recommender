@@ -1,0 +1,14 @@
+{
+    "user_id": "U00726",
+    "name": "Megan Chase",
+    "email": "russellkathy@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02509']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Cherry, Arias and Ruiz for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04251', 'B03898']"
+}

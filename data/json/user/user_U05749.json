@@ -1,0 +1,14 @@
+{
+    "user_id": "U05749",
+    "name": "Mr. Christopher Williams",
+    "email": "schmidtbryce@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05319']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Church-Oconnor for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02066']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06760",
+    "name": "Tonya Morse",
+    "email": "williamsjeffrey@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01668', 'B06528', 'B07657', 'B08102', 'B08915']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Dean-Thornton for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04916', 'B08643', 'B05088']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01641",
+    "name": "William Scott",
+    "email": "taylordouglas@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07885', 'B00940', 'B06031', 'B08761', 'B01860']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Reyes-Alexander for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04966', 'B09253', 'B06315', 'B08219']"
+}

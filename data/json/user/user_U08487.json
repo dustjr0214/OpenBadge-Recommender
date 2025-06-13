@@ -1,0 +1,14 @@
+{
+    "user_id": "U08487",
+    "name": "Victoria Mills",
+    "email": "earlgarrett@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00113', 'B02076', 'B08451']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Hines Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07332', 'B05163', 'B08987', 'B05038', 'B01673']"
+}

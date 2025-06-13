@@ -1,0 +1,14 @@
+{
+    "user_id": "U07042",
+    "name": "Tara Williams",
+    "email": "melissasolomon@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Hernandez PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09956', 'B05848', 'B07461', 'B09639']"
+}

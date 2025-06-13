@@ -1,0 +1,14 @@
+{
+    "user_id": "U02210",
+    "name": "Alison Greene",
+    "email": "colekyle@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08607', 'B03096', 'B08740']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Woods, Hubbard and Campbell for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03406', 'B05001', 'B05028']"
+}

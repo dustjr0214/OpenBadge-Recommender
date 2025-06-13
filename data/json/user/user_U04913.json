@@ -1,0 +1,14 @@
+{
+    "user_id": "U04913",
+    "name": "Ryan Adams",
+    "email": "pamrobinson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00695', 'B09995', 'B03332']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Rivas Group for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09585', 'B04847']"
+}

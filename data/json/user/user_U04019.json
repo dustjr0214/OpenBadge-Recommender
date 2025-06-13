@@ -1,0 +1,14 @@
+{
+    "user_id": "U04019",
+    "name": "Tiffany Wiggins",
+    "email": "gregory71@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05021', 'B05763', 'B08954']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Flores Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08136', 'B04924', 'B06370', 'B00546']"
+}

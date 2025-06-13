@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08374",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Python', 'Data Analysis', 'Cybersecurity']",
+    "competency": "['Cloud Computing', 'Deep Learning', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03107', 'B05909']"
+}

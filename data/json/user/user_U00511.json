@@ -1,0 +1,14 @@
+{
+    "user_id": "U00511",
+    "name": "Thomas Smith",
+    "email": "karen90@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'DevOps', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Mccoy Group for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04213', 'B01221', 'B04674', 'B08901']"
+}

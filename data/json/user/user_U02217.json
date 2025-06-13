@@ -1,0 +1,14 @@
+{
+    "user_id": "U02217",
+    "name": "Regina Brown",
+    "email": "knightdawn@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00264']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Stevens Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09519', 'B09254', 'B09107', 'B07435', 'B03928']"
+}

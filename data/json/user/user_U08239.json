@@ -1,0 +1,14 @@
+{
+    "user_id": "U08239",
+    "name": "Elizabeth Frey",
+    "email": "nlane@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03311', 'B02897', 'B08587', 'B00311', 'B07645']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Cole-Sanchez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

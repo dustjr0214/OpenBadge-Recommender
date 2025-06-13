@@ -1,0 +1,14 @@
+{
+    "user_id": "U05342",
+    "name": "Mark Brown",
+    "email": "amber02@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09100', 'B06624']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Taylor-Simpson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04245', 'B03744']"
+}

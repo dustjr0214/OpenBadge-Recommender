@@ -1,0 +1,14 @@
+{
+    "user_id": "U04020",
+    "name": "Ronald Wilson",
+    "email": "davisbrett@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08066', 'B05436', 'B00502', 'B09759', 'B04135']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Morgan, Martinez and Baker for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08883', 'B08792']"
+}

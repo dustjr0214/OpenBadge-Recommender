@@ -1,0 +1,14 @@
+{
+    "user_id": "U03276",
+    "name": "Connor Hays",
+    "email": "thomas66@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04951', 'B01586', 'B08145', 'B00586', 'B09297']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Bates, Cannon and Lee for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02754', 'B07994']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04000",
+    "name": "Anthony Dunn",
+    "email": "rwilson@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07575', 'B01432', 'B00477', 'B00468']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Farrell Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04357', 'B01370', 'B08180']"
+}

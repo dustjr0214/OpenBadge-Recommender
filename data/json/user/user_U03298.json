@@ -1,0 +1,14 @@
+{
+    "user_id": "U03298",
+    "name": "Lisa Robinson",
+    "email": "dannywells@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Sandoval-Carroll for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07466', 'B05922', 'B01060', 'B03947', 'B06088']"
+}

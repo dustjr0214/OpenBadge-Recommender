@@ -1,0 +1,14 @@
+{
+    "user_id": "U01234",
+    "name": "Caitlin Barrera",
+    "email": "shawjody@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03278', 'B05502', 'B09075', 'B05529', 'B08141']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Good and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02912', 'B06968', 'B00654', 'B02351', 'B00719']"
+}

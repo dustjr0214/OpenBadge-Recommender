@@ -1,0 +1,14 @@
+{
+    "user_id": "U04146",
+    "name": "Christopher Johnson",
+    "email": "garciamichael@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00319']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Lamb-Calderon for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03977', 'B07672', 'B03067']"
+}

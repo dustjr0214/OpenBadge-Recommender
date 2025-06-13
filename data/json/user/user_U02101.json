@@ -1,0 +1,14 @@
+{
+    "user_id": "U02101",
+    "name": "Howard Clark",
+    "email": "debra64@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09262', 'B09043']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Weaver, Lee and Buck for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02059', 'B00897', 'B08328', 'B09299']"
+}

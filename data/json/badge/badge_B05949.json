@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05949",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Deep Learning', 'UI/UX']",
+    "competency": "['Data Analysis', 'UI/UX', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B07136', 'B07810']"
+}

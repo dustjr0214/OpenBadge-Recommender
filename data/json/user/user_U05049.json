@@ -1,0 +1,14 @@
+{
+    "user_id": "U05049",
+    "name": "Daniel Cruz",
+    "email": "stacey95@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04926', 'B04955', 'B08659', 'B08373', 'B05491']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Robinson, Chung and Davis for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04425', 'B02469']"
+}

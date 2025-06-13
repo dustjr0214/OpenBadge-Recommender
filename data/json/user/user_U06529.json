@@ -1,0 +1,14 @@
+{
+    "user_id": "U06529",
+    "name": "Ronald Martin",
+    "email": "palmerdamon@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hunter, Brewer and Dunlap for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09015']"
+}

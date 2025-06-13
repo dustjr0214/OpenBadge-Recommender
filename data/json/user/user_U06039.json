@@ -1,0 +1,14 @@
+{
+    "user_id": "U06039",
+    "name": "Zachary Pierce",
+    "email": "robinsonnorma@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01996', 'B08515']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Anderson, Fowler and Webster for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09716', 'B08906', 'B05128', 'B06710']"
+}

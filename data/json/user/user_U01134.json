@@ -1,0 +1,14 @@
+{
+    "user_id": "U01134",
+    "name": "Brian Moody",
+    "email": "sabrinaclark@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08699', 'B01126']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Wright-Griffin for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07925', 'B08366', 'B04683', 'B06468', 'B04767']"
+}

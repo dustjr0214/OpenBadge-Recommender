@@ -1,0 +1,14 @@
+{
+    "user_id": "U09253",
+    "name": "Garrett Cole",
+    "email": "smithjoshua@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09148', 'B01123', 'B03286']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Myers PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08303', 'B01417']"
+}

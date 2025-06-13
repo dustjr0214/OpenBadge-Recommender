@@ -1,0 +1,14 @@
+{
+    "user_id": "U08143",
+    "name": "Blake Robinson",
+    "email": "scottanderson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Moore, Ramos and Hughes for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

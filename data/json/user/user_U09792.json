@@ -1,0 +1,14 @@
+{
+    "user_id": "U09792",
+    "name": "Paul Williams",
+    "email": "derekhart@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06449', 'B08072']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at West, Carter and Ford for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02039', 'B06425', 'B07937', 'B02477', 'B08765']"
+}

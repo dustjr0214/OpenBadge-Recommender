@@ -1,0 +1,14 @@
+{
+    "user_id": "U08090",
+    "name": "Sandra Walker",
+    "email": "tuckerjennifer@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09352', 'B03317', 'B06192']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Melton, Thompson and Maldonado for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05807']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02531",
+    "name": "Courtney Smith",
+    "email": "anthonystone@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04442', 'B09753', 'B07601']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Mitchell Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03236', 'B06593', 'B02330', 'B01763']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03846",
+    "name": "Tammy Blackburn",
+    "email": "richardwalton@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00315', 'B07367', 'B01240', 'B01108', 'B07772']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Davis, Jones and Schmitt for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02486']"
+}

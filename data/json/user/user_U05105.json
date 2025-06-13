@@ -1,0 +1,14 @@
+{
+    "user_id": "U05105",
+    "name": "Eric Cabrera",
+    "email": "jessica37@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05109']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Watson PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04962', 'B08480', 'B07399']"
+}

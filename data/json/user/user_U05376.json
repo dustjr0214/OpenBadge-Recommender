@@ -1,0 +1,14 @@
+{
+    "user_id": "U05376",
+    "name": "Mark Lindsey",
+    "email": "myersroger@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Charles and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01811', 'B07179', 'B00310']"
+}

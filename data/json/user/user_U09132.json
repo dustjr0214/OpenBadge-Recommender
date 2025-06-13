@@ -1,0 +1,14 @@
+{
+    "user_id": "U09132",
+    "name": "Rebecca Burke",
+    "email": "darryl55@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07155', 'B05454']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Medina Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05131', 'B00750', 'B00061']"
+}

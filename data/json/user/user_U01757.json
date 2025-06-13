@@ -1,0 +1,14 @@
+{
+    "user_id": "U01757",
+    "name": "Thomas Strong",
+    "email": "fbaker@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02932']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Herman-Fernandez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09162']"
+}

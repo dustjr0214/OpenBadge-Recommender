@@ -1,0 +1,14 @@
+{
+    "user_id": "U00649",
+    "name": "Kevin Joseph",
+    "email": "brianna79@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08204', 'B06297', 'B08798', 'B03811', 'B07637']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Morrison-Moore for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08249', 'B01907', 'B05747']"
+}

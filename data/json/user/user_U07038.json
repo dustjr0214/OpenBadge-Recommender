@@ -1,0 +1,14 @@
+{
+    "user_id": "U07038",
+    "name": "John Rodriguez",
+    "email": "catherinescott@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08130', 'B00009', 'B03681', 'B05927']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Richards, Flynn and Murphy for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04795']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07750",
+    "name": "Joshua Miller",
+    "email": "andrewmays@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05552', 'B07662', 'B08338']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Neal-Elliott for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07884', 'B04832']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01049",
+    "name": "Kimberly Howard DDS",
+    "email": "jacksonholder@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05398']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Andersen-Martin for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04552', 'B08239']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06159",
+    "name": "Angela Donaldson",
+    "email": "timothysmith@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02286', 'B06569', 'B04687', 'B09363']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Skinner-Fields for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08406']"
+}

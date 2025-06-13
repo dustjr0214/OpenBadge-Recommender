@@ -1,0 +1,14 @@
+{
+    "user_id": "U07859",
+    "name": "Amanda Thompson",
+    "email": "charlesdaniels@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03249', 'B05307']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Boyle, Lee and Alexander for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05821', 'B06541']"
+}

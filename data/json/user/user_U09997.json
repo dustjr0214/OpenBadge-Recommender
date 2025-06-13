@@ -1,0 +1,14 @@
+{
+    "user_id": "U09997",
+    "name": "Nathan Vargas",
+    "email": "stephanie17@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Python', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01665', 'B04653', 'B00401', 'B08210', 'B06857']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Baker, Smith and Snyder for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01456', 'B06877', 'B04998', 'B03109']"
+}

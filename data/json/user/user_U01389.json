@@ -1,0 +1,14 @@
+{
+    "user_id": "U01389",
+    "name": "John Flowers",
+    "email": "jenningsbradley@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01942', 'B09755', 'B06592']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Oconnor-Brown for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02425', 'B08967']"
+}

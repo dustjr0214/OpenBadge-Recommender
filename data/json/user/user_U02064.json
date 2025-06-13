@@ -1,0 +1,14 @@
+{
+    "user_id": "U02064",
+    "name": "William Lynn",
+    "email": "nathaniel47@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02967', 'B00431', 'B06437', 'B00301', 'B00097']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Berry-Anderson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02522', 'B04189', 'B01861', 'B08004']"
+}

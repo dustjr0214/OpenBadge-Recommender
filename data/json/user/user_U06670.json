@@ -1,0 +1,14 @@
+{
+    "user_id": "U06670",
+    "name": "Jared Cantu",
+    "email": "kyleshields@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01611', 'B08613', 'B06436', 'B06660']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Vaughn, Lawson and Taylor for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00808', 'B05398', 'B02859', 'B04659']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08317",
+    "name": "Denise Campos",
+    "email": "edwardmerritt@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08472', 'B03204', 'B05059']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Martin Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06726', 'B08231', 'B05042']"
+}

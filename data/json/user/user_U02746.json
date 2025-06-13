@@ -1,0 +1,14 @@
+{
+    "user_id": "U02746",
+    "name": "Daniel Mendoza",
+    "email": "uheath@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04690', 'B07114']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Howard Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00500']"
+}

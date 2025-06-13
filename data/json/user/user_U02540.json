@@ -1,0 +1,14 @@
+{
+    "user_id": "U02540",
+    "name": "Kimberly Rodgers",
+    "email": "gilesnicholas@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09992', 'B09650', 'B08855', 'B01486', 'B08812']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Castillo Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

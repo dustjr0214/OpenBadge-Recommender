@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08341",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['UI/UX', 'Cloud Computing']",
+    "competency": "['Analytical Skills', 'SQL']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B08144']"
+}

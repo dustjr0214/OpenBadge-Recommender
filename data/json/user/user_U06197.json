@@ -1,0 +1,14 @@
+{
+    "user_id": "U06197",
+    "name": "William Patel",
+    "email": "jared81@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03811', 'B08865', 'B07703', 'B09170']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Hoffman-Tucker for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02282', 'B07246', 'B07023', 'B08904']"
+}

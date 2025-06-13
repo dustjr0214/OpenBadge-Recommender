@@ -1,0 +1,14 @@
+{
+    "user_id": "U06391",
+    "name": "Lance Gregory",
+    "email": "washingtonshannon@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07386', 'B05119', 'B03348', 'B01005', 'B04353']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Aguilar, Collins and Hernandez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

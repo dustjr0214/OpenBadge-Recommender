@@ -1,0 +1,14 @@
+{
+    "user_id": "U04229",
+    "name": "Kevin Freeman",
+    "email": "knightscott@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05843', 'B03843', 'B01904']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Fisher-Holmes for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06695', 'B09019', 'B05856', 'B07826', 'B06626']"
+}

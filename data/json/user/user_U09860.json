@@ -1,0 +1,14 @@
+{
+    "user_id": "U09860",
+    "name": "David Lee",
+    "email": "brittneystevens@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01981']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Garcia Inc for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03787', 'B03944', 'B07436']"
+}

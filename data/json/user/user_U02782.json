@@ -1,0 +1,14 @@
+{
+    "user_id": "U02782",
+    "name": "Tom Thompson",
+    "email": "robinsonchristopher@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07466', 'B06099', 'B09028', 'B02400']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Smith-Brooks for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

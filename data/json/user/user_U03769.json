@@ -1,0 +1,14 @@
+{
+    "user_id": "U03769",
+    "name": "Kelly Gonzales",
+    "email": "vtaylor@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02024']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brooks, Davis and Chavez for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03469', 'B09182', 'B02092']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06683",
+    "name": "Stephen Patterson",
+    "email": "dale54@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04997', 'B08694']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Klein Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05289', 'B09612']"
+}

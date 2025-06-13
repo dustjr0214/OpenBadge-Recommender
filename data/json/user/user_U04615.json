@@ -1,0 +1,14 @@
+{
+    "user_id": "U04615",
+    "name": "Lisa Johnson",
+    "email": "erin82@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09571', 'B06064']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Bird, Mahoney and Diaz for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02914', 'B00377', 'B06339', 'B09733']"
+}

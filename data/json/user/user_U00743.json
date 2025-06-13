@@ -1,0 +1,14 @@
+{
+    "user_id": "U00743",
+    "name": "Brad Nunez",
+    "email": "danielruiz@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07982', 'B06627']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Todd LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07297']"
+}

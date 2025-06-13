@@ -1,0 +1,14 @@
+{
+    "user_id": "U03390",
+    "name": "Natalie Kim",
+    "email": "xrobinson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00445', 'B04533', 'B04173', 'B04344']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Ross, Huffman and Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02448",
+    "name": "Robert Williams",
+    "email": "bsteele@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07902', 'B07120']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Massey, Jackson and Simmons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07458', 'B04460', 'B09980', 'B06448', 'B02721']"
+}

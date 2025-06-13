@@ -1,0 +1,14 @@
+{
+    "user_id": "U08785",
+    "name": "Morgan Wood",
+    "email": "zcarson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Roberts, Morgan and Wright for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00979', 'B02226', 'B01810', 'B08843']"
+}

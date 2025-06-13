@@ -1,0 +1,14 @@
+{
+    "user_id": "U08649",
+    "name": "David Lewis",
+    "email": "jennifer41@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03503', 'B05775', 'B09846', 'B06208']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Brock, Ray and Johnson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07072']"
+}

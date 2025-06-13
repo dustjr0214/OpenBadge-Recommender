@@ -1,0 +1,14 @@
+{
+    "user_id": "U09596",
+    "name": "Frank Cohen",
+    "email": "lcarpenter@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08698', 'B08113', 'B05233', 'B06159', 'B05156']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Choi-Delacruz for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04515', 'B06490', 'B05521']"
+}

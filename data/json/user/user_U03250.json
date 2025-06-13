@@ -1,0 +1,14 @@
+{
+    "user_id": "U03250",
+    "name": "Lisa Walker",
+    "email": "garyhernandez@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05457', 'B09423']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Patterson-Perez for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

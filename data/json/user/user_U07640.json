@@ -1,0 +1,14 @@
+{
+    "user_id": "U07640",
+    "name": "Matthew Adams",
+    "email": "ramirezmanuel@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00770']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Serrano Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01685', 'B08786', 'B01284']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00283",
+    "name": "Guy Benitez",
+    "email": "monica00@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09933']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Boyer PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06873', 'B09856', 'B03865', 'B09705']"
+}

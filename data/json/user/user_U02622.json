@@ -1,0 +1,14 @@
+{
+    "user_id": "U02622",
+    "name": "Matthew Stephens",
+    "email": "tlopez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08300', 'B02014', 'B08412', 'B00887']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Owens, Fields and Cummings for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00501']"
+}

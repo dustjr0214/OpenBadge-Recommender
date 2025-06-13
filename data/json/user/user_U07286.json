@@ -1,0 +1,14 @@
+{
+    "user_id": "U07286",
+    "name": "Carolyn Black",
+    "email": "jenniferrodriguez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09890']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Joseph, Dodson and Hernandez for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00253', 'B06050', 'B01556', 'B02364', 'B05512']"
+}

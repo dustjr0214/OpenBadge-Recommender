@@ -1,0 +1,14 @@
+{
+    "user_id": "U03792",
+    "name": "David Durham",
+    "email": "josephjennifer@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02465', 'B03094', 'B08460', 'B09500', 'B01739']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Carrillo, Harper and Bradley for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03306']"
+}

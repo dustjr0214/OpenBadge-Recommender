@@ -1,0 +1,14 @@
+{
+    "user_id": "U08753",
+    "name": "Joshua Davis",
+    "email": "srodriguez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05252', 'B06011', 'B04954']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Stokes Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05592', 'B03315', 'B03326', 'B09904', 'B06816']"
+}

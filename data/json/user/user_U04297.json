@@ -1,0 +1,14 @@
+{
+    "user_id": "U04297",
+    "name": "Jose Woodward",
+    "email": "perezaustin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Cybersecurity', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01325', 'B03932']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Costa-Vazquez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04668', 'B03190', 'B06101', 'B07728', 'B04720']"
+}

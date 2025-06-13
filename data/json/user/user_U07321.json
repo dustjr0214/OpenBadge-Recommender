@@ -1,0 +1,14 @@
+{
+    "user_id": "U07321",
+    "name": "Tim Young",
+    "email": "brownjacqueline@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08710', 'B05715', 'B03551', 'B08329']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Perry, Jackson and Burke for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06986', 'B06186', 'B06521', 'B03670']"
+}

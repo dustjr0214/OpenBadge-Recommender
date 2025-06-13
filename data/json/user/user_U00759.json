@@ -1,0 +1,14 @@
+{
+    "user_id": "U00759",
+    "name": "Sean Gibson",
+    "email": "hammonddeborah@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00546', 'B01142']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Travis-Foster for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00108', 'B04060', 'B09692']"
+}

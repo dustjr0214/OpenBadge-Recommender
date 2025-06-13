@@ -1,0 +1,14 @@
+{
+    "user_id": "U07232",
+    "name": "Jacob Jackson",
+    "email": "william54@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09302', 'B05117', 'B04941', 'B07674']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Gomez-Chandler for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03805', 'B05129', 'B05549', 'B00098']"
+}

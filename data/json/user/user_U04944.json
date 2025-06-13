@@ -1,0 +1,14 @@
+{
+    "user_id": "U04944",
+    "name": "Michael Hurst",
+    "email": "prodriguez@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00217', 'B06595']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Ewing Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07900', 'B08300', 'B06385', 'B08917', 'B02296']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04013",
+    "name": "Brittany Nguyen",
+    "email": "jonathanharris@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08916']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Odonnell-Christian for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08206', 'B08107', 'B06854', 'B04930', 'B04953']"
+}

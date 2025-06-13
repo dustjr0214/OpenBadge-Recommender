@@ -1,0 +1,14 @@
+{
+    "user_id": "U07956",
+    "name": "Mark Gonzalez",
+    "email": "suewoodard@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Python', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00792', 'B00593', 'B09105', 'B06185']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Carney-Robinson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

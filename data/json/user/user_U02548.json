@@ -1,0 +1,14 @@
+{
+    "user_id": "U02548",
+    "name": "Richard Harris",
+    "email": "drhodes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02890', 'B08078', 'B07132']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Perez PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03620']"
+}

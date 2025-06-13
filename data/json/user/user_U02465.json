@@ -1,0 +1,14 @@
+{
+    "user_id": "U02465",
+    "name": "Dr. Jason Brooks",
+    "email": "tracykennedy@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03167', 'B07720', 'B09253']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Armstrong Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04850', 'B00148']"
+}

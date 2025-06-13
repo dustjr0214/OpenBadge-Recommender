@@ -1,0 +1,14 @@
+{
+    "user_id": "U00528",
+    "name": "Sandra Reed",
+    "email": "thomas52@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01045', 'B04833']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Bright Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07253', 'B07006', 'B05239', 'B02391', 'B04295']"
+}

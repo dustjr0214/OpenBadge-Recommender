@@ -1,0 +1,14 @@
+{
+    "user_id": "U00956",
+    "name": "Anthony Lindsey",
+    "email": "smithlisa@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06105', 'B01913', 'B08216', 'B06064']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Weber-Green for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

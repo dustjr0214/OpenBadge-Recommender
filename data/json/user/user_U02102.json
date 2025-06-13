@@ -1,0 +1,14 @@
+{
+    "user_id": "U02102",
+    "name": "Charles Becker",
+    "email": "anna77@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03912', 'B00341', 'B09788', 'B05979', 'B00277']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Koch-Harris for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04012', 'B06566', 'B02197', 'B08042']"
+}

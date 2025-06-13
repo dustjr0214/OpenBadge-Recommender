@@ -1,0 +1,14 @@
+{
+    "user_id": "U03901",
+    "name": "Hailey Shepard",
+    "email": "martinezanthony@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07828', 'B06411', 'B03765']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Solomon, White and Foster for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09446']"
+}

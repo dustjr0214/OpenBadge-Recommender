@@ -1,0 +1,14 @@
+{
+    "user_id": "U04829",
+    "name": "Michelle Harmon",
+    "email": "nelsonbilly@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Machine Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Jones, Hopkins and Cox for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00393', 'B02707', 'B02820', 'B09723', 'B07247']"
+}

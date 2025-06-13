@@ -1,0 +1,14 @@
+{
+    "user_id": "U08569",
+    "name": "Mark Carlson",
+    "email": "jthornton@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00126']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Miller, Griffin and Allen for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02812']"
+}

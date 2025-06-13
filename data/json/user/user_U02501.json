@@ -1,0 +1,14 @@
+{
+    "user_id": "U02501",
+    "name": "Steven Schultz",
+    "email": "bennettjasmine@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04363', 'B02617', 'B06927']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Maxwell, Watts and Gonzales for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09934', 'B02811', 'B05796', 'B00892', 'B05151']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05062",
+    "name": "Frederick Walker",
+    "email": "sherrigill@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Green-Mann for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01278', 'B08581', 'B05640']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01686",
+    "name": "Natalie Mclaughlin",
+    "email": "harriskevin@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00393', 'B00885', 'B03204', 'B00544', 'B02783']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Johnson, Williams and Johnson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08754",
+    "name": "Sarah Sparks",
+    "email": "torressamantha@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04466', 'B06397']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Schultz Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08161', 'B07106']"
+}

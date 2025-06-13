@@ -1,0 +1,14 @@
+{
+    "user_id": "U04404",
+    "name": "Mary Mccullough",
+    "email": "john71@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07181', 'B07170', 'B08368']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Cruz, Carlson and Andrews for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06976', 'B01788', 'B05033', 'B01466']"
+}

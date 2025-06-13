@@ -1,0 +1,14 @@
+{
+    "user_id": "U05264",
+    "name": "Jennifer Thompson",
+    "email": "lisa44@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05156']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Alvarez PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00561', 'B02905', 'B04847']"
+}

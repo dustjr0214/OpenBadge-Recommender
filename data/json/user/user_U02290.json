@@ -1,0 +1,14 @@
+{
+    "user_id": "U02290",
+    "name": "Christine Smith",
+    "email": "michelle83@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04149']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Bailey-Williams for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09542', 'B02220', 'B04741']"
+}

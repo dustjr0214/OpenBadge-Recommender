@@ -1,0 +1,14 @@
+{
+    "user_id": "U08908",
+    "name": "Timothy Avila",
+    "email": "jonathanadams@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00953', 'B01246']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Medina Ltd for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

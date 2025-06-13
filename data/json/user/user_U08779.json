@@ -1,0 +1,14 @@
+{
+    "user_id": "U08779",
+    "name": "Charles Mccormick",
+    "email": "nblack@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03702', 'B06397', 'B03317', 'B06930']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Stone, Parrish and Harris for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09121', 'B02050', 'B00143', 'B09101', 'B07361']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05596",
+    "name": "Michelle Mueller",
+    "email": "piercetravis@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08419']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Martin, Odonnell and Collins for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09440', 'B01153', 'B00663', 'B08544']"
+}

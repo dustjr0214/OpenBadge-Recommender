@@ -1,0 +1,14 @@
+{
+    "user_id": "U02687",
+    "name": "Susan Lopez",
+    "email": "hbenson@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09269']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Green, Wallace and Stephens for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05174', 'B08986', 'B07672', 'B00959', 'B08652']"
+}

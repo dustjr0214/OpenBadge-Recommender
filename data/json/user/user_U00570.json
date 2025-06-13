@@ -1,0 +1,14 @@
+{
+    "user_id": "U00570",
+    "name": "Tanya Sanchez",
+    "email": "blackwellsandra@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08944']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Roberts-Jackson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09903', 'B06894', 'B04961', 'B00725', 'B03896']"
+}

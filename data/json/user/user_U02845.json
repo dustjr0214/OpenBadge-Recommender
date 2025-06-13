@@ -1,0 +1,14 @@
+{
+    "user_id": "U02845",
+    "name": "Michelle Davis",
+    "email": "mcmillannatalie@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Mcgrath, Lang and Evans for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02069']"
+}

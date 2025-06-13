@@ -1,0 +1,14 @@
+{
+    "user_id": "U01412",
+    "name": "Dr. Nicole Steele",
+    "email": "smithcheyenne@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09043']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Walker Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03114', 'B02635', 'B07889', 'B09198', 'B03652']"
+}

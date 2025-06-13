@@ -1,0 +1,14 @@
+{
+    "user_id": "U04309",
+    "name": "Michael Vaughn",
+    "email": "allisonreed@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08356', 'B05421', 'B02016']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Bridges-Smith for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04227', 'B05921']"
+}

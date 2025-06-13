@@ -1,0 +1,14 @@
+{
+    "user_id": "U06488",
+    "name": "Bobby Campbell",
+    "email": "mckayjessica@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03082']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Rodriguez, Berg and Miller for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03522', 'B03099']"
+}

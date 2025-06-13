@@ -1,0 +1,14 @@
+{
+    "user_id": "U09536",
+    "name": "Jennifer Schmidt",
+    "email": "garciasandra@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04082', 'B05847', 'B08068']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Lyons LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07560', 'B07845', 'B02368', 'B01896', 'B04878']"
+}

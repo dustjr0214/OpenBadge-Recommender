@@ -1,0 +1,14 @@
+{
+    "user_id": "U02696",
+    "name": "Matthew Williams",
+    "email": "umorgan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09044', 'B02993', 'B01749', 'B05863']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Long-Schneider for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07251', 'B03659', 'B01203', 'B05671']"
+}

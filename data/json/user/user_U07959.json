@@ -1,0 +1,14 @@
+{
+    "user_id": "U07959",
+    "name": "Nicole Williams",
+    "email": "kevin99@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06720', 'B00970', 'B01393', 'B00599']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Hill PLC for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

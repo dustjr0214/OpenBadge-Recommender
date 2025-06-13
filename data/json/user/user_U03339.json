@@ -1,0 +1,14 @@
+{
+    "user_id": "U03339",
+    "name": "Douglas Osborne",
+    "email": "nwerner@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01247', 'B06308', 'B05121', 'B07901', 'B00783']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Turner, Vazquez and Thompson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04896', 'B00539', 'B00357']"
+}

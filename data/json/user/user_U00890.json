@@ -1,0 +1,14 @@
+{
+    "user_id": "U00890",
+    "name": "Scott Robles",
+    "email": "christine55@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Robinson Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03509', 'B06984']"
+}

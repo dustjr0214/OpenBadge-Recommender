@@ -1,0 +1,14 @@
+{
+    "user_id": "U02129",
+    "name": "Roger Reeves",
+    "email": "gpark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01895', 'B09996', 'B02595', 'B08826']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Smith-Lawrence for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

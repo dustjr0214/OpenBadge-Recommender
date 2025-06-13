@@ -1,0 +1,14 @@
+{
+    "user_id": "U08737",
+    "name": "Angela Welch",
+    "email": "campossarah@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'SQL', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01967', 'B06796', 'B05743']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Smith Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00404', 'B05838', 'B08304', 'B09785', 'B00982']"
+}

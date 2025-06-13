@@ -1,0 +1,14 @@
+{
+    "user_id": "U07328",
+    "name": "Karen Taylor",
+    "email": "owoods@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Simmons, Arroyo and Rubio for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05030', 'B05473', 'B02641', 'B07130', 'B09846']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01609",
+    "name": "Deep Learning Master",
+    "issuer": "Google",
+    "description": "Deep Learning Master badge issued by Google",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Cloud Computing', 'Cybersecurity']",
+    "competency": "['Cybersecurity', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00228', 'B09781']"
+}

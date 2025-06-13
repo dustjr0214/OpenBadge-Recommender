@@ -1,0 +1,14 @@
+{
+    "user_id": "U05119",
+    "name": "Nicole Rasmussen",
+    "email": "antonio33@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04295', 'B07854']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Hartman, Wright and Gray for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

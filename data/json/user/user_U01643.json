@@ -1,0 +1,14 @@
+{
+    "user_id": "U01643",
+    "name": "Glen Griffin",
+    "email": "rebeccabrown@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03370', 'B00133', 'B01687', 'B04797']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Jackson PLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

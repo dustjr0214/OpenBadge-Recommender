@@ -1,0 +1,14 @@
+{
+    "user_id": "U00843",
+    "name": "Elizabeth Cook",
+    "email": "lbrown@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Stevens, Jacobs and Johnson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06282', 'B01615']"
+}

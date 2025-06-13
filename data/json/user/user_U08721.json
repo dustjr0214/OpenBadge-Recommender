@@ -1,0 +1,14 @@
+{
+    "user_id": "U08721",
+    "name": "Thomas Harris",
+    "email": "qoneal@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02950', 'B02876', 'B04531']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Singh LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03600', 'B08546', 'B00051']"
+}

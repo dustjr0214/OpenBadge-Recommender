@@ -1,0 +1,14 @@
+{
+    "user_id": "U08588",
+    "name": "Kimberly Ware",
+    "email": "patrick93@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02322', 'B01213', 'B02533']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Massey-Hooper for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09370', 'B02711']"
+}

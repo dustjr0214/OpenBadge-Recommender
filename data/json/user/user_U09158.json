@@ -1,0 +1,14 @@
+{
+    "user_id": "U09158",
+    "name": "John Evans",
+    "email": "marysims@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01684', 'B01696']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Myers-Schmidt for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06468', 'B00535', 'B01946', 'B07975', 'B00404']"
+}

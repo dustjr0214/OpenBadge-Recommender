@@ -1,0 +1,14 @@
+{
+    "user_id": "U01203",
+    "name": "Jessica Davidson",
+    "email": "atkinsjonathan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06924', 'B06909']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Robbins and Sons for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

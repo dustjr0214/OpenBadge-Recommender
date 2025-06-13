@@ -1,0 +1,14 @@
+{
+    "user_id": "U04386",
+    "name": "Luis Jordan",
+    "email": "antonio62@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05727', 'B03050']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Thomas-Ortiz for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02076', 'B02653', 'B01429', 'B09764']"
+}

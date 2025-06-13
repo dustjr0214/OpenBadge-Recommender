@@ -1,0 +1,14 @@
+{
+    "user_id": "U02260",
+    "name": "Rebecca Stanley",
+    "email": "louis41@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03666', 'B08953', 'B01613', 'B08920', 'B04226']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Barnes-Charles for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09827', 'B02256', 'B08956', 'B09558']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09106",
+    "name": "Paul Allen",
+    "email": "richard61@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09431', 'B00626']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Baker, Harris and Williams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03101', 'B05587', 'B02872']"
+}

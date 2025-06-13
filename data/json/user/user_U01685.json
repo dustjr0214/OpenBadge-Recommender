@@ -1,0 +1,14 @@
+{
+    "user_id": "U01685",
+    "name": "Dean Parsons",
+    "email": "nataliephillips@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Webster, Johnson and Carrillo for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01090', 'B03859', 'B03726']"
+}

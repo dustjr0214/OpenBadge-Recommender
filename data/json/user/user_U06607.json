@@ -1,0 +1,14 @@
+{
+    "user_id": "U06607",
+    "name": "Daniel Robinson",
+    "email": "dominguezhannah@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Bruce, Collins and Warren for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08531', 'B07902', 'B06599', 'B02358']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02925",
+    "name": "Sheri Johns",
+    "email": "perrystephanie@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04453', 'B08704']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Kennedy, Sharp and Solomon for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06216', 'B09539', 'B09025']"
+}

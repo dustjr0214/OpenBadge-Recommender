@@ -1,0 +1,14 @@
+{
+    "user_id": "U03586",
+    "name": "Lisa Palmer",
+    "email": "rebecca42@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02076']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson, Brown and Carter for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09952', 'B09054', 'B09957']"
+}

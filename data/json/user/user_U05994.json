@@ -1,0 +1,14 @@
+{
+    "user_id": "U05994",
+    "name": "Kevin Cruz",
+    "email": "jeremy56@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Richards Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02502', 'B02905', 'B08015', 'B00811']"
+}

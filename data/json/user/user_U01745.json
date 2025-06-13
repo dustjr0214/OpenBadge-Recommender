@@ -1,0 +1,14 @@
+{
+    "user_id": "U01745",
+    "name": "Kenneth Rodriguez",
+    "email": "seth70@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09493', 'B04111', 'B04897', 'B02328']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Miller, Singh and Meyer for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07779', 'B09283', 'B07497', 'B03581']"
+}

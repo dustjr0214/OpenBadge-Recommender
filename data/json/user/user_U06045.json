@@ -1,0 +1,14 @@
+{
+    "user_id": "U06045",
+    "name": "Barry Leonard",
+    "email": "nicolejimenez@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06491']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Roberts-Peters for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07280', 'B07015', 'B04660', 'B01282', 'B00034']"
+}

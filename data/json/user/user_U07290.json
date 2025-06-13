@@ -1,0 +1,14 @@
+{
+    "user_id": "U07290",
+    "name": "Victoria Dean",
+    "email": "dicksonrichard@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08401', 'B06544']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Henry Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05647', 'B06646', 'B01370', 'B07111']"
+}

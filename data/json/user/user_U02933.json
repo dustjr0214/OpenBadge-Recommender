@@ -1,0 +1,14 @@
+{
+    "user_id": "U02933",
+    "name": "Christine Mccullough",
+    "email": "michelleadams@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04171', 'B04793', 'B01381']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Guzman Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05092']"
+}

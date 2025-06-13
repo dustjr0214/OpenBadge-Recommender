@@ -1,0 +1,14 @@
+{
+    "user_id": "U09833",
+    "name": "Charles Schaefer",
+    "email": "rbrown@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06931', 'B07206', 'B03988', 'B02947', 'B02653']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Combs, Ferguson and Vazquez for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06488', 'B00992', 'B07469', 'B08609']"
+}

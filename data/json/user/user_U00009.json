@@ -1,0 +1,14 @@
+{
+    "user_id": "U00009",
+    "name": "Donna Thompson",
+    "email": "christophercarter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06446', 'B01455', 'B03182', 'B09116', 'B06295']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Tran, Mcdowell and Norris for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

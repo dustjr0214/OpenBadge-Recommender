@@ -1,0 +1,14 @@
+{
+    "user_id": "U03384",
+    "name": "Lisa Scott",
+    "email": "jameswilliams@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02589', 'B05822', 'B02960']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Hanson PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00501', 'B05860']"
+}

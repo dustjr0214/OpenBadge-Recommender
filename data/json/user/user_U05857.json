@@ -1,0 +1,14 @@
+{
+    "user_id": "U05857",
+    "name": "Jacob Williams",
+    "email": "zpeterson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01766', 'B02655', 'B04307', 'B04125']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Bell-Vega for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04336']"
+}

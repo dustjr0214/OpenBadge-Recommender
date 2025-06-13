@@ -1,0 +1,14 @@
+{
+    "user_id": "U08327",
+    "name": "Kimberly Cruz",
+    "email": "banksrobert@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05398', 'B00265', 'B07483', 'B08809']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Mcdonald LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06944']"
+}

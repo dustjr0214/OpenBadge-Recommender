@@ -1,0 +1,14 @@
+{
+    "user_id": "U02292",
+    "name": "Kathleen Huber",
+    "email": "gswanson@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01059', 'B04204', 'B08599']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Barnett LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08733', 'B03661']"
+}

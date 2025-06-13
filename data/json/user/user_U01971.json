@@ -1,0 +1,14 @@
+{
+    "user_id": "U01971",
+    "name": "Ruben Harris",
+    "email": "josephbrooks@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07144', 'B06006', 'B05362', 'B07289', 'B09023']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Jacobs, Jones and Walker for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06887', 'B02827', 'B02804']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03587",
+    "name": "Matthew Rodriguez",
+    "email": "richardsoneugene@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08890']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Gonzalez LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08232', 'B05129', 'B08641', 'B08155', 'B04663']"
+}

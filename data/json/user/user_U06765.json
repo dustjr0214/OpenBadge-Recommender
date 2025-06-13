@@ -1,0 +1,14 @@
+{
+    "user_id": "U06765",
+    "name": "Joshua Guerra",
+    "email": "carrolljustin@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01273', 'B09364', 'B00483', 'B08918', 'B03261']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rodriguez-Wagner for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05105', 'B05391']"
+}

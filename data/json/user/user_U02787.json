@@ -1,0 +1,14 @@
+{
+    "user_id": "U02787",
+    "name": "Richard Reyes",
+    "email": "zmann@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Coffey-Adams for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09313', 'B04969', 'B09268', 'B07828']"
+}

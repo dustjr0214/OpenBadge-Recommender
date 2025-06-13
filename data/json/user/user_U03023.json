@@ -1,0 +1,14 @@
+{
+    "user_id": "U03023",
+    "name": "Kristina Peck",
+    "email": "derek87@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04848', 'B09487', 'B04408']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Rodriguez, Bridges and Miller for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02441', 'B04452', 'B05024', 'B02657']"
+}

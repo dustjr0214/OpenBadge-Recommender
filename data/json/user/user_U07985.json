@@ -1,0 +1,14 @@
+{
+    "user_id": "U07985",
+    "name": "Albert Garcia",
+    "email": "christopher98@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03767', 'B00524', 'B04921', 'B05715']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Wood Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07992', 'B02087']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00222",
+    "name": "John Ryan MD",
+    "email": "amy60@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00775', 'B05803', 'B07278']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Smith PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07735', 'B01479']"
+}

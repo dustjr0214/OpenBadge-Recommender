@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07305",
+    "name": "DevOps Engineer",
+    "issuer": "Coursera",
+    "description": "DevOps Engineer badge issued by Coursera",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['UI/UX', 'Cloud Computing']",
+    "competency": "['Leadership', 'Analytical Skills', 'Data Analysis']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08043']"
+}

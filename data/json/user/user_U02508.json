@@ -1,0 +1,14 @@
+{
+    "user_id": "U02508",
+    "name": "Dale Moore",
+    "email": "justincarpenter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'UI/UX', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04842', 'B05343', 'B05714']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Johnson, Lee and Martin for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06089']"
+}

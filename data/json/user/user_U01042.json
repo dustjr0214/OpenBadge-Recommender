@@ -1,0 +1,14 @@
+{
+    "user_id": "U01042",
+    "name": "Kelly Garcia",
+    "email": "debbiejohnson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05834', 'B01480', 'B08895']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Anderson and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04824', 'B05016', 'B01104']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03663",
+    "name": "Jacob Perez",
+    "email": "tpeterson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Zavala, Vargas and Campbell for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05462', 'B05762', 'B04106', 'B08297', 'B09591']"
+}

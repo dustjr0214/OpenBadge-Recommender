@@ -1,0 +1,14 @@
+{
+    "user_id": "U05665",
+    "name": "Amy Griffin",
+    "email": "barberjessica@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Cloud Computing', 'SQL', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01648', 'B08231']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Forbes LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05321', 'B02530', 'B01164']"
+}

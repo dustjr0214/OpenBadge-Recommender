@@ -1,0 +1,14 @@
+{
+    "user_id": "U03389",
+    "name": "Andrew Berger",
+    "email": "harrelljames@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07540', 'B00828', 'B05221', 'B07921']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Patrick, Potter and Diaz for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04975', 'B06804', 'B04089', 'B02160', 'B03509']"
+}

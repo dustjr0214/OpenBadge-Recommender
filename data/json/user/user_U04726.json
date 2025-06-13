@@ -1,0 +1,14 @@
+{
+    "user_id": "U04726",
+    "name": "Tiffany Adams",
+    "email": "cday@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06886', 'B00186', 'B08106', 'B04236', 'B00494']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Anderson, Clark and Walker for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

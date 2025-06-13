@@ -1,0 +1,14 @@
+{
+    "user_id": "U08740",
+    "name": "Carolyn Torres",
+    "email": "besttammy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00615', 'B08919', 'B05221', 'B08508', 'B00469']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Cain, Smith and Collins for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02979', 'B03054', 'B03964', 'B02255', 'B04921']"
+}

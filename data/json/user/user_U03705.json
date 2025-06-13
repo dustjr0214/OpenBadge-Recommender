@@ -1,0 +1,14 @@
+{
+    "user_id": "U03705",
+    "name": "Matthew Allen",
+    "email": "ericksonmichael@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09357', 'B08904', 'B03516', 'B08178']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Peters Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05080', 'B02284']"
+}

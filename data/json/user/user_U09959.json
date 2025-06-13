@@ -1,0 +1,14 @@
+{
+    "user_id": "U09959",
+    "name": "Jessica Ayers",
+    "email": "andre74@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03252', 'B04243', 'B04132']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Lee-Potter for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03478', 'B01772', 'B01752', 'B02119']"
+}

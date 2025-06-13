@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04280",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['Deep Learning', 'DevOps', 'SQL']",
+    "competency": "['Deep Learning', 'Creativity', 'Problem Solving']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B08812', 'B08797']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00475",
+    "name": "Keith Bradley",
+    "email": "nelsonsusan@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Ford-Patterson for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04564', 'B05021', 'B03137', 'B01069']"
+}

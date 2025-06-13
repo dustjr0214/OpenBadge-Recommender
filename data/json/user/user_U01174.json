@@ -1,0 +1,14 @@
+{
+    "user_id": "U01174",
+    "name": "Michelle Evans",
+    "email": "hrussell@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07991', 'B02711', 'B02687']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Fletcher-Rice for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08901', 'B02887', 'B06591', 'B01427']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05795",
+    "name": "Janice Schmidt",
+    "email": "stephanie96@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ramirez Group for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04833', 'B03884', 'B00360', 'B09666']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06432",
+    "name": "Sara Reynolds",
+    "email": "gregoryevan@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02820', 'B01771']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Galloway-Davis for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07998', 'B09917', 'B01530']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08637",
+    "name": "Peter Chen",
+    "email": "audrey57@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06817', 'B09896', 'B08452']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Molina-Farrell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05444', 'B08715', 'B04688', 'B01275', 'B08115']"
+}

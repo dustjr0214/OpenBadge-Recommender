@@ -1,0 +1,14 @@
+{
+    "user_id": "U04851",
+    "name": "Rachel Cruz",
+    "email": "jhuff@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Deep Learning', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08842', 'B05583', 'B03793', 'B09436']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Walsh-Massey for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09362', 'B00103', 'B02247', 'B06956', 'B07309']"
+}

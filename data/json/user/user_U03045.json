@@ -1,0 +1,14 @@
+{
+    "user_id": "U03045",
+    "name": "Jack Singleton",
+    "email": "dwilson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09740', 'B05713', 'B02305']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mercer-Brown for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

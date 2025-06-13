@@ -1,0 +1,14 @@
+{
+    "user_id": "U08555",
+    "name": "Ernest Williams",
+    "email": "elizabeth97@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Brown-Wilkerson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05134', 'B00365']"
+}

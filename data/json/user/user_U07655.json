@@ -1,0 +1,14 @@
+{
+    "user_id": "U07655",
+    "name": "Steven Harris",
+    "email": "ipearson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08462']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Townsend Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09810', 'B07729', 'B05709']"
+}

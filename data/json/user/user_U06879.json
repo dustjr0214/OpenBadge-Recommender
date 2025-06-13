@@ -1,0 +1,14 @@
+{
+    "user_id": "U06879",
+    "name": "Kevin Brown",
+    "email": "ydiaz@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00288', 'B08015', 'B01342', 'B04075', 'B00015']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Wang Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05598', 'B02896', 'B00273', 'B03428', 'B01086']"
+}

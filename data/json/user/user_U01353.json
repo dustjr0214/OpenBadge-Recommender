@@ -1,0 +1,14 @@
+{
+    "user_id": "U01353",
+    "name": "Tracey Richard",
+    "email": "wwilliams@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08732']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Morgan, Barnes and Burns for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03949', 'B01723', 'B09186', 'B01956', 'B00567']"
+}

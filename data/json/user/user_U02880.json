@@ -1,0 +1,14 @@
+{
+    "user_id": "U02880",
+    "name": "Randall Shaw",
+    "email": "qwright@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01908', 'B02614', 'B04462', 'B08812']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Sanchez, Flores and Christensen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04031', 'B09083', 'B00743', 'B02235']"
+}

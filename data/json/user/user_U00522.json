@@ -1,0 +1,14 @@
+{
+    "user_id": "U00522",
+    "name": "Carlos Wilkinson",
+    "email": "boydpam@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02868', 'B00028', 'B01760', 'B09187', 'B09201']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Harrison, Morris and Benton for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04223', 'B03816', 'B05073', 'B06590', 'B02924']"
+}

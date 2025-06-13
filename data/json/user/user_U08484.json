@@ -1,0 +1,14 @@
+{
+    "user_id": "U08484",
+    "name": "Gregory Heath",
+    "email": "cshelton@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05901']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Harrison Ltd for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03146', 'B03893', 'B06158']"
+}

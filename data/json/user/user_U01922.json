@@ -1,0 +1,14 @@
+{
+    "user_id": "U01922",
+    "name": "Logan Torres",
+    "email": "pzuniga@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00298', 'B01999', 'B00326']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Lee Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06136', 'B04094', 'B02780', 'B03839', 'B02886']"
+}

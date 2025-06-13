@@ -1,0 +1,14 @@
+{
+    "user_id": "U00018",
+    "name": "Matthew Perez",
+    "email": "nicole02@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03038', 'B07415', 'B00094', 'B03133']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Hernandez, Stone and Hines for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00716', 'B01840', 'B02304', 'B09668', 'B02987']"
+}

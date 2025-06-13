@@ -1,0 +1,14 @@
+{
+    "user_id": "U08321",
+    "name": "Christian Daniels",
+    "email": "srichardson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Deep Learning', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08275', 'B08064', 'B00441', 'B04340']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Richmond PLC for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01564', 'B08569', 'B00072', 'B09344', 'B04846']"
+}

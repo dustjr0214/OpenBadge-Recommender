@@ -1,0 +1,14 @@
+{
+    "user_id": "U00450",
+    "name": "David Pineda",
+    "email": "julialozano@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Stephens-Cook for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05648', 'B02085', 'B04845']"
+}

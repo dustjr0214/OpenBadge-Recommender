@@ -1,0 +1,14 @@
+{
+    "user_id": "U02492",
+    "name": "Tara Stephens MD",
+    "email": "greenamy@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02299', 'B09717', 'B00700']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Murillo, Brown and Walker for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06186', 'B05432']"
+}

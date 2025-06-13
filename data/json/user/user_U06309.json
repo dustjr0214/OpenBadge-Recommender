@@ -1,0 +1,14 @@
+{
+    "user_id": "U06309",
+    "name": "David Berg",
+    "email": "chanjames@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Jones Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02308', 'B05867', 'B06080', 'B08026']"
+}

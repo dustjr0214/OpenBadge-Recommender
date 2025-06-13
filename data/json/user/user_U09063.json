@@ -1,0 +1,14 @@
+{
+    "user_id": "U09063",
+    "name": "Kristy Cannon",
+    "email": "qmiller@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07069']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Pearson PLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07033', 'B02931', 'B01385']"
+}

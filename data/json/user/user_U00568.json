@@ -1,0 +1,14 @@
+{
+    "user_id": "U00568",
+    "name": "Nicholas Hernandez",
+    "email": "santosjulie@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01627', 'B03916', 'B04757', 'B08630', 'B01887']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Elliott, Bailey and Hernandez for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07364', 'B01298', 'B08452', 'B04096']"
+}

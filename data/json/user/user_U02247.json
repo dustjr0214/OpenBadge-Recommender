@@ -1,0 +1,14 @@
+{
+    "user_id": "U02247",
+    "name": "Jennifer Conley",
+    "email": "ywarner@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09738', 'B00406']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Smith-Wheeler for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

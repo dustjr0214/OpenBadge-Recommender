@@ -1,0 +1,14 @@
+{
+    "user_id": "U06660",
+    "name": "Christina Molina",
+    "email": "dhoffman@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04969', 'B09044', 'B00386']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Torres and Sons for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09091', 'B01403', 'B01849', 'B02742', 'B06009']"
+}

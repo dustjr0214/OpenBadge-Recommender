@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01772",
+    "name": "UI/UX Designer",
+    "issuer": "Udacity",
+    "description": "UI/UX Designer badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['DevOps', 'Deep Learning']",
+    "competency": "['Cybersecurity', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03062']"
+}

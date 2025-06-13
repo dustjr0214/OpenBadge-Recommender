@@ -1,0 +1,14 @@
+{
+    "user_id": "U09919",
+    "name": "Alan Lee",
+    "email": "wonglisa@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02624', 'B07595', 'B01238']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Sanders, Mathews and Fisher for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08508', 'B07200', 'B02780', 'B05963']"
+}

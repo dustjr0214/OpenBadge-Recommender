@@ -1,0 +1,14 @@
+{
+    "user_id": "U03903",
+    "name": "Chris Medina",
+    "email": "mmoore@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09927', 'B07377', 'B06164', 'B08645', 'B04097']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Winters, Ingram and Carroll for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

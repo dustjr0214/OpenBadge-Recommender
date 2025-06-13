@@ -1,0 +1,14 @@
+{
+    "user_id": "U06147",
+    "name": "Troy Wright",
+    "email": "veronicacarter@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09890', 'B00545', 'B03482']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Salas, Phillips and Morris for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06311', 'B00097', 'B06261', 'B09009']"
+}

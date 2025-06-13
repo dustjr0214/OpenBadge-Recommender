@@ -1,0 +1,14 @@
+{
+    "user_id": "U06675",
+    "name": "Andrew Brown",
+    "email": "john15@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04943', 'B04979']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Robinson, Brown and Hall for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01898', 'B06437', 'B04720']"
+}

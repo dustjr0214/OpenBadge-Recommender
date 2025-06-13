@@ -1,0 +1,14 @@
+{
+    "user_id": "U07620",
+    "name": "Timothy Benitez",
+    "email": "nkaufman@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Deep Learning', 'Python', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04742', 'B03769']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Smith, Huynh and Castillo for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06910', 'B07330']"
+}

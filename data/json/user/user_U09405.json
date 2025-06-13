@@ -1,0 +1,14 @@
+{
+    "user_id": "U09405",
+    "name": "Katie Kelly",
+    "email": "janegarrett@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00633', 'B04461']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Brandt-Dean for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03519', 'B08688', 'B04366', 'B09356', 'B03441']"
+}

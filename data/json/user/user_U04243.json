@@ -1,0 +1,14 @@
+{
+    "user_id": "U04243",
+    "name": "Mark Gibson",
+    "email": "davismelinda@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03282']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Rivera, Bender and Dunn for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08193', 'B03289']"
+}

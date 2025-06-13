@@ -1,0 +1,14 @@
+{
+    "user_id": "U07434",
+    "name": "Sheena Nguyen",
+    "email": "sara47@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04780', 'B02572', 'B09636', 'B03053', 'B04932']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Lynch Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08528', 'B06903', 'B03106', 'B04346', 'B04727']"
+}

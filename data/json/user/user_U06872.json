@@ -1,0 +1,14 @@
+{
+    "user_id": "U06872",
+    "name": "Wendy Melendez",
+    "email": "lisafrench@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06016', 'B01428', 'B09663', 'B02464', 'B04672']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Harvey PLC for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07189', 'B00257']"
+}

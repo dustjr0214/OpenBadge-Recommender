@@ -1,0 +1,14 @@
+{
+    "user_id": "U01584",
+    "name": "Joshua Chapman",
+    "email": "rgonzalez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07677', 'B08700', 'B08853', 'B02005', 'B08261']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Simmons, Morgan and Page for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05437', 'B00090', 'B01994', 'B07534', 'B03143']"
+}

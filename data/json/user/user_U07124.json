@@ -1,0 +1,14 @@
+{
+    "user_id": "U07124",
+    "name": "Susan Torres",
+    "email": "kellymiles@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08725', 'B09408', 'B08853']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Harper and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06754', 'B08060', 'B08874']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09935",
+    "name": "Melissa Villarreal",
+    "email": "whitematthew@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00213', 'B04287']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Bennett-Maxwell for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04337', 'B09401', 'B03883', 'B01707']"
+}

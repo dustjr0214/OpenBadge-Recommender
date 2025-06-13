@@ -1,0 +1,14 @@
+{
+    "user_id": "U09254",
+    "name": "Anna Tran",
+    "email": "nwood@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01817', 'B07470', 'B09777']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Keith Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09959', 'B00114', 'B07326', 'B05774', 'B04503']"
+}

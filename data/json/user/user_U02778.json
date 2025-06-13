@@ -1,0 +1,14 @@
+{
+    "user_id": "U02778",
+    "name": "Alicia Garcia MD",
+    "email": "adam80@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03837']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Torres Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02765', 'B01954', 'B07000', 'B01791', 'B09445']"
+}

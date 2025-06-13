@@ -1,0 +1,14 @@
+{
+    "user_id": "U05503",
+    "name": "Brandy Patterson",
+    "email": "johnhiggins@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Cloud Computing', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07535', 'B01898']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Lambert-Hodge for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06721', 'B01111', 'B05167']"
+}

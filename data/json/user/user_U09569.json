@@ -1,0 +1,14 @@
+{
+    "user_id": "U09569",
+    "name": "Erin Adams",
+    "email": "evansmichael@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08642', 'B00566', 'B02841', 'B05896']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Newton-Hayes for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

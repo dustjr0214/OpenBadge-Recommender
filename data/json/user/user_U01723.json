@@ -1,0 +1,14 @@
+{
+    "user_id": "U01723",
+    "name": "Hannah Hart",
+    "email": "wadedeanna@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03714', 'B00131', 'B01170', 'B08022', 'B05931']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Oliver-Boyle for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02122', 'B03056', 'B02780', 'B03349', 'B08597']"
+}

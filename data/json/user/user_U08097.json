@@ -1,0 +1,14 @@
+{
+    "user_id": "U08097",
+    "name": "Ashley Barber",
+    "email": "terryemily@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07625', 'B00439', 'B02119']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Hamilton-Jacobs for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06212', 'B01838', 'B07887']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07752",
+    "name": "Kara Cruz",
+    "email": "dcarpenter@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03261', 'B07214', 'B09839', 'B08868']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Simpson, Bradley and Maynard for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06944', 'B08718', 'B01708', 'B07058']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07150",
+    "name": "Jonathan Mckenzie",
+    "email": "jeremyray@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07853']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Jackson, Ross and Kelly for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03260', 'B02646', 'B05847', 'B02996', 'B08643']"
+}

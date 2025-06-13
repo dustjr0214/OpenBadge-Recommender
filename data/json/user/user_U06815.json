@@ -1,0 +1,14 @@
+{
+    "user_id": "U06815",
+    "name": "Michele Wilson",
+    "email": "qelliott@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06955']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Leach-Roberts for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00805', 'B06451', 'B06475', 'B01309']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04820",
+    "name": "Deborah Gardner",
+    "email": "wallacelindsey@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03981', 'B02472', 'B00440']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Henderson-Harris for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05764', 'B06543', 'B07314', 'B09153']"
+}

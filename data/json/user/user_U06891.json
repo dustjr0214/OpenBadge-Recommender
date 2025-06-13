@@ -1,0 +1,14 @@
+{
+    "user_id": "U06891",
+    "name": "Laura Williams",
+    "email": "ashleyking@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03216']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Conrad PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07577', 'B08789', 'B01021', 'B07602', 'B05493']"
+}

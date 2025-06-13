@@ -1,0 +1,14 @@
+{
+    "user_id": "U02503",
+    "name": "Ernest Taylor",
+    "email": "kpeters@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03447', 'B02625', 'B02708']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Vincent-Hall for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05734', 'B09771', 'B00669', 'B01486']"
+}

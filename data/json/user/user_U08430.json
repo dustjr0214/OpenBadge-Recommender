@@ -1,0 +1,14 @@
+{
+    "user_id": "U08430",
+    "name": "Tanner Ferguson",
+    "email": "jeffreylyons@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02507']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at George Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03775', 'B00708', 'B07981']"
+}

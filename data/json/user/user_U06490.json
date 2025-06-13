@@ -1,0 +1,14 @@
+{
+    "user_id": "U06490",
+    "name": "Rebecca Bridges",
+    "email": "gary47@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06980']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Rivera Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07411', 'B03596', 'B09322', 'B03926', 'B09425']"
+}

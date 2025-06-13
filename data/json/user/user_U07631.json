@@ -1,0 +1,14 @@
+{
+    "user_id": "U07631",
+    "name": "Taylor Moore",
+    "email": "ramirezvictoria@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09413', 'B03347', 'B02521']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Dunn, Hudson and Lawrence for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07582', 'B00323', 'B09158']"
+}

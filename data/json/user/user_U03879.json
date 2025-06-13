@@ -1,0 +1,14 @@
+{
+    "user_id": "U03879",
+    "name": "Eric Brooks",
+    "email": "dmyers@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06309', 'B00903', 'B04922']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Compton-Cummings for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07024', 'B07457']"
+}

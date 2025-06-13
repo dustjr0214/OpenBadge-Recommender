@@ -1,0 +1,14 @@
+{
+    "user_id": "U09912",
+    "name": "Robert Cruz",
+    "email": "jpineda@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Python', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Moran-Kelly for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02166', 'B08923', 'B03878', 'B00318']"
+}

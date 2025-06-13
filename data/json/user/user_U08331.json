@@ -1,0 +1,14 @@
+{
+    "user_id": "U08331",
+    "name": "Maria Warren",
+    "email": "regina22@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09599', 'B02721']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Mcfarland-York for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

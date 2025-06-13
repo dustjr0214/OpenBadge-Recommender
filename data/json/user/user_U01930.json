@@ -1,0 +1,14 @@
+{
+    "user_id": "U01930",
+    "name": "Danielle Baker",
+    "email": "rconner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09520', 'B07225']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Johnson, Rhodes and Thompson for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07660",
+    "name": "James Baker",
+    "email": "coxtina@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00462']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Scott, Mckee and Ball for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06279', 'B04935', 'B06352', 'B06365']"
+}

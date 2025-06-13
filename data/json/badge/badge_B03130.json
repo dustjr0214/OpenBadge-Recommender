@@ -1,0 +1,13 @@
+{
+    "badge_id": "B03130",
+    "name": "Deep Learning Master",
+    "issuer": "Udacity",
+    "description": "Deep Learning Master badge issued by Udacity",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis', 'Machine Learning', 'Deep Learning']",
+    "competency": "['Machine Learning', 'Data Analysis', 'Python']",
+    "learningOpportunity": "Data Science Bootcamp",
+    "related_badges": "['B00013']"
+}

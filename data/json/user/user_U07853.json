@@ -1,0 +1,14 @@
+{
+    "user_id": "U07853",
+    "name": "Michael Vance",
+    "email": "robinchavez@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09498', 'B02555', 'B03687']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Newman-Ramos for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09310', 'B00579', 'B04260', 'B08104', 'B07913']"
+}

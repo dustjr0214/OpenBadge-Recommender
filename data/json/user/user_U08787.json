@@ -1,0 +1,14 @@
+{
+    "user_id": "U08787",
+    "name": "Julia Hawkins",
+    "email": "rcunningham@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03196', 'B09860', 'B07410', 'B00643', 'B03798']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Ballard Inc for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08101', 'B02878', 'B07115', 'B02883', 'B00773']"
+}

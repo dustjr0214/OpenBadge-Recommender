@@ -1,0 +1,14 @@
+{
+    "user_id": "U09234",
+    "name": "Alexander Graves",
+    "email": "pmclaughlin@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01937', 'B00087', 'B07148']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Jackson-Gordon for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09639']"
+}

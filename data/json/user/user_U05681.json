@@ -1,0 +1,14 @@
+{
+    "user_id": "U05681",
+    "name": "Jessica Miller",
+    "email": "paulkennedy@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01883', 'B09072', 'B08120']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Wilson Ltd for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02716', 'B06187']"
+}

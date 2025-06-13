@@ -1,0 +1,14 @@
+{
+    "user_id": "U08688",
+    "name": "Donald Butler",
+    "email": "janet65@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00818', 'B01638', 'B00214', 'B02687']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Schmidt LLC for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06509', 'B07085', 'B01985', 'B04735', 'B01979']"
+}

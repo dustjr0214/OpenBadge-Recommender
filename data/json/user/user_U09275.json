@@ -1,0 +1,14 @@
+{
+    "user_id": "U09275",
+    "name": "Benjamin Carlson",
+    "email": "suewalker@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00660', 'B08746', 'B04851', 'B07062', 'B00738']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Powell-Garza for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08009', 'B01362']"
+}

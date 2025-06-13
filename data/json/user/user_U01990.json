@@ -1,0 +1,14 @@
+{
+    "user_id": "U01990",
+    "name": "Adam Bryant",
+    "email": "larryrussell@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08144', 'B06375', 'B07568']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Mullins and Sons for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06659']"
+}

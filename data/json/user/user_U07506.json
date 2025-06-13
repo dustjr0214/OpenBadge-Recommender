@@ -1,0 +1,14 @@
+{
+    "user_id": "U07506",
+    "name": "Adam Kelly",
+    "email": "bauernicholas@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03555', 'B08801', 'B07394']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Johnson-Rivera for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09855', 'B09926']"
+}

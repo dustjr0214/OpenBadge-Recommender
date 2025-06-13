@@ -1,0 +1,14 @@
+{
+    "user_id": "U07708",
+    "name": "Jacob Hebert",
+    "email": "simsleah@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05468', 'B03458', 'B05257', 'B09497', 'B09233']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Simon Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06041', 'B05710', 'B08323']"
+}

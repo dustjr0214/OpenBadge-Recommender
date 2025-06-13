@@ -1,0 +1,14 @@
+{
+    "user_id": "U08385",
+    "name": "Micheal Richard",
+    "email": "wendystokes@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09700', 'B01544', 'B08657']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Schwartz and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08368', 'B08132', 'B00702']"
+}

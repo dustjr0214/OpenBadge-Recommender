@@ -1,0 +1,14 @@
+{
+    "user_id": "U08012",
+    "name": "Thomas Watson",
+    "email": "kristenbarton@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07022', 'B01783']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Flores PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01139', 'B02053', 'B06973', 'B08609', 'B02881']"
+}

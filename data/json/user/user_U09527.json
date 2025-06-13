@@ -1,0 +1,14 @@
+{
+    "user_id": "U09527",
+    "name": "Rachel Graham",
+    "email": "davidlewis@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'UI/UX', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07865', 'B08566', 'B04629', 'B07914']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hampton, Cortez and Robinson for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02233']"
+}

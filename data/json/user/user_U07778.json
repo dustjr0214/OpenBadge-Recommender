@@ -1,0 +1,14 @@
+{
+    "user_id": "U07778",
+    "name": "Matthew Cain",
+    "email": "lgardner@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08016', 'B08370', 'B00656', 'B09678']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Bradley-Daniels for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03012', 'B07284']"
+}

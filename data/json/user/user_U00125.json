@@ -1,0 +1,14 @@
+{
+    "user_id": "U00125",
+    "name": "Carol Hughes",
+    "email": "christopher64@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09117', 'B04049', 'B01035', 'B01582']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Kirk, Daugherty and Mathis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07537', 'B04026', 'B01683', 'B08530']"
+}

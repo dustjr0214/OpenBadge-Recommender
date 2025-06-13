@@ -1,0 +1,14 @@
+{
+    "user_id": "U06214",
+    "name": "David Ball",
+    "email": "zwhite@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07401', 'B07825', 'B07298', 'B06684']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Bradshaw PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00392', 'B05634', 'B04378', 'B05481', 'B07095']"
+}

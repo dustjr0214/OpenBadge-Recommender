@@ -1,0 +1,14 @@
+{
+    "user_id": "U05352",
+    "name": "Kara Sanchez",
+    "email": "debbie73@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02876', 'B08995', 'B07215']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Drake-Waters for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04289', 'B05809', 'B01533', 'B06917', 'B04593']"
+}

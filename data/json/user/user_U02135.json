@@ -1,0 +1,14 @@
+{
+    "user_id": "U02135",
+    "name": "Dustin Rose",
+    "email": "dwhite@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01379', 'B05263', 'B06734', 'B05321', 'B07984']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Hernandez, Williams and Mata for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

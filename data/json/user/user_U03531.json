@@ -1,0 +1,14 @@
+{
+    "user_id": "U03531",
+    "name": "Jennifer Marshall",
+    "email": "amanda40@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07601']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Woods PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07441', 'B09205', 'B06939', 'B06435']"
+}

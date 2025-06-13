@@ -1,0 +1,14 @@
+{
+    "user_id": "U04969",
+    "name": "Cynthia Morrison",
+    "email": "robert38@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09234', 'B06603', 'B04727', 'B03533', 'B03410']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Santiago and Sons for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08995', 'B07627', 'B01665']"
+}

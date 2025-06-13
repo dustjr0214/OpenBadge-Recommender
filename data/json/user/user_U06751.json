@@ -1,0 +1,14 @@
+{
+    "user_id": "U06751",
+    "name": "Amanda Moore",
+    "email": "jake54@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09999']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Davis, Dennis and Barnes for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07479', 'B06552', 'B06668', 'B09414']"
+}

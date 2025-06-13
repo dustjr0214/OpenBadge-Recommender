@@ -1,0 +1,14 @@
+{
+    "user_id": "U03806",
+    "name": "Justin Johnson",
+    "email": "robinsonchristina@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02657', 'B06376', 'B07564']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at King-Daniel for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04596']"
+}

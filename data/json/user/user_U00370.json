@@ -1,0 +1,14 @@
+{
+    "user_id": "U00370",
+    "name": "Andrew Russell",
+    "email": "fmiller@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08906', 'B05336', 'B05207', 'B03656', 'B09116']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Harper, Miller and Hall for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

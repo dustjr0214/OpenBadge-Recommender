@@ -1,0 +1,14 @@
+{
+    "user_id": "U08166",
+    "name": "Brian Diaz",
+    "email": "debra40@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01315', 'B02925', 'B00782', 'B00735']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Harris-Villarreal for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02782', 'B04002', 'B06130', 'B07099', 'B08245']"
+}

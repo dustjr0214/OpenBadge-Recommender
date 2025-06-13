@@ -1,0 +1,14 @@
+{
+    "user_id": "U06005",
+    "name": "Walter Cole",
+    "email": "dbaker@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01259', 'B03060', 'B02330']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Hoover Ltd for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03749', 'B03003']"
+}

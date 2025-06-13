@@ -1,0 +1,14 @@
+{
+    "user_id": "U01030",
+    "name": "Lisa Nguyen",
+    "email": "keywalter@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07361', 'B03402', 'B03286']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Banks, Sanchez and Hernandez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

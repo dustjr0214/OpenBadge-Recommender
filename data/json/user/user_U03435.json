@@ -1,0 +1,14 @@
+{
+    "user_id": "U03435",
+    "name": "Stacy Brooks",
+    "email": "wrightlisa@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01234']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Davis LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00801', 'B07135']"
+}

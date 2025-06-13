@@ -1,0 +1,14 @@
+{
+    "user_id": "U01262",
+    "name": "Mitchell Brewer",
+    "email": "perrytyrone@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00103', 'B06203', 'B05815', 'B07535']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Todd PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09905', 'B02570', 'B02617', 'B01415']"
+}

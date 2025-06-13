@@ -1,0 +1,14 @@
+{
+    "user_id": "U03847",
+    "name": "Dawn Adams",
+    "email": "wagnerbrian@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02922', 'B03745']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Myers PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02497', 'B00333']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00120",
+    "name": "Christy Cardenas",
+    "email": "thomasmorgan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01529', 'B03739', 'B02221', 'B04897', 'B07229']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Baker-Lopez for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03392', 'B02443', 'B01445']"
+}

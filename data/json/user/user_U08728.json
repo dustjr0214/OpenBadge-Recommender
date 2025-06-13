@@ -1,0 +1,14 @@
+{
+    "user_id": "U08728",
+    "name": "Traci Rodriguez",
+    "email": "ubautista@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06350', 'B03774', 'B03470', 'B06373', 'B00046']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Sellers-Griffin for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09888', 'B01276', 'B04476', 'B00410', 'B06310']"
+}

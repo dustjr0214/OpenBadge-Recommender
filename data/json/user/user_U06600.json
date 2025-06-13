@@ -1,0 +1,14 @@
+{
+    "user_id": "U06600",
+    "name": "Anita Bruce",
+    "email": "calderontimothy@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Deep Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06591', 'B07240']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Moore Group for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08165', 'B08312', 'B02372']"
+}

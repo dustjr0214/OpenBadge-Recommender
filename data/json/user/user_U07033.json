@@ -1,0 +1,14 @@
+{
+    "user_id": "U07033",
+    "name": "Maureen Williams",
+    "email": "douglasdunlap@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09648', 'B06679', 'B06439']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Clay, Johnson and Johnson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07355', 'B03944', 'B07307', 'B09466']"
+}

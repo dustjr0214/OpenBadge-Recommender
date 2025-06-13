@@ -1,0 +1,14 @@
+{
+    "user_id": "U02386",
+    "name": "Eric Williams",
+    "email": "stanleybell@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02407', 'B09335']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Villanueva, Archer and Torres for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01213']"
+}

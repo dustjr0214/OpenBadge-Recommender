@@ -1,0 +1,14 @@
+{
+    "user_id": "U08749",
+    "name": "William Doyle",
+    "email": "christina22@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06050', 'B08478', 'B05660']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Bailey-Gutierrez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05284', 'B05240']"
+}

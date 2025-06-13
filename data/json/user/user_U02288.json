@@ -1,0 +1,14 @@
+{
+    "user_id": "U02288",
+    "name": "Hannah Hall",
+    "email": "jamessamuel@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08767']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Barajas-Miller for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06650', 'B01986', 'B02150', 'B02485']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06598",
+    "name": "Cindy Murray",
+    "email": "lmejia@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04496', 'B00898']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Williams Inc for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05696', 'B08895']"
+}

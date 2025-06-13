@@ -1,0 +1,14 @@
+{
+    "user_id": "U00657",
+    "name": "Amber Green",
+    "email": "jacquelinemccarty@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00752', 'B06197', 'B03138', 'B01952', 'B09692']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Perez, Henderson and Wilcox for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08544', 'B03220']"
+}

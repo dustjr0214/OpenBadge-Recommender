@@ -1,0 +1,14 @@
+{
+    "user_id": "U03402",
+    "name": "Mark Morris",
+    "email": "samuelsmith@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07358', 'B05509', 'B08828']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Esparza-Robinson for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09519', 'B06854', 'B00248', 'B08425', 'B08564']"
+}

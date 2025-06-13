@@ -1,0 +1,14 @@
+{
+    "user_id": "U03951",
+    "name": "Michele Smith",
+    "email": "laurenmiller@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08112', 'B06505', 'B04588', 'B04342', 'B02736']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Moyer Group for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09883', 'B03730', 'B02866']"
+}

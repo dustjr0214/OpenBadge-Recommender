@@ -1,0 +1,14 @@
+{
+    "user_id": "U04968",
+    "name": "Shane Armstrong",
+    "email": "hopkinsandrea@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01086', 'B02252', 'B02796', 'B04463', 'B00608']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Miller, Gray and Downs for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04392', 'B08772', 'B01181']"
+}

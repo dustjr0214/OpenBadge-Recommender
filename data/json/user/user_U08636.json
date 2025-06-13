@@ -1,0 +1,14 @@
+{
+    "user_id": "U08636",
+    "name": "Nicole Cross",
+    "email": "bwilliams@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02425', 'B00502', 'B02101']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Ferguson, Wilkinson and Meyers for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03649', 'B02184', 'B02439', 'B01639', 'B09888']"
+}

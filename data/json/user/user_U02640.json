@@ -1,0 +1,14 @@
+{
+    "user_id": "U02640",
+    "name": "Michelle Shea",
+    "email": "bradgibson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Data Analysis', 'DevOps', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Hull, Reeves and Reed for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02861', 'B02749', 'B09517', 'B01002']"
+}

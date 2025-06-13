@@ -1,0 +1,14 @@
+{
+    "user_id": "U00023",
+    "name": "Henry Jackson",
+    "email": "nicole95@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03513', 'B03927', 'B06525']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at White, Anderson and Thompson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08927']"
+}

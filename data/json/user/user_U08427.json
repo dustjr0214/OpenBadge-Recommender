@@ -1,0 +1,14 @@
+{
+    "user_id": "U08427",
+    "name": "Christopher Rivera",
+    "email": "martinezeric@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'Deep Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06004', 'B04838', 'B02563', 'B07297']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Rodriguez-Romero for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01200', 'B05573', 'B05688', 'B03158']"
+}

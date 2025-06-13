@@ -1,0 +1,14 @@
+{
+    "user_id": "U03476",
+    "name": "Sabrina Poole",
+    "email": "rsanchez@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Deep Learning', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01477', 'B07706', 'B02276']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Randall, Lloyd and Chambers for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00003', 'B09949']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00512",
+    "name": "Melissa Mcdonald",
+    "email": "ymalone@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04953', 'B06438', 'B00692', 'B08786', 'B05508']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Gonzalez PLC for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02635', 'B06404']"
+}

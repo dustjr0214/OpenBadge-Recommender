@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00306",
+    "name": "Python Certification",
+    "issuer": "IBM",
+    "description": "Python Certification badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'Data Analysis']",
+    "competency": "['Machine Learning', 'Cybersecurity', 'DevOps']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B03292', 'B06780']"
+}

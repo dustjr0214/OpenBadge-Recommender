@@ -1,0 +1,14 @@
+{
+    "user_id": "U01180",
+    "name": "Samantha Lucas",
+    "email": "charlesmyers@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08595', 'B09385']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Marshall, Garcia and Sanders for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03656']"
+}

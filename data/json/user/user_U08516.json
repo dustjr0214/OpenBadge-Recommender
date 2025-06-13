@@ -1,0 +1,14 @@
+{
+    "user_id": "U08516",
+    "name": "Brian Russell",
+    "email": "jimmy11@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03570', 'B09160', 'B03221']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Rogers Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09088', 'B03249', 'B06020']"
+}

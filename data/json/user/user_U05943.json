@@ -1,0 +1,14 @@
+{
+    "user_id": "U05943",
+    "name": "Anthony Diaz",
+    "email": "opowell@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05844', 'B09562', 'B08866']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Smith, Guerra and Hernandez for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06751', 'B09466', 'B06744', 'B04617']"
+}

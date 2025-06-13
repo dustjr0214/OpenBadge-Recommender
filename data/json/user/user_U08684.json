@@ -1,0 +1,14 @@
+{
+    "user_id": "U08684",
+    "name": "Kyle Benson",
+    "email": "shane19@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04854', 'B08761', 'B00004', 'B09182']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Padilla-Higgins for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02532']"
+}

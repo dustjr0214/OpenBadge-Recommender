@@ -1,0 +1,14 @@
+{
+    "user_id": "U07909",
+    "name": "Kayla Cooper",
+    "email": "nhinton@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05230']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Johnson, Sanchez and Brooks for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04360', 'B09135', 'B02780', 'B00580', 'B01124']"
+}

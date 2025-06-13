@@ -1,0 +1,14 @@
+{
+    "user_id": "U08999",
+    "name": "Sara Gomez",
+    "email": "scott34@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09034', 'B06641']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Spears Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05592', 'B02833', 'B05969', 'B08786', 'B08803']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06043",
+    "name": "Walter Padilla",
+    "email": "stephenproctor@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'Cloud Computing', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02032']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Larson, Stevens and Rivera for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00893', 'B01375', 'B02600']"
+}

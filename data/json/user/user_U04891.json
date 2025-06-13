@@ -1,0 +1,14 @@
+{
+    "user_id": "U04891",
+    "name": "Tanya Roberts",
+    "email": "channathan@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Anderson PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09452', 'B04702', 'B06472', 'B01937', 'B06314']"
+}

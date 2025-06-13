@@ -1,0 +1,14 @@
+{
+    "user_id": "U00382",
+    "name": "Jason Jones",
+    "email": "willie31@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08539', 'B00689', 'B01593', 'B07781']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Adams, Caldwell and Pacheco for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09048', 'B06946', 'B06875', 'B05766', 'B09963']"
+}

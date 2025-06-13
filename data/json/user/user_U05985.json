@@ -1,0 +1,14 @@
+{
+    "user_id": "U05985",
+    "name": "Sherry Baker",
+    "email": "edwardssteven@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Perez-Wolf for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

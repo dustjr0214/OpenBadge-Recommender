@@ -1,0 +1,14 @@
+{
+    "user_id": "U01760",
+    "name": "Jessica Mcfarland DVM",
+    "email": "swhite@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07461', 'B07758', 'B00639', 'B07777']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Walters Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06207', 'B09688']"
+}

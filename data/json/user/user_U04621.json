@@ -1,0 +1,14 @@
+{
+    "user_id": "U04621",
+    "name": "Mr. Ivan Williams",
+    "email": "thomascarmen@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03154', 'B06104', 'B00519']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hernandez, Ellis and Tran for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07001']"
+}

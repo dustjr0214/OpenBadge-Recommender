@@ -1,0 +1,14 @@
+{
+    "user_id": "U07935",
+    "name": "Shawn Obrien",
+    "email": "belllucas@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09375', 'B02989']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Farley and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06504', 'B05745', 'B06364', 'B07729']"
+}

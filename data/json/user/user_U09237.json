@@ -1,0 +1,14 @@
+{
+    "user_id": "U09237",
+    "name": "Jacob Moyer",
+    "email": "dustin73@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01733', 'B00909', 'B04199', 'B04268', 'B07575']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Jones and Sons for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04994']"
+}

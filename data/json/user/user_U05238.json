@@ -1,0 +1,14 @@
+{
+    "user_id": "U05238",
+    "name": "Lindsey Ellis",
+    "email": "bryantkelly@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07948', 'B03184', 'B04688', 'B02647']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Davis Ltd for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09161']"
+}

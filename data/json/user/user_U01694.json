@@ -1,0 +1,14 @@
+{
+    "user_id": "U01694",
+    "name": "Paul Estrada",
+    "email": "cartermelinda@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00511', 'B01986']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Lucas PLC for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09154', 'B01679', 'B03266', 'B09808', 'B01627']"
+}

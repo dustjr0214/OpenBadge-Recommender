@@ -1,0 +1,14 @@
+{
+    "user_id": "U01047",
+    "name": "Reginald Wright",
+    "email": "shawn54@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06397', 'B07976', 'B01018', 'B05655']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Werner, Parker and Reid for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09211', 'B02022', 'B00148', 'B08499', 'B03325']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00076",
+    "name": "Shelia Chase",
+    "email": "kelleyjeffrey@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09704', 'B03460', 'B01264', 'B08978']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Torres-Solomon for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07297', 'B05328', 'B05266', 'B07691', 'B07412']"
+}

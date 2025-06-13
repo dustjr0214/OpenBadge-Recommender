@@ -1,0 +1,14 @@
+{
+    "user_id": "U04777",
+    "name": "Denise Stafford",
+    "email": "anthony84@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04971', 'B04500']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Baldwin-Henry for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09945']"
+}

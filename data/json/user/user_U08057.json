@@ -1,0 +1,14 @@
+{
+    "user_id": "U08057",
+    "name": "Patrick Chang",
+    "email": "catherine11@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Machine Learning', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09297', 'B03813', 'B09782', 'B04210', 'B00489']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Sanford LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00629', 'B03936', 'B02423', 'B01828']"
+}

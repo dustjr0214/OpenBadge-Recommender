@@ -1,0 +1,14 @@
+{
+    "user_id": "U05938",
+    "name": "Scott Williams",
+    "email": "tiffany94@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03753', 'B01809', 'B04696', 'B08595', 'B06324']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Delacruz Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05476']"
+}

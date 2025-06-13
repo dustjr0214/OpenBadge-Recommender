@@ -1,0 +1,14 @@
+{
+    "user_id": "U09511",
+    "name": "Marvin Lopez",
+    "email": "ricardobennett@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01095', 'B08414', 'B06031', 'B09403', 'B04157']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Cannon Group for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03259', 'B05138', 'B04342', 'B01396', 'B06227']"
+}

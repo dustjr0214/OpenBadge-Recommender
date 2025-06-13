@@ -1,0 +1,14 @@
+{
+    "user_id": "U03734",
+    "name": "Brian Howe",
+    "email": "ipoole@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02646', 'B03259', 'B09113', 'B05294', 'B06519']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Rodriguez, Gamble and Greer for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01933', 'B08462']"
+}

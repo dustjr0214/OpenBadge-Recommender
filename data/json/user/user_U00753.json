@@ -1,0 +1,14 @@
+{
+    "user_id": "U00753",
+    "name": "John Allen",
+    "email": "ystout@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Wilson, Yang and Ward for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04334', 'B09158']"
+}

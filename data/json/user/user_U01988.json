@@ -1,0 +1,14 @@
+{
+    "user_id": "U01988",
+    "name": "Megan Robinson",
+    "email": "lauramcintosh@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'UI/UX', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08088', 'B05636', 'B07470', 'B04620']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Holland, Cortez and Thomas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04703']"
+}

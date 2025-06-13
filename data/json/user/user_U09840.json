@@ -1,0 +1,14 @@
+{
+    "user_id": "U09840",
+    "name": "Troy Roth",
+    "email": "brent28@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09523', 'B09393', 'B05075']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Ayala PLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02793', 'B04832', 'B09058']"
+}

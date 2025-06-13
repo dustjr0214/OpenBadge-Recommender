@@ -1,0 +1,14 @@
+{
+    "user_id": "U01892",
+    "name": "Gregory Thomas",
+    "email": "stephenstara@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04088']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Powell, Bryant and Lyons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01159', 'B06758']"
+}

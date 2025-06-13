@@ -1,0 +1,14 @@
+{
+    "user_id": "U04845",
+    "name": "Richard Davis",
+    "email": "christopherthomas@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01883']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Coleman-Stevenson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04126', 'B03630', 'B06129', 'B05657', 'B04229']"
+}

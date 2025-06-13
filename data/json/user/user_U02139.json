@@ -1,0 +1,14 @@
+{
+    "user_id": "U02139",
+    "name": "Jaime Moore",
+    "email": "dustin39@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06383']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Gonzalez, Burgess and Little for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09062', 'B00573', 'B09128']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01159",
+    "name": "Jennifer Hicks",
+    "email": "timothyjacobs@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04450', 'B07497', 'B05644']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Obrien-Clark for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08663', 'B05440', 'B01439']"
+}

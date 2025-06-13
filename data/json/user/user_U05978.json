@@ -1,0 +1,14 @@
+{
+    "user_id": "U05978",
+    "name": "Billy Evans",
+    "email": "kclark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09935', 'B08471', 'B01282', 'B02730', 'B06034']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Welch and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05939', 'B03475', 'B02978']"
+}

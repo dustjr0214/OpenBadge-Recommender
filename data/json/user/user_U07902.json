@@ -1,0 +1,14 @@
+{
+    "user_id": "U07902",
+    "name": "Jonathan Maxwell",
+    "email": "lisa56@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'DevOps', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01763', 'B06662']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Shaw PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05670', 'B01305', 'B04602']"
+}

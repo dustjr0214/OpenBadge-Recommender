@@ -1,0 +1,14 @@
+{
+    "user_id": "U09747",
+    "name": "Andre Watts",
+    "email": "ifrazier@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07399', 'B08880', 'B09124', 'B08982', 'B03236']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Ho, Baker and Brown for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09129', 'B04843', 'B01029', 'B05011']"
+}

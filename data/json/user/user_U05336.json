@@ -1,0 +1,14 @@
+{
+    "user_id": "U05336",
+    "name": "Grace Mccoy",
+    "email": "rebekahallison@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07974']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Davis Ltd for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03268', 'B06559', 'B05833', 'B07067', 'B00280']"
+}

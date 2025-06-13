@@ -1,0 +1,14 @@
+{
+    "user_id": "U07721",
+    "name": "Alyssa Silva",
+    "email": "adrian82@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02886', 'B02067', 'B00766', 'B09125', 'B05075']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cook PLC for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05973']"
+}

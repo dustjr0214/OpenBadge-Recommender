@@ -1,0 +1,14 @@
+{
+    "user_id": "U08296",
+    "name": "Matthew King",
+    "email": "alexandra65@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00007', 'B04962', 'B02173', 'B01331']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at May Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09168', 'B05422', 'B03741', 'B05867', 'B00883']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B04614",
+    "name": "Python Certification",
+    "issuer": "Udacity",
+    "description": "Python Certification badge issued by Udacity",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency": "['Leadership', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B06328']"
+}

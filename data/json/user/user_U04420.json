@@ -1,0 +1,14 @@
+{
+    "user_id": "U04420",
+    "name": "Jessica Wells",
+    "email": "kaylasanchez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Python', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Mills-Brown for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

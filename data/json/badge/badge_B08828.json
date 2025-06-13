@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08828",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'Data Analysis', 'SQL']",
+    "competency": "['DevOps', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05538', 'B05917']"
+}

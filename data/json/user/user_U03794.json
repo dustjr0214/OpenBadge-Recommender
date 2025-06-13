@@ -1,0 +1,14 @@
+{
+    "user_id": "U03794",
+    "name": "Troy Nolan",
+    "email": "gilltara@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08239', 'B02376']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Morris, Vincent and Gonzalez for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09205', 'B00565', 'B09414', 'B04229', 'B07593']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01613",
+    "name": "Wanda Miller",
+    "email": "xmcgrath@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02383', 'B06574', 'B06155', 'B05632', 'B01662']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Miller-Bird for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03503']"
+}

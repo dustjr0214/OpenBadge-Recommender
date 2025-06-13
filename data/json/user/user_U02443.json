@@ -1,0 +1,14 @@
+{
+    "user_id": "U02443",
+    "name": "Sara Ramirez",
+    "email": "christopher64@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00557']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Schneider, Hamilton and Henderson for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05557', 'B05018', 'B01445', 'B08713']"
+}

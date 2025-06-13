@@ -1,0 +1,14 @@
+{
+    "user_id": "U07010",
+    "name": "Richard Murphy",
+    "email": "annaharris@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06994', 'B07205', 'B08395', 'B09400', 'B08757']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Anderson Ltd for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02670', 'B05703', 'B07952', 'B08354', 'B08420']"
+}

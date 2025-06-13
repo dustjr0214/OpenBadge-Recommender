@@ -1,0 +1,14 @@
+{
+    "user_id": "U07452",
+    "name": "Greg Shaw",
+    "email": "vgarcia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05343', 'B08531']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Castro Group for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09063', 'B02839', 'B04258']"
+}

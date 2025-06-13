@@ -1,0 +1,14 @@
+{
+    "user_id": "U08205",
+    "name": "Jose Beck",
+    "email": "alexandergill@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06486']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Davis, Lucas and Guerra for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07533', 'B02032', 'B08425', 'B05238', 'B07707']"
+}

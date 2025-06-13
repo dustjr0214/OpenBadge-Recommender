@@ -1,0 +1,14 @@
+{
+    "user_id": "U02144",
+    "name": "Paul Hill",
+    "email": "heather62@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07862', 'B01846', 'B09946']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Ford-Howard for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05143', 'B05810', 'B00510', 'B04242']"
+}

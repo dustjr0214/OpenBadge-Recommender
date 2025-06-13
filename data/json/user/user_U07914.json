@@ -1,0 +1,14 @@
+{
+    "user_id": "U07914",
+    "name": "Beth Estrada",
+    "email": "natalie47@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00131', 'B03470']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Turner PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04537', 'B00118', 'B07490', 'B03749']"
+}

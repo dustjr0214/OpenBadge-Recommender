@@ -1,0 +1,14 @@
+{
+    "user_id": "U00670",
+    "name": "Michael Miller",
+    "email": "dennisjones@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05654', 'B04034', 'B05220']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Munoz, Smith and Reese for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07945']"
+}

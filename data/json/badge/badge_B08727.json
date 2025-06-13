@@ -1,0 +1,13 @@
+{
+    "badge_id": "B08727",
+    "name": "Data Science Expert",
+    "issuer": "Google",
+    "description": "Data Science Expert badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Cloud Computing', 'Python']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B01613', 'B05889']"
+}

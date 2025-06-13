@@ -1,0 +1,14 @@
+{
+    "user_id": "U02532",
+    "name": "Christine Fox",
+    "email": "hunterjulian@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01655', 'B00707', 'B06281', 'B04966', 'B08442']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Moreno, Klein and Williams for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

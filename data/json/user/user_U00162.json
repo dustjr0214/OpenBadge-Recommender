@@ -1,0 +1,14 @@
+{
+    "user_id": "U00162",
+    "name": "James Hubbard",
+    "email": "qjenkins@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00552', 'B05346', 'B01350', 'B09869', 'B09144']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Murphy, Phelps and Mason for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06108', 'B04040', 'B01255']"
+}

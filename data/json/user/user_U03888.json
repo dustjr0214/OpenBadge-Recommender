@@ -1,0 +1,14 @@
+{
+    "user_id": "U03888",
+    "name": "Christopher Hall",
+    "email": "ncabrera@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05784']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Garrett, Smith and Craig for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05350', 'B06950', 'B09900', 'B05359', 'B04626']"
+}

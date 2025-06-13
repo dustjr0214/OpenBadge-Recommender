@@ -1,0 +1,14 @@
+{
+    "user_id": "U02412",
+    "name": "Rachel Logan MD",
+    "email": "cordovanicholas@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07046', 'B07032', 'B02588']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Mcdaniel, Ellis and Garcia for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07549', 'B01279', 'B07554', 'B00483']"
+}

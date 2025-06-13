@@ -1,0 +1,14 @@
+{
+    "user_id": "U06001",
+    "name": "Carl Stephens",
+    "email": "daniel95@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'DevOps', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07017', 'B01786', 'B03208']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Morales-Chavez for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07622', 'B04831', 'B06568', 'B06211', 'B03907']"
+}

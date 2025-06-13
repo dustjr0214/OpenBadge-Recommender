@@ -1,0 +1,14 @@
+{
+    "user_id": "U02711",
+    "name": "Janet Walker",
+    "email": "igross@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00888', 'B06166']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Berry-Garza for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09113', 'B08626', 'B01606', 'B03099', 'B09654']"
+}

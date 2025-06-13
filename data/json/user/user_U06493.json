@@ -1,0 +1,14 @@
+{
+    "user_id": "U06493",
+    "name": "Sonia Henderson",
+    "email": "cooperbridget@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07965', 'B02958', 'B06285']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Poole-Meyer for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08115', 'B03311', 'B01419', 'B08888', 'B04750']"
+}

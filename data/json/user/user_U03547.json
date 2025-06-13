@@ -1,0 +1,14 @@
+{
+    "user_id": "U03547",
+    "name": "Amanda Porter",
+    "email": "colegarrett@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06908', 'B03734']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Jordan-Sanders for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09816']"
+}

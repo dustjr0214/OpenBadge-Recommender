@@ -1,0 +1,14 @@
+{
+    "user_id": "U02195",
+    "name": "Jeremy Thomas",
+    "email": "vazquezbrenda@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07162', 'B02926', 'B01284', 'B08939']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Meyer, Melton and Johnson for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04835', 'B06817', 'B03472']"
+}

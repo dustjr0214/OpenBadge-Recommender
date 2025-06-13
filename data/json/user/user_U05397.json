@@ -1,0 +1,14 @@
+{
+    "user_id": "U05397",
+    "name": "Sara Mack",
+    "email": "drewnorton@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03289', 'B03640']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Gates and Sons for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07266', 'B00935', 'B02614']"
+}

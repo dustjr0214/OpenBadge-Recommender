@@ -1,0 +1,14 @@
+{
+    "user_id": "U07383",
+    "name": "Jonathan Hogan",
+    "email": "danielpowell@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02542', 'B05465', 'B05222', 'B08760', 'B05657']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mayo, Ellison and Garrett for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00345', 'B08899', 'B00260']"
+}

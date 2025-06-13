@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07473",
+    "name": "DevOps Engineer",
+    "issuer": "IBM",
+    "description": "DevOps Engineer badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Analytical Skills', 'UI/UX', 'SQL']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "['B03160']"
+}

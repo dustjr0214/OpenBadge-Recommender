@@ -1,0 +1,14 @@
+{
+    "user_id": "U09274",
+    "name": "Marcus Murillo",
+    "email": "williamsnathan@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Python', 'UI/UX', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03155', 'B01012', 'B01515', 'B02324', 'B05740']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Choi, Austin and Shaffer for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08937', 'B09193']"
+}

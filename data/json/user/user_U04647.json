@@ -1,0 +1,14 @@
+{
+    "user_id": "U04647",
+    "name": "Christopher Haynes",
+    "email": "molinaedward@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07554', 'B06534', 'B04521']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Montgomery, Olson and Hayes for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05737', 'B07558']"
+}

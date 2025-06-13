@@ -1,0 +1,14 @@
+{
+    "user_id": "U05847",
+    "name": "Dr. Joshua Hayden DVM",
+    "email": "grobinson@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02771', 'B07614']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Perez LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00201', 'B06321']"
+}

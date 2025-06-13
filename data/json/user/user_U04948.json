@@ -1,0 +1,14 @@
+{
+    "user_id": "U04948",
+    "name": "Brent Fields",
+    "email": "mary32@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05841', 'B09916', 'B06181', 'B08778']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Holmes and Sons for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00011', 'B04948']"
+}

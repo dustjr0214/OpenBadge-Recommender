@@ -1,0 +1,14 @@
+{
+    "user_id": "U08571",
+    "name": "Jaime Gonzalez",
+    "email": "kevinnelson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Python', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07013', 'B05470', 'B04119', 'B01999', 'B05649']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Murphy, Little and Hall for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06149', 'B08381', 'B07125', 'B05203']"
+}

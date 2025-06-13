@@ -1,0 +1,14 @@
+{
+    "user_id": "U06776",
+    "name": "Joe Harris",
+    "email": "taylorsmith@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01989', 'B04475', 'B01458', 'B03350']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Lyons and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09618', 'B00305', 'B04137', 'B08399', 'B06984']"
+}

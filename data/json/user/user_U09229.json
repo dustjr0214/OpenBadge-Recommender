@@ -1,0 +1,14 @@
+{
+    "user_id": "U09229",
+    "name": "Thomas Franklin",
+    "email": "nicholas57@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08618', 'B05033', 'B08177', 'B07323']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Lewis, Marquez and Ford for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09019']"
+}

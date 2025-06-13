@@ -1,0 +1,14 @@
+{
+    "user_id": "U03747",
+    "name": "Rachel Brown",
+    "email": "steven73@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08019', 'B02992', 'B01356', 'B02588']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Glenn, Shelton and Washington for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03374', 'B07401', 'B06946', 'B05215']"
+}

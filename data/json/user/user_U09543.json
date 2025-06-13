@@ -1,0 +1,14 @@
+{
+    "user_id": "U09543",
+    "name": "Timothy Yates",
+    "email": "uwatts@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04729', 'B02863', 'B06607', 'B01051']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Henderson, Johnson and Martinez for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04196', 'B02923']"
+}

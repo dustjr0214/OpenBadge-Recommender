@@ -1,0 +1,14 @@
+{
+    "user_id": "U03117",
+    "name": "Catherine Dean",
+    "email": "clarktrevor@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07142', 'B08837']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Sexton-Mccann for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06355', 'B04592', 'B01853', 'B04379']"
+}

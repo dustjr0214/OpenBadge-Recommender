@@ -1,0 +1,14 @@
+{
+    "user_id": "U00618",
+    "name": "Diana Wiggins",
+    "email": "newmanlee@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'Python', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05596', 'B06451']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Hall Inc for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06226', 'B05141', 'B07662']"
+}

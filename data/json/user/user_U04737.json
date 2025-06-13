@@ -1,0 +1,14 @@
+{
+    "user_id": "U04737",
+    "name": "Amanda Gordon",
+    "email": "shanewebb@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05027', 'B08315', 'B08872', 'B04905', 'B08626']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Garcia and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01596', 'B09871']"
+}

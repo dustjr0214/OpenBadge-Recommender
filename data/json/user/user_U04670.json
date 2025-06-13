@@ -1,0 +1,14 @@
+{
+    "user_id": "U04670",
+    "name": "Michael Barnett",
+    "email": "nicolasmaldonado@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09222']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Wheeler, Roberts and Cardenas for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05712', 'B04891', 'B01113']"
+}

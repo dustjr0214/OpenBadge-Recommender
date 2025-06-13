@@ -1,0 +1,14 @@
+{
+    "user_id": "U09420",
+    "name": "Andre Obrien",
+    "email": "diane11@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Munoz and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

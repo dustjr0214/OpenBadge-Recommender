@@ -1,0 +1,14 @@
+{
+    "user_id": "U03986",
+    "name": "Kayla Davis",
+    "email": "reeddevin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00984']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Pitts, Waters and Mendez for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01293', 'B05294', 'B02536', 'B05319']"
+}

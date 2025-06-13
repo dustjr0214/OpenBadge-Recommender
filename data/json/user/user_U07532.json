@@ -1,0 +1,14 @@
+{
+    "user_id": "U07532",
+    "name": "Colleen Tucker",
+    "email": "riosjames@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07950', 'B01472', 'B09578', 'B09573']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Barr, Galloway and Page for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04113', 'B01508', 'B07777', 'B01234']"
+}

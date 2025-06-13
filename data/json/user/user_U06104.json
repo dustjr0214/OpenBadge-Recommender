@@ -1,0 +1,14 @@
+{
+    "user_id": "U06104",
+    "name": "Elizabeth Ortega",
+    "email": "qmitchell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01297', 'B04940']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Simon Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00005', 'B00270', 'B03401', 'B09689', 'B00403']"
+}

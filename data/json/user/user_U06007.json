@@ -1,0 +1,14 @@
+{
+    "user_id": "U06007",
+    "name": "Christina Villanueva",
+    "email": "jennifergomez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07838']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Smith Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05960', 'B04488', 'B05793', 'B09655', 'B03015']"
+}

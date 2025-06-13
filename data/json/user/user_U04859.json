@@ -1,0 +1,14 @@
+{
+    "user_id": "U04859",
+    "name": "Christy Steele",
+    "email": "shellycarroll@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06463', 'B07884', 'B06348', 'B04649']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Parrish-Young for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02929', 'B03667', 'B04823', 'B08427', 'B02740']"
+}

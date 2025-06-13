@@ -1,0 +1,14 @@
+{
+    "user_id": "U05935",
+    "name": "William Reed",
+    "email": "wallaceaaron@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Machine Learning', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03424', 'B00989', 'B00593', 'B06527']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Smith Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06705']"
+}

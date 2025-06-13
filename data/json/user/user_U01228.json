@@ -1,0 +1,14 @@
+{
+    "user_id": "U01228",
+    "name": "Ronald Johnson",
+    "email": "gsutton@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00697', 'B05878', 'B05529', 'B05705']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Moore PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02763']"
+}

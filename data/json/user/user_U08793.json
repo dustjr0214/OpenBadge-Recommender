@@ -1,0 +1,14 @@
+{
+    "user_id": "U08793",
+    "name": "Whitney Smith",
+    "email": "cruzpatricia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07949', 'B02147', 'B08846', 'B07162', 'B02539']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Manning-Ward for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09825', 'B01105', 'B06453', 'B04514', 'B06009']"
+}

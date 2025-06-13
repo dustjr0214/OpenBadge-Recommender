@@ -1,0 +1,14 @@
+{
+    "user_id": "U08368",
+    "name": "Eric Herman",
+    "email": "pharris@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08403', 'B06192', 'B02107']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Gutierrez, Montgomery and Fritz for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03913']"
+}

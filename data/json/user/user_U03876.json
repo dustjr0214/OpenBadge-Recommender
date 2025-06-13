@@ -1,0 +1,14 @@
+{
+    "user_id": "U03876",
+    "name": "Ethan Wilson",
+    "email": "morenojerry@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01852', 'B04756', 'B01760', 'B05236', 'B06889']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Harper LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06245', 'B00034', 'B09941']"
+}

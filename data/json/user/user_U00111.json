@@ -1,0 +1,14 @@
+{
+    "user_id": "U00111",
+    "name": "Laura Fitzgerald",
+    "email": "kmcdonald@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04707', 'B07262']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Wilkinson-Munoz for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08968', 'B03933', 'B04812']"
+}

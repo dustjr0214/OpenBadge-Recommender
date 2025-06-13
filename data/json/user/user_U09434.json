@@ -1,0 +1,14 @@
+{
+    "user_id": "U09434",
+    "name": "Timothy Terry",
+    "email": "tonymelendez@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09043', 'B07318', 'B06173', 'B00477', 'B06244']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Floyd-Robbins for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02107', 'B07463']"
+}

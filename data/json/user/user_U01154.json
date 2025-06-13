@@ -1,0 +1,14 @@
+{
+    "user_id": "U01154",
+    "name": "Megan Larson",
+    "email": "walkerjames@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01406', 'B08060', 'B08407']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Dudley PLC for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03801', 'B09469']"
+}

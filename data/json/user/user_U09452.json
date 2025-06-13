@@ -1,0 +1,14 @@
+{
+    "user_id": "U09452",
+    "name": "Douglas Hale",
+    "email": "garnerronald@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09535', 'B01005', 'B07241', 'B00512']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Willis PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

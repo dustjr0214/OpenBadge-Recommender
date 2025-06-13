@@ -1,0 +1,14 @@
+{
+    "user_id": "U00911",
+    "name": "Alicia Dominguez",
+    "email": "garygardner@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03127', 'B04100', 'B05427', 'B02927']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at King, Williamson and Gibson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

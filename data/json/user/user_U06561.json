@@ -1,0 +1,14 @@
+{
+    "user_id": "U06561",
+    "name": "Mrs. Kelly Mason",
+    "email": "zacharydavis@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Python', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00897', 'B03859', 'B07466', 'B05340', 'B07083']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Ford, Young and Carter for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05448']"
+}

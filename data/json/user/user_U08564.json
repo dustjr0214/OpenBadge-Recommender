@@ -1,0 +1,14 @@
+{
+    "user_id": "U08564",
+    "name": "Timothy Fox",
+    "email": "baileykaren@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'DevOps', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08743', 'B09744']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at White Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08123', 'B02322', 'B03730', 'B07168', 'B03393']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06508",
+    "name": "Susan Ellison",
+    "email": "shanehenderson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07368', 'B01995', 'B01550', 'B02724']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Osborn-Adams for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06702', 'B01370', 'B09039']"
+}

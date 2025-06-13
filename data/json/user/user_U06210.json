@@ -1,0 +1,14 @@
+{
+    "user_id": "U06210",
+    "name": "Stephen Washington",
+    "email": "ylee@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity', 'SQL', 'DevOps', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04591', 'B05981', 'B08049', 'B04010']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Herman Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02561', 'B06957']"
+}

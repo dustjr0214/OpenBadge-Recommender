@@ -1,0 +1,14 @@
+{
+    "user_id": "U04041",
+    "name": "Jill Mcknight",
+    "email": "ann12@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09330', 'B01730', 'B05827', 'B00480']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Curry Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

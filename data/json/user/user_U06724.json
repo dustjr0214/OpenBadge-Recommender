@@ -1,0 +1,14 @@
+{
+    "user_id": "U06724",
+    "name": "John Farrell",
+    "email": "grahamkevin@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03217', 'B02733', 'B02359', 'B09907']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Jones LLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07989', 'B00912', 'B02916']"
+}

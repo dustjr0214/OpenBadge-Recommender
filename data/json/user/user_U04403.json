@@ -1,0 +1,14 @@
+{
+    "user_id": "U04403",
+    "name": "Chris Erickson",
+    "email": "arielphillips@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07456', 'B01114', 'B03327']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Graham-Larson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01241']"
+}

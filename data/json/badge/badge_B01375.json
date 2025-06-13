@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01375",
+    "name": "AI Specialist",
+    "issuer": "edX",
+    "description": "AI Specialist badge issued by edX",
+    "criteria": "Passing all module assessments",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['DevOps', 'Deep Learning']",
+    "competency": "['DevOps', 'Problem Solving', 'Creativity']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B00484', 'B05182']"
+}

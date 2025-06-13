@@ -1,0 +1,14 @@
+{
+    "user_id": "U01378",
+    "name": "April Turner",
+    "email": "medinawilliam@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06857', 'B06580', 'B05954', 'B05515', 'B05469']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Klein-Rogers for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02730', 'B09711', 'B01847', 'B07106', 'B06606']"
+}

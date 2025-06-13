@@ -1,0 +1,14 @@
+{
+    "user_id": "U09280",
+    "name": "Ricky Smith",
+    "email": "pagelisa@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01470']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Willis PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09546', 'B06964', 'B08443', 'B04658', 'B08862']"
+}

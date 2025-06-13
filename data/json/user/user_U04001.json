@@ -1,0 +1,14 @@
+{
+    "user_id": "U04001",
+    "name": "Alyssa Young",
+    "email": "benjaminjackson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00189', 'B02855', 'B04868', 'B07872']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Barr-Alexander for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05125', 'B05232']"
+}

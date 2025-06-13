@@ -1,0 +1,14 @@
+{
+    "user_id": "U03201",
+    "name": "Michael Nunez",
+    "email": "gcordova@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'Cybersecurity', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07089', 'B09016', 'B05680']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Phillips, Anderson and Harris for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07226', 'B07677']"
+}

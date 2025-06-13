@@ -1,0 +1,14 @@
+{
+    "user_id": "U03510",
+    "name": "Megan Bryant",
+    "email": "holmessamantha@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'UI/UX', 'SQL', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at French-Patton for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07719', 'B00315', 'B04717', 'B05411', 'B05953']"
+}

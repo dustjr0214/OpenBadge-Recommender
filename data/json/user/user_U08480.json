@@ -1,0 +1,14 @@
+{
+    "user_id": "U08480",
+    "name": "Joshua Watson",
+    "email": "brownjesse@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09853', 'B08029', 'B01241', 'B05794']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mcmillan, Carlson and Shaw for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06777', 'B07271', 'B04034']"
+}

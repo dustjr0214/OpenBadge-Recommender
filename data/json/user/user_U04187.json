@@ -1,0 +1,14 @@
+{
+    "user_id": "U04187",
+    "name": "Bonnie Lawson",
+    "email": "nguyenbarbara@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05492', 'B08197']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Norman, Clark and Duncan for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01114', 'B01772']"
+}

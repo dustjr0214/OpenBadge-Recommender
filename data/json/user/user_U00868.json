@@ -1,0 +1,14 @@
+{
+    "user_id": "U00868",
+    "name": "Sandra Richards",
+    "email": "orrgina@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03208', 'B06423', 'B08047', 'B05227']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Meyer Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

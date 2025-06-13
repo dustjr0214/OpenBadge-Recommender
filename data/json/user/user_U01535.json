@@ -1,0 +1,14 @@
+{
+    "user_id": "U01535",
+    "name": "Jennifer English",
+    "email": "kevin95@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08146', 'B08336', 'B08465', 'B02806', 'B05944']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Gonzalez-Mccormick for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03275', 'B09870']"
+}

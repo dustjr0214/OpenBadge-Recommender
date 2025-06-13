@@ -1,0 +1,14 @@
+{
+    "user_id": "U00323",
+    "name": "Dennis Edwards",
+    "email": "devonwalker@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06759', 'B06130', 'B03179', 'B01174']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Turner, Delgado and Villarreal for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07751', 'B05086', 'B03815', 'B07882', 'B08897']"
+}

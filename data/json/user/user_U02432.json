@@ -1,0 +1,14 @@
+{
+    "user_id": "U02432",
+    "name": "Kendra Weiss",
+    "email": "mcdanieltracy@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05074']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Vasquez, Kim and Garcia for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04574', 'B03627']"
+}

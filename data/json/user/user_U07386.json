@@ -1,0 +1,14 @@
+{
+    "user_id": "U07386",
+    "name": "Thomas Lawrence",
+    "email": "smithdaniel@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'SQL', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08659', 'B03229', 'B02040', 'B09631']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Medina-Rosales for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02202', 'B08091', 'B05924']"
+}

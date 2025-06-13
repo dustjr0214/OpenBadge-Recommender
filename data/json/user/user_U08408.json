@@ -1,0 +1,14 @@
+{
+    "user_id": "U08408",
+    "name": "Teresa Warren",
+    "email": "rodriguezbenjamin@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07634', 'B07262', 'B03003', 'B07324']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Smith, Hansen and Li for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05641', 'B00305', 'B06141']"
+}

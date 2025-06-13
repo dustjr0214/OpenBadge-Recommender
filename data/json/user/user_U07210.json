@@ -1,0 +1,14 @@
+{
+    "user_id": "U07210",
+    "name": "Dustin Smith",
+    "email": "samanthakline@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Hernandez-Evans for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09929', 'B08354', 'B05731']"
+}

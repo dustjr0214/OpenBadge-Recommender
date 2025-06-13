@@ -1,0 +1,14 @@
+{
+    "user_id": "U00672",
+    "name": "Angelica Davis",
+    "email": "thomas56@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03138', 'B08623', 'B05706']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Edwards Ltd for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04405', 'B07061', 'B06526', 'B09951', 'B00809']"
+}

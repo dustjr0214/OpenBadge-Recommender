@@ -1,0 +1,14 @@
+{
+    "user_id": "U05693",
+    "name": "Stephanie Griffin",
+    "email": "linda32@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06552', 'B01843', 'B09949', 'B07403', 'B06107']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Mercado Ltd for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02581', 'B01363']"
+}

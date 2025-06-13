@@ -1,0 +1,14 @@
+{
+    "user_id": "U03997",
+    "name": "Kevin Fisher",
+    "email": "coreyhatfield@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01991']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Kelly, Morris and Stanton for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00904', 'B04044', 'B08437', 'B07960']"
+}

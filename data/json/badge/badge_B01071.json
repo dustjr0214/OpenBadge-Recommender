@@ -1,0 +1,13 @@
+{
+    "badge_id": "B01071",
+    "name": "DevOps Engineer",
+    "issuer": "Udacity",
+    "description": "DevOps Engineer badge issued by Udacity",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Machine Learning', 'Deep Learning']",
+    "competency": "['Machine Learning', 'Data Analysis', 'Teamwork']",
+    "learningOpportunity": "Intro to Machine Learning",
+    "related_badges": "[]"
+}

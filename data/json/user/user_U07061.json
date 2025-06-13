@@ -1,0 +1,14 @@
+{
+    "user_id": "U07061",
+    "name": "Matthew Clarke",
+    "email": "anthony48@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08113', 'B02407', 'B03386']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Delgado-Ramirez for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05579', 'B05616']"
+}

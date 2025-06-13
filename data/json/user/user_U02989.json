@@ -1,0 +1,14 @@
+{
+    "user_id": "U02989",
+    "name": "Stephen Simpson",
+    "email": "mmorgan@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00866', 'B07124', 'B05889']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Moore-Ruiz for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05594', 'B01673', 'B05004', 'B00050']"
+}

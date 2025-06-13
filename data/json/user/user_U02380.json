@@ -1,0 +1,14 @@
+{
+    "user_id": "U02380",
+    "name": "Evelyn Thomas",
+    "email": "atorres@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07286']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Mcmillan, Hernandez and Robinson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04007', 'B03646', 'B04688', 'B02193', 'B03476']"
+}

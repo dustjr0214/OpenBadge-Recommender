@@ -1,0 +1,14 @@
+{
+    "user_id": "U02718",
+    "name": "Carmen Marshall",
+    "email": "catherine60@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06351', 'B02694', 'B03182', 'B08592', 'B09702']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Reynolds-Jackson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08345', 'B05665', 'B04782', 'B09590']"
+}

@@ -586,7 +586,7 @@ def main():
     embedder = DataEmbedder(config=config)
     
     # 배지 데이터 처리
-    embedder.upsert_manually_all(os.path.join(data_dir, "badge"), "badge")
+    # embedder.upsert_manually_all(os.path.join(data_dir, "badge"), "badge")
     
     # 사용자 데이터 처리
     embedder.upsert_manually_all(os.path.join(data_dir, "user"), "user")

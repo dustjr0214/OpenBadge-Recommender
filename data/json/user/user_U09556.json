@@ -1,0 +1,14 @@
+{
+    "user_id": "U09556",
+    "name": "John Johnson",
+    "email": "kellyhayes@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07418', 'B04344', 'B01114']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ross-Gould for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09030', 'B02300', 'B07895', 'B02519', 'B01573']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03347",
+    "name": "Monica Smith",
+    "email": "amandamullins@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Mccann, Andrews and Phillips for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06286']"
+}

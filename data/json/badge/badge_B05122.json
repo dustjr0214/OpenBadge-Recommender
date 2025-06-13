@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05122",
+    "name": "DevOps Engineer",
+    "issuer": "Google",
+    "description": "DevOps Engineer badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Machine Learning', 'UI/UX']",
+    "competency": "['Cloud Computing', 'Python']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B06019']"
+}

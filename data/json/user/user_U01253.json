@@ -1,0 +1,14 @@
+{
+    "user_id": "U01253",
+    "name": "Cesar Harvey",
+    "email": "johnhudson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07320', 'B01321']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Wilkinson-Underwood for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07242', 'B08603', 'B06982']"
+}

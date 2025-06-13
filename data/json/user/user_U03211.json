@@ -1,0 +1,14 @@
+{
+    "user_id": "U03211",
+    "name": "Steven Weaver",
+    "email": "alexandria64@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06949', 'B05450', 'B02071']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Cook, Hart and Hernandez for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03190', 'B05615', 'B02761']"
+}

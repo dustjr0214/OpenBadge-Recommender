@@ -1,0 +1,14 @@
+{
+    "user_id": "U05671",
+    "name": "Alex Cooley",
+    "email": "ladkins@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06410', 'B06304', 'B03837', 'B09705']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Ortega LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04200']"
+}

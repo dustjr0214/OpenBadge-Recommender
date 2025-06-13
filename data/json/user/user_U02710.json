@@ -1,0 +1,14 @@
+{
+    "user_id": "U02710",
+    "name": "John Thornton",
+    "email": "ebell@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02096', 'B02216', 'B01363', 'B00830']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Evans Inc for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08114', 'B07632', 'B03195', 'B09704']"
+}

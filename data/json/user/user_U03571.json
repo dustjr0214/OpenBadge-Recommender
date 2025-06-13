@@ -1,0 +1,14 @@
+{
+    "user_id": "U03571",
+    "name": "Stacey Houston",
+    "email": "timothy48@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'DevOps', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05528', 'B01120', 'B09523', 'B03507', 'B08215']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Keller, Greene and Mueller for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03185', 'B07002', 'B09050', 'B00377', 'B05027']"
+}

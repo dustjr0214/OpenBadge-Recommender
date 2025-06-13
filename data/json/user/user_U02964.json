@@ -1,0 +1,14 @@
+{
+    "user_id": "U02964",
+    "name": "Dennis Gardner",
+    "email": "nwolf@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06532', 'B07890']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Oconnor-Bass for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00442']"
+}

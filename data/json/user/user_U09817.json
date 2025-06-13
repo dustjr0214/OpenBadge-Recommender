@@ -1,0 +1,14 @@
+{
+    "user_id": "U09817",
+    "name": "Kayla Johnson",
+    "email": "michael82@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09645', 'B00933', 'B03048', 'B07368', 'B02451']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Fisher-Miller for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06678', 'B01326', 'B06708', 'B05423']"
+}

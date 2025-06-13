@@ -1,0 +1,14 @@
+{
+    "user_id": "U03234",
+    "name": "Michael Johnson",
+    "email": "steven88@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Guzman Group for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

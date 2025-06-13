@@ -1,0 +1,14 @@
+{
+    "user_id": "U01255",
+    "name": "Jeff Reed",
+    "email": "robertanderson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08512', 'B09446', 'B02047', 'B02576', 'B07733']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Mcgee-Gonzalez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04549']"
+}

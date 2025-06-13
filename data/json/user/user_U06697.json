@@ -1,0 +1,14 @@
+{
+    "user_id": "U06697",
+    "name": "Greg Peterson",
+    "email": "heather09@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06455', 'B05130', 'B00703']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Perez, Cochran and Patel for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06725', 'B08017', 'B06424', 'B05245', 'B04761']"
+}

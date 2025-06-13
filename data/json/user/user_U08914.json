@@ -1,0 +1,14 @@
+{
+    "user_id": "U08914",
+    "name": "Mary Robbins",
+    "email": "jacobhoward@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Murphy LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00966', 'B09686', 'B09146', 'B00970']"
+}

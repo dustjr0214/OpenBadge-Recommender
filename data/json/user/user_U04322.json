@@ -1,0 +1,14 @@
+{
+    "user_id": "U04322",
+    "name": "Miss Michelle Kelly",
+    "email": "wbradford@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08586', 'B02324', 'B05191']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Bullock-Morgan for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04131', 'B06115', 'B02221', 'B06789', 'B00993']"
+}

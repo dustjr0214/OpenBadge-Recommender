@@ -1,0 +1,14 @@
+{
+    "user_id": "U07957",
+    "name": "Fernando Fuller",
+    "email": "singhjonathan@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cybersecurity', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07287', 'B06178', 'B05972']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Davis, Rios and Moreno for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07782', 'B07308', 'B07138']"
+}

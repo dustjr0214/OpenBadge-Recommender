@@ -1,0 +1,14 @@
+{
+    "user_id": "U05082",
+    "name": "Matthew Wright",
+    "email": "stephendixon@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00772', 'B03257', 'B01955', 'B03862']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Johnson Ltd for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01130', 'B03394', 'B04506']"
+}

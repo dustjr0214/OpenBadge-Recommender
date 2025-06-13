@@ -1,0 +1,14 @@
+{
+    "user_id": "U03097",
+    "name": "Timothy Combs",
+    "email": "imason@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03112', 'B03187', 'B08333']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Sharp-Contreras for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06156']"
+}

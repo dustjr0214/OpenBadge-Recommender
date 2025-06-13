@@ -1,0 +1,14 @@
+{
+    "user_id": "U08538",
+    "name": "Jamie Strickland",
+    "email": "linda96@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02605', 'B05431', 'B07080', 'B04030']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Walker, Rodriguez and Henry for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07266', 'B06591', 'B09610']"
+}

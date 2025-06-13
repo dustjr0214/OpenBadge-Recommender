@@ -1,0 +1,14 @@
+{
+    "user_id": "U02286",
+    "name": "Elizabeth Delgado",
+    "email": "vargasdenise@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05929', 'B07670', 'B02558', 'B02935', 'B05461']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Thompson and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02568', 'B01990']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03425",
+    "name": "Jessica Lewis",
+    "email": "crystalross@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07781', 'B05991', 'B04103']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Rivas-Macias for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04814', 'B05394', 'B06756', 'B07857']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01431",
+    "name": "Catherine Harris",
+    "email": "fcruz@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07276', 'B07588']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Romero-Clark for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09833', 'B00555', 'B09338', 'B06600']"
+}

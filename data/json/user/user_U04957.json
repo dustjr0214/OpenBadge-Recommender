@@ -1,0 +1,14 @@
+{
+    "user_id": "U04957",
+    "name": "Joseph Morrison",
+    "email": "melissasanders@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08014', 'B02232', 'B03018']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Morgan LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06567', 'B01243', 'B09477']"
+}

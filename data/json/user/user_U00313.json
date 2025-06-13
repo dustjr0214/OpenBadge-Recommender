@@ -1,0 +1,14 @@
+{
+    "user_id": "U00313",
+    "name": "Timothy Anderson",
+    "email": "smithjulia@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09153', 'B06083', 'B09774', 'B03136', 'B00064']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Owen, Harris and Fields for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05798', 'B03139', 'B03643']"
+}

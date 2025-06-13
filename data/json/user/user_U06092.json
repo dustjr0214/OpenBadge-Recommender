@@ -1,0 +1,14 @@
+{
+    "user_id": "U06092",
+    "name": "Matthew Wood",
+    "email": "jesse01@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04805', 'B05029', 'B07095']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Spence and Sons for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09067', 'B07924']"
+}

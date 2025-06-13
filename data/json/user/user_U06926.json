@@ -1,0 +1,14 @@
+{
+    "user_id": "U06926",
+    "name": "Stephanie Ramos",
+    "email": "shannon60@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06612', 'B09125']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Cervantes, Perez and Cook for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02293']"
+}

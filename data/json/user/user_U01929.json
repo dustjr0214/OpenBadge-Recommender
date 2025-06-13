@@ -1,0 +1,14 @@
+{
+    "user_id": "U01929",
+    "name": "Thomas Henry",
+    "email": "moorepaul@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08012', 'B07493', 'B09126', 'B08569']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Rogers, Barrett and Smith for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00374', 'B00443', 'B02722', 'B05113', 'B04609']"
+}

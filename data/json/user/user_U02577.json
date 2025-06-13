@@ -1,0 +1,14 @@
+{
+    "user_id": "U02577",
+    "name": "Sheila Herrera",
+    "email": "sbrown@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00540', 'B01951']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Torres-Cooper for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03347', 'B07331', 'B03300', 'B02376']"
+}

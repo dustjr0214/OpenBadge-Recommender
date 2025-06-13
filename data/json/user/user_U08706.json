@@ -1,0 +1,14 @@
+{
+    "user_id": "U08706",
+    "name": "Stephen Kelley",
+    "email": "crystallyons@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Martinez-Chan for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09040', 'B01983', 'B00786']"
+}

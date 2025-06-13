@@ -1,0 +1,14 @@
+{
+    "user_id": "U09325",
+    "name": "Cameron Andrews",
+    "email": "ashleydunn@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07455', 'B01719', 'B00490']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at White, Gonzalez and Cline for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01959', 'B04949', 'B04583']"
+}

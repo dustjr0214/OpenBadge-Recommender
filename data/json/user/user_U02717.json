@@ -1,0 +1,14 @@
+{
+    "user_id": "U02717",
+    "name": "Anthony Wolfe",
+    "email": "elliottzachary@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09077', 'B04094']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Morris-Patterson for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04008']"
+}

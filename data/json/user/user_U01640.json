@@ -1,0 +1,14 @@
+{
+    "user_id": "U01640",
+    "name": "Steven Livingston",
+    "email": "diane34@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04913', 'B01965', 'B07440']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at James, Lopez and Hahn for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00716']"
+}

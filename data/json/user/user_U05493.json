@@ -1,0 +1,14 @@
+{
+    "user_id": "U05493",
+    "name": "April Cooper",
+    "email": "hhall@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04312', 'B02104', 'B01533', 'B04261', 'B05690']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Tucker, Jenkins and Clarke for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08913', 'B07457', 'B01941', 'B02991', 'B06626']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08868",
+    "name": "Penny Weaver",
+    "email": "linrobert@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00509', 'B08976', 'B02016', 'B03054', 'B03950']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Scott-Morrison for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

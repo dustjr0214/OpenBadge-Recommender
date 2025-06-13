@@ -1,0 +1,14 @@
+{
+    "user_id": "U07840",
+    "name": "Anne Silva",
+    "email": "ninataylor@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02390', 'B05547', 'B08513', 'B06738']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Rojas, Brewer and Flores for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05825', 'B00739']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02777",
+    "name": "Sharon Richardson",
+    "email": "richard50@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Data Analysis', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08337', 'B02512', 'B02810', 'B01307', 'B03311']",
+    "learning_history": "Completed the 'Python Certification' course at IBM",
+    "employment_history": "Worked at Wu PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04135']"
+}

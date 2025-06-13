@@ -1,0 +1,14 @@
+{
+    "user_id": "U03887",
+    "name": "Zachary Alvarez",
+    "email": "matthew88@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08116', 'B03051', 'B00505']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Church Inc for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04862', 'B07226', 'B09154', 'B06661']"
+}

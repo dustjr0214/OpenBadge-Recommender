@@ -1,0 +1,14 @@
+{
+    "user_id": "U02906",
+    "name": "Cynthia Ramsey",
+    "email": "robinsonsean@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07294']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Martin-Orr for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03623', 'B08867', 'B00096']"
+}

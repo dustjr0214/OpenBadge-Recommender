@@ -1,0 +1,14 @@
+{
+    "user_id": "U03333",
+    "name": "Jacob Gibson",
+    "email": "hoffmanmargaret@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07549']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Miller Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09615', 'B05944', 'B00765', 'B07632']"
+}

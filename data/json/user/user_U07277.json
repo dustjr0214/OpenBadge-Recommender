@@ -1,0 +1,14 @@
+{
+    "user_id": "U07277",
+    "name": "Tina Valdez",
+    "email": "dwest@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Frye-Butler for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06946', 'B02548', 'B01441', 'B03136']"
+}

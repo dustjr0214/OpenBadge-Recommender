@@ -1,0 +1,14 @@
+{
+    "user_id": "U09968",
+    "name": "Curtis Short",
+    "email": "harrisjulie@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04780', 'B08752']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Hall-Hudson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08851', 'B04524']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05341",
+    "name": "Amy Davies",
+    "email": "sanchezmichelle@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Machine Learning', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01220', 'B06423', 'B07918']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Green Group for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09634']"
+}

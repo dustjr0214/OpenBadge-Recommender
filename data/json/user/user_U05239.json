@@ -1,0 +1,14 @@
+{
+    "user_id": "U05239",
+    "name": "Elizabeth Bennett",
+    "email": "jennaalexander@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05525', 'B04202', 'B08804', 'B02799']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Carrillo, Bell and Ashley for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

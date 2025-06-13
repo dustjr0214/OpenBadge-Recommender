@@ -1,0 +1,14 @@
+{
+    "user_id": "U00600",
+    "name": "Tracey Mcdowell",
+    "email": "chenpaul@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00282', 'B05551']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Peters-Williams for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07185', 'B03399', 'B00893']"
+}

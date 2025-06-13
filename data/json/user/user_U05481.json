@@ -1,0 +1,14 @@
+{
+    "user_id": "U05481",
+    "name": "Heather Fisher",
+    "email": "denisecarter@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06786']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Sanchez Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06499']"
+}

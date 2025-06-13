@@ -1,0 +1,14 @@
+{
+    "user_id": "U07463",
+    "name": "Shelby Crosby",
+    "email": "ialvarez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08667', 'B01469', 'B09946', 'B03302', 'B08449']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Walker-Pace for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03437', 'B01432', 'B06804', 'B08193']"
+}

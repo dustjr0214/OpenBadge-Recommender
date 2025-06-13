@@ -1,0 +1,14 @@
+{
+    "user_id": "U07436",
+    "name": "Lisa Ellis",
+    "email": "michael61@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02709', 'B00019']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Stewart-Alvarado for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00565', 'B02581', 'B01908', 'B02246', 'B04427']"
+}

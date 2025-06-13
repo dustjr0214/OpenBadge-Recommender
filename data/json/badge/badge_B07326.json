@@ -1,0 +1,13 @@
+{
+    "badge_id": "B07326",
+    "name": "Python Certification",
+    "issuer": "Google",
+    "description": "Python Certification badge issued by Google",
+    "criteria": "Passing all module assessments",
+    "alignment": "Academic Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Machine Learning', 'Deep Learning']",
+    "competency": "['Teamwork', 'Analytical Skills', 'Python']",
+    "learningOpportunity": "Big Data Analysis Program",
+    "related_badges": "['B00935']"
+}

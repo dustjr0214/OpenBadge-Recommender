@@ -1,0 +1,14 @@
+{
+    "user_id": "U00525",
+    "name": "Sydney Flores",
+    "email": "jonestaylor@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00728', 'B04453']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson PLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02043', 'B02584', 'B06269', 'B01596']"
+}

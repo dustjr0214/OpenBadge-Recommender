@@ -1,0 +1,14 @@
+{
+    "user_id": "U00155",
+    "name": "Maureen Wiggins",
+    "email": "alejandrahodge@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'SQL', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06475', 'B01187']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Smith, Lawson and Kelly for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05829', 'B07243', 'B01779', 'B04422', 'B03959']"
+}

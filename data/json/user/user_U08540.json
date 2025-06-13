@@ -1,0 +1,14 @@
+{
+    "user_id": "U08540",
+    "name": "Lindsey Cooper",
+    "email": "benjamin11@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01738', 'B01814', 'B08678']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Lee Ltd for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09903', 'B09699', 'B09534', 'B02177', 'B00674']"
+}

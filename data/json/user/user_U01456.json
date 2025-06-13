@@ -1,0 +1,14 @@
+{
+    "user_id": "U01456",
+    "name": "Mary Murray",
+    "email": "conleykevin@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Data Analysis', 'DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06899', 'B08057', 'B00062', 'B08936', 'B00962']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Ramirez and Sons for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06817', 'B08465', 'B05830', 'B01002']"
+}

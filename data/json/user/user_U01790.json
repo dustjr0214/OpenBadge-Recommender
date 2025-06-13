@@ -1,0 +1,14 @@
+{
+    "user_id": "U01790",
+    "name": "Renee Carrillo",
+    "email": "fjones@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04717', 'B06324']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Reed Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05490', 'B02400', 'B04021', 'B04504']"
+}

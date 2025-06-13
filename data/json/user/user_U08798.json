@@ -1,0 +1,14 @@
+{
+    "user_id": "U08798",
+    "name": "Robert Hardy",
+    "email": "john13@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02559', 'B09700', 'B07282']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Romero-Bradley for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

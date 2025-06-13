@@ -1,0 +1,14 @@
+{
+    "user_id": "U08882",
+    "name": "Richard Parker",
+    "email": "hbush@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03223', 'B08126']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Holden and Sons for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07199', 'B06366', 'B00172']"
+}

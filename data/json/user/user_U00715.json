@@ -1,0 +1,14 @@
+{
+    "user_id": "U00715",
+    "name": "Ms. Brenda Ingram",
+    "email": "karenkim@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'DevOps', 'Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08447', 'B03182']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Cameron LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03822', 'B06287']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02128",
+    "name": "Carlos Williams",
+    "email": "ujones@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Estrada and Sons for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09598', 'B02118', 'B04641', 'B05766']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04951",
+    "name": "Edward Myers",
+    "email": "kylesmith@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03845']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at York, Braun and Walter for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02568', 'B02304']"
+}

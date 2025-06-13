@@ -1,0 +1,14 @@
+{
+    "user_id": "U09749",
+    "name": "Danielle Owens",
+    "email": "jdavis@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06294']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Peck Ltd for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02750', 'B07426', 'B02250']"
+}

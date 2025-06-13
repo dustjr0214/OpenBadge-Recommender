@@ -1,0 +1,14 @@
+{
+    "user_id": "U07883",
+    "name": "William Bailey",
+    "email": "lsmith@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04594', 'B05185', 'B01929', 'B06704']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Campbell, Wilson and Browning for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08015', 'B08663']"
+}

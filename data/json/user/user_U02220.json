@@ -1,0 +1,14 @@
+{
+    "user_id": "U02220",
+    "name": "Bruce Davis",
+    "email": "msmith@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01414', 'B04055', 'B03906', 'B01471']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Carter-Campbell for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07232', 'B00878', 'B04536', 'B09048']"
+}

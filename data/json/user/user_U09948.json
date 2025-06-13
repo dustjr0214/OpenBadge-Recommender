@@ -1,0 +1,14 @@
+{
+    "user_id": "U09948",
+    "name": "Charles Wilkinson",
+    "email": "elizabethgarcia@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08208', 'B00829', 'B00214']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Gray-Collins for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08101', 'B06601', 'B06465', 'B03694']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07509",
+    "name": "Wayne Mcconnell",
+    "email": "michaeljohnson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05385', 'B02988']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Barnes, Rivera and Spence for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06399', 'B01417']"
+}

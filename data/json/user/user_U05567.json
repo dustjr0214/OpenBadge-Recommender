@@ -1,0 +1,14 @@
+{
+    "user_id": "U05567",
+    "name": "Casey Velazquez",
+    "email": "marshallvincent@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Cybersecurity', 'Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07050', 'B07567', 'B08445', 'B05288']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Rowe-Werner for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06386', 'B04846', 'B00915', 'B07239', 'B03750']"
+}

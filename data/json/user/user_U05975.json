@@ -1,0 +1,14 @@
+{
+    "user_id": "U05975",
+    "name": "Wyatt Bond MD",
+    "email": "pwood@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Cloud Computing', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at House LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06487', 'B00371', 'B09467', 'B00148']"
+}

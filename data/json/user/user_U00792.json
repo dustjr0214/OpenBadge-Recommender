@@ -1,0 +1,14 @@
+{
+    "user_id": "U00792",
+    "name": "Andre Wyatt",
+    "email": "perezryan@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04117', 'B08109', 'B02034', 'B06057', 'B04086']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Davenport, Schmidt and Cooley for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05164']"
+}

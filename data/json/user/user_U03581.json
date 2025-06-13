@@ -1,0 +1,14 @@
+{
+    "user_id": "U03581",
+    "name": "Diane Davis",
+    "email": "floresmichelle@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Python', 'Deep Learning', 'UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05405', 'B06996', 'B08581']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Anderson, Bernard and Brown for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

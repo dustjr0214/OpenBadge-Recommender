@@ -1,0 +1,14 @@
+{
+    "user_id": "U01986",
+    "name": "Justin Lynch",
+    "email": "casey19@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05919', 'B00725', 'B04297']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Jones-Wilson for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01301', 'B07229', 'B01878', 'B06504', 'B02572']"
+}

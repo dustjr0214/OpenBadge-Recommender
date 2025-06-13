@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06993",
+    "name": "Cloud Computing Guru",
+    "issuer": "Google",
+    "description": "Cloud Computing Guru badge issued by Google",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['Deep Learning']",
+    "competency": "['Data Analysis', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B03700', 'B06773']"
+}

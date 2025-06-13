@@ -1,0 +1,14 @@
+{
+    "user_id": "U07954",
+    "name": "Becky Shaw",
+    "email": "joseph09@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04146', 'B08426']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Jones-Murray for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09310', 'B03482', 'B07358']"
+}

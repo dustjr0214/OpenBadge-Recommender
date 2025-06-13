@@ -1,0 +1,14 @@
+{
+    "user_id": "U05471",
+    "name": "Angela Vang",
+    "email": "jhansen@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07870', 'B03300', 'B09828', 'B07720']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Johnson Group for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02666', 'B00333', 'B05772', 'B06101', 'B07067']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00297",
+    "name": "Lisa Cooper",
+    "email": "jennamontgomery@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03122', 'B06141', 'B08215']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Rogers, Ballard and Turner for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

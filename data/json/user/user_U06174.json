@@ -1,0 +1,14 @@
+{
+    "user_id": "U06174",
+    "name": "Benjamin Jackson",
+    "email": "ulucero@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Machine Learning', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01831', 'B08775', 'B07475']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Wyatt, Stout and Marshall for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03093', 'B00327']"
+}

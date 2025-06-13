@@ -1,0 +1,14 @@
+{
+    "user_id": "U09140",
+    "name": "Adam Murphy",
+    "email": "damon94@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08715', 'B01401']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Brewer PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01429']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00394",
+    "name": "Jerry Chang",
+    "email": "washingtonhannah@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Coursera",
+    "employment_history": "Worked at Barnes and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00119', 'B05085', 'B06383', 'B08607']"
+}

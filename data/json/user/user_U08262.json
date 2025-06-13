@@ -1,0 +1,14 @@
+{
+    "user_id": "U08262",
+    "name": "Patrick Green",
+    "email": "camachojoy@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07350', 'B02565', 'B08431']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Miller, Singh and Kelly for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07789']"
+}

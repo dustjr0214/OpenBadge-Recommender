@@ -1,0 +1,14 @@
+{
+    "user_id": "U05951",
+    "name": "Kenneth Simmons",
+    "email": "jonfleming@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00988']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Booth, Fritz and Petty for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07285', 'B00204']"
+}

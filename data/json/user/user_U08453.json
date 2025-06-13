@@ -1,0 +1,14 @@
+{
+    "user_id": "U08453",
+    "name": "Jacob Roberts",
+    "email": "wsmith@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08694', 'B01081', 'B09024', 'B05408', 'B05248']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Gaines, Wyatt and Lang for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06508', 'B09047', 'B09759', 'B03939', 'B09766']"
+}

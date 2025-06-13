@@ -1,0 +1,14 @@
+{
+    "user_id": "U09957",
+    "name": "Dalton Nixon",
+    "email": "umcguire@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'SQL', 'Cloud Computing', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00057', 'B09336', 'B02511']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Rivers-Davis for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06699']"
+}

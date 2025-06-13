@@ -1,0 +1,14 @@
+{
+    "user_id": "U07289",
+    "name": "Jackie Reese",
+    "email": "amberadams@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06022', 'B04441', 'B00929', 'B03069', 'B01615']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Bruce, Fischer and Torres for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08067', 'B08339', 'B07791', 'B07287']"
+}

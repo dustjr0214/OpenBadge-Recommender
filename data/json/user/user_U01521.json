@@ -1,0 +1,14 @@
+{
+    "user_id": "U01521",
+    "name": "Stacy Gay",
+    "email": "judithadams@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03111', 'B04486', 'B03759', 'B01979']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Morris-Porter for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02597', 'B03161']"
+}

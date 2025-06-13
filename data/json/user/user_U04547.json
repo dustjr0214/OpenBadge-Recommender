@@ -1,0 +1,14 @@
+{
+    "user_id": "U04547",
+    "name": "Eric Cook",
+    "email": "xwhite@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'DevOps', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08561', 'B01343', 'B02388']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Ballard, Roberts and Griffin for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06800",
+    "name": "April Griffin",
+    "email": "haleyhunter@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cloud Computing', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01363', 'B04289', 'B08327', 'B04665']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Johnson, Martin and Sanchez for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04538', 'B09842', 'B04935', 'B04109', 'B08746']"
+}

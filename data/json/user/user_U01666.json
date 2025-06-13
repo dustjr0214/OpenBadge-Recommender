@@ -1,0 +1,14 @@
+{
+    "user_id": "U01666",
+    "name": "Tanya Brown",
+    "email": "myerspaul@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Deep Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04902', 'B02987', 'B09259']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Curry, Perez and Mcconnell for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

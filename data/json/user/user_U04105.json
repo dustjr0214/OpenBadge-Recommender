@@ -1,0 +1,14 @@
+{
+    "user_id": "U04105",
+    "name": "Robin Morris",
+    "email": "mitchelljose@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'Cybersecurity', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02838', 'B09511', 'B00857', 'B09221', 'B05277']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Kline-Howe for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04732', 'B05070', 'B00336']"
+}

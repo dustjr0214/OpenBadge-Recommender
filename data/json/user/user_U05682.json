@@ -1,0 +1,14 @@
+{
+    "user_id": "U05682",
+    "name": "Rebecca Taylor",
+    "email": "cynthia98@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05481']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Ward-Steele for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06532', 'B02494', 'B03026']"
+}

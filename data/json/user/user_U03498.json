@@ -1,0 +1,14 @@
+{
+    "user_id": "U03498",
+    "name": "Timothy Gonzalez",
+    "email": "alicia34@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02529']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Lewis, Hayes and Murphy for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00247', 'B04350', 'B07404', 'B06599']"
+}

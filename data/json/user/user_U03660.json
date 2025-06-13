@@ -1,0 +1,14 @@
+{
+    "user_id": "U03660",
+    "name": "Cassandra Drake",
+    "email": "onealjustin@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Machine Learning', 'Python', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05429', 'B03278', 'B01054', 'B08562']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Duncan, Lamb and Leon for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08939', 'B09243', 'B09528', 'B03092', 'B03991']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03452",
+    "name": "Arthur Smith",
+    "email": "jacksonjulie@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Bond-Sanchez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04367', 'B04445', 'B04805', 'B03139', 'B00615']"
+}

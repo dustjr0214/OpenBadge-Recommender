@@ -1,0 +1,14 @@
+{
+    "user_id": "U09309",
+    "name": "Jessica Swanson",
+    "email": "andresimpson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06671', 'B00016', 'B07918']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Welch, Brady and Taylor for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09030', 'B03938', 'B02683']"
+}

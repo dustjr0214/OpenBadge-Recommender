@@ -1,0 +1,14 @@
+{
+    "user_id": "U00500",
+    "name": "Joseph Brown",
+    "email": "richard88@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Deep Learning', 'UI/UX', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06896', 'B01336', 'B05603']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Robertson, Avery and Foster for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03346', 'B06716', 'B09947', 'B04045', 'B06993']"
+}

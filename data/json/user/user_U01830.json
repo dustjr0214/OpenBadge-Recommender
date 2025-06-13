@@ -1,0 +1,14 @@
+{
+    "user_id": "U01830",
+    "name": "George Anderson",
+    "email": "darrensanders@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Fletcher, Riley and Jordan for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00528', 'B04751']"
+}

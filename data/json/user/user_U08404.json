@@ -1,0 +1,14 @@
+{
+    "user_id": "U08404",
+    "name": "Justin Mitchell",
+    "email": "qbarber@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09818', 'B07771', 'B05568']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at IBM",
+    "employment_history": "Worked at Sanchez, Thompson and Smith for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05632",
+    "name": "Pamela Sharp",
+    "email": "kirkwhitney@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02349', 'B02856', 'B02992', 'B05692', 'B07337']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Peters and Sons for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

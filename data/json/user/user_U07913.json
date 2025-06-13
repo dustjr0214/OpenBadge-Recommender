@@ -1,0 +1,14 @@
+{
+    "user_id": "U07913",
+    "name": "Keith Choi",
+    "email": "tsmith@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06212', 'B09655', 'B07731']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Griffin LLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04912', 'B02840']"
+}

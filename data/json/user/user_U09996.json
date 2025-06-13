@@ -1,0 +1,14 @@
+{
+    "user_id": "U09996",
+    "name": "John Barry",
+    "email": "christopher56@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00071', 'B01292', 'B07686', 'B01427', 'B04478']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Miller-Warren for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09916', 'B09586', 'B00024']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U00094",
+    "name": "Chelsea Cannon",
+    "email": "ahaynes@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Johnson-Phillips for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06541', 'B03358', 'B09344', 'B02185', 'B07101']"
+}

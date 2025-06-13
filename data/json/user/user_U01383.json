@@ -1,0 +1,14 @@
+{
+    "user_id": "U01383",
+    "name": "Matthew Garza",
+    "email": "daviskyle@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02663', 'B01057', 'B04185']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Larson Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04894', 'B09091', 'B07060']"
+}

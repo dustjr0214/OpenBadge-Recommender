@@ -1,0 +1,14 @@
+{
+    "user_id": "U04510",
+    "name": "Krista Williams",
+    "email": "rjones@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01940', 'B05019']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Thompson Ltd for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09510', 'B01318']"
+}

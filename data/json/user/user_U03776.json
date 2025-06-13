@@ -1,0 +1,14 @@
+{
+    "user_id": "U03776",
+    "name": "Mark Smith",
+    "email": "matthewrusso@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09119', 'B06263', 'B04712', 'B05078']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Collier, Cook and Chase for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07005']"
+}

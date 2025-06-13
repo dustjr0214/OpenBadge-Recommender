@@ -1,0 +1,14 @@
+{
+    "user_id": "U00252",
+    "name": "Sandra Garcia",
+    "email": "pamela19@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01923']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Brown, Griffin and Nichols for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00902']"
+}

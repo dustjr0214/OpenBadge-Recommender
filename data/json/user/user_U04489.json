@@ -1,0 +1,14 @@
+{
+    "user_id": "U04489",
+    "name": "Deanna Dean",
+    "email": "jennifer44@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03521', 'B09426', 'B03878', 'B02851']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Green, Warner and Miller for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06173', 'B00749']"
+}

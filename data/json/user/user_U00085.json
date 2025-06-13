@@ -1,0 +1,14 @@
+{
+    "user_id": "U00085",
+    "name": "Molly Phillips",
+    "email": "shannonallen@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06967']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Conway-Sherman for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08251', 'B08953', 'B04762', 'B06468']"
+}

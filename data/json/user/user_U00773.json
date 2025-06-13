@@ -1,0 +1,14 @@
+{
+    "user_id": "U00773",
+    "name": "Heather Maddox",
+    "email": "warrenjames@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05575', 'B03641', 'B08871']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Cordova-Martin for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00783', 'B03942', 'B02513']"
+}

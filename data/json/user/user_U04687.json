@@ -1,0 +1,14 @@
+{
+    "user_id": "U04687",
+    "name": "Thomas Hill",
+    "email": "bryangray@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04971', 'B09316', 'B05002', 'B03768', 'B09048']",
+    "learning_history": "Completed the 'UI/UX Designer' course at IBM",
+    "employment_history": "Worked at Fuller Inc for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08197', 'B05680', 'B04123', 'B05932']"
+}

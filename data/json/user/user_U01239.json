@@ -1,0 +1,14 @@
+{
+    "user_id": "U01239",
+    "name": "Adam Andrews",
+    "email": "petersonchristian@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03022', 'B05000', 'B02411', 'B02116', 'B07765']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Jenkins Inc for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07876', 'B02371']"
+}

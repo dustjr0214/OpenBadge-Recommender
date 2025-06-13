@@ -1,0 +1,14 @@
+{
+    "user_id": "U07543",
+    "name": "Joseph Edwards",
+    "email": "glopez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00009', 'B06105']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Terry Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08750']"
+}

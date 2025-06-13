@@ -1,0 +1,14 @@
+{
+    "user_id": "U01911",
+    "name": "Andrew Morrow",
+    "email": "brownkim@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Python', 'Cloud Computing', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08516', 'B08042', 'B09365', 'B06636']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Gomez, Jones and Castillo for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00085', 'B05816', 'B01746']"
+}

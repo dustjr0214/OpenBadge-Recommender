@@ -1,0 +1,14 @@
+{
+    "user_id": "U07878",
+    "name": "Austin Davis",
+    "email": "xdiaz@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09960', 'B04230', 'B09120', 'B03434']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hodges-Juarez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00358', 'B01809']"
+}

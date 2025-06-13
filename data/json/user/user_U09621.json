@@ -1,0 +1,14 @@
+{
+    "user_id": "U09621",
+    "name": "Mitchell Spencer",
+    "email": "kcortez@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05683', 'B06698', 'B04853', 'B09059', 'B00538']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at George, Davis and Bailey for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08783', 'B02419', 'B07331', 'B03697', 'B09592']"
+}

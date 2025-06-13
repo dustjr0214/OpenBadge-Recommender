@@ -1,0 +1,14 @@
+{
+    "user_id": "U07378",
+    "name": "Susan Hawkins",
+    "email": "rbeck@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01599', 'B06864', 'B00023', 'B00081', 'B01270']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Lang LLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07014', 'B05579', 'B01537', 'B02254', 'B09971']"
+}

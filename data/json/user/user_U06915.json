@@ -1,0 +1,14 @@
+{
+    "user_id": "U06915",
+    "name": "Ronald Johnson",
+    "email": "michael66@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'Python', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06547', 'B06429', 'B09822']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Udacity",
+    "employment_history": "Worked at Baxter-Hernandez for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08350', 'B01892', 'B03983', 'B07384']"
+}

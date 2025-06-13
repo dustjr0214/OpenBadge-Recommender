@@ -1,0 +1,14 @@
+{
+    "user_id": "U02174",
+    "name": "Tyler Swanson",
+    "email": "lopezrichard@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04447', 'B08218', 'B00443', 'B03274', 'B02605']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Udacity",
+    "employment_history": "Worked at Kelly LLC for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05191', 'B07564', 'B09799', 'B08440', 'B01716']"
+}

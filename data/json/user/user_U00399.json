@@ -1,0 +1,14 @@
+{
+    "user_id": "U00399",
+    "name": "Bridget Beltran",
+    "email": "courtney15@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'UI/UX', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07637']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Scott LLC for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03056', 'B01591', 'B06675', 'B06110', 'B02973']"
+}

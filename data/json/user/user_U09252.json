@@ -1,0 +1,14 @@
+{
+    "user_id": "U09252",
+    "name": "Jason Gray",
+    "email": "fosterjeremy@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Data Analysis', 'SQL', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03108', 'B04677']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Contreras Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03641', 'B00147', 'B05793', 'B06179']"
+}

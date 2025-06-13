@@ -1,0 +1,14 @@
+{
+    "user_id": "U01563",
+    "name": "Madison Daniel",
+    "email": "wendy50@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Deep Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07745', 'B05126', 'B07799']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Davis Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04537', 'B00367']"
+}

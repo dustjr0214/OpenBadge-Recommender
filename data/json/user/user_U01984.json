@@ -1,0 +1,14 @@
+{
+    "user_id": "U01984",
+    "name": "Terry Eaton",
+    "email": "michellebailey@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Data Analysis', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09393', 'B07524', 'B00008']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Gray, Anderson and Moore for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07154', 'B04986', 'B03238', 'B08260']"
+}

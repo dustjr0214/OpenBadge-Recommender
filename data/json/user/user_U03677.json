@@ -1,0 +1,14 @@
+{
+    "user_id": "U03677",
+    "name": "Christopher Nelson",
+    "email": "williamsvalerie@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Machine Learning', 'SQL', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08296', 'B02983']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Mcdonald PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02419', 'B07280', 'B07724', 'B08045', 'B03243']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07636",
+    "name": "Susan White",
+    "email": "buchanantheresa@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'Cybersecurity', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06823', 'B05754', 'B05787', 'B06841']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Hall LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05118', 'B07313', 'B05254', 'B07858']"
+}

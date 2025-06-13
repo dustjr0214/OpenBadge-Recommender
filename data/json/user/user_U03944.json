@@ -1,0 +1,14 @@
+{
+    "user_id": "U03944",
+    "name": "Yolanda Gray",
+    "email": "oobrien@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06676', 'B08635', 'B00236', 'B05173', 'B05041']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Roberts, Hall and Braun for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02189', 'B03611', 'B07544', 'B00115']"
+}

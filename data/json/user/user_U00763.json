@@ -1,0 +1,14 @@
+{
+    "user_id": "U00763",
+    "name": "Jeff Snyder",
+    "email": "catherinedougherty@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01944']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Chavez-Rowland for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07762']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U06119",
+    "name": "Shannon Gill",
+    "email": "amandagarcia@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09871', 'B05056']",
+    "learning_history": "Completed the 'Data Science Expert' course at Google",
+    "employment_history": "Worked at Thomas-Hester for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04429', 'B03697', 'B03576']"
+}

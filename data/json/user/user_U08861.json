@@ -1,0 +1,14 @@
+{
+    "user_id": "U08861",
+    "name": "Andrew Lowe",
+    "email": "dianegonzales@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00672', 'B06275', 'B06747', 'B05950']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Miller-Herrera for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06410', 'B05836']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01546",
+    "name": "John Stewart",
+    "email": "vhaley@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'DevOps', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05632', 'B00131']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Anderson and Sons for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06075', 'B01472', 'B03326']"
+}

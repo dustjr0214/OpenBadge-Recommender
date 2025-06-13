@@ -1,0 +1,14 @@
+{
+    "user_id": "U09053",
+    "name": "Joshua Smith",
+    "email": "bkelley@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Macdonald-Smith for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04868', 'B04056', 'B01951', 'B06705', 'B07315']"
+}

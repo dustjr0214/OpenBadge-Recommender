@@ -1,0 +1,14 @@
+{
+    "user_id": "U00544",
+    "name": "Abigail Thornton",
+    "email": "erivas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Machine Learning', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04560', 'B05491', 'B03511', 'B05140']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Vargas, Tate and Esparza for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00594']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07794",
+    "name": "Steven Taylor",
+    "email": "trodriguez@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05394', 'B08564', 'B09402', 'B08823']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Schmidt, Lee and Young for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01346', 'B06319', 'B09119', 'B09095']"
+}

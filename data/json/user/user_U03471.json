@@ -1,0 +1,14 @@
+{
+    "user_id": "U03471",
+    "name": "April Cameron",
+    "email": "frankporter@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Data Analysis', 'Deep Learning', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00809', 'B03769', 'B09334', 'B05755']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Poole-Williams for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09491', 'B01992']"
+}

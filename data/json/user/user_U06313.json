@@ -1,0 +1,14 @@
+{
+    "user_id": "U06313",
+    "name": "Jon Brown",
+    "email": "kwang@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08785', 'B05468', 'B00440', 'B07282', 'B00679']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Kaiser LLC for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07702', 'B08125', 'B02488', 'B09884', 'B02060']"
+}

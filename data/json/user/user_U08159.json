@@ -1,0 +1,14 @@
+{
+    "user_id": "U08159",
+    "name": "Jacob Murray",
+    "email": "jared82@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09706', 'B00597', 'B06161', 'B07794']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Chase-Lyons for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B00959', 'B01179', 'B02268', 'B02211', 'B06989']"
+}

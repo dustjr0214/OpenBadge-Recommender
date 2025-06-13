@@ -1,0 +1,14 @@
+{
+    "user_id": "U05828",
+    "name": "Susan Anderson",
+    "email": "daniel14@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06918', 'B08481', 'B02799']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Cruz LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07351', 'B07245', 'B02993']"
+}

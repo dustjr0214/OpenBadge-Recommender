@@ -1,0 +1,14 @@
+{
+    "user_id": "U08132",
+    "name": "Jeff Mclaughlin",
+    "email": "ostark@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01276', 'B07604', 'B09715']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Santos Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09347', 'B08013', 'B09035', 'B08224']"
+}

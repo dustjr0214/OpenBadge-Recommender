@@ -1,0 +1,14 @@
+{
+    "user_id": "U02060",
+    "name": "Timothy Williams",
+    "email": "andrewhall@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B08458', 'B01642', 'B02443']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Molina-Horton for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01446', 'B03295', 'B00385', 'B05400']"
+}

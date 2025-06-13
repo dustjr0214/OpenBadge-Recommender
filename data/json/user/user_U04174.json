@@ -1,0 +1,14 @@
+{
+    "user_id": "U04174",
+    "name": "Cheryl Wilson",
+    "email": "nwhitaker@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03686', 'B08854', 'B09373']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Vega, Hoffman and Gardner for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06660', 'B07516', 'B09214']"
+}

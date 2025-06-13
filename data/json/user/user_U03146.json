@@ -1,0 +1,14 @@
+{
+    "user_id": "U03146",
+    "name": "William Jackson",
+    "email": "spencertyler@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01025', 'B09050', 'B09450', 'B00587', 'B05299']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Richard Ltd for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06567', 'B03696']"
+}

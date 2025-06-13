@@ -1,0 +1,14 @@
+{
+    "user_id": "U02223",
+    "name": "Kevin Davis",
+    "email": "xjones@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01346']",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Pineda, Williams and Brown for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04024', 'B05615', 'B02036', 'B09032']"
+}

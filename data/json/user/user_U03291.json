@@ -1,0 +1,14 @@
+{
+    "user_id": "U03291",
+    "name": "Alexis Briggs",
+    "email": "greyes@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04895', 'B03153', 'B01111', 'B08027', 'B00570']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Mason Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05347', 'B02463', 'B03196', 'B02989']"
+}

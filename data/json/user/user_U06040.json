@@ -1,0 +1,14 @@
+{
+    "user_id": "U06040",
+    "name": "Cassandra Duke",
+    "email": "ehoffman@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08710']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Simpson, Sellers and Vaughn for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

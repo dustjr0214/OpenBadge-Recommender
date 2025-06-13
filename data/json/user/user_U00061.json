@@ -1,0 +1,14 @@
+{
+    "user_id": "U00061",
+    "name": "Juan Li",
+    "email": "floydjoseph@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX', 'SQL', 'Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01608', 'B07513', 'B09679']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Morris, Lee and Sanchez for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09643', 'B09567', 'B04354', 'B08333']"
+}

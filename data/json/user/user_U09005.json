@@ -1,0 +1,14 @@
+{
+    "user_id": "U09005",
+    "name": "Keith Le",
+    "email": "judy10@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX', 'Data Analysis', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Roberts LLC for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01463', 'B05116', 'B00478', 'B06812', 'B00728']"
+}

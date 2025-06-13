@@ -1,0 +1,14 @@
+{
+    "user_id": "U04804",
+    "name": "Taylor Perry",
+    "email": "cortezmanuel@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07855', 'B01951', 'B02619', 'B08704']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Sims-Peterson for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09693', 'B07024', 'B07324', 'B01822']"
+}

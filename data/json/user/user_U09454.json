@@ -1,0 +1,14 @@
+{
+    "user_id": "U09454",
+    "name": "Angela Peterson",
+    "email": "rachaellowe@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Weeks-Davis for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03072', 'B05185', 'B06056']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01991",
+    "name": "Johnny Wilson",
+    "email": "lmcguire@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09198']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Mckay PLC for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09101', 'B07109', 'B08459', 'B09225']"
+}

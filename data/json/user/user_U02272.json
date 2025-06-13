@@ -1,0 +1,14 @@
+{
+    "user_id": "U02272",
+    "name": "Stacy Wolfe",
+    "email": "shenderson@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04108', 'B07805']",
+    "learning_history": "Completed the 'Data Science Expert' course at Coursera",
+    "employment_history": "Worked at Lopez, Miller and Schmidt for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06912']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01859",
+    "name": "Taylor Mayo",
+    "email": "daniel75@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Deep Learning', 'Cybersecurity', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Hood, Morgan and Walsh for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08278', 'B09339', 'B00586', 'B01708']"
+}

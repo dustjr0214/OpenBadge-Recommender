@@ -1,0 +1,14 @@
+{
+    "user_id": "U09905",
+    "name": "Molly Allen",
+    "email": "kristy36@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03713', 'B02077', 'B01188', 'B09515']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Brown-Soto for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

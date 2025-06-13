@@ -1,0 +1,14 @@
+{
+    "user_id": "U03427",
+    "name": "Brian Crawford",
+    "email": "potteramber@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'DevOps', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06734', 'B03178', 'B08558', 'B03771']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Kelley-Mccarthy for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03342', 'B06311', 'B03716', 'B07016']"
+}

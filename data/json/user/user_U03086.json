@@ -1,0 +1,14 @@
+{
+    "user_id": "U03086",
+    "name": "Shane Nelson Jr.",
+    "email": "jamesbraun@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning', 'DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04315', 'B08113']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Ramos, Parks and Gonzalez for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06405', 'B06228']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09048",
+    "name": "Jennifer Lee",
+    "email": "steven84@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['UI/UX', 'Data Analysis', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B00967', 'B04720', 'B04023']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Mcdonald-Ortiz for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02464']"
+}

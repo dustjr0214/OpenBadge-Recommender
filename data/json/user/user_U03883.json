@@ -1,0 +1,14 @@
+{
+    "user_id": "U03883",
+    "name": "Angela Fisher",
+    "email": "sandrarodriguez@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Miller, Salazar and Haney for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05710']"
+}

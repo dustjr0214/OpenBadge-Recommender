@@ -1,0 +1,14 @@
+{
+    "user_id": "U04407",
+    "name": "Blake Santos",
+    "email": "peggyanderson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Smith LLC for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00151', 'B05624']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06273",
+    "name": "AI Specialist",
+    "issuer": "Coursera",
+    "description": "AI Specialist badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Software Engineer roles",
+    "skillsValidated": "['SQL', 'DevOps', 'Python']",
+    "competency": "['Deep Learning', 'Teamwork', 'SQL']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B02039']"
+}

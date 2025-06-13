@@ -1,0 +1,14 @@
+{
+    "user_id": "U03417",
+    "name": "Elizabeth Faulkner",
+    "email": "laurengardner@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Deep Learning', 'Python', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06635', 'B00975']",
+    "learning_history": "Completed the 'Python Certification' course at Google",
+    "employment_history": "Worked at Robinson-Watson for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06457', 'B05924', 'B09879', 'B03416']"
+}

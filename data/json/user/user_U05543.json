@@ -1,0 +1,14 @@
+{
+    "user_id": "U05543",
+    "name": "Craig Baker",
+    "email": "austinschmitt@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06274', 'B09831']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Robertson, Roberts and Arellano for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05797']"
+}

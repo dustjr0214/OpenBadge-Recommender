@@ -1,0 +1,14 @@
+{
+    "user_id": "U09260",
+    "name": "Sergio Garcia",
+    "email": "ijones@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03368', 'B09312', 'B02374']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Armstrong Inc for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00925', 'B05210', 'B08901', 'B07622', 'B07928']"
+}

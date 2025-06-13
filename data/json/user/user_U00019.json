@@ -1,0 +1,14 @@
+{
+    "user_id": "U00019",
+    "name": "Audrey King",
+    "email": "leejohn@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'UI/UX Designer' course at edX",
+    "employment_history": "Worked at Olson-Watson for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06243', 'B06025', 'B01120', 'B02742', 'B01695']"
+}

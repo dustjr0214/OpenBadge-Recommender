@@ -1,0 +1,14 @@
+{
+    "user_id": "U09341",
+    "name": "Darrell Jones",
+    "email": "michaelwiley@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Cloud Computing', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01226', 'B01214', 'B01875', 'B07453']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Fowler-Thomas for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08215', 'B00492', 'B01295', 'B01281', 'B04161']"
+}

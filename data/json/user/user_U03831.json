@@ -1,0 +1,14 @@
+{
+    "user_id": "U03831",
+    "name": "Beverly Roberts",
+    "email": "lindseyebony@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cybersecurity', 'Python', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02131', 'B05197']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Cameron-Thompson for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

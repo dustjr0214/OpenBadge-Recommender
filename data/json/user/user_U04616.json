@@ -1,0 +1,14 @@
+{
+    "user_id": "U04616",
+    "name": "Jesse Kelley",
+    "email": "sabrinagarrison@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07854', 'B00488']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Grimes and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06036', 'B03404']"
+}

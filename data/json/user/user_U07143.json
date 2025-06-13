@@ -1,0 +1,14 @@
+{
+    "user_id": "U07143",
+    "name": "Jessica Nelson",
+    "email": "reynoldskelly@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03009', 'B07676', 'B08601', 'B01471', 'B05794']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Coursera",
+    "employment_history": "Worked at Wilson Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07757', 'B01773', 'B07687']"
+}

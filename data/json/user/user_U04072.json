@@ -1,0 +1,14 @@
+{
+    "user_id": "U04072",
+    "name": "Edgar Adams",
+    "email": "mariaanderson@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02550']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at edX",
+    "employment_history": "Worked at Schroeder, Martinez and Peterson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07675', 'B05693', 'B08601']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08291",
+    "name": "Michael Moore",
+    "email": "jonesthomas@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'Cloud Computing', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04976', 'B01784', 'B03798', 'B06937']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Udacity",
+    "employment_history": "Worked at Stafford-Casey for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B08470', 'B02817']"
+}

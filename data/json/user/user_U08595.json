@@ -1,0 +1,14 @@
+{
+    "user_id": "U08595",
+    "name": "Anthony Parker",
+    "email": "hectorcole@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'Cloud Computing', 'Cybersecurity', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04325', 'B03136']",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Gallagher Inc for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08351', 'B00744', 'B07548', 'B00765', 'B07901']"
+}

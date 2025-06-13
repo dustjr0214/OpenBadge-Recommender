@@ -1,0 +1,14 @@
+{
+    "user_id": "U06405",
+    "name": "Charles Bell",
+    "email": "stephaniehill@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02109', 'B07489', 'B03183', 'B05019', 'B05666']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hughes Inc for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08659', 'B09520', 'B09378', 'B04471']"
+}

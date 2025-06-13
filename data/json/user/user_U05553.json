@@ -1,0 +1,14 @@
+{
+    "user_id": "U05553",
+    "name": "Anthony Shields",
+    "email": "dthompson@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04243', 'B06391', 'B03166', 'B08928', 'B09864']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Dorsey-Costa for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02543', 'B05824', 'B08245', 'B07350', 'B06133']"
+}

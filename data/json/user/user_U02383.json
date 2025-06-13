@@ -1,0 +1,14 @@
+{
+    "user_id": "U02383",
+    "name": "Brian Becker",
+    "email": "uluna@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07227', 'B01767', 'B05374', 'B04668']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Smith-Stevens for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01591', 'B05383', 'B08714', 'B03313', 'B05599']"
+}

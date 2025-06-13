@@ -1,0 +1,14 @@
+{
+    "user_id": "U02588",
+    "name": "Connie Stout",
+    "email": "zheath@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08857', 'B04266', 'B08018', 'B04867', 'B09170']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Mack Group for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00033', 'B02120', 'B08583', 'B08789']"
+}

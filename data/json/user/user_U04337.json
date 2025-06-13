@@ -1,0 +1,14 @@
+{
+    "user_id": "U04337",
+    "name": "David Hammond",
+    "email": "adam74@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01527', 'B08268', 'B05001', 'B00217']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Scott Group for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07931', 'B03431', 'B03939']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U07050",
+    "name": "Joel Moore",
+    "email": "adamsadam@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09178']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Hansen-Mclean for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01037', 'B02305', 'B00891', 'B08444', 'B07037']"
+}

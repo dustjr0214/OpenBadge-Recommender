@@ -1,0 +1,14 @@
+{
+    "user_id": "U07910",
+    "name": "Nathan Ramsey",
+    "email": "jensenkelly@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04525']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Anderson LLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01372', 'B06668', 'B04225']"
+}

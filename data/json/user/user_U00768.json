@@ -1,0 +1,14 @@
+{
+    "user_id": "U00768",
+    "name": "David Brown",
+    "email": "allison01@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06896', 'B02775', 'B06618']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Cooper Group for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00664', 'B00259', 'B09704', 'B05202', 'B00624']"
+}

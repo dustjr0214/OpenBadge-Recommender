@@ -1,0 +1,14 @@
+{
+    "user_id": "U03261",
+    "name": "Robert Rowe",
+    "email": "hayleygill@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09586', 'B02549', 'B01764']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Hunt and Sons for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04535', 'B09626']"
+}

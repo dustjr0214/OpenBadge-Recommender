@@ -1,0 +1,14 @@
+{
+    "user_id": "U06802",
+    "name": "Carolyn Wilson",
+    "email": "bmartinez@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Cybersecurity', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09675', 'B08509', 'B01293']",
+    "learning_history": "Completed the 'Data Science Expert' course at edX",
+    "employment_history": "Worked at Foster LLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B01674', 'B07664', 'B09284', 'B04840']"
+}

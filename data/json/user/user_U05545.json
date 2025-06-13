@@ -1,0 +1,14 @@
+{
+    "user_id": "U05545",
+    "name": "Stephanie Miller",
+    "email": "ylee@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01582', 'B09453']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Stewart Inc for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01336', 'B02971', 'B06246']"
+}

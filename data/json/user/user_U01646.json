@@ -1,0 +1,14 @@
+{
+    "user_id": "U01646",
+    "name": "Carolyn Pearson",
+    "email": "sherry70@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B02494', 'B01270', 'B06057']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Hall Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06773', 'B04436', 'B09201', 'B03335']"
+}

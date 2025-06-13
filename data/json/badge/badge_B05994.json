@@ -1,0 +1,13 @@
+{
+    "badge_id": "B05994",
+    "name": "Python Certification",
+    "issuer": "Coursera",
+    "description": "Python Certification badge issued by Coursera",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Professional Alignment",
+    "employmentOutcome": "Eligible for Cloud Architect positions",
+    "skillsValidated": "['DevOps', 'Data Analysis']",
+    "competency": "['SQL', 'Problem Solving', 'Teamwork']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B06616']"
+}

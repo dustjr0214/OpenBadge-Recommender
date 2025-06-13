@@ -1,0 +1,14 @@
+{
+    "user_id": "U00371",
+    "name": "Ryan Marsh",
+    "email": "whitewilliam@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Data Analysis', 'SQL', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B09280', 'B01476', 'B02778', 'B05709', 'B04337']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Klein-Jackson for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02810', 'B04201', 'B08832', 'B01260']"
+}

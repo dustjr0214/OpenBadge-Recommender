@@ -1,0 +1,14 @@
+{
+    "user_id": "U05389",
+    "name": "Victor Brandt",
+    "email": "doyleashley@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'Machine Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05572', 'B00625']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Udacity",
+    "employment_history": "Worked at Flores-Bailey for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09106', 'B02343', 'B05070', 'B07627', 'B00057']"
+}

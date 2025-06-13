@@ -1,0 +1,14 @@
+{
+    "user_id": "U01702",
+    "name": "Erika Evans",
+    "email": "todd23@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Deep Learning', 'Machine Learning', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00716', 'B05226', 'B02513']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Brown PLC for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08297', 'B08737']"
+}

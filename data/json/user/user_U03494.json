@@ -1,0 +1,14 @@
+{
+    "user_id": "U03494",
+    "name": "Samantha Dunn",
+    "email": "christophermontoya@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Cybersecurity', 'Data Analysis', 'UI/UX', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08568']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Simpson, Smith and Marshall for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05423', 'B00396', 'B07717', 'B01779', 'B05013']"
+}

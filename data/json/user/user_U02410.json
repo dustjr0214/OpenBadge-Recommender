@@ -1,0 +1,14 @@
+{
+    "user_id": "U02410",
+    "name": "Wayne Parks",
+    "email": "tyler51@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['SQL', 'Data Analysis', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04577', 'B04570', 'B02849', 'B08588']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Davidson, Wilson and Rogers for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08491']"
+}

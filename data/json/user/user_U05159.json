@@ -1,0 +1,14 @@
+{
+    "user_id": "U05159",
+    "name": "Joy Nicholson",
+    "email": "melinda96@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02148', 'B07089', 'B04915', 'B03102', 'B09649']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Roberson and Sons for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08133', 'B06816', 'B01324', 'B03704', 'B04561']"
+}

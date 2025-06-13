@@ -1,0 +1,14 @@
+{
+    "user_id": "U09016",
+    "name": "Troy Villarreal",
+    "email": "jason24@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04643']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Sanchez, Dawson and Diaz for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09216', 'B03448', 'B03265']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04260",
+    "name": "Ryan Cochran",
+    "email": "alexanderfoster@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B08195', 'B03959', 'B08057', 'B06715', 'B05155']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Vasquez and Sons for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03025', 'B07342', 'B07244']"
+}

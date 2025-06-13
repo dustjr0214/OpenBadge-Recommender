@@ -1,0 +1,14 @@
+{
+    "user_id": "U05936",
+    "name": "Rodney Morris",
+    "email": "wrightrachel@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02814']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Kent-Russell for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03233', 'B05690', 'B00936', 'B01069']"
+}

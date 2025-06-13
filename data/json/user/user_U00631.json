@@ -1,0 +1,14 @@
+{
+    "user_id": "U00631",
+    "name": "David Figueroa",
+    "email": "greyes@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Dominguez-Taylor for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06908', 'B01997', 'B00886']"
+}

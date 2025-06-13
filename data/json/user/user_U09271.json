@@ -1,0 +1,14 @@
+{
+    "user_id": "U09271",
+    "name": "Danielle Torres",
+    "email": "seanhartman@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04671', 'B06797', 'B09439', 'B00449']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Walker Group for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

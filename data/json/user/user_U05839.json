@@ -1,0 +1,14 @@
+{
+    "user_id": "U05839",
+    "name": "George Davidson",
+    "email": "vcherry@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03007']",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Hood and Sons for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01437', 'B07433', 'B04293']"
+}

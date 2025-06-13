@@ -1,0 +1,14 @@
+{
+    "user_id": "U03180",
+    "name": "Jesus Torres",
+    "email": "zmorgan@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'Data Analysis', 'DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04108', 'B09799']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Cunningham-Peterson for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07225', 'B00253', 'B04090', 'B09033', 'B09284']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U05992",
+    "name": "Megan Spencer",
+    "email": "butlerjulia@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07360', 'B08539', 'B01287', 'B04453', 'B04210']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at edX",
+    "employment_history": "Worked at Smith LLC for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

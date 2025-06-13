@@ -1,0 +1,14 @@
+{
+    "user_id": "U09493",
+    "name": "Sarah Ramos",
+    "email": "garciatimothy@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07896', 'B04260']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Rodriguez, Butler and Johnson for 2 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B07359', 'B04618']"
+}

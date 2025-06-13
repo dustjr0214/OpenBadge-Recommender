@@ -1,0 +1,14 @@
+{
+    "user_id": "U02830",
+    "name": "Steven Carroll",
+    "email": "kingelijah@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['SQL', 'UI/UX', 'Deep Learning', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09547', 'B01474', 'B05032', 'B01151', 'B05154']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Stewart, Thomas and Rodriguez for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B05351', 'B05228', 'B01326', 'B00671']"
+}

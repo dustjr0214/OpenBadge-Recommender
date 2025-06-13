@@ -1,0 +1,14 @@
+{
+    "user_id": "U00877",
+    "name": "Elizabeth Robinson",
+    "email": "alicheryl@example.org",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'Cloud Computing']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02534', 'B06773']",
+    "learning_history": "Completed the 'DevOps Engineer' course at IBM",
+    "employment_history": "Worked at Jones, Brady and Adams for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

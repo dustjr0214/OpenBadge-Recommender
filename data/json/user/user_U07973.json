@@ -1,0 +1,14 @@
+{
+    "user_id": "U07973",
+    "name": "Maria Anderson",
+    "email": "brenda13@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01890', 'B06970', 'B07738', 'B04233']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Graves, Smith and Jones for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08626']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U04286",
+    "name": "Michele Dixon",
+    "email": "farrelldavid@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['Python', 'UI/UX', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B09175', 'B07591', 'B04487', 'B04015']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Ramirez, Mason and Vega for 5 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00315', 'B04935']"
+}

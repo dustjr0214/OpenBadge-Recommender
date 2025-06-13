@@ -1,0 +1,14 @@
+{
+    "user_id": "U07647",
+    "name": "Andrew Berry",
+    "email": "zrivers@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Cybersecurity', 'UI/UX', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07893', 'B00470', 'B00655', 'B05575']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Morris-Adams for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03045', 'B02679', 'B00396']"
+}

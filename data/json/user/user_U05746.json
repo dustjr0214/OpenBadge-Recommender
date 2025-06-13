@@ -1,0 +1,14 @@
+{
+    "user_id": "U05746",
+    "name": "Andrea Brown",
+    "email": "jamie86@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'DevOps', 'Cloud Computing', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B07288', 'B05115', 'B09078', 'B00619', 'B06156']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Udacity",
+    "employment_history": "Worked at Campbell Inc for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B07464', 'B04163', 'B02723', 'B04972']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08465",
+    "name": "Erin Simmons",
+    "email": "ugarcia@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00779', 'B03414']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Bailey-Shaffer for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B08303', 'B05210', 'B06999', 'B07952', 'B01912']"
+}

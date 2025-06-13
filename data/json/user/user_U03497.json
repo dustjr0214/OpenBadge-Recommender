@@ -1,0 +1,14 @@
+{
+    "user_id": "U03497",
+    "name": "Alicia Matthews",
+    "email": "melvinalexander@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'DevOps', 'SQL', 'Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01914', 'B04577']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Hanson-Nicholson for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B01739', 'B08979', 'B09371', 'B03249', 'B01608']"
+}

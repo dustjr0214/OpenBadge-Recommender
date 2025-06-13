@@ -1,0 +1,14 @@
+{
+    "user_id": "U06525",
+    "name": "Jason Shepherd",
+    "email": "frazierdamon@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'SQL', 'Cloud Computing', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B00415', 'B07895', 'B01944']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at edX",
+    "employment_history": "Worked at Miller Ltd for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B06960', 'B03334', 'B00371', 'B01727', 'B00163']"
+}

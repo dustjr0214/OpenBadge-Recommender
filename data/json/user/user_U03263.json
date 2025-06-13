@@ -1,0 +1,14 @@
+{
+    "user_id": "U03263",
+    "name": "John Johnson",
+    "email": "pthomas@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05687']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Griffin Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02949', 'B05462', 'B00874', 'B06033', 'B02504']"
+}

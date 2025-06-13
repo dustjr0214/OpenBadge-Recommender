@@ -1,0 +1,14 @@
+{
+    "user_id": "U09522",
+    "name": "Robert Scott",
+    "email": "vandrews@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['Machine Learning', 'SQL', 'Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Deep Learning Master' course at IBM",
+    "employment_history": "Worked at Arnold-Glenn for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09484', 'B00353']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U08310",
+    "name": "Andrea Williams",
+    "email": "lawrencewilson@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Data Analysis', 'Cloud Computing', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06695', 'B09525', 'B04828']",
+    "learning_history": "Completed the 'Python Certification' course at Coursera",
+    "employment_history": "Worked at Howard-Hayes for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03127', 'B09077']"
+}

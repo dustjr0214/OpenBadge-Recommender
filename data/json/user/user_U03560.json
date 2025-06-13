@@ -1,0 +1,14 @@
+{
+    "user_id": "U03560",
+    "name": "Katherine Bryant",
+    "email": "wjohnson@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'DevOps', 'Machine Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06707', 'B06659']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Rodriguez, Howell and Booth for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08564']"
+}

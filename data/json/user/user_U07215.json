@@ -1,0 +1,14 @@
+{
+    "user_id": "U07215",
+    "name": "Gregory Young",
+    "email": "stonejames@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'SQL', 'Deep Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04255', 'B01904', 'B02060', 'B02807']",
+    "learning_history": "Completed the 'AI Specialist' course at Udacity",
+    "employment_history": "Worked at Fuentes Group for 4 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B06775', 'B00421']"
+}

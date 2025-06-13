@@ -1,0 +1,14 @@
+{
+    "user_id": "U05716",
+    "name": "Brian Estrada",
+    "email": "williamsjennifer@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Smith, Yates and King for 1 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06159']"
+}

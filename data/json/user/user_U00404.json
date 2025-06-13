@@ -1,0 +1,14 @@
+{
+    "user_id": "U00404",
+    "name": "Tina Rubio",
+    "email": "wrightkevin@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B00886', 'B08595', 'B05306', 'B02040']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at Google",
+    "employment_history": "Worked at Kelly PLC for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04253', 'B02367']"
+}

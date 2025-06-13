@@ -1,0 +1,14 @@
+{
+    "user_id": "U06513",
+    "name": "Zachary Arellano",
+    "email": "hayslori@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Cloud Computing', 'DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Udacity",
+    "employment_history": "Worked at Dyer Inc for 4 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00518', 'B07406', 'B02827', 'B02192', 'B05211']"
+}

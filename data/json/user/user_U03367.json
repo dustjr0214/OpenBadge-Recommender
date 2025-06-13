@@ -1,0 +1,14 @@
+{
+    "user_id": "U03367",
+    "name": "Christopher Johnston",
+    "email": "qlewis@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Machine Learning', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01019', 'B05218', 'B07396', 'B08751']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Coursera",
+    "employment_history": "Worked at Brady, Rojas and Johnson for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04594', 'B04252']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U09159",
+    "name": "Julia Boyd",
+    "email": "jonespaula@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['SQL', 'DevOps', 'Cloud Computing']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B07341', 'B07595']",
+    "learning_history": "Completed the 'AI Specialist' course at edX",
+    "employment_history": "Worked at Lambert Inc for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02268', 'B08083', 'B01385', 'B08288']"
+}

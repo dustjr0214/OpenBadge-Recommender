@@ -1,0 +1,14 @@
+{
+    "user_id": "U01377",
+    "name": "James Moreno",
+    "email": "jacquelinekoch@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Machine Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Brown, Scott and Allen for 3 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08882', 'B07904', 'B04290', 'B01598', 'B07132']"
+}

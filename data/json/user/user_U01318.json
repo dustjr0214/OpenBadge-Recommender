@@ -1,0 +1,14 @@
+{
+    "user_id": "U01318",
+    "name": "Elizabeth Arellano",
+    "email": "darrenowen@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Machine Learning', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03109', 'B01108']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Adams, James and Davis for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "[]"
+}

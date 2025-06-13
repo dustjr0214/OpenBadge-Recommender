@@ -1,0 +1,14 @@
+{
+    "user_id": "U08074",
+    "name": "Lori Gonzalez",
+    "email": "lindarogers@example.org",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Deep Learning', 'Cloud Computing', 'Machine Learning', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B03314']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Johnson and Sons for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09172', 'B03295', 'B00205']"
+}

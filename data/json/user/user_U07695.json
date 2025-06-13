@@ -1,0 +1,14 @@
+{
+    "user_id": "U07695",
+    "name": "Raymond Hess",
+    "email": "david81@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cloud Computing', 'UI/UX']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04447', 'B02348', 'B09764', 'B04026', 'B02601']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Coursera",
+    "employment_history": "Worked at Woods PLC for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B01032', 'B03127', 'B03721']"
+}

@@ -1,0 +1,13 @@
+{
+    "badge_id": "B00917",
+    "name": "Deep Learning Master",
+    "issuer": "IBM",
+    "description": "Deep Learning Master badge issued by IBM",
+    "criteria": "Completion of 40 hours of lectures and project submission",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Data Analyst roles",
+    "skillsValidated": "['Data Analysis']",
+    "competency": "['Data Analysis', 'Machine Learning', 'Leadership']",
+    "learningOpportunity": "AI Professional Course",
+    "related_badges": "['B00513', 'B06477']"
+}

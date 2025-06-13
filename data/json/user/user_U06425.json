@@ -1,0 +1,14 @@
+{
+    "user_id": "U06425",
+    "name": "Tyler Chapman",
+    "email": "edickerson@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'Python', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B08583', 'B03726', 'B05003', 'B09160']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at IBM",
+    "employment_history": "Worked at Ortega Group for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B09623', 'B09101', 'B03050', 'B00901']"
+}

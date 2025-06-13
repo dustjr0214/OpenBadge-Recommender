@@ -1,0 +1,14 @@
+{
+    "user_id": "U03739",
+    "name": "Tim Torres",
+    "email": "nicholas87@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Deep Learning', 'SQL']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06252']",
+    "learning_history": "Completed the 'Big Data Analyst' course at IBM",
+    "employment_history": "Worked at Kelly Inc for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "[]"
+}

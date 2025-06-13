@@ -1,0 +1,14 @@
+{
+    "user_id": "U04641",
+    "name": "Mary Perry DDS",
+    "email": "jason45@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity', 'UI/UX']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B05435', 'B01432', 'B08257', 'B01204']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Vargas Inc for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00381', 'B03933', 'B05045']"
+}

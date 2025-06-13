@@ -1,0 +1,14 @@
+{
+    "user_id": "U06585",
+    "name": "Michael Bush",
+    "email": "yolandajohnson@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['SQL', 'Data Analysis', 'Machine Learning', 'Cybersecurity']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B06879', 'B05016', 'B05787', 'B08791']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Lewis, Ross and Hunter for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02211', 'B00207', 'B09186', 'B08093', 'B04889']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U03356",
+    "name": "Heather Chambers",
+    "email": "matthew45@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B05981', 'B01400', 'B02901', 'B08976']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Meyer, Gates and King for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B06605', 'B02087', 'B01303', 'B04500', 'B01878']"
+}

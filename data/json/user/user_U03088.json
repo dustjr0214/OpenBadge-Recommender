@@ -1,0 +1,14 @@
+{
+    "user_id": "U03088",
+    "name": "David Shaffer",
+    "email": "fcosta@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09047', 'B07014', 'B00230', 'B07618']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Graham PLC for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02092', 'B08919', 'B03043', 'B06048', 'B07487']"
+}

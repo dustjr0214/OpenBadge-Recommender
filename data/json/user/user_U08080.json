@@ -1,0 +1,14 @@
+{
+    "user_id": "U08080",
+    "name": "Xavier Aguilar",
+    "email": "antonioclay@example.com",
+    "goal": "Become a Data Scientist",
+    "skills": "['Deep Learning', 'UI/UX', 'SQL', 'Cybersecurity']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B03064', 'B02913', 'B00342', 'B02910']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Google",
+    "employment_history": "Worked at Shea, Acevedo and Klein for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "[]"
+}

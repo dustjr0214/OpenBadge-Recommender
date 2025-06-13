@@ -1,0 +1,14 @@
+{
+    "user_id": "U02534",
+    "name": "Emma Barker",
+    "email": "nortonanna@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B01802', 'B09421', 'B05338']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Hogan, Warner and Kim for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B03563']"
+}

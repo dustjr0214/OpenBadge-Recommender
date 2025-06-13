@@ -1,0 +1,14 @@
+{
+    "user_id": "U07404",
+    "name": "Deborah Collins",
+    "email": "bennettamy@example.com",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['DevOps', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05218', 'B08500', 'B01318']",
+    "learning_history": "Completed the 'AI Specialist' course at Google",
+    "employment_history": "Worked at Williams, Watts and Miller for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00039', 'B06677']"
+}

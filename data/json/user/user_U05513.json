@@ -1,0 +1,14 @@
+{
+    "user_id": "U05513",
+    "name": "Tonya Rodgers",
+    "email": "tinarobertson@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Machine Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01108', 'B08904', 'B00880', 'B06538', 'B01620']",
+    "learning_history": "Completed the 'Python Certification' course at Udacity",
+    "employment_history": "Worked at Arellano, Gray and Black for 1 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00441']"
+}

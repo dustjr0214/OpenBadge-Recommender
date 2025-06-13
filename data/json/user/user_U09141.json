@@ -1,0 +1,14 @@
+{
+    "user_id": "U09141",
+    "name": "Abigail Harris",
+    "email": "jonathanreyes@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B07251', 'B08974', 'B07469']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Miller-Allen for 5 years",
+    "education_level": "High School",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B03570', 'B09864']"
+}

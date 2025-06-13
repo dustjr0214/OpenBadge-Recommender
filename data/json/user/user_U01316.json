@@ -1,0 +1,14 @@
+{
+    "user_id": "U01316",
+    "name": "Mary Harvey",
+    "email": "michele98@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cloud Computing']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04114']",
+    "learning_history": "Completed the 'Big Data Analyst' course at edX",
+    "employment_history": "Worked at Mcneil, Evans and Williams for 3 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B09800', 'B04927']"
+}

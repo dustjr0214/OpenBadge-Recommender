@@ -1,0 +1,14 @@
+{
+    "user_id": "U08836",
+    "name": "Chloe Parker",
+    "email": "iharris@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06409', 'B01425']",
+    "learning_history": "Completed the 'Data Science Expert' course at Udacity",
+    "employment_history": "Worked at Pratt, Munoz and Graham for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04812', 'B03056']"
+}

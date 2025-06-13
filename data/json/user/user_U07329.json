@@ -1,0 +1,14 @@
+{
+    "user_id": "U07329",
+    "name": "Sarah Thomas",
+    "email": "debra55@example.org",
+    "goal": "Become an AI Expert",
+    "skills": "['UI/UX', 'Cybersecurity', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B04631']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Google",
+    "employment_history": "Worked at Oliver, Shepard and Price for 5 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B02995', 'B07524', 'B06661']"
+}

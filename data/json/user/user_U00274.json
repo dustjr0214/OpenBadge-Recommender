@@ -1,0 +1,14 @@
+{
+    "user_id": "U00274",
+    "name": "Dennis Howard",
+    "email": "tanyalawson@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "[]",
+    "learning_history": "Completed the 'AI Specialist' course at IBM",
+    "employment_history": "Worked at Patton, Mcclain and Miller for 2 years",
+    "education_level": "High School",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B00217', 'B08504', 'B07905', 'B02592', 'B03539']"
+}

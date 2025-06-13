@@ -1,0 +1,14 @@
+{
+    "user_id": "U06412",
+    "name": "Jason Rivera",
+    "email": "kimberly25@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'UI/UX']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B03441', 'B08987', 'B07948']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Google",
+    "employment_history": "Worked at Hampton Group for 5 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B09509', 'B03601', 'B07341']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U02293",
+    "name": "Roger Cooper",
+    "email": "wpierce@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Data Analysis', 'Cybersecurity', 'SQL', 'Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04597', 'B09159', 'B05423', 'B09098', 'B07386']",
+    "learning_history": "Completed the 'Machine Learning Pro' course at Google",
+    "employment_history": "Worked at Hensley, Underwood and Sherman for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B02192', 'B02847', 'B08292']"
+}

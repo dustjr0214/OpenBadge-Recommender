@@ -1,0 +1,14 @@
+{
+    "user_id": "U00867",
+    "name": "Amanda Scott",
+    "email": "gcastillo@example.net",
+    "goal": "Become a Machine Learning Researcher",
+    "skills": "['Python', 'UI/UX', 'Data Analysis', 'DevOps']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B04192']",
+    "learning_history": "Completed the 'Data Science Expert' course at IBM",
+    "employment_history": "Worked at Wright, Smith and Kelly for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05446', 'B08880', 'B00473', 'B09801', 'B00481']"
+}

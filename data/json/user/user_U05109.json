@@ -1,0 +1,14 @@
+{
+    "user_id": "U05109",
+    "name": "Andrea Hall",
+    "email": "shawn00@example.net",
+    "goal": "Become a Software Engineer",
+    "skills": "['Deep Learning', 'UI/UX', 'Data Analysis', 'Python']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B02532', 'B02604', 'B05775']",
+    "learning_history": "Completed the 'Deep Learning Master' course at Coursera",
+    "employment_history": "Worked at Clark, Larson and Skinner for 3 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B00179', 'B09469', 'B03367', 'B08124', 'B08223']"
+}

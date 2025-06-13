@@ -1,0 +1,14 @@
+{
+    "user_id": "U05780",
+    "name": "Todd Graves",
+    "email": "ofarrell@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps', 'Deep Learning', 'Data Analysis', 'Python']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B09430', 'B01184', 'B07112', 'B00941', 'B06096']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Hall, Chang and Moore for 4 years",
+    "education_level": "High School",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B07478', 'B05451', 'B02007']"
+}

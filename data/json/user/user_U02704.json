@@ -1,0 +1,14 @@
+{
+    "user_id": "U02704",
+    "name": "Jimmy Jackson",
+    "email": "macdonalddouglas@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['Python', 'Data Analysis', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04782']",
+    "learning_history": "Completed the 'DevOps Engineer' course at Google",
+    "employment_history": "Worked at Chen Group for 4 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B03159']"
+}

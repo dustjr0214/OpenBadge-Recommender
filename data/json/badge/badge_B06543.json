@@ -1,0 +1,13 @@
+{
+    "badge_id": "B06543",
+    "name": "Data Science Expert",
+    "issuer": "edX",
+    "description": "Data Science Expert badge issued by edX",
+    "criteria": "Completion of hands-on project and final evaluation",
+    "alignment": "Industry Standard Alignment",
+    "employmentOutcome": "Eligible for Machine Learning Engineer positions",
+    "skillsValidated": "['Data Analysis', 'Cloud Computing']",
+    "competency": "['Cybersecurity', 'Analytical Skills', 'Leadership']",
+    "learningOpportunity": "Cloud Computing Course",
+    "related_badges": "['B05804']"
+}

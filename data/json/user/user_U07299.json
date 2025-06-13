@@ -1,0 +1,14 @@
+{
+    "user_id": "U07299",
+    "name": "Katherine Ramirez",
+    "email": "clarktodd@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['DevOps', 'Data Analysis', 'SQL', 'Deep Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B06765', 'B08532', 'B06407', 'B07248']",
+    "learning_history": "Completed the 'DevOps Engineer' course at edX",
+    "employment_history": "Worked at Cox-Stewart for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04224', 'B06538', 'B04452', 'B05845']"
+}

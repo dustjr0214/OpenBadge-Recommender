@@ -1,0 +1,14 @@
+{
+    "user_id": "U01453",
+    "name": "Molly Griffin",
+    "email": "wwalton@example.com",
+    "goal": "Become an AI Expert",
+    "skills": "['Cloud Computing', 'Cybersecurity', 'Deep Learning', 'DevOps']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04128', 'B09245']",
+    "learning_history": "Completed the 'Cloud Computing Guru' course at Google",
+    "employment_history": "Worked at Beltran, Hamilton and Roberts for 1 years",
+    "education_level": "Master's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B05624', 'B09315', 'B06066', 'B06365']"
+}

@@ -1,0 +1,14 @@
+{
+    "user_id": "U01021",
+    "name": "Jonathan Stewart",
+    "email": "calebclark@example.net",
+    "goal": "Become an AI Expert",
+    "skills": "['DevOps', 'Cloud Computing', 'UI/UX', 'SQL']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B02995', 'B07871']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Udacity",
+    "employment_history": "Worked at Young Inc for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B04345', 'B04360', 'B07050']"
+}

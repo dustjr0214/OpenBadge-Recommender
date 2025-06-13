@@ -1,0 +1,14 @@
+{
+    "user_id": "U07588",
+    "name": "Martin Franco",
+    "email": "susanhester@example.net",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['UI/UX', 'Deep Learning']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B01595', 'B07972', 'B04184', 'B00988']",
+    "learning_history": "Completed the 'Big Data Analyst' course at Coursera",
+    "employment_history": "Worked at Carpenter PLC for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B02593', 'B05440']"
+}

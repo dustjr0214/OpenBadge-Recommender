@@ -1,0 +1,14 @@
+{
+    "user_id": "U01508",
+    "name": "Michelle Hicks",
+    "email": "steeleaaron@example.com",
+    "goal": "Become a Software Engineer",
+    "skills": "['Python', 'Machine Learning', 'DevOps', 'Data Analysis']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05069']",
+    "learning_history": "Completed the 'AI Specialist' course at Coursera",
+    "employment_history": "Worked at Butler and Sons for 3 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08575']"
+}

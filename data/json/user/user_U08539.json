@@ -1,0 +1,14 @@
+{
+    "user_id": "U08539",
+    "name": "Melissa Ellis",
+    "email": "sandrakoch@example.com",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['SQL']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B04388']",
+    "learning_history": "Completed the 'Deep Learning Master' course at edX",
+    "employment_history": "Worked at Decker Group for 1 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Highly Active",
+    "recommendation_history": "['B05761', 'B00067', 'B07690']"
+}

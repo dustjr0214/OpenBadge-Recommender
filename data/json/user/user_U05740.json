@@ -1,0 +1,14 @@
+{
+    "user_id": "U05740",
+    "name": "Kelly Ramos",
+    "email": "danielsexton@example.net",
+    "goal": "Become a Data Scientist",
+    "skills": "['DevOps']",
+    "competency_level": "Beginner",
+    "acquired_badges": "['B05997', 'B01333', 'B08853', 'B01409', 'B00624']",
+    "learning_history": "Completed the 'Cybersecurity Professional' course at IBM",
+    "employment_history": "Worked at Parker, Conley and Ruiz for 2 years",
+    "education_level": "PhD",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B08287', 'B00964', 'B05302', 'B03339']"
+}

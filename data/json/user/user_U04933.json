@@ -1,0 +1,14 @@
+{
+    "user_id": "U04933",
+    "name": "Heather Barnes",
+    "email": "beverly74@example.org",
+    "goal": "Become a Software Engineer",
+    "skills": "['DevOps', 'Cybersecurity']",
+    "competency_level": "Advanced",
+    "acquired_badges": "['B06752', 'B06334', 'B08607']",
+    "learning_history": "Completed the 'UI/UX Designer' course at Coursera",
+    "employment_history": "Worked at Foley-Jones for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Low",
+    "recommendation_history": "['B04642', 'B08675']"
+}

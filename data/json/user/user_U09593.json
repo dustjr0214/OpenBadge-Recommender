@@ -1,0 +1,14 @@
+{
+    "user_id": "U09593",
+    "name": "Daniel Gomez",
+    "email": "barretttaylor@example.org",
+    "goal": "Become a Cloud Engineer",
+    "skills": "['Machine Learning']",
+    "competency_level": "Intermediate",
+    "acquired_badges": "['B01126', 'B04748', 'B01500', 'B08183']",
+    "learning_history": "Completed the 'Python Certification' course at edX",
+    "employment_history": "Worked at Norton, Matthews and Miller for 2 years",
+    "education_level": "Bachelor's Degree",
+    "engagement_metrics": "Moderate",
+    "recommendation_history": "['B04800', 'B03978', 'B02665']"
+}
